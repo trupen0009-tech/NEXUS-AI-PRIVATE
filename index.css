@@ -1,0 +1,53 @@
+
+@import "tailwindcss";
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+  font-feature-settings: "tnum" "ss02";
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #27272a #18181b;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-thumb {
+  background: #27272a;
+  border-radius: 20px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #3f3f46;
+}
+
+[draggable="true"] {
+  transition: transform 0.1s cubic-bezier(0.23, 1, 0.32, 1), box-shadow 0.1s ease;
+}
+[draggable="true"]:active {
+  transform: scale(1.015) rotate(0.5deg);
+  box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
+}
+
+pre {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+button {
+  transition: all 0.1s cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+button:active:not(:disabled) {
+  transform: scale(0.985);
+}
+
+a.active {
+  background-color: #18181b;
+  color: white;
+  border-color: #3f3f46;
+}
