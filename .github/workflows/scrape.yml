@@ -1,0 +1,33 @@
+name: NEXUS Pulse Scraper
+
+on:
+  schedule:
+    # This runs every 12 hours (at 00:00 and 12:00 UTC)
+    - cron: '0 */12 * * *'
+  workflow_dispatch: # Allows you to run it manually for testing
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install Dependencies
+        run: pip install requests beautifulsoup4 pandas
+
+      - name: Run Scraper
+        run: python scraper_engine.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "NEXUS-AI-BOT"
+          git config --global user.email "bot@nexus.ai"
+          git add live_projects.json
+          git commit -m "Auto-Update: Fresh Leads Found" || exit 0
+          git push
