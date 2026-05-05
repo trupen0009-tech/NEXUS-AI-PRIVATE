@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>NEXUS • AI Freelance Agent</title>
+    
+    <!-- React & Babel Engines -->
+    <script src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+    <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    
+    <!-- Libraries (Icons, Motion, Router) -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <script src="https://unpkg.com/framer-motion@10.16.4/dist/framer-motion.js"></script>
+    <script src="https://unpkg.com/react-router-dom@6.11.2/umd/react-router-dom.production.min.js"></script>
+
+    <!-- Keep your Arena scripts below this line -->
+  </head>
+  <body>
+    <div id="root"></div>
+    <!-- Point this exactly to your file name -->
+    <script type="text/babel" src="App.tsx"></script>
+  </body>
+</html>
