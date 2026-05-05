@@ -1,26 +1,22 @@
-// Global definitions for the browser
+// 1. Global definitions (using the CDN objects)
 const { useState, useEffect } = React;
 const { motion, AnimatePresence } = FramerMotion;
-
-// Lucide Icons (Mapping them to the global Lucide object)
+const { HashRouter: Router, Routes, Route, NavLink } = ReactRouterDOM;
 const { 
   LayoutDashboard, Kanban, Brain, MessageCircle, CreditCard,
   CheckCircle, XCircle, Play, Send, Bell, User, Plus, Download 
 } = lucide;
 
-// ... (Keep your existing Type Definitions here) ...
+// 2. The Main App Component (Cleaned of TypeScript markers)
+const App = () => {
+  const [proposedProjects, setProposedProjects] = useState([]);
+  const [kanbanProjects, setKanbanProjects] = useState([]);
 
-const App: React.FC = () => {
-  const [proposedProjects, setProposedProjects] = React.useState([]);
-  const [kanbanProjects, setKanbanProjects] = React.useState([]);
-  // ... (Keep other state variables) ...
-
-  // CONNECTING TO THE SCRAPER BRAIN
   useEffect(() => {
     fetch('./live_projects.json')
       .then(res => res.json())
       .then(data => {
-        const mappedData = data.map((p: any) => ({
+        const mappedData = data.map((p) => ({
           id: 'scraped-' + p.id,
           title: p.title,
           description: `Live lead from ${p.source}. Click Approve to start Agent Brain.`,
@@ -35,15 +31,16 @@ const App: React.FC = () => {
       .catch(err => console.log("Waiting for Scraper data..."));
   }, []);
 
-  // ... (Rest of your existing logic: approveProject, rejectProject, etc.) ...
-
   return (
     <Router>
-       {/* ... (Your existing UI/JSX code) ... */}
+       <div className="app-container">
+         {/* Your existing JSX UI Code goes here */}
+         <h1>NEXUS AI Dashboard</h1>
+       </div>
     </Router>
   );
 };
 
-// This tells the browser to actually put your App into the <div> in index.html
+// 3. Render to DOM
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(<App />);
