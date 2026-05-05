@@ -43,4 +43,6 @@ const App: React.FC = () => {
   );
 };
 
-export default App;
+// This tells the browser to actually put your App into the <div> in index.html
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(<App />);
