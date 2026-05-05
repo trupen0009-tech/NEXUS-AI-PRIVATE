@@ -10,8 +10,8 @@ import { motion, AnimatePresence } from 'framer-motion';
 // ... (Keep your existing Type Definitions here) ...
 
 const App: React.FC = () => {
-  const [proposedProjects, setProposedProjects] = useState<Project[]>([]);
-  const [kanbanProjects, setKanbanProjects] = useState<Project[]>([]);
+  const [proposedProjects, setProposedProjects] = React.useState([]);
+  const [kanbanProjects, setKanbanProjects] = React.useState([]);
   // ... (Keep other state variables) ...
 
   // CONNECTING TO THE SCRAPER BRAIN
