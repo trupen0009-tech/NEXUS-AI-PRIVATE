@@ -1,11 +1,12 @@
+// Global definitions for the browser
+const { useState, useEffect } = React;
+const { motion, AnimatePresence } = FramerMotion;
 
-import React, { useState, useEffect } from 'react';
-import { BrowserRouter as Router, Routes, Route, NavLink } from 'react-router-dom';
-import {
+// Lucide Icons (Mapping them to the global Lucide object)
+const { 
   LayoutDashboard, Kanban, Brain, MessageCircle, CreditCard,
-  CheckCircle, XCircle, Play, Send, Bell, User, Plus, Download
-} from 'lucide-react';
-import { motion, AnimatePresence } from 'framer-motion';
+  CheckCircle, XCircle, Play, Send, Bell, User, Plus, Download 
+} = lucide;
 
 // ... (Keep your existing Type Definitions here) ...
 
