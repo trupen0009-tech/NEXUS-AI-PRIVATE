@@ -1,14 +1,6 @@
 [
     {
         "id": 1,
-        "title": "Software Development & QA Engineering",
-        "company": "MAYA XR                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/part-time-software-development-qa-engineering-internship-in-bangalore-at-maya-xr1774863231",
-        "source": "Internshala"
-    },
-    {
-        "id": 2,
         "title": "MERN Full Stack Developer",
         "company": "SellerGrid                        \nActively hiring",
         "stipend": "\u20b9 10,000 /month",
@@ -16,7 +8,7 @@
         "source": "Internshala"
     },
     {
-        "id": 3,
+        "id": 2,
         "title": "Software Testing",
         "company": "Cuepilot AI                        \nActively hiring",
         "stipend": "\u20b9 25,000 - 35,000 /month",
@@ -24,7 +16,7 @@
         "source": "Internshala"
     },
     {
-        "id": 4,
+        "id": 3,
         "title": "Backend Development",
         "company": "VIZON",
         "stipend": "\u20b9 11,000 - 17,000 /month",
@@ -32,7 +24,7 @@
         "source": "Internshala"
     },
     {
-        "id": 5,
+        "id": 4,
         "title": "Software Development",
         "company": "VIZON",
         "stipend": "\u20b9 11,000 - 17,000 /month",
@@ -40,7 +32,7 @@
         "source": "Internshala"
     },
     {
-        "id": 6,
+        "id": 5,
         "title": "Web Development",
         "company": "VIZON",
         "stipend": "\u20b9 12,000 - 20,000 /month",
@@ -48,7 +40,7 @@
         "source": "Internshala"
     },
     {
-        "id": 7,
+        "id": 6,
         "title": "Web Development",
         "company": "VIZON",
         "stipend": "\u20b9 10,000 - 20,000 /month",
@@ -56,11 +48,19 @@
         "source": "Internshala"
     },
     {
-        "id": 8,
+        "id": 7,
         "title": "Linux Engineer",
         "company": "VIZON",
         "stipend": "\u20b9 12,000 - 23,000 /month",
         "link": "https://internshala.com/internship/detail/linux-engineer-internship-in-dehradun-at-vizon1774931353",
+        "source": "Internshala"
+    },
+    {
+        "id": 8,
+        "title": "Software Development",
+        "company": "Influencer Saga",
+        "stipend": "\u20b9 1,000 - 2,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-influencer-saga1777930311",
         "source": "Internshala"
     },
     {
@@ -93,6 +93,14 @@
         "company": "AR Genie Inc.",
         "stipend": "\u20b9 10,000 /month",
         "link": "https://internshala.com/internship/detail/unity-developer-internship-in-dehradun-at-ar-genie-inc1776163212",
+        "source": "Internshala"
+    },
+    {
+        "id": 13,
+        "title": "Software Testing / QA (Manual + API Testing)",
+        "company": "Planeteye Infra",
+        "stipend": "\u20b9 10,000 - 12,000 /month",
+        "link": "https://internshala.com/internship/detail/software-testing-qa-manual-api-testing-internship-in-nashik-at-planeteye-infra1775829413",
         "source": "Internshala"
     }
 ]
