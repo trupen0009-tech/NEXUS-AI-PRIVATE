@@ -1,4 +1,4 @@
-// 1. Global definitions (using the CDN objects)
+// Map global libraries from the HTML scripts
 const { useState, useEffect } = React;
 const { motion, AnimatePresence } = FramerMotion;
 const { HashRouter: Router, Routes, Route, NavLink } = ReactRouterDOM;
@@ -7,11 +7,11 @@ const {
   CheckCircle, XCircle, Play, Send, Bell, User, Plus, Download 
 } = lucide;
 
-// 2. The Main App Component (Cleaned of TypeScript markers)
 const App = () => {
   const [proposedProjects, setProposedProjects] = useState([]);
   const [kanbanProjects, setKanbanProjects] = useState([]);
 
+  // Fetching your scraped lead data
   useEffect(() => {
     fetch('./live_projects.json')
       .then(res => res.json())
@@ -19,7 +19,7 @@ const App = () => {
         const mappedData = data.map((p) => ({
           id: 'scraped-' + p.id,
           title: p.title,
-          description: `Live lead from ${p.source}. Click Approve to start Agent Brain.`,
+          description: `Live lead from ${p.source}.`,
           client: p.company,
           budget: p.stipend,
           deadline: "ASAP",
@@ -33,14 +33,25 @@ const App = () => {
 
   return (
     <Router>
-       <div className="app-container">
-         {/* Your existing JSX UI Code goes here */}
-         <h1>NEXUS AI Dashboard</h1>
-       </div>
+      <div style={{ padding: '20px', backgroundColor: '#0f172a', color: 'white', minHeight: '100vh' }}>
+        <nav style={{ display: 'flex', gap: '15px', borderBottom: '1px solid #334155', paddingBottom: '10px' }}>
+          <LayoutDashboard /> <strong>NEXUS AI</strong>
+        </nav>
+        <header style={{ marginTop: '20px' }}>
+          <h1>Agent Dashboard</h1>
+          <p>Scanning for Python Automation leads...</p>
+        </header>
+        
+        {/* This is where your table and main UI logic live */}
+        <div style={{ marginTop: '30px' }}>
+          <h3>Proposed Projects ({proposedProjects.length})</h3>
+          {/* Your UI Mapping Code goes here */}
+        </div>
+      </div>
     </Router>
   );
 };
 
-// 3. Render to DOM
+// Start the App
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(<App />);
