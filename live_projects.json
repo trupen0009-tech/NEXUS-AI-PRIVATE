@@ -1,30 +1,38 @@
 [
     {
         "id": 1,
-        "title": "Software Development Engineering (Web)",
-        "company": "TSTEPS PRIVATE LIMITED                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/software-development-engineering-web-internship-in-multiple-locations-at-tsteps-private-limited1778144216",
+        "title": "Java Development",
+        "company": "Cloud Back                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-cloud-back1778216144",
         "source": "Internshala"
     },
     {
         "id": 2,
-        "title": "Software Developer",
-        "company": "Phoenix Microsystems                        \nActively hiring",
-        "stipend": "\u20b9 5,000 - 7,500 /month",
-        "link": "https://internshala.com/internship/detail/software-developer-internship-in-pune-at-phoenix-microsystems1778054016",
+        "title": "Software Testing",
+        "company": "ZENHRX Global Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 15,000 /month",
+        "link": "https://internshala.com/internship/detail/software-testing-internship-in-multiple-locations-at-zenhrx-global-private-limited1778217846",
         "source": "Internshala"
     },
     {
         "id": 3,
-        "title": "AI Ops Lead Engineer",
-        "company": "TSTEPS PRIVATE LIMITED                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/ai-ops-lead-engineer-internship-in-multiple-locations-at-tsteps-private-limited1778136778",
+        "title": "Python Development",
+        "company": "Cloud Back                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-cloud-back1778216167",
         "source": "Internshala"
     },
     {
         "id": 4,
+        "title": "Software Testing",
+        "company": "Educase India                        \nActively hiring",
+        "stipend": "\u20b9 10,000 /month",
+        "link": "https://internshala.com/internship/detail/software-testing-internship-in-hyderabad-at-educase-india1778215471",
+        "source": "Internshala"
+    },
+    {
+        "id": 5,
         "title": "Backend Development",
         "company": "VIZON",
         "stipend": "\u20b9 11,000 - 17,000 /month",
@@ -32,7 +40,7 @@
         "source": "Internshala"
     },
     {
-        "id": 5,
+        "id": 6,
         "title": "Software Development",
         "company": "VIZON",
         "stipend": "\u20b9 11,000 - 17,000 /month",
@@ -40,7 +48,7 @@
         "source": "Internshala"
     },
     {
-        "id": 6,
+        "id": 7,
         "title": "Web Development",
         "company": "VIZON",
         "stipend": "\u20b9 12,000 - 20,000 /month",
@@ -48,7 +56,7 @@
         "source": "Internshala"
     },
     {
-        "id": 7,
+        "id": 8,
         "title": "Web Development",
         "company": "VIZON",
         "stipend": "\u20b9 10,000 - 20,000 /month",
@@ -56,7 +64,7 @@
         "source": "Internshala"
     },
     {
-        "id": 8,
+        "id": 9,
         "title": "Linux Engineer",
         "company": "VIZON",
         "stipend": "\u20b9 12,000 - 23,000 /month",
@@ -64,15 +72,23 @@
         "source": "Internshala"
     },
     {
-        "id": 9,
-        "title": "Software Development",
-        "company": "DiracAI Private Limited",
-        "stipend": "\u20b9 8,000 - 12,000 /month",
-        "link": "https://internshala.com/internship/detail/software-development-internship-in-bhubaneswar-at-diracai-private-limited1778155698",
+        "id": 10,
+        "title": "Software Developer",
+        "company": "Intelacia",
+        "stipend": "\u20b9 15,000 - 25,000 /month",
+        "link": "https://internshala.com/internship/detail/software-developer-internship-in-multiple-locations-at-intelacia1778218663",
         "source": "Internshala"
     },
     {
-        "id": 10,
+        "id": 11,
+        "title": "Shopify Store Developer",
+        "company": "Haryana Brothers",
+        "stipend": "\u20b9 6,000 - 7,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-shopify-store-developer-internship-at-haryana-brothers1778217983",
+        "source": "Internshala"
+    },
+    {
+        "id": 12,
         "title": "Associate System Engineer",
         "company": "Secure Machines Private Limited",
         "stipend": "\u20b9 20,000 /month",
@@ -80,27 +96,11 @@
         "source": "Internshala"
     },
     {
-        "id": 11,
+        "id": 13,
         "title": "Software Testing",
         "company": "Affiliated Recruiters",
         "stipend": "\u20b9 5,000 - 13,000 /month",
         "link": "https://internshala.com/internship/detail/software-testing-internship-in-coimbatore-at-affiliated-recruiters1778047950",
-        "source": "Internshala"
-    },
-    {
-        "id": 12,
-        "title": "WordPress And Shopify Developer",
-        "company": "White Warbler Communications Private Limited",
-        "stipend": "\u20b9 5,000 - 8,000 /month",
-        "link": "https://internshala.com/internship/detail/wordpress-and-shopify-developer-internship-in-pune-at-white-warbler-communications-private-limited1778050140",
-        "source": "Internshala"
-    },
-    {
-        "id": 13,
-        "title": "Mobile App & Web Development",
-        "company": "Pioneer Sam Energia",
-        "stipend": "\u20b9 2,500 - 3,000 /month",
-        "link": "https://internshala.com/internship/detail/mobile-app-web-development-internship-in-multiple-locations-at-pioneer-sam-energia1777974478",
         "source": "Internshala"
     },
     {
@@ -117,6 +117,22 @@
         "company": "O2 IAS Academy",
         "stipend": "\u20b9 15,000 - 17,000 /month",
         "link": "https://internshala.com/internship/detail/web-design-automation-internship-in-multiple-locations-at-o2-ias-academy1777352198",
+        "source": "Internshala"
+    },
+    {
+        "id": 16,
+        "title": "Software Testing",
+        "company": "Homedot Construction Solutions Private Limited",
+        "stipend": "\u20b9 2,000 - 3,000 /month",
+        "link": "https://internshala.com/internship/detail/software-testing-internship-in-cochin-at-homedot-construction-solutions-private-limited1776408612",
+        "source": "Internshala"
+    },
+    {
+        "id": 17,
+        "title": "Unity Developer",
+        "company": "AR Genie Inc.",
+        "stipend": "\u20b9 10,000 /month",
+        "link": "https://internshala.com/internship/detail/unity-developer-internship-in-dehradun-at-ar-genie-inc1776163212",
         "source": "Internshala"
     }
 ]
