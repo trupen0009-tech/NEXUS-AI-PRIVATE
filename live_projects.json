@@ -58,29 +58,13 @@
     {
         "id": 8,
         "title": "Software Testing",
-        "company": "MADAlgos",
-        "stipend": "\u20b9 4,000 - 5,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-testing-internship-at-madalgos1778293438",
-        "source": "Internshala"
-    },
-    {
-        "id": 9,
-        "title": "iOS Developer",
-        "company": "CIVILS WEB PRIVATE LIMITED",
-        "stipend": "\u20b9 8,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/ios-developer-internship-in-multiple-locations-at-civils-web-private-limited1778228597",
-        "source": "Internshala"
-    },
-    {
-        "id": 10,
-        "title": "Software Testing",
         "company": "Affiliated Recruiters",
         "stipend": "\u20b9 5,000 - 13,000 /month",
         "link": "https://internshala.com/internship/detail/software-testing-internship-in-coimbatore-at-affiliated-recruiters1778047950",
         "source": "Internshala"
     },
     {
-        "id": 11,
+        "id": 9,
         "title": "Chemical Engineering & Biotechnology",
         "company": "Mpower Urja",
         "stipend": "\u20b9 2,500 - 3,000 /month",
@@ -88,7 +72,7 @@
         "source": "Internshala"
     },
     {
-        "id": 12,
+        "id": 10,
         "title": "Web Design & Automation",
         "company": "O2 IAS Academy",
         "stipend": "\u20b9 15,000 - 17,000 /month",
@@ -96,11 +80,27 @@
         "source": "Internshala"
     },
     {
-        "id": 13,
+        "id": 11,
         "title": "Software Testing",
         "company": "Homedot Construction Solutions Private Limited",
         "stipend": "\u20b9 2,000 - 3,000 /month",
         "link": "https://internshala.com/internship/detail/software-testing-internship-in-cochin-at-homedot-construction-solutions-private-limited1776408612",
+        "source": "Internshala"
+    },
+    {
+        "id": 12,
+        "title": "Unity Developer",
+        "company": "AR Genie Inc.",
+        "stipend": "\u20b9 10,000 /month",
+        "link": "https://internshala.com/internship/detail/unity-developer-internship-in-dehradun-at-ar-genie-inc1776163212",
+        "source": "Internshala"
+    },
+    {
+        "id": 13,
+        "title": "Software Testing / QA (Manual + API Testing)",
+        "company": "Planeteye Infra",
+        "stipend": "\u20b9 10,000 - 12,000 /month",
+        "link": "https://internshala.com/internship/detail/software-testing-qa-manual-api-testing-internship-in-nashik-at-planeteye-infra1775829413",
         "source": "Internshala"
     }
 ]
