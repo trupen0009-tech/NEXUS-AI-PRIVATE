@@ -1,14 +1,22 @@
 [
     {
         "id": 1,
-        "title": "SDET (Software Development Engineer In Test)",
-        "company": "Controlled                        \nActively hiring",
-        "stipend": "\u20b9 7,000 - 12,000 /month",
-        "link": "https://internshala.com/internship/detail/sdet-software-development-engineer-in-test-internship-in-multiple-locations-at-controlled1778481628",
+        "title": "Web Development (E-Commerce & Retail Inventory)",
+        "company": "Cycling Boutique Incorporation",
+        "stipend": "\u20b9 10,000 - 12,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-e-commerce-retail-inventory-internship-in-bangalore-at-cycling-boutique-incorporation1778490167",
         "source": "Internshala"
     },
     {
         "id": 2,
+        "title": "Automation Engineer",
+        "company": "Humanity Founders                        \nActively hiring",
+        "stipend": "\u20b9 4,000 - 6,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-automation-engineer-internship-at-humanity-founders1778497286",
+        "source": "Internshala"
+    },
+    {
+        "id": 3,
         "title": "MERN Stack Web Developer",
         "company": "Requin Solutions Private Limited                        \nActively hiring",
         "stipend": "\u20b9 10,000 /month",
@@ -16,27 +24,19 @@
         "source": "Internshala"
     },
     {
-        "id": 3,
-        "title": "MERN Stack Developer",
-        "company": "Wargstech                        \nActively hiring",
-        "stipend": "\u20b9 5,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/mern-stack-developer-internship-in-pune-at-wargstech1778480205",
-        "source": "Internshala"
-    },
-    {
         "id": 4,
-        "title": "Backend Development",
-        "company": "Reducate.ai                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-reducateai1778491923",
+        "title": "Software Testing",
+        "company": "Assetcues Solutions Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 5,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/software-testing-internship-in-pune-at-assetcues-solutions-private-limited1778241658",
         "source": "Internshala"
     },
     {
         "id": 5,
-        "title": "Automation Engineer",
-        "company": "Humanity Founders                        \nActively hiring",
-        "stipend": "\u20b9 4,000 - 6,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-automation-engineer-internship-at-humanity-founders1778497286",
+        "title": "SDET (Software Development Engineer In Test)",
+        "company": "Controlled                        \nActively hiring",
+        "stipend": "\u20b9 7,000 - 12,000 /month",
+        "link": "https://internshala.com/internship/detail/sdet-software-development-engineer-in-test-internship-in-multiple-locations-at-controlled1778481628",
         "source": "Internshala"
     },
     {
@@ -82,29 +82,13 @@
     {
         "id": 11,
         "title": "Software Testing",
-        "company": "Assetcues Solutions Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 5,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/software-testing-internship-in-pune-at-assetcues-solutions-private-limited1778241658",
-        "source": "Internshala"
-    },
-    {
-        "id": 12,
-        "title": "Web Development (E-Commerce & Retail Inventory)",
-        "company": "Cycling Boutique Incorporation",
-        "stipend": "\u20b9 10,000 - 12,000 /month",
-        "link": "https://internshala.com/internship/detail/web-development-e-commerce-retail-inventory-internship-in-bangalore-at-cycling-boutique-incorporation1778490167",
-        "source": "Internshala"
-    },
-    {
-        "id": 13,
-        "title": "Software Testing",
         "company": "Affiliated Recruiters",
         "stipend": "\u20b9 5,000 - 13,000 /month",
         "link": "https://internshala.com/internship/detail/software-testing-internship-in-coimbatore-at-affiliated-recruiters1778047950",
         "source": "Internshala"
     },
     {
-        "id": 14,
+        "id": 12,
         "title": "Chemical Engineering & Biotechnology",
         "company": "Mpower Urja",
         "stipend": "\u20b9 2,500 - 3,000 /month",
@@ -112,7 +96,7 @@
         "source": "Internshala"
     },
     {
-        "id": 15,
+        "id": 13,
         "title": "Software Testing",
         "company": "Homedot Construction Solutions Private Limited",
         "stipend": "\u20b9 2,000 - 3,000 /month",
@@ -120,27 +104,43 @@
         "source": "Internshala"
     },
     {
+        "id": 14,
+        "title": "Backend Development",
+        "company": "Techwondoe India Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 25,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-techwondoe-india-private-limited1778511037",
+        "source": "Internshala"
+    },
+    {
+        "id": 15,
+        "title": "Python Developer (Serverless)",
+        "company": "Across The Globe (ATG)                        \nActively hiring",
+        "stipend": "\u20b9 2,500 - 8,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-python-developer-serverless-internship-at-across-the-globe-atg1778509735",
+        "source": "Internshala"
+    },
+    {
         "id": 16,
-        "title": "Software Engineer Intern (AI/ML) - AI Powered Global Tech Venture (Fully Remote)",
-        "company": "SkillsCapital",
-        "stipend": "Competitive stipend",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-engineer-intern-ai-ml-ai-powered-global-tech-venture-fully-remote-internship-at-skillscapital1778489963",
+        "title": "Software Development in Dart & Flutter",
+        "company": "ATRUEBRAND INNOVATION SOLUTIONS PRIVATE LIMITED",
+        "stipend": "\u20b9 5,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/software-development-in-dart-flutter-internship-in-pune-at-atruebrand-innovation-solutions-private-limited1778502812",
         "source": "Internshala"
     },
     {
         "id": 17,
         "title": "Web Development",
-        "company": "Ferny Tide",
-        "stipend": "\u20b9 5,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-web-development-internship-at-ferny-tide1778496160",
+        "company": "Ofactor Communication",
+        "stipend": "\u20b9 10,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-delhi-at-ofactor-communication1778492178",
         "source": "Internshala"
     },
     {
         "id": 18,
-        "title": "Python Development",
-        "company": "Covosys Technologies",
-        "stipend": "\u20b9 8,000 - 13,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-covosys-technologies1778496063",
+        "title": "Python Systems Engineer",
+        "company": "Technoculture Research                        \nActively hiring",
+        "stipend": "\u20b9 18,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/python-systems-engineer-internship-in-bangalore-at-technoculture-research1778498567",
         "source": "Internshala"
     },
     {
