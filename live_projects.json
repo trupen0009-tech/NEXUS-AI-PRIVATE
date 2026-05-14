@@ -1,38 +1,14 @@
 [
     {
         "id": 1,
-        "title": "Python Development",
-        "company": "iTech Mission Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 15,000 /month",
-        "link": "https://internshala.com/internship/detail/python-development-internship-in-multiple-locations-at-itech-mission-private-limited1778669065",
+        "title": "Web Development",
+        "company": "ALMI Blogging School Pro (Almi Production Land Solar Private Limited)                        \nActively hiring",
+        "stipend": "\u20b9 3,000 - 6,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-chennai-at-almi-blogging-school-pro-almi-production-land-solar-private-limited1778741839",
         "source": "Internshala"
     },
     {
         "id": 2,
-        "title": "AI & Automation Engineering",
-        "company": "Property First Realty LLP                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/ai-automation-engineering-internship-in-bangalore-at-property-first-realty-llp1778666653",
-        "source": "Internshala"
-    },
-    {
-        "id": 3,
-        "title": "SDET (Software Development Engineer In Test)",
-        "company": "Controlled                        \nActively hiring",
-        "stipend": "\u20b9 7,000 - 12,000 /month",
-        "link": "https://internshala.com/internship/detail/sdet-software-development-engineer-in-test-internship-in-multiple-locations-at-controlled1778481628",
-        "source": "Internshala"
-    },
-    {
-        "id": 4,
-        "title": "Java Development",
-        "company": "Svatantra Microfin Private Limited",
-        "stipend": "\u20b9 15,000 - 18,000 /month",
-        "link": "https://internshala.com/internship/detail/java-development-internship-in-bangalore-at-svatantra-microfin-private-limited1778674025",
-        "source": "Internshala"
-    },
-    {
-        "id": 5,
         "title": "Backend Development",
         "company": "VIZON",
         "stipend": "\u20b9 11,000 - 17,000 /month",
@@ -40,7 +16,7 @@
         "source": "Internshala"
     },
     {
-        "id": 6,
+        "id": 3,
         "title": "Software Development",
         "company": "VIZON",
         "stipend": "\u20b9 11,000 - 17,000 /month",
@@ -48,7 +24,7 @@
         "source": "Internshala"
     },
     {
-        "id": 7,
+        "id": 4,
         "title": "Web Development",
         "company": "VIZON",
         "stipend": "\u20b9 12,000 - 20,000 /month",
@@ -56,7 +32,7 @@
         "source": "Internshala"
     },
     {
-        "id": 8,
+        "id": 5,
         "title": "Web Development",
         "company": "VIZON",
         "stipend": "\u20b9 10,000 - 20,000 /month",
@@ -64,7 +40,7 @@
         "source": "Internshala"
     },
     {
-        "id": 9,
+        "id": 6,
         "title": "Linux Engineer",
         "company": "VIZON",
         "stipend": "\u20b9 12,000 - 23,000 /month",
@@ -72,7 +48,15 @@
         "source": "Internshala"
     },
     {
-        "id": 10,
+        "id": 7,
+        "title": "SDET (Software Development Engineer In Test)",
+        "company": "Controlled                        \nActively hiring",
+        "stipend": "\u20b9 7,000 - 12,000 /month",
+        "link": "https://internshala.com/internship/detail/sdet-software-development-engineer-in-test-internship-in-multiple-locations-at-controlled1778481628",
+        "source": "Internshala"
+    },
+    {
+        "id": 8,
         "title": "Software Testing",
         "company": "Assetcues Solutions Private Limited                        \nActively hiring",
         "stipend": "\u20b9 5,000 - 20,000 /month",
@@ -80,15 +64,15 @@
         "source": "Internshala"
     },
     {
-        "id": 11,
-        "title": "Backend Development",
-        "company": "BV Exim",
-        "stipend": "\u20b9 4,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/backend-development-internship-in-delhi-at-bv-exim1778677352",
+        "id": 9,
+        "title": "Data Annotation (Agriculture)",
+        "company": "Agrograde Robotics",
+        "stipend": "\u20b9 13,000 - 14,000 /month",
+        "link": "https://internshala.com/internship/detail/data-annotation-agriculture-internship-in-chakan-at-agrograde-robotics1778738635",
         "source": "Internshala"
     },
     {
-        "id": 12,
+        "id": 10,
         "title": "Backend Development",
         "company": "EmpowerU (Promorph Solutions Private Limited)",
         "stipend": "\u20b9 3,000 - 5,000 /month",
@@ -96,7 +80,7 @@
         "source": "Internshala"
     },
     {
-        "id": 13,
+        "id": 11,
         "title": "Software Development",
         "company": "Thinkersteps Technologies Private Limited",
         "stipend": "\u20b9 5,000 - 8,000 /month",
@@ -104,7 +88,7 @@
         "source": "Internshala"
     },
     {
-        "id": 14,
+        "id": 12,
         "title": "Web Development",
         "company": "Fintech IT Solutions LLP",
         "stipend": "\u20b9 10,000 /month",
@@ -112,7 +96,7 @@
         "source": "Internshala"
     },
     {
-        "id": 15,
+        "id": 13,
         "title": "Software Testing",
         "company": "Affiliated Recruiters",
         "stipend": "\u20b9 5,000 - 13,000 /month",
@@ -120,15 +104,7 @@
         "source": "Internshala"
     },
     {
-        "id": 16,
-        "title": "Chemical Engineering & Biotechnology",
-        "company": "Mpower Urja",
-        "stipend": "\u20b9 2,500 - 3,000 /month",
-        "link": "https://internshala.com/internship/detail/chemical-engineering-biotechnology-internship-in-multiple-locations-at-mpower-urja1777974317",
-        "source": "Internshala"
-    },
-    {
-        "id": 17,
+        "id": 14,
         "title": "Software Testing",
         "company": "Homedot Construction Solutions Private Limited",
         "stipend": "\u20b9 2,000 - 3,000 /month",
@@ -136,27 +112,19 @@
         "source": "Internshala"
     },
     {
-        "id": 18,
-        "title": "Web Development",
-        "company": "DOI Soft Tech Private Limited",
-        "stipend": "\u20b9 2,000 - 5,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-doi-soft-tech-private-limited1778678056",
+        "id": 15,
+        "title": "Product Engineer",
+        "company": "TSTEPS PRIVATE LIMITED                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/product-engineer-internship-in-multiple-locations-at-tsteps-private-limited1778749195",
         "source": "Internshala"
     },
     {
-        "id": 19,
-        "title": "DevOps Engineer",
-        "company": "Kravix",
-        "stipend": "\u20b9 1,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-devops-engineer-internship-at-kravix1778677914",
-        "source": "Internshala"
-    },
-    {
-        "id": 20,
-        "title": "AI/ML & Software Development",
-        "company": "Medharvix Systems Private Limited",
-        "stipend": "\u20b9 4,000 - 25,000 /month",
-        "link": "https://internshala.com/internship/detail/ai-ml-software-development-internship-in-multiple-locations-at-medharvix-systems-private-limited1778676764",
+        "id": 16,
+        "title": "Systems Engineer",
+        "company": "TSTEPS PRIVATE LIMITED                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/systems-engineer-internship-in-multiple-locations-at-tsteps-private-limited1778740799",
         "source": "Internshala"
     }
 ]
