@@ -1,14 +1,22 @@
 [
     {
         "id": 1,
-        "title": "Network Engineering",
-        "company": "Antiworld                        \nActively hiring",
-        "stipend": "\u20b9 5,000 - 30,000 /month",
-        "link": "https://internshala.com/internship/detail/network-engineering-internship-in-hyderabad-at-antiworld1778934236",
+        "title": "AI Web Development",
+        "company": "InAmigos Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1779092924",
         "source": "Internshala"
     },
     {
         "id": 2,
+        "title": "React JS Developer",
+        "company": "FynTune Solution Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 18,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/react-js-developer-internship-in-multiple-locations-at-fyntune-solution-private-limited1779089113",
+        "source": "Internshala"
+    },
+    {
+        "id": 3,
         "title": "Backend Development",
         "company": "VIZON",
         "stipend": "\u20b9 11,000 - 17,000 /month",
@@ -16,7 +24,7 @@
         "source": "Internshala"
     },
     {
-        "id": 3,
+        "id": 4,
         "title": "Software Development",
         "company": "VIZON",
         "stipend": "\u20b9 11,000 - 17,000 /month",
@@ -24,7 +32,7 @@
         "source": "Internshala"
     },
     {
-        "id": 4,
+        "id": 5,
         "title": "Web Development",
         "company": "VIZON",
         "stipend": "\u20b9 12,000 - 20,000 /month",
@@ -32,7 +40,7 @@
         "source": "Internshala"
     },
     {
-        "id": 5,
+        "id": 6,
         "title": "Web Development",
         "company": "VIZON",
         "stipend": "\u20b9 10,000 - 20,000 /month",
@@ -40,7 +48,7 @@
         "source": "Internshala"
     },
     {
-        "id": 6,
+        "id": 7,
         "title": "Linux Engineer",
         "company": "VIZON",
         "stipend": "\u20b9 12,000 - 23,000 /month",
@@ -48,15 +56,31 @@
         "source": "Internshala"
     },
     {
-        "id": 7,
-        "title": "QA & Field Support Engineer",
-        "company": "NirmanIQ Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/qa-field-support-engineer-internship-in-hyderabad-at-nirmaniq-private-limited1778927107",
+        "id": 8,
+        "title": "Backend Development",
+        "company": "Resolute AI Software Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 3,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-resolute-ai-software-private-limited1779101165",
         "source": "Internshala"
     },
     {
-        "id": 8,
+        "id": 9,
+        "title": "Java Development",
+        "company": "Uvik Technologies Private Limited",
+        "stipend": "\u20b9 8,000 - 10,000 /month",
+        "link": "https://internshala.com/internship/detail/java-development-internship-in-bangalore-at-uvik-technologies-private-limited1779100198",
+        "source": "Internshala"
+    },
+    {
+        "id": 10,
+        "title": "Web Development",
+        "company": "The Social Brahmand",
+        "stipend": "\u20b9 2,500 - 3,500 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-the-social-brahmand1779099341",
+        "source": "Internshala"
+    },
+    {
+        "id": 11,
         "title": "Web Development",
         "company": "Lucidbox Technologies",
         "stipend": "\u20b9 6,000 /month",
@@ -64,15 +88,7 @@
         "source": "Internshala"
     },
     {
-        "id": 9,
-        "title": "NOC Engineer",
-        "company": "Intelli Genesis Global",
-        "stipend": "\u20b9 5,000 /month",
-        "link": "https://internshala.com/internship/detail/noc-engineer-internship-in-mumbai-at-intelli-genesis-global1778826395",
-        "source": "Internshala"
-    },
-    {
-        "id": 10,
+        "id": 12,
         "title": "Backend Development",
         "company": "EmpowerU (Promorph Solutions Private Limited)",
         "stipend": "\u20b9 3,000 - 5,000 /month",
@@ -80,83 +96,11 @@
         "source": "Internshala"
     },
     {
-        "id": 11,
-        "title": "Software Development",
-        "company": "Thinkersteps Technologies Private Limited",
-        "stipend": "\u20b9 5,000 - 8,000 /month",
-        "link": "https://internshala.com/internship/detail/software-development-internship-in-nagpur-at-thinkersteps-technologies-private-limited1778649818",
-        "source": "Internshala"
-    },
-    {
-        "id": 12,
+        "id": 13,
         "title": "Web Development",
         "company": "Fintech IT Solutions LLP",
         "stipend": "\u20b9 10,000 /month",
         "link": "https://internshala.com/internship/detail/web-development-internship-in-jodhpur-at-fintech-it-solutions-llp1778571189",
-        "source": "Internshala"
-    },
-    {
-        "id": 13,
-        "title": "Software Testing",
-        "company": "Affiliated Recruiters",
-        "stipend": "\u20b9 5,000 - 13,000 /month",
-        "link": "https://internshala.com/internship/detail/software-testing-internship-in-coimbatore-at-affiliated-recruiters1778047950",
-        "source": "Internshala"
-    },
-    {
-        "id": 14,
-        "title": "Software Testing",
-        "company": "Homedot Construction Solutions Private Limited",
-        "stipend": "\u20b9 2,000 - 3,000 /month",
-        "link": "https://internshala.com/internship/detail/software-testing-internship-in-cochin-at-homedot-construction-solutions-private-limited1776408612",
-        "source": "Internshala"
-    },
-    {
-        "id": 15,
-        "title": "Internship : Hardware Security & Reverse Engineering (Automotive Security)",
-        "company": "GiftdMinds",
-        "stipend": "Competitive stipend",
-        "link": "https://internshala.com/internship/detail/internship--hardware-security-reverse-engineering-automotive-security-internship-in-bangalore-at-giftdminds1779009741",
-        "source": "Internshala"
-    },
-    {
-        "id": 16,
-        "title": "React Developer Trainee",
-        "company": "CodeTikki WorkSpace",
-        "stipend": "Competitive stipend",
-        "link": "https://internshala.com/internship/detail/work-from-home-react-developer-trainee-internship-at-codetikki-workspace1779006737",
-        "source": "Internshala"
-    },
-    {
-        "id": 17,
-        "title": "Backend Java Developer Trainee",
-        "company": "CodeTikki WorkSpace",
-        "stipend": "Competitive stipend",
-        "link": "https://internshala.com/internship/detail/work-from-home-backend-java-developer-trainee-internship-at-codetikki-workspace1779006736",
-        "source": "Internshala"
-    },
-    {
-        "id": 18,
-        "title": "Web Development",
-        "company": "Eduminatti                        \nActively hiring",
-        "stipend": "\u20b9 8,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-eduminatti1779028142",
-        "source": "Internshala"
-    },
-    {
-        "id": 19,
-        "title": "Java Development",
-        "company": "Zdminds                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 18,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-zdminds1778995339",
-        "source": "Internshala"
-    },
-    {
-        "id": 20,
-        "title": "Web Development",
-        "company": "Zdminds                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-zdminds1778995250",
         "source": "Internshala"
     }
 ]
