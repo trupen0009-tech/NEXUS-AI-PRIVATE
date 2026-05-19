@@ -1,10 +1,10 @@
 [
     {
         "id": 1,
-        "title": "AI/ML Developer",
-        "company": "Qriocity Ventures Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 5,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-ai-ml-developer-internship-at-qriocity-ventures-private-limited1779185869",
+        "title": "Software Development",
+        "company": "Odoo",
+        "stipend": "\u20b9 20,000 /month",
+        "link": "https://internshala.com/internship/detail/software-development-internship-in-gandhinagar-at-odoo1779191624",
         "source": "Internshala"
     },
     {
@@ -57,10 +57,10 @@
     },
     {
         "id": 8,
-        "title": "Software Development",
-        "company": "SVAYA",
-        "stipend": "\u20b9 5,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/software-development-internship-in-bangalore-at-svaya1779184666",
+        "title": "Data Annotator",
+        "company": "RoadMetrics",
+        "stipend": "\u20b9 15,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/data-annotator-internship-in-bangalore-at-roadmetrics1779183138",
         "source": "Internshala"
     },
     {
@@ -93,6 +93,38 @@
         "company": "Fintech IT Solutions LLP",
         "stipend": "\u20b9 10,000 /month",
         "link": "https://internshala.com/internship/detail/web-development-internship-in-jodhpur-at-fintech-it-solutions-llp1778571189",
+        "source": "Internshala"
+    },
+    {
+        "id": 13,
+        "title": "Developer/ Engineering Intern- Games (Unity)",
+        "company": "Portonovo",
+        "stipend": "Competitive stipend",
+        "link": "https://internshala.com/internship/detail/work-from-home-developer-engineering-intern-games-unity-internship-at-portonovo1779181581",
+        "source": "Internshala"
+    },
+    {
+        "id": 14,
+        "title": "Front-End Software Development Internship",
+        "company": "ByteBlock Technologies",
+        "stipend": "Competitive stipend",
+        "link": "https://internshala.com/internship/detail/work-from-home-front-end-software-development-internship-internship-at-byteblock-technologies1779180490",
+        "source": "Internshala"
+    },
+    {
+        "id": 15,
+        "title": "PHP Developer",
+        "company": "Invezza",
+        "stipend": "Competitive stipend",
+        "link": "https://internshala.com/internship/detail/php-developer-internship-in-maharashtra-at-invezza1779093555",
+        "source": "Internshala"
+    },
+    {
+        "id": 16,
+        "title": "Web Development",
+        "company": "Twirtles",
+        "stipend": "\u20b9 5,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-twirtles1779203271",
         "source": "Internshala"
     }
 ]
