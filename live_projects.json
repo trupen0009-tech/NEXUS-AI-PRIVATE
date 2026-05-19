@@ -1,18 +1,18 @@
 [
     {
         "id": 1,
-        "title": "AI Web Development",
-        "company": "InAmigos Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1779092924",
+        "title": "AI/ML Developer",
+        "company": "Qriocity Ventures Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 5,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-ai-ml-developer-internship-at-qriocity-ventures-private-limited1779185869",
         "source": "Internshala"
     },
     {
         "id": 2,
-        "title": "React JS Developer",
-        "company": "FynTune Solution Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 18,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/react-js-developer-internship-in-multiple-locations-at-fyntune-solution-private-limited1779089113",
+        "title": "Java Development",
+        "company": "Svatantra Microfin Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 15,000 - 18,000 /month",
+        "link": "https://internshala.com/internship/detail/java-development-internship-in-bangalore-at-svatantra-microfin-private-limited1778674025",
         "source": "Internshala"
     },
     {
@@ -57,30 +57,22 @@
     },
     {
         "id": 8,
-        "title": "Backend Development",
-        "company": "Resolute AI Software Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 3,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-resolute-ai-software-private-limited1779101165",
+        "title": "Software Development",
+        "company": "SVAYA",
+        "stipend": "\u20b9 5,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/software-development-internship-in-bangalore-at-svaya1779184666",
         "source": "Internshala"
     },
     {
         "id": 9,
-        "title": "Java Development",
-        "company": "Uvik Technologies Private Limited",
-        "stipend": "\u20b9 8,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/java-development-internship-in-bangalore-at-uvik-technologies-private-limited1779100198",
+        "title": "Web Development",
+        "company": "Dot2dot",
+        "stipend": "\u20b9 6,000 - 10,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-bangalore-at-dot2dot1779115953",
         "source": "Internshala"
     },
     {
         "id": 10,
-        "title": "Web Development",
-        "company": "The Social Brahmand",
-        "stipend": "\u20b9 2,500 - 3,500 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-the-social-brahmand1779099341",
-        "source": "Internshala"
-    },
-    {
-        "id": 11,
         "title": "Web Development",
         "company": "Lucidbox Technologies",
         "stipend": "\u20b9 6,000 /month",
@@ -88,7 +80,7 @@
         "source": "Internshala"
     },
     {
-        "id": 12,
+        "id": 11,
         "title": "Backend Development",
         "company": "EmpowerU (Promorph Solutions Private Limited)",
         "stipend": "\u20b9 3,000 - 5,000 /month",
@@ -96,7 +88,7 @@
         "source": "Internshala"
     },
     {
-        "id": 13,
+        "id": 12,
         "title": "Web Development",
         "company": "Fintech IT Solutions LLP",
         "stipend": "\u20b9 10,000 /month",
