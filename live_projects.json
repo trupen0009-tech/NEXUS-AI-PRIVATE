@@ -1,14 +1,22 @@
 [
     {
         "id": 1,
-        "title": "Software Development",
-        "company": "Odoo",
-        "stipend": "\u20b9 20,000 /month",
-        "link": "https://internshala.com/internship/detail/software-development-internship-in-gandhinagar-at-odoo1779191624",
+        "title": "Web Development",
+        "company": "TUNGSTEN FITNESS CLUB PRIVATE LIMITED                        \nActively hiring",
+        "stipend": "\u20b9 5,000 - 6,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-multiple-locations-at-tungsten-fitness-club-private-limited1779217503",
         "source": "Internshala"
     },
     {
         "id": 2,
+        "title": "AI Web Development",
+        "company": "InAmigos Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1779271909",
+        "source": "Internshala"
+    },
+    {
+        "id": 3,
         "title": "Java Development",
         "company": "Svatantra Microfin Private Limited                        \nActively hiring",
         "stipend": "\u20b9 15,000 - 18,000 /month",
@@ -16,7 +24,7 @@
         "source": "Internshala"
     },
     {
-        "id": 3,
+        "id": 4,
         "title": "Backend Development",
         "company": "VIZON",
         "stipend": "\u20b9 11,000 - 17,000 /month",
@@ -24,7 +32,7 @@
         "source": "Internshala"
     },
     {
-        "id": 4,
+        "id": 5,
         "title": "Software Development",
         "company": "VIZON",
         "stipend": "\u20b9 11,000 - 17,000 /month",
@@ -32,7 +40,7 @@
         "source": "Internshala"
     },
     {
-        "id": 5,
+        "id": 6,
         "title": "Web Development",
         "company": "VIZON",
         "stipend": "\u20b9 12,000 - 20,000 /month",
@@ -40,7 +48,7 @@
         "source": "Internshala"
     },
     {
-        "id": 6,
+        "id": 7,
         "title": "Web Development",
         "company": "VIZON",
         "stipend": "\u20b9 10,000 - 20,000 /month",
@@ -48,7 +56,7 @@
         "source": "Internshala"
     },
     {
-        "id": 7,
+        "id": 8,
         "title": "Linux Engineer",
         "company": "VIZON",
         "stipend": "\u20b9 12,000 - 23,000 /month",
@@ -56,19 +64,11 @@
         "source": "Internshala"
     },
     {
-        "id": 8,
+        "id": 9,
         "title": "Data Annotator",
         "company": "RoadMetrics",
         "stipend": "\u20b9 15,000 - 20,000 /month",
         "link": "https://internshala.com/internship/detail/data-annotator-internship-in-bangalore-at-roadmetrics1779183138",
-        "source": "Internshala"
-    },
-    {
-        "id": 9,
-        "title": "Web Development",
-        "company": "Dot2dot",
-        "stipend": "\u20b9 6,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-bangalore-at-dot2dot1779115953",
         "source": "Internshala"
     },
     {
@@ -97,34 +97,58 @@
     },
     {
         "id": 13,
-        "title": "Developer/ Engineering Intern- Games (Unity)",
-        "company": "Portonovo",
+        "title": "Engineering Intern",
+        "company": "EduChunks.com",
         "stipend": "Competitive stipend",
-        "link": "https://internshala.com/internship/detail/work-from-home-developer-engineering-intern-games-unity-internship-at-portonovo1779181581",
+        "link": "https://internshala.com/internship/detail/engineering-intern-internship-in-bangalore-at-educhunkscom1779269416",
         "source": "Internshala"
     },
     {
         "id": 14,
-        "title": "Front-End Software Development Internship",
-        "company": "ByteBlock Technologies",
+        "title": "Founder's Office  Full Stack AI/ML UI Engineer",
+        "company": "CraticAI",
         "stipend": "Competitive stipend",
-        "link": "https://internshala.com/internship/detail/work-from-home-front-end-software-development-internship-internship-at-byteblock-technologies1779180490",
+        "link": "https://internshala.com/internship/detail/work-from-home-founders-office-full-stack-ai-ml-ui-engineer-internship-at-craticai1779267925",
         "source": "Internshala"
     },
     {
         "id": 15,
-        "title": "PHP Developer",
-        "company": "Invezza",
-        "stipend": "Competitive stipend",
-        "link": "https://internshala.com/internship/detail/php-developer-internship-in-maharashtra-at-invezza1779093555",
+        "title": "Python Development",
+        "company": "Lifease Solutions LLP",
+        "stipend": "\u20b9 18,000 - 25,000 /month",
+        "link": "https://internshala.com/internship/detail/python-development-internship-in-noida-at-lifease-solutions-llp1779255884",
         "source": "Internshala"
     },
     {
         "id": 16,
+        "title": "Java Development",
+        "company": "TwiLearn EduTech Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-twilearn-edutech-private-limited1779255318",
+        "source": "Internshala"
+    },
+    {
+        "id": 17,
+        "title": "Python Development",
+        "company": "TwiLearn EduTech Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-twilearn-edutech-private-limited1779254990",
+        "source": "Internshala"
+    },
+    {
+        "id": 18,
         "title": "Web Development",
-        "company": "Twirtles",
-        "stipend": "\u20b9 5,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-twirtles1779203271",
+        "company": "TwiLearn EduTech Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-twilearn-edutech-private-limited1779254846",
+        "source": "Internshala"
+    },
+    {
+        "id": 19,
+        "title": "Web Developer (MERN + Front-End)",
+        "company": "Brain Quest                        \nActively hiring",
+        "stipend": "\u20b9 5,000 - 7,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-developer-mern-front-end-internship-at-brain-quest1779249793",
         "source": "Internshala"
     }
 ]
