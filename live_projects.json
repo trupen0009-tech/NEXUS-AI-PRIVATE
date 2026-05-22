@@ -1,30 +1,22 @@
 [
     {
         "id": 1,
-        "title": "Python Development",
-        "company": "Maxgen Technologies Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 5,000 - 12,000 /month",
-        "link": "https://internshala.com/internship/detail/python-development-internship-in-ahmedabad-at-maxgen-technologies-private-limited1779434932",
+        "title": "Software Development",
+        "company": "Terrasun Technologies                        \nActively hiring",
+        "stipend": "\u20b9 7,500 - 10,000 /month",
+        "link": "https://internshala.com/internship/detail/software-development-internship-in-pune-at-terrasun-technologies1779452772",
         "source": "Internshala"
     },
     {
         "id": 2,
-        "title": "Unity Game Developer",
-        "company": "KIDLOLAND KIDS & TODDLER GAMES PRIVATE LIMITED                        \nActively hiring",
-        "stipend": "\u20b9 8,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-unity-game-developer-internship-at-kidloland-kids-toddler-games-private-limited1779429619",
+        "title": "Web Development",
+        "company": "Break The Code                        \nActively hiring",
+        "stipend": "\u20b9 5,000 - 7,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-multiple-locations-at-break-the-code1779446063",
         "source": "Internshala"
     },
     {
         "id": 3,
-        "title": "Python AI",
-        "company": "Codebuddy Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 23,000 - 30,000 /month",
-        "link": "https://internshala.com/internship/detail/python-ai-internship-in-kolkata-at-codebuddy-private-limited1779434574",
-        "source": "Internshala"
-    },
-    {
-        "id": 4,
         "title": "Java Development",
         "company": "Svatantra Microfin Private Limited                        \nActively hiring",
         "stipend": "\u20b9 15,000 - 18,000 /month",
@@ -32,7 +24,7 @@
         "source": "Internshala"
     },
     {
-        "id": 5,
+        "id": 4,
         "title": "Backend Development",
         "company": "VIZON",
         "stipend": "\u20b9 11,000 - 17,000 /month",
@@ -40,7 +32,7 @@
         "source": "Internshala"
     },
     {
-        "id": 6,
+        "id": 5,
         "title": "Software Development",
         "company": "VIZON",
         "stipend": "\u20b9 11,000 - 17,000 /month",
@@ -48,7 +40,7 @@
         "source": "Internshala"
     },
     {
-        "id": 7,
+        "id": 6,
         "title": "Web Development",
         "company": "VIZON",
         "stipend": "\u20b9 12,000 - 20,000 /month",
@@ -56,7 +48,7 @@
         "source": "Internshala"
     },
     {
-        "id": 8,
+        "id": 7,
         "title": "Web Development",
         "company": "VIZON",
         "stipend": "\u20b9 10,000 - 20,000 /month",
@@ -64,15 +56,7 @@
         "source": "Internshala"
     },
     {
-        "id": 9,
-        "title": "Software Development",
-        "company": "ALTERBASICS TECHNOLOGIES PRIVATE LIMITED",
-        "stipend": "\u20b9 20,000 /month",
-        "link": "https://internshala.com/internship/detail/software-development-internship-in-pune-at-alterbasics-technologies-private-limited1779433561",
-        "source": "Internshala"
-    },
-    {
-        "id": 10,
+        "id": 8,
         "title": "C# Backend Development (Male Candidates)",
         "company": "SAHOTA INFO PRIVATE LIMITED",
         "stipend": "\u20b9 5,000 /month",
@@ -80,15 +64,7 @@
         "source": "Internshala"
     },
     {
-        "id": 11,
-        "title": "Data Annotator",
-        "company": "RoadMetrics",
-        "stipend": "\u20b9 15,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/data-annotator-internship-in-bangalore-at-roadmetrics1779183138",
-        "source": "Internshala"
-    },
-    {
-        "id": 12,
+        "id": 9,
         "title": "Web Development",
         "company": "Lucidbox Technologies",
         "stipend": "\u20b9 6,000 /month",
@@ -96,7 +72,7 @@
         "source": "Internshala"
     },
     {
-        "id": 13,
+        "id": 10,
         "title": "Backend Development",
         "company": "EmpowerU (Promorph Solutions Private Limited)",
         "stipend": "\u20b9 3,000 - 5,000 /month",
@@ -104,11 +80,19 @@
         "source": "Internshala"
     },
     {
-        "id": 14,
+        "id": 11,
         "title": "Web Development",
         "company": "Fintech IT Solutions LLP",
         "stipend": "\u20b9 10,000 /month",
         "link": "https://internshala.com/internship/detail/web-development-internship-in-jodhpur-at-fintech-it-solutions-llp1778571189",
+        "source": "Internshala"
+    },
+    {
+        "id": 12,
+        "title": "Flutter Developer Intern",
+        "company": "AIRMAN Aeronautics",
+        "stipend": "Competitive stipend",
+        "link": "https://internshala.com/internship/detail/flutter-developer-intern-internship-in-chennai-at-airman-aeronautics1779440062",
         "source": "Internshala"
     }
 ]
