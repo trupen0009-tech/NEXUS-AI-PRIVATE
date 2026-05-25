@@ -9,86 +9,6 @@
     },
     {
         "id": 2,
-        "title": "Python Developer",
-        "company": "Maxgen Technologies Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 5,000 - 12,000 /month",
-        "link": "https://internshala.com/internship/detail/python-developer-internship-in-ahmedabad-at-maxgen-technologies-private-limited1779624209",
-        "source": "Internshala"
-    },
-    {
-        "id": 3,
-        "title": "Python Development",
-        "company": "Maxgen Technologies Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 5,000 - 12,000 /month",
-        "link": "https://internshala.com/internship/detail/python-development-internship-in-pune-at-maxgen-technologies-private-limited1779624278",
-        "source": "Internshala"
-    },
-    {
-        "id": 4,
-        "title": "Web Development",
-        "company": "NIL EDUTECH PRIVATE LIMITED",
-        "stipend": "\u20b9 8,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-lucknow-at-nil-edutech-private-limited1779555444",
-        "source": "Internshala"
-    },
-    {
-        "id": 5,
-        "title": "Full Stack Engineer (Frontend Focus)",
-        "company": "Dynoz AI                        \nActively hiring",
-        "stipend": "\u20b9 15,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/full-stack-engineer-frontend-focus-internship-in-faridabad-at-dynoz-ai1779612141",
-        "source": "Internshala"
-    },
-    {
-        "id": 6,
-        "title": "Java Development",
-        "company": "Svatantra Microfin Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 15,000 - 18,000 /month",
-        "link": "https://internshala.com/internship/detail/java-development-internship-in-bangalore-at-svatantra-microfin-private-limited1778674025",
-        "source": "Internshala"
-    },
-    {
-        "id": 7,
-        "title": "Backend Development",
-        "company": "VIZON",
-        "stipend": "\u20b9 11,000 - 17,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-vizon1775608222",
-        "source": "Internshala"
-    },
-    {
-        "id": 8,
-        "title": "Software Development",
-        "company": "VIZON",
-        "stipend": "\u20b9 11,000 - 17,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-vizon1775608161",
-        "source": "Internshala"
-    },
-    {
-        "id": 9,
-        "title": "Web Development",
-        "company": "VIZON",
-        "stipend": "\u20b9 12,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-multiple-locations-at-vizon1775221357",
-        "source": "Internshala"
-    },
-    {
-        "id": 10,
-        "title": "Web Development",
-        "company": "VIZON",
-        "stipend": "\u20b9 10,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-vizon1775221012",
-        "source": "Internshala"
-    },
-    {
-        "id": 11,
-        "title": "Web Development",
-        "company": "Lucidbox Technologies",
-        "stipend": "\u20b9 6,000 /month",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-guwahati-at-lucidbox-technologies1778830383",
-        "source": "Internshala"
-    },
-    {
-        "id": 12,
         "title": "Backend Development",
         "company": "EmpowerU (Promorph Solutions Private Limited)",
         "stipend": "\u20b9 3,000 - 5,000 /month",
@@ -96,7 +16,47 @@
         "source": "Internshala"
     },
     {
-        "id": 13,
+        "id": 3,
+        "title": "Web Development",
+        "company": "NIL EDUTECH PRIVATE LIMITED",
+        "stipend": "\u20b9 8,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-lucknow-at-nil-edutech-private-limited1779555444",
+        "source": "Internshala"
+    },
+    {
+        "id": 4,
+        "title": "Java Development",
+        "company": "Svatantra Microfin Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 15,000 - 18,000 /month",
+        "link": "https://internshala.com/internship/detail/java-development-internship-in-bangalore-at-svatantra-microfin-private-limited1778674025",
+        "source": "Internshala"
+    },
+    {
+        "id": 5,
+        "title": "Backend Development",
+        "company": "VIZON",
+        "stipend": "\u20b9 11,000 - 17,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-vizon1775608222",
+        "source": "Internshala"
+    },
+    {
+        "id": 6,
+        "title": "Software Development",
+        "company": "VIZON",
+        "stipend": "\u20b9 11,000 - 17,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-vizon1775608161",
+        "source": "Internshala"
+    },
+    {
+        "id": 7,
+        "title": "Web Development",
+        "company": "Lucidbox Technologies",
+        "stipend": "\u20b9 6,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-guwahati-at-lucidbox-technologies1778830383",
+        "source": "Internshala"
+    },
+    {
+        "id": 8,
         "title": "Web Development",
         "company": "Fintech IT Solutions LLP",
         "stipend": "\u20b9 10,000 /month",
@@ -104,7 +64,7 @@
         "source": "Internshala"
     },
     {
-        "id": 14,
+        "id": 9,
         "title": "Mobile App Developer Flutter Intern",
         "company": "NikahForever",
         "stipend": "Competitive stipend",
@@ -112,7 +72,31 @@
         "source": "Internshala"
     },
     {
-        "id": 15,
+        "id": 10,
+        "title": "Software Development Engineering (Web)",
+        "company": "Emoolar Technology Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 3,500 - 6,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-development-engineering-web-internship-at-emoolar-technology-private-limited1779636756",
+        "source": "Internshala"
+    },
+    {
+        "id": 11,
+        "title": "Python Development",
+        "company": "Maxgen Technologies Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 5,000 - 12,000 /month",
+        "link": "https://internshala.com/internship/detail/python-development-internship-in-pune-at-maxgen-technologies-private-limited1779624278",
+        "source": "Internshala"
+    },
+    {
+        "id": 12,
+        "title": "Python Developer",
+        "company": "Maxgen Technologies Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 5,000 - 12,000 /month",
+        "link": "https://internshala.com/internship/detail/python-developer-internship-in-ahmedabad-at-maxgen-technologies-private-limited1779624209",
+        "source": "Internshala"
+    },
+    {
+        "id": 13,
         "title": "Web Development",
         "company": "CareerNest                        \nActively hiring",
         "stipend": "\u20b9 20,000 /month",
@@ -120,7 +104,7 @@
         "source": "Internshala"
     },
     {
-        "id": 16,
+        "id": 14,
         "title": "Project Execution - Data Annotation",
         "company": "ConsultBae                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 12,000 /month",
@@ -128,7 +112,15 @@
         "source": "Internshala"
     },
     {
-        "id": 17,
+        "id": 15,
+        "title": "Full Stack Engineer (Frontend Focus)",
+        "company": "Dynoz AI                        \nActively hiring",
+        "stipend": "\u20b9 15,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/full-stack-engineer-frontend-focus-internship-in-faridabad-at-dynoz-ai1779612141",
+        "source": "Internshala"
+    },
+    {
+        "id": 16,
         "title": "Web Development",
         "company": "Emoolar Technology Private Limited                        \nActively hiring",
         "stipend": "\u20b9 1,000 - 2,000 /month",
@@ -136,7 +128,7 @@
         "source": "Internshala"
     },
     {
-        "id": 18,
+        "id": 17,
         "title": "Java Development",
         "company": "TwiLearn EduTech Private Limited                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 20,000 /month",
@@ -144,7 +136,7 @@
         "source": "Internshala"
     },
     {
-        "id": 19,
+        "id": 18,
         "title": "Python Development",
         "company": "TwiLearn EduTech Private Limited                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 20,000 /month",
@@ -152,7 +144,7 @@
         "source": "Internshala"
     },
     {
-        "id": 20,
+        "id": 19,
         "title": "Web Development",
         "company": "TwiLearn EduTech Private Limited                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 20,000 /month",
@@ -160,7 +152,7 @@
         "source": "Internshala"
     },
     {
-        "id": 21,
+        "id": 20,
         "title": "Unity Game Developer",
         "company": "Heilmwater Studios",
         "stipend": "\u20b9 2,000 - 3,000 /month",
