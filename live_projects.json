@@ -1,46 +1,6 @@
 [
     {
         "id": 1,
-        "title": "Web Development",
-        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-basti-ki-pathshala-foundation1779707642",
-        "source": "Internshala"
-    },
-    {
-        "id": 2,
-        "title": "AI Web Development",
-        "company": "InAmigos Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1779709675",
-        "source": "Internshala"
-    },
-    {
-        "id": 3,
-        "title": "Java Development",
-        "company": "Svatantra Microfin Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 15,000 - 18,000 /month",
-        "link": "https://internshala.com/internship/detail/java-development-internship-in-bangalore-at-svatantra-microfin-private-limited1778674025",
-        "source": "Internshala"
-    },
-    {
-        "id": 4,
-        "title": "Backend Development",
-        "company": "VIZON",
-        "stipend": "\u20b9 11,000 - 17,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-vizon1775608222",
-        "source": "Internshala"
-    },
-    {
-        "id": 5,
-        "title": "Software Development",
-        "company": "VIZON",
-        "stipend": "\u20b9 11,000 - 17,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-vizon1775608161",
-        "source": "Internshala"
-    },
-    {
-        "id": 6,
         "title": "Full Stack Web Developer",
         "company": "Rohan Agarwal",
         "stipend": "\u20b9 5,000 - 10,000 /month",
@@ -48,7 +8,7 @@
         "source": "Internshala"
     },
     {
-        "id": 7,
+        "id": 2,
         "title": "C# Backend Development (Male Candidates)",
         "company": "SAHOTA INFO PRIVATE LIMITED",
         "stipend": "\u20b9 5,000 /month",
@@ -56,7 +16,63 @@
         "source": "Internshala"
     },
     {
+        "id": 3,
+        "title": "AI Web Development",
+        "company": "InAmigos Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1779709675",
+        "source": "Internshala"
+    },
+    {
+        "id": 4,
+        "title": "Java Development",
+        "company": "Svatantra Microfin Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 15,000 - 18,000 /month",
+        "link": "https://internshala.com/internship/detail/java-development-internship-in-bangalore-at-svatantra-microfin-private-limited1778674025",
+        "source": "Internshala"
+    },
+    {
+        "id": 5,
+        "title": "Backend Development",
+        "company": "VIZON",
+        "stipend": "\u20b9 11,000 - 17,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-vizon1775608222",
+        "source": "Internshala"
+    },
+    {
+        "id": 6,
+        "title": "Software Development",
+        "company": "VIZON",
+        "stipend": "\u20b9 11,000 - 17,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-vizon1775608161",
+        "source": "Internshala"
+    },
+    {
+        "id": 7,
+        "title": "Odoo Developer",
+        "company": "TheERPBot",
+        "stipend": "\u20b9 2,000 - 3,000 /month",
+        "link": "https://internshala.com/internship/detail/odoo-developer-internship-in-ajmer-at-theerpbot1779735252",
+        "source": "Internshala"
+    },
+    {
         "id": 8,
+        "title": "Web Development",
+        "company": "Ranogic IT Solutions",
+        "stipend": "\u20b9 3,000 - 6,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-ahmedabad-at-ranogic-it-solutions1779719836",
+        "source": "Internshala"
+    },
+    {
+        "id": 9,
+        "title": "Software Testing",
+        "company": "JSM Technologies Private Limited",
+        "stipend": "\u20b9 4,000 - 5,000 /month",
+        "link": "https://internshala.com/internship/detail/software-testing-internship-in-bangalore-at-jsm-technologies-private-limited1779717020",
+        "source": "Internshala"
+    },
+    {
+        "id": 10,
         "title": "Web Development",
         "company": "Lucidbox Technologies",
         "stipend": "\u20b9 6,000 /month",
@@ -64,7 +80,7 @@
         "source": "Internshala"
     },
     {
-        "id": 9,
+        "id": 11,
         "title": "Backend Development",
         "company": "EmpowerU (Promorph Solutions Private Limited)",
         "stipend": "\u20b9 3,000 - 5,000 /month",
@@ -72,7 +88,7 @@
         "source": "Internshala"
     },
     {
-        "id": 10,
+        "id": 12,
         "title": "Web Development",
         "company": "Fintech IT Solutions LLP",
         "stipend": "\u20b9 10,000 /month",
@@ -80,7 +96,7 @@
         "source": "Internshala"
     },
     {
-        "id": 11,
+        "id": 13,
         "title": "ML Engineer",
         "company": "Kapidhwaj AI",
         "stipend": "Competitive stipend",
@@ -88,11 +104,51 @@
         "source": "Internshala"
     },
     {
-        "id": 12,
-        "title": "Mobile App Developer Flutter Intern",
-        "company": "NikahForever",
-        "stipend": "Competitive stipend",
-        "link": "https://internshala.com/internship/detail/mobile-app-developer-flutter-intern-internship-in-delhi-at-nikahforever1779612026",
+        "id": 14,
+        "title": "Web Development",
+        "company": "TwiLearn EduTech Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-twilearn-edutech-private-limited1779764540",
+        "source": "Internshala"
+    },
+    {
+        "id": 15,
+        "title": "Python Development",
+        "company": "TwiLearn EduTech Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-twilearn-edutech-private-limited1779764412",
+        "source": "Internshala"
+    },
+    {
+        "id": 16,
+        "title": "Java Development",
+        "company": "TwiLearn EduTech Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-twilearn-edutech-private-limited1779764360",
+        "source": "Internshala"
+    },
+    {
+        "id": 17,
+        "title": "Java Development",
+        "company": "Maxgen Technologies Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 5,000 - 12,000 /month",
+        "link": "https://internshala.com/internship/detail/java-development-internship-in-pune-at-maxgen-technologies-private-limited1779725909",
+        "source": "Internshala"
+    },
+    {
+        "id": 18,
+        "title": "Data Scientist",
+        "company": "Maxgen Technologies Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 5,000 - 12,000 /month",
+        "link": "https://internshala.com/internship/detail/data-scientist-internship-in-pune-at-maxgen-technologies-private-limited1779725824",
+        "source": "Internshala"
+    },
+    {
+        "id": 19,
+        "title": "Python Development",
+        "company": "Maxgen Technologies Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 5,000 - 12,000 /month",
+        "link": "https://internshala.com/internship/detail/python-development-internship-in-pune-at-maxgen-technologies-private-limited1779725728",
         "source": "Internshala"
     }
 ]
