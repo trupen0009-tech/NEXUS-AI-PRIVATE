@@ -1,26 +1,26 @@
 [
     {
         "id": 1,
-        "title": "AI Web Development",
-        "company": "InAmigos Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1779709675",
-        "source": "Internshala"
-    },
-    {
-        "id": 2,
-        "title": "C# Backend Development (Male Candidates)",
-        "company": "SAHOTA INFO PRIVATE LIMITED",
-        "stipend": "\u20b9 5,000 /month",
-        "link": "https://internshala.com/internship/detail/c-backend-development-male-candidates-internship-in-delhi-at-sahota-info-private-limited1779359972",
-        "source": "Internshala"
-    },
-    {
-        "id": 3,
         "title": "Full Stack Web Developer",
         "company": "Rohan Agarwal",
         "stipend": "\u20b9 5,000 - 10,000 /month",
         "link": "https://internshala.com/internship/detail/full-stack-web-developer-internship-in-meerut-at-rohan-agarwal1779685131",
+        "source": "Internshala"
+    },
+    {
+        "id": 2,
+        "title": "Backend Development",
+        "company": "EmpowerU (Promorph Solutions Private Limited)",
+        "stipend": "\u20b9 3,000 - 5,000 /month",
+        "link": "https://internshala.com/internship/detail/backend-development-internship-in-multiple-locations-at-empoweru-promorph-solutions-private-limited1778665403",
+        "source": "Internshala"
+    },
+    {
+        "id": 3,
+        "title": "Shopify Developer",
+        "company": "Jeronone Technologies",
+        "stipend": "\u20b9 10,000 - 12,000 /month",
+        "link": "https://internshala.com/internship/detail/shopify-developer-internship-in-multiple-locations-at-jeronone-technologies1779817392",
         "source": "Internshala"
     },
     {
@@ -81,14 +81,6 @@
     },
     {
         "id": 11,
-        "title": "Backend Development",
-        "company": "EmpowerU (Promorph Solutions Private Limited)",
-        "stipend": "\u20b9 3,000 - 5,000 /month",
-        "link": "https://internshala.com/internship/detail/backend-development-internship-in-multiple-locations-at-empoweru-promorph-solutions-private-limited1778665403",
-        "source": "Internshala"
-    },
-    {
-        "id": 12,
         "title": "Web Development",
         "company": "Fintech IT Solutions LLP",
         "stipend": "\u20b9 10,000 /month",
@@ -96,15 +88,15 @@
         "source": "Internshala"
     },
     {
-        "id": 13,
-        "title": "ML Engineer",
-        "company": "Kapidhwaj AI",
-        "stipend": "Competitive stipend",
-        "link": "https://internshala.com/internship/detail/ml-engineer-internship-in-gandhinagar-at-kapidhwaj-ai1779698535",
+        "id": 12,
+        "title": "Software Development",
+        "company": "StoryMirror Infotech Private Limited",
+        "stipend": "\u20b9 10,000 - 25,000 /month",
+        "link": "https://internshala.com/internship/detail/software-development-internship-in-mumbai-at-storymirror-infotech-private-limited1779815826",
         "source": "Internshala"
     },
     {
-        "id": 14,
+        "id": 13,
         "title": "Web Development",
         "company": "Eduminatti                        \nActively hiring",
         "stipend": "\u20b9 8,000 /month",
@@ -112,7 +104,7 @@
         "source": "Internshala"
     },
     {
-        "id": 15,
+        "id": 14,
         "title": "Web Development",
         "company": "Ramyoz                        \nActively hiring",
         "stipend": "\u20b9 7,000 - 12,000 /month",
@@ -120,11 +112,27 @@
         "source": "Internshala"
     },
     {
-        "id": 16,
+        "id": 15,
         "title": "Python Development",
         "company": "Buoyant Labs Private Limited                        \nActively hiring",
         "stipend": "\u20b9 8,000 - 10,000 /month",
         "link": "https://internshala.com/internship/detail/python-development-internship-in-bangalore-at-buoyant-labs-private-limited1779777623",
+        "source": "Internshala"
+    },
+    {
+        "id": 16,
+        "title": "AI/ML & Python",
+        "company": "Meru Technosoft Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 3,000 - 7,000 /month",
+        "link": "https://internshala.com/internship/detail/ai-ml-python-internship-in-ahmedabad-at-meru-technosoft-private-limited1779777318",
+        "source": "Internshala"
+    },
+    {
+        "id": 17,
+        "title": "Python Developer",
+        "company": "Maxgen Technologies Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 5,000 - 12,000 /month",
+        "link": "https://internshala.com/internship/detail/python-developer-internship-in-ahmedabad-at-maxgen-technologies-private-limited1779777178",
         "source": "Internshala"
     }
 ]
