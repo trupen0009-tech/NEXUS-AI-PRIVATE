@@ -1,62 +1,6 @@
 [
     {
         "id": 1,
-        "title": "Software Development",
-        "company": "StoryMirror Infotech Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 25,000 /month",
-        "link": "https://internshala.com/internship/detail/software-development-internship-in-mumbai-at-storymirror-infotech-private-limited1779815826",
-        "source": "Internshala"
-    },
-    {
-        "id": 2,
-        "title": "AI Web Development",
-        "company": "InAmigos Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1779873401",
-        "source": "Internshala"
-    },
-    {
-        "id": 3,
-        "title": "Developer Evangelist",
-        "company": "SleekSky LLC                        \nActively hiring",
-        "stipend": "\u20b9 5,000 - 5,001 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-developer-evangelist-internship-at-sleeksky-llc1779858158",
-        "source": "Internshala"
-    },
-    {
-        "id": 4,
-        "title": "Java Development",
-        "company": "Svatantra Microfin Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 15,000 - 18,000 /month",
-        "link": "https://internshala.com/internship/detail/java-development-internship-in-bangalore-at-svatantra-microfin-private-limited1778674025",
-        "source": "Internshala"
-    },
-    {
-        "id": 5,
-        "title": "Backend Development",
-        "company": "VIZON",
-        "stipend": "\u20b9 11,000 - 17,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-vizon1775608222",
-        "source": "Internshala"
-    },
-    {
-        "id": 6,
-        "title": "Software Development",
-        "company": "VIZON",
-        "stipend": "\u20b9 11,000 - 17,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-vizon1775608161",
-        "source": "Internshala"
-    },
-    {
-        "id": 7,
-        "title": "Backend Development",
-        "company": "Dhrupra Services Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 12,000 /month",
-        "link": "https://internshala.com/internship/detail/backend-development-internship-in-gurgaon-at-dhrupra-services-private-limited1779884208",
-        "source": "Internshala"
-    },
-    {
-        "id": 8,
         "title": "Industrial Engineer",
         "company": "Priyanka India Private Limited                        \nActively hiring",
         "stipend": "\u20b9 18,000 - 20,000 /month",
@@ -64,7 +8,31 @@
         "source": "Internshala"
     },
     {
-        "id": 9,
+        "id": 2,
+        "title": "Java Development",
+        "company": "Svatantra Microfin Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 15,000 - 18,000 /month",
+        "link": "https://internshala.com/internship/detail/java-development-internship-in-bangalore-at-svatantra-microfin-private-limited1778674025",
+        "source": "Internshala"
+    },
+    {
+        "id": 3,
+        "title": "Backend Development",
+        "company": "VIZON",
+        "stipend": "\u20b9 11,000 - 17,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-vizon1775608222",
+        "source": "Internshala"
+    },
+    {
+        "id": 4,
+        "title": "Software Development",
+        "company": "VIZON",
+        "stipend": "\u20b9 11,000 - 17,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-vizon1775608161",
+        "source": "Internshala"
+    },
+    {
+        "id": 5,
         "title": "Shopify Developer",
         "company": "Digital Heroes                        \nActively hiring",
         "stipend": "\u20b9 6,000 - 7,000 /month",
@@ -72,23 +40,7 @@
         "source": "Internshala"
     },
     {
-        "id": 10,
-        "title": "Product Content Developer",
-        "company": "Vriddhikar Society                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-product-content-developer-internship-at-vriddhikar-society1779867539",
-        "source": "Internshala"
-    },
-    {
-        "id": 11,
-        "title": "Web Development",
-        "company": "Rotofy Media And Tech Solutions Private Limited",
-        "stipend": "\u20b9 8,000 - 13,000 /month",
-        "link": "https://internshala.com/internship/detail/part-time-web-development-internship-in-bangalore-at-rotofy-media-and-tech-solutions-private-limited1779879497",
-        "source": "Internshala"
-    },
-    {
-        "id": 12,
+        "id": 6,
         "title": "Shopify Developer",
         "company": "Jeronone Technologies",
         "stipend": "\u20b9 10,000 - 12,000 /month",
@@ -96,7 +48,7 @@
         "source": "Internshala"
     },
     {
-        "id": 13,
+        "id": 7,
         "title": "Odoo Developer",
         "company": "TheERPBot",
         "stipend": "\u20b9 2,000 - 3,000 /month",
@@ -104,15 +56,7 @@
         "source": "Internshala"
     },
     {
-        "id": 14,
-        "title": "Software Testing",
-        "company": "JSM Technologies Private Limited",
-        "stipend": "\u20b9 4,000 - 5,000 /month",
-        "link": "https://internshala.com/internship/detail/software-testing-internship-in-bangalore-at-jsm-technologies-private-limited1779717020",
-        "source": "Internshala"
-    },
-    {
-        "id": 15,
+        "id": 8,
         "title": "Full Stack Web Developer",
         "company": "Rohan Agarwal",
         "stipend": "\u20b9 5,000 - 10,000 /month",
@@ -120,7 +64,7 @@
         "source": "Internshala"
     },
     {
-        "id": 16,
+        "id": 9,
         "title": "Web Development",
         "company": "Lucidbox Technologies",
         "stipend": "\u20b9 6,000 /month",
@@ -128,11 +72,27 @@
         "source": "Internshala"
     },
     {
-        "id": 17,
+        "id": 10,
+        "title": "Web Development",
+        "company": "Fintech IT Solutions LLP",
+        "stipend": "\u20b9 10,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-jodhpur-at-fintech-it-solutions-llp1778571189",
+        "source": "Internshala"
+    },
+    {
+        "id": 11,
         "title": "Backend Development",
-        "company": "EmpowerU (Promorph Solutions Private Limited)",
-        "stipend": "\u20b9 3,000 - 5,000 /month",
-        "link": "https://internshala.com/internship/detail/backend-development-internship-in-multiple-locations-at-empoweru-promorph-solutions-private-limited1778665403",
+        "company": "Dhrupra Services Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 12,000 /month",
+        "link": "https://internshala.com/internship/detail/backend-development-internship-in-gurgaon-at-dhrupra-services-private-limited1779884208",
+        "source": "Internshala"
+    },
+    {
+        "id": 12,
+        "title": "Web Development",
+        "company": "Rotofy Media And Tech Solutions Private Limited",
+        "stipend": "\u20b9 8,000 - 13,000 /month",
+        "link": "https://internshala.com/internship/detail/part-time-web-development-internship-in-bangalore-at-rotofy-media-and-tech-solutions-private-limited1779879497",
         "source": "Internshala"
     }
 ]
