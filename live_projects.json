@@ -1,18 +1,18 @@
 [
     {
         "id": 1,
-        "title": "Tech Support Engineer",
-        "company": "I Knowledge Factory Private Limited",
-        "stipend": "\u20b9 5,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/tech-support-engineer-internship-in-pune-at-i-knowledge-factory-private-limited1779949155",
+        "title": "AI Web Development",
+        "company": "InAmigos Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1780049674",
         "source": "Internshala"
     },
     {
         "id": 2,
-        "title": "Web Development",
-        "company": "Outsourcify India Private Limited                        \nActively hiring",
+        "title": "Tech Support Engineer",
+        "company": "I Knowledge Factory Private Limited",
         "stipend": "\u20b9 5,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-multiple-locations-at-outsourcify-india-private-limited1779969420",
+        "link": "https://internshala.com/internship/detail/tech-support-engineer-internship-in-pune-at-i-knowledge-factory-private-limited1779949155",
         "source": "Internshala"
     },
     {
@@ -49,6 +49,54 @@
     },
     {
         "id": 7,
+        "title": "Software Development",
+        "company": "Reflex Realty LLP                        \nActively hiring",
+        "stipend": "\u20b9 4,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/software-development-internship-in-mumbai-at-reflex-realty-llp1780033150",
+        "source": "Internshala"
+    },
+    {
+        "id": 8,
+        "title": "Web Development",
+        "company": "Outsourcify India Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 5,000 - 10,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-multiple-locations-at-outsourcify-india-private-limited1779969420",
+        "source": "Internshala"
+    },
+    {
+        "id": 9,
+        "title": "Data Annotation (Agriculture)",
+        "company": "Agrograde Robotics                        \nActively hiring",
+        "stipend": "\u20b9 11,000 - 14,000 /month",
+        "link": "https://internshala.com/internship/detail/data-annotation-agriculture-internship-in-chakan-at-agrograde-robotics1780054252",
+        "source": "Internshala"
+    },
+    {
+        "id": 10,
+        "title": "Integration Engineer",
+        "company": "ClearTax                        \nActively hiring",
+        "stipend": "\u20b9 20,000 /month",
+        "link": "https://internshala.com/internship/detail/integration-engineer-internship-in-bangalore-at-cleartax1780048865",
+        "source": "Internshala"
+    },
+    {
+        "id": 11,
+        "title": "Software Development Engineering (Web)",
+        "company": "PayAssured",
+        "stipend": "\u20b9 6,500 - 11,000 /month",
+        "link": "https://internshala.com/internship/detail/software-development-engineering-web-internship-in-bangalore-at-payassured1780048998",
+        "source": "Internshala"
+    },
+    {
+        "id": 12,
+        "title": "Mobile App Developer",
+        "company": "Mera Nivas",
+        "stipend": "\u20b9 3,000 - 5,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-part-time-mobile-app-developer-internship-at-mera-nivas1780056052",
+        "source": "Internshala"
+    },
+    {
+        "id": 13,
         "title": "Shopify Developer",
         "company": "Jeronone Technologies",
         "stipend": "\u20b9 10,000 - 12,000 /month",
@@ -56,7 +104,7 @@
         "source": "Internshala"
     },
     {
-        "id": 8,
+        "id": 14,
         "title": "Full Stack Web Developer",
         "company": "Rohan Agarwal",
         "stipend": "\u20b9 5,000 - 10,000 /month",
@@ -64,7 +112,7 @@
         "source": "Internshala"
     },
     {
-        "id": 9,
+        "id": 15,
         "title": "Web Development",
         "company": "Lucidbox Technologies",
         "stipend": "\u20b9 6,000 /month",
@@ -72,7 +120,7 @@
         "source": "Internshala"
     },
     {
-        "id": 10,
+        "id": 16,
         "title": "Web Development",
         "company": "Fintech IT Solutions LLP",
         "stipend": "\u20b9 10,000 /month",
@@ -80,35 +128,11 @@
         "source": "Internshala"
     },
     {
-        "id": 11,
+        "id": 17,
         "title": "Web Development",
-        "company": "NayePankh Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-nayepankh-foundation1779971875",
-        "source": "Internshala"
-    },
-    {
-        "id": 12,
-        "title": "Software Testing",
-        "company": "EzeiaTech Systems Private Limited",
-        "stipend": "\u20b9 10,000 /month",
-        "link": "https://internshala.com/internship/detail/software-testing-internship-in-multiple-locations-at-ezeiatech-systems-private-limited1779950892",
-        "source": "Internshala"
-    },
-    {
-        "id": 13,
-        "title": "Software Tester Trainee",
-        "company": "Spraxa Solutions Private Limited",
-        "stipend": "\u20b9 8,000 /month",
-        "link": "https://internshala.com/internship/detail/software-tester-trainee-internship-in-multiple-locations-at-spraxa-solutions-private-limited1779954099",
-        "source": "Internshala"
-    },
-    {
-        "id": 14,
-        "title": "AI/ML Engineer",
-        "company": "Per4mance Guru                        \nActively hiring",
-        "stipend": "\u20b9 6,000 - 12,000 /month",
-        "link": "https://internshala.com/internship/detail/ai-ml-engineer-internship-in-delhi-at-per4mance-guru1779949104",
+        "company": "Celebrare",
+        "stipend": "\u20b9 8,000 - 14,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-celebrare1780045732",
         "source": "Internshala"
     }
 ]
