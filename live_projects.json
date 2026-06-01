@@ -25,18 +25,18 @@
     },
     {
         "id": 4,
-        "title": "Web Development",
-        "company": "ATS Studio                        \nActively hiring",
-        "stipend": "\u20b9 5,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-jaipur-at-ats-studio1780130385",
-        "source": "Internshala"
-    },
-    {
-        "id": 5,
         "title": "Software Testing",
         "company": "Zenerative Minds LLP                        \nActively hiring",
         "stipend": "\u20b9 15,000 - 15,001 /month",
         "link": "https://internshala.com/internship/detail/software-testing-internship-in-bangalore-at-zenerative-minds-llp1780148614",
+        "source": "Internshala"
+    },
+    {
+        "id": 5,
+        "title": "Web Development",
+        "company": "ATS Studio                        \nActively hiring",
+        "stipend": "\u20b9 5,000 - 10,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-jaipur-at-ats-studio1780130385",
         "source": "Internshala"
     },
     {
@@ -65,30 +65,14 @@
     },
     {
         "id": 9,
-        "title": "Frontend Developer Intern",
-        "company": "Techiatrix",
-        "stipend": "Competitive stipend",
-        "link": "https://internshala.com/internship/detail/work-from-home-frontend-developer-intern-internship-at-techiatrix1780131789",
+        "title": "Backend Development",
+        "company": "Bhavana Digital Academy",
+        "stipend": "\u20b9 2,000 - 5,000 /month",
+        "link": "https://internshala.com/internship/detail/part-time-backend-development-internship-in-hyderabad-at-bhavana-digital-academy1780254195",
         "source": "Internshala"
     },
     {
         "id": 10,
-        "title": "Software Development Engineering (Web)",
-        "company": "Aadarsh Singh",
-        "stipend": "\u20b9 1,000 - 3,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-development-engineering-web-internship-at-aadarsh-singh1780216374",
-        "source": "Internshala"
-    },
-    {
-        "id": 11,
-        "title": "Software Development",
-        "company": "WML Biotechnology Private Limited",
-        "stipend": "\u20b9 6,500 /month",
-        "link": "https://internshala.com/internship/detail/software-development-internship-in-bangalore-at-wml-biotechnology-private-limited1780210976",
-        "source": "Internshala"
-    },
-    {
-        "id": 12,
         "title": "Web Development",
         "company": "Qubixo                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 20,000 /month",
@@ -96,7 +80,7 @@
         "source": "Internshala"
     },
     {
-        "id": 13,
+        "id": 11,
         "title": "Python Development",
         "company": "Qubixo                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 20,000 /month",
@@ -104,7 +88,7 @@
         "source": "Internshala"
     },
     {
-        "id": 14,
+        "id": 12,
         "title": "Java Development",
         "company": "Qubixo                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 20,000 /month",
@@ -112,7 +96,7 @@
         "source": "Internshala"
     },
     {
-        "id": 15,
+        "id": 13,
         "title": "Web Development",
         "company": "CareerNest                        \nActively hiring",
         "stipend": "\u20b9 20,000 /month",
@@ -120,7 +104,7 @@
         "source": "Internshala"
     },
     {
-        "id": 16,
+        "id": 14,
         "title": "Java Development",
         "company": "Symonis                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 25,000 /month",
@@ -128,7 +112,7 @@
         "source": "Internshala"
     },
     {
-        "id": 17,
+        "id": 15,
         "title": "Web Development",
         "company": "Symonis                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 25,000 /month",
@@ -136,7 +120,7 @@
         "source": "Internshala"
     },
     {
-        "id": 18,
+        "id": 16,
         "title": "Python Development",
         "company": "Symonis                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 20,000 /month",
@@ -144,7 +128,7 @@
         "source": "Internshala"
     },
     {
-        "id": 19,
+        "id": 17,
         "title": "Python Development",
         "company": "Maxgen Technologies Private Limited                        \nActively hiring",
         "stipend": "\u20b9 5,000 - 12,000 /month",
@@ -152,7 +136,7 @@
         "source": "Internshala"
     },
     {
-        "id": 20,
+        "id": 18,
         "title": "MERN Stack Developer",
         "company": "Maxgen Technologies Private Limited                        \nActively hiring",
         "stipend": "\u20b9 5,000 - 12,000 /month",
@@ -160,7 +144,7 @@
         "source": "Internshala"
     },
     {
-        "id": 21,
+        "id": 19,
         "title": "Software Development Engineering (Web)",
         "company": "PayAssured",
         "stipend": "\u20b9 6,500 - 11,000 /month",
@@ -168,7 +152,7 @@
         "source": "Internshala"
     },
     {
-        "id": 22,
+        "id": 20,
         "title": "Data Annotation (Agriculture)",
         "company": "Agrograde Robotics                        \nActively hiring",
         "stipend": "\u20b9 11,000 - 14,000 /month",
@@ -176,7 +160,7 @@
         "source": "Internshala"
     },
     {
-        "id": 23,
+        "id": 21,
         "title": "AI Web Development",
         "company": "InAmigos Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -184,7 +168,7 @@
         "source": "Internshala"
     },
     {
-        "id": 24,
+        "id": 22,
         "title": "Integration Engineer",
         "company": "ClearTax                        \nActively hiring",
         "stipend": "\u20b9 20,000 /month",
@@ -192,7 +176,7 @@
         "source": "Internshala"
     },
     {
-        "id": 25,
+        "id": 23,
         "title": "Web Development",
         "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -200,7 +184,7 @@
         "source": "Internshala"
     },
     {
-        "id": 26,
+        "id": 24,
         "title": "Software Engineer",
         "company": "MARS Cosmetics                        \nActively hiring",
         "stipend": "\u20b9 30,000 - 45,000 /month",
