@@ -1,30 +1,14 @@
 [
     {
         "id": 1,
-        "title": "Backend Development",
-        "company": "NayePankh Foundation                        \nActively hiring",
+        "title": "AI Web Development",
+        "company": "InAmigos Foundation                        \nActively hiring",
         "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-nayepankh-foundation1780316104",
+        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1780308712",
         "source": "Internshala"
     },
     {
         "id": 2,
-        "title": "Java Development",
-        "company": "Queens Of Change Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-java-development-internship-at-queens-of-change-foundation1780315625",
-        "source": "Internshala"
-    },
-    {
-        "id": 3,
-        "title": "AI Web Development",
-        "company": "NayePankh Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-ai-web-development-internship-at-nayepankh-foundation1780316034",
-        "source": "Internshala"
-    },
-    {
-        "id": 4,
         "title": "Data Annotation (Agriculture)",
         "company": "Agrograde Robotics                        \nActively hiring",
         "stipend": "\u20b9 11,000 - 14,000 /month",
@@ -32,11 +16,27 @@
         "source": "Internshala"
     },
     {
-        "id": 5,
+        "id": 3,
         "title": "Developer - Full-Stack",
         "company": "Pragya Cyber Private Limited                        \nActively hiring",
         "stipend": "\u20b9 15,000 /month",
         "link": "https://internshala.com/internship/detail/developer-full-stack-internship-in-hyderabad-at-pragya-cyber-private-limited1780306901",
+        "source": "Internshala"
+    },
+    {
+        "id": 4,
+        "title": "Software Testing",
+        "company": "Zenerative Minds LLP                        \nActively hiring",
+        "stipend": "\u20b9 15,000 - 15,001 /month",
+        "link": "https://internshala.com/internship/detail/software-testing-internship-in-bangalore-at-zenerative-minds-llp1780148614",
+        "source": "Internshala"
+    },
+    {
+        "id": 5,
+        "title": "Web Development",
+        "company": "ATS Studio                        \nActively hiring",
+        "stipend": "\u20b9 5,000 - 10,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-jaipur-at-ats-studio1780130385",
         "source": "Internshala"
     },
     {
@@ -57,10 +57,10 @@
     },
     {
         "id": 8,
-        "title": "Web Development",
-        "company": "ATS Studio                        \nActively hiring",
-        "stipend": "\u20b9 5,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-jaipur-at-ats-studio1780130385",
+        "title": "System Engineer",
+        "company": "TSTEPS PRIVATE LIMITED                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/system-engineer-internship-in-multiple-locations-at-tsteps-private-limited1780312786",
         "source": "Internshala"
     },
     {
@@ -81,14 +81,6 @@
     },
     {
         "id": 11,
-        "title": "System Engineer",
-        "company": "TSTEPS PRIVATE LIMITED                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/system-engineer-internship-in-multiple-locations-at-tsteps-private-limited1780312786",
-        "source": "Internshala"
-    },
-    {
-        "id": 12,
         "title": "Product Engineer",
         "company": "TSTEPS PRIVATE LIMITED                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 15,000 /month",
@@ -96,55 +88,7 @@
         "source": "Internshala"
     },
     {
-        "id": 13,
-        "title": "Software Testing",
-        "company": "TSTEPS PRIVATE LIMITED                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/software-testing-internship-in-multiple-locations-at-tsteps-private-limited1780306572",
-        "source": "Internshala"
-    },
-    {
-        "id": 14,
-        "title": "Java Development",
-        "company": "TSTEPS PRIVATE LIMITED                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/java-development-internship-in-multiple-locations-at-tsteps-private-limited1780307264",
-        "source": "Internshala"
-    },
-    {
-        "id": 15,
-        "title": "Autosar Developer",
-        "company": "TSTEPS PRIVATE LIMITED                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/autosar-developer-internship-in-multiple-locations-at-tsteps-private-limited1780310180",
-        "source": "Internshala"
-    },
-    {
-        "id": 16,
-        "title": "Backend Development",
-        "company": "TSTEPS PRIVATE LIMITED                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/backend-development-internship-in-multiple-locations-at-tsteps-private-limited1780305724",
-        "source": "Internshala"
-    },
-    {
-        "id": 17,
-        "title": "Automotive Software Engineer",
-        "company": "TSTEPS PRIVATE LIMITED                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/automotive-software-engineer-internship-in-multiple-locations-at-tsteps-private-limited1780312938",
-        "source": "Internshala"
-    },
-    {
-        "id": 18,
-        "title": "Software Testing",
-        "company": "Zenerative Minds LLP                        \nActively hiring",
-        "stipend": "\u20b9 15,000 - 15,001 /month",
-        "link": "https://internshala.com/internship/detail/software-testing-internship-in-bangalore-at-zenerative-minds-llp1780148614",
-        "source": "Internshala"
-    },
-    {
-        "id": 19,
+        "id": 12,
         "title": "Web Development",
         "company": "Outsourcify India Private Limited                        \nActively hiring",
         "stipend": "\u20b9 5,000 - 10,000 /month",
@@ -152,23 +96,23 @@
         "source": "Internshala"
     },
     {
-        "id": 20,
-        "title": "Unreal Developer",
-        "company": "KIDLOLAND KIDS & TODDLER GAMES PRIVATE LIMITED                        \nActively hiring",
-        "stipend": "\u20b9 8,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-unreal-developer-internship-at-kidloland-kids-toddler-games-private-limited1780305606",
+        "id": 13,
+        "title": "Autosar Developer",
+        "company": "TSTEPS PRIVATE LIMITED                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/autosar-developer-internship-in-multiple-locations-at-tsteps-private-limited1780310180",
         "source": "Internshala"
     },
     {
-        "id": 21,
-        "title": "Web Development",
-        "company": "Sri Boomika Flavorings",
-        "stipend": "\u20b9 8,000 - 11,000 lump sum",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-erode-at-sri-boomika-flavorings1780322692",
+        "id": 14,
+        "title": "Automotive Software Engineer",
+        "company": "TSTEPS PRIVATE LIMITED                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/automotive-software-engineer-internship-in-multiple-locations-at-tsteps-private-limited1780312938",
         "source": "Internshala"
     },
     {
-        "id": 22,
+        "id": 15,
         "title": "Web Development",
         "company": "Smartnet Software Private Limited",
         "stipend": "\u20b9 5,000 - 10,000 /month",
@@ -176,7 +120,7 @@
         "source": "Internshala"
     },
     {
-        "id": 23,
+        "id": 16,
         "title": "Shopify Developer",
         "company": "Jeronone Technologies",
         "stipend": "\u20b9 10,000 - 12,000 /month",
@@ -184,7 +128,7 @@
         "source": "Internshala"
     },
     {
-        "id": 24,
+        "id": 17,
         "title": "Full Stack Web Developer",
         "company": "Rohan Agarwal",
         "stipend": "\u20b9 5,000 - 10,000 /month",
@@ -192,11 +136,51 @@
         "source": "Internshala"
     },
     {
-        "id": 25,
+        "id": 18,
         "title": "Web Development",
         "company": "Lucidbox Technologies",
         "stipend": "\u20b9 6,000 /month",
         "link": "https://internshala.com/internship/detail/web-development-internship-in-guwahati-at-lucidbox-technologies1778830383",
+        "source": "Internshala"
+    },
+    {
+        "id": 19,
+        "title": "Web Development",
+        "company": "Fintech IT Solutions LLP",
+        "stipend": "\u20b9 10,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-jodhpur-at-fintech-it-solutions-llp1778571189",
+        "source": "Internshala"
+    },
+    {
+        "id": 20,
+        "title": "Platform Systems Engineering Intern",
+        "company": "CloudNuro",
+        "stipend": "Not provided",
+        "link": "https://internshala.com/internship/detail/platform-systems-engineering-intern-internship-in-nanakramguda-at-cloudnuro1780302125",
+        "source": "Internshala"
+    },
+    {
+        "id": 21,
+        "title": "Web Development",
+        "company": "DOI Soft Tech Private Limited",
+        "stipend": "\u20b9 3,000 - 7,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-doi-soft-tech-private-limited1780351708",
+        "source": "Internshala"
+    },
+    {
+        "id": 22,
+        "title": "Web Development",
+        "company": "She Can Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-she-can-foundation1780346103",
+        "source": "Internshala"
+    },
+    {
+        "id": 23,
+        "title": "Software Development Engineering (Web)",
+        "company": "MYFAJIR IT SOLUTION PRIVATED LIMITED",
+        "stipend": "\u20b9 8,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-development-engineering-web-internship-at-myfajir-it-solution-privated-limited1780337045",
         "source": "Internshala"
     }
 ]
