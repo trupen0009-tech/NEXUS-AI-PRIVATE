@@ -1,38 +1,6 @@
 [
     {
         "id": 1,
-        "title": "AI Web Development",
-        "company": "InAmigos Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1780308712",
-        "source": "Internshala"
-    },
-    {
-        "id": 2,
-        "title": "Backend Development",
-        "company": "Queens Of Change Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-backend-development-internship-at-queens-of-change-foundation1780401843",
-        "source": "Internshala"
-    },
-    {
-        "id": 3,
-        "title": "Python Development",
-        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-basti-ki-pathshala-foundation1780401165",
-        "source": "Internshala"
-    },
-    {
-        "id": 4,
-        "title": "AI Web Development",
-        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-ai-web-development-internship-at-basti-ki-pathshala-foundation1780401879",
-        "source": "Internshala"
-    },
-    {
-        "id": 5,
         "title": "Data Annotation (Agriculture)",
         "company": "Agrograde Robotics                        \nActively hiring",
         "stipend": "\u20b9 11,000 - 14,000 /month",
@@ -40,31 +8,7 @@
         "source": "Internshala"
     },
     {
-        "id": 6,
-        "title": "Web Development",
-        "company": "Delkon Technologies",
-        "stipend": "\u20b9 6,000 - 13,000 /month",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-bareilly-at-delkon-technologies1780312453",
-        "source": "Internshala"
-    },
-    {
-        "id": 7,
-        "title": "Java Development",
-        "company": "Svatantra Microfin Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 15,000 - 18,000 /month",
-        "link": "https://internshala.com/internship/detail/java-development-internship-in-bangalore-at-svatantra-microfin-private-limited1778674025",
-        "source": "Internshala"
-    },
-    {
-        "id": 8,
-        "title": "Developer - Full-Stack",
-        "company": "Pragya Cyber Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 15,000 /month",
-        "link": "https://internshala.com/internship/detail/developer-full-stack-internship-in-hyderabad-at-pragya-cyber-private-limited1780306901",
-        "source": "Internshala"
-    },
-    {
-        "id": 9,
+        "id": 2,
         "title": "Web Development",
         "company": "Outsourcify India Private Limited                        \nActively hiring",
         "stipend": "\u20b9 5,000 - 10,000 /month",
@@ -72,23 +16,31 @@
         "source": "Internshala"
     },
     {
-        "id": 10,
-        "title": "Validation Engineer",
-        "company": "TSTEPS PRIVATE LIMITED                        \nActively hiring",
+        "id": 3,
+        "title": "Backend Development",
+        "company": "Primetrade.ai                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/validation-engineer-internship-in-multiple-locations-at-tsteps-private-limited1780312709",
+        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-primetradeai1780456574",
         "source": "Internshala"
     },
     {
-        "id": 11,
-        "title": "Product Engineer",
-        "company": "TSTEPS PRIVATE LIMITED                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/product-engineer-internship-in-multiple-locations-at-tsteps-private-limited1780311709",
+        "id": 4,
+        "title": "Web Development",
+        "company": "Delkon Technologies",
+        "stipend": "\u20b9 6,000 - 13,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-bareilly-at-delkon-technologies1780312453",
         "source": "Internshala"
     },
     {
-        "id": 12,
+        "id": 5,
+        "title": "Java Development",
+        "company": "Svatantra Microfin Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 15,000 - 18,000 /month",
+        "link": "https://internshala.com/internship/detail/java-development-internship-in-bangalore-at-svatantra-microfin-private-limited1778674025",
+        "source": "Internshala"
+    },
+    {
+        "id": 6,
         "title": "Backend Development",
         "company": "Dot2dot",
         "stipend": "\u20b9 11,000 - 14,000 /month",
@@ -96,7 +48,7 @@
         "source": "Internshala"
     },
     {
-        "id": 13,
+        "id": 7,
         "title": "GTM Engineer",
         "company": "Adfinite Solutions LLP",
         "stipend": "\u20b9 10,000 - 15,000 /month",
@@ -104,15 +56,7 @@
         "source": "Internshala"
     },
     {
-        "id": 14,
-        "title": "Software Development",
-        "company": "Sai Chaudhari",
-        "stipend": "\u20b9 10,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/software-development-internship-in-pune-at-sai-chaudhari1780398201",
-        "source": "Internshala"
-    },
-    {
-        "id": 15,
+        "id": 8,
         "title": "Robotics Simulation  / Autonomy Software",
         "company": "Stravex Technologies Private Limited",
         "stipend": "\u20b9 20,000 /month",
@@ -120,7 +64,7 @@
         "source": "Internshala"
     },
     {
-        "id": 16,
+        "id": 9,
         "title": "Web Systems & Automation",
         "company": "VFinite",
         "stipend": "\u20b9 10,000 - 20,000 /month",
@@ -128,7 +72,7 @@
         "source": "Internshala"
     },
     {
-        "id": 17,
+        "id": 10,
         "title": "Shopify Developer",
         "company": "Jeronone Technologies",
         "stipend": "\u20b9 10,000 - 12,000 /month",
@@ -136,7 +80,7 @@
         "source": "Internshala"
     },
     {
-        "id": 18,
+        "id": 11,
         "title": "Full Stack Web Developer",
         "company": "Rohan Agarwal",
         "stipend": "\u20b9 5,000 - 10,000 /month",
@@ -144,7 +88,7 @@
         "source": "Internshala"
     },
     {
-        "id": 19,
+        "id": 12,
         "title": "Web Development",
         "company": "Lucidbox Technologies",
         "stipend": "\u20b9 6,000 /month",
@@ -152,7 +96,7 @@
         "source": "Internshala"
     },
     {
-        "id": 20,
+        "id": 13,
         "title": "Web Development",
         "company": "Fintech IT Solutions LLP",
         "stipend": "\u20b9 10,000 /month",
@@ -160,11 +104,43 @@
         "source": "Internshala"
     },
     {
-        "id": 21,
+        "id": 14,
         "title": "Platform Systems Engineering Intern",
         "company": "CloudNuro",
         "stipend": "Not provided",
         "link": "https://internshala.com/internship/detail/platform-systems-engineering-intern-internship-in-nanakramguda-at-cloudnuro1780302125",
+        "source": "Internshala"
+    },
+    {
+        "id": 15,
+        "title": "Python Development",
+        "company": "IV Innovations Private Limited",
+        "stipend": "\u20b9 5,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/python-development-internship-in-multiple-locations-at-iv-innovations-private-limited1780426780",
+        "source": "Internshala"
+    },
+    {
+        "id": 16,
+        "title": "AI Web Development",
+        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-part-time-ai-web-development-internship-at-basti-ki-pathshala-foundation1780401879",
+        "source": "Internshala"
+    },
+    {
+        "id": 17,
+        "title": "Backend Development",
+        "company": "Queens Of Change Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-part-time-backend-development-internship-at-queens-of-change-foundation1780401843",
+        "source": "Internshala"
+    },
+    {
+        "id": 18,
+        "title": "Python Development",
+        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-basti-ki-pathshala-foundation1780401165",
         "source": "Internshala"
     }
 ]
