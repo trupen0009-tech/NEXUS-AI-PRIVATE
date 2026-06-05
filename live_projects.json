@@ -1,18 +1,18 @@
 [
     {
         "id": 1,
-        "title": "Data Operations Executive",
-        "company": "Cogn.ai Technologies Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 20,000 - 25,000 /month",
-        "link": "https://internshala.com/internship/detail/data-operations-executive-internship-in-bangalore-at-cognai-technologies-private-limited1780566953",
+        "title": "Software Testing",
+        "company": "Harshad Enterprises                        \nActively hiring",
+        "stipend": "\u20b9 15,000 - 25,000 /month",
+        "link": "https://internshala.com/internship/detail/software-testing-internship-in-bangalore-at-harshad-enterprises1780644718",
         "source": "Internshala"
     },
     {
         "id": 2,
-        "title": "Full Stack Developer",
-        "company": "DataCircles Technology                        \nActively hiring",
-        "stipend": "\u20b9 5,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/full-stack-developer-internship-in-multiple-locations-at-datacircles-technology1780575893",
+        "title": "Data Operations Executive",
+        "company": "Cogn.ai Technologies Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 20,000 - 25,000 /month",
+        "link": "https://internshala.com/internship/detail/data-operations-executive-internship-in-bangalore-at-cognai-technologies-private-limited1780566953",
         "source": "Internshala"
     },
     {
@@ -25,10 +25,10 @@
     },
     {
         "id": 4,
-        "title": "Web Development",
-        "company": "360 Digital Idea                        \nActively hiring",
-        "stipend": "\u20b9 3,001 - 5,002 /month",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-delhi-at-360-digital-idea1780549354",
+        "title": "Integration Engineer",
+        "company": "ClearTax                        \nActively hiring",
+        "stipend": "\u20b9 20,000 /month",
+        "link": "https://internshala.com/internship/detail/integration-engineer-internship-in-bangalore-at-cleartax1780658207",
         "source": "Internshala"
     },
     {
@@ -49,22 +49,46 @@
     },
     {
         "id": 7,
-        "title": "Web Development",
-        "company": "Vibrant Viral Media",
-        "stipend": "\u20b9 3,000 - 4,500 /month",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-indore-at-vibrant-viral-media1780586158",
+        "title": "Python Development",
+        "company": "Databus",
+        "stipend": "\u20b9 5,000 - 10,000 /month",
+        "link": "https://internshala.com/internship/detail/python-development-internship-in-chennai-at-databus1780662267",
         "source": "Internshala"
     },
     {
         "id": 8,
-        "title": "IoT Cloud Engineer",
-        "company": "1accord",
-        "stipend": "\u20b9 3,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/iot-cloud-engineer-internship-in-mumbai-at-1accord1780566101",
+        "title": "Mobile App & Web Development",
+        "company": "Pioneer Sam Energia",
+        "stipend": "\u20b9 2,500 - 3,000 /month",
+        "link": "https://internshala.com/internship/detail/mobile-app-web-development-internship-in-multiple-locations-at-pioneer-sam-energia1780655763",
         "source": "Internshala"
     },
     {
         "id": 9,
+        "title": "Chemical Engineering & Biotechnology",
+        "company": "Mpower Urja",
+        "stipend": "\u20b9 2,500 - 3,000 /month",
+        "link": "https://internshala.com/internship/detail/chemical-engineering-biotechnology-internship-in-multiple-locations-at-mpower-urja1780652867",
+        "source": "Internshala"
+    },
+    {
+        "id": 10,
+        "title": "Backend Development",
+        "company": "Hanvix Infotech",
+        "stipend": "\u20b9 2,001 - 25,000 /month",
+        "link": "https://internshala.com/internship/detail/part-time-backend-development-internship-in-multiple-locations-at-hanvix-infotech1780653385",
+        "source": "Internshala"
+    },
+    {
+        "id": 11,
+        "title": "Web Development",
+        "company": "Ungeek",
+        "stipend": "\u20b9 4,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-nashik-at-ungeek1780642414",
+        "source": "Internshala"
+    },
+    {
+        "id": 12,
         "title": "GTM Engineer",
         "company": "Adfinite Solutions LLP",
         "stipend": "\u20b9 10,000 - 15,000 /month",
@@ -72,7 +96,7 @@
         "source": "Internshala"
     },
     {
-        "id": 10,
+        "id": 13,
         "title": "Web Systems & Automation",
         "company": "VFinite",
         "stipend": "\u20b9 10,000 - 20,000 /month",
@@ -80,7 +104,7 @@
         "source": "Internshala"
     },
     {
-        "id": 11,
+        "id": 14,
         "title": "Shopify Developer",
         "company": "Jeronone Technologies",
         "stipend": "\u20b9 10,000 - 12,000 /month",
@@ -88,7 +112,7 @@
         "source": "Internshala"
     },
     {
-        "id": 12,
+        "id": 15,
         "title": "Full Stack Web Developer",
         "company": "Rohan Agarwal",
         "stipend": "\u20b9 5,000 - 10,000 /month",
@@ -96,35 +120,11 @@
         "source": "Internshala"
     },
     {
-        "id": 13,
+        "id": 16,
         "title": "Web Development",
         "company": "Lucidbox Technologies",
         "stipend": "\u20b9 6,000 /month",
         "link": "https://internshala.com/internship/detail/web-development-internship-in-guwahati-at-lucidbox-technologies1778830383",
-        "source": "Internshala"
-    },
-    {
-        "id": 14,
-        "title": "Web Development",
-        "company": "Fintech IT Solutions LLP",
-        "stipend": "\u20b9 10,000 /month",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-jodhpur-at-fintech-it-solutions-llp1778571189",
-        "source": "Internshala"
-    },
-    {
-        "id": 15,
-        "title": "Platform Systems Engineering Intern",
-        "company": "CloudNuro",
-        "stipend": "Not provided",
-        "link": "https://internshala.com/internship/detail/platform-systems-engineering-intern-internship-in-nanakramguda-at-cloudnuro1780302125",
-        "source": "Internshala"
-    },
-    {
-        "id": 16,
-        "title": "Software Development",
-        "company": "Nivoryx Systems Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 1,50,000 /month",
-        "link": "https://internshala.com/internship/detail/software-development-internship-in-multiple-locations-at-nivoryx-systems-private-limited1780582830",
         "source": "Internshala"
     }
 ]
