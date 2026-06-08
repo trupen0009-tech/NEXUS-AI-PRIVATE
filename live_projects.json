@@ -1,22 +1,38 @@
 [
     {
         "id": 1,
-        "title": "GTM Engineer",
-        "company": "Adfinite Solutions LLP",
-        "stipend": "\u20b9 10,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/gtm-engineer-internship-in-surat-at-adfinite-solutions-llp1780409887",
+        "title": "Python Development",
+        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-basti-ki-pathshala-foundation1780662029",
         "source": "Internshala"
     },
     {
         "id": 2,
         "title": "Web Development",
-        "company": "Edukite Learning Services Private Limited",
-        "stipend": "\u20b9 8,000 - 12,000 /month",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-vadodara-at-edukite-learning-services-private-limited1780666289",
+        "company": "NayePankh Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-part-time-web-development-internship-at-nayepankh-foundation1780920489",
         "source": "Internshala"
     },
     {
         "id": 3,
+        "title": "Java Development",
+        "company": "Harshad Enterprises                        \nActively hiring",
+        "stipend": "\u20b9 15,000 - 25,000 /month",
+        "link": "https://internshala.com/internship/detail/java-development-internship-in-bangalore-at-harshad-enterprises1780893274",
+        "source": "Internshala"
+    },
+    {
+        "id": 4,
+        "title": "Software Testing",
+        "company": "Radical Now Labs                        \nActively hiring",
+        "stipend": "\u20b9 15,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/software-testing-internship-in-bangalore-at-radical-now-labs1780922604",
+        "source": "Internshala"
+    },
+    {
+        "id": 5,
         "title": "Web Development",
         "company": "Delkon Technologies",
         "stipend": "\u20b9 6,000 - 13,000 /month",
@@ -24,7 +40,7 @@
         "source": "Internshala"
     },
     {
-        "id": 4,
+        "id": 6,
         "title": "Java Development",
         "company": "Svatantra Microfin Private Limited                        \nActively hiring",
         "stipend": "\u20b9 15,000 - 18,000 /month",
@@ -32,7 +48,55 @@
         "source": "Internshala"
     },
     {
-        "id": 5,
+        "id": 7,
+        "title": "Coding Instructor | Mentor | Data Structures & Algorithms",
+        "company": "CipherSchools                        \nActively hiring",
+        "stipend": "\u20b9 60,000 - 80,000 /month",
+        "link": "https://internshala.com/internship/detail/coding-instructor--mentor--data-structures-algorithms-internship-in-multiple-locations-at-cipherschools1780914019",
+        "source": "Internshala"
+    },
+    {
+        "id": 8,
+        "title": "Technical Support & Website Operations",
+        "company": "Vedanta Software",
+        "stipend": "\u20b9 2,000 - 5,000 /month",
+        "link": "https://internshala.com/internship/detail/technical-support-website-operations-internship-in-bilaspur-at-vedanta-software1780920562",
+        "source": "Internshala"
+    },
+    {
+        "id": 9,
+        "title": "AI Engineer",
+        "company": "Engenia Technologies",
+        "stipend": "\u20b9 10,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/ai-engineer-internship-in-delhi-at-engenia-technologies1780915334",
+        "source": "Internshala"
+    },
+    {
+        "id": 10,
+        "title": "Software Development Engineering (Web)",
+        "company": "OneAccord",
+        "stipend": "\u20b9 3,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/software-development-engineering-web-internship-in-mumbai-at-oneaccord1780907892",
+        "source": "Internshala"
+    },
+    {
+        "id": 11,
+        "title": "Software Development",
+        "company": "VanLoka",
+        "stipend": "\u20b9 10,000 - 16,000 /month",
+        "link": "https://internshala.com/internship/detail/software-development-internship-in-multiple-locations-at-vanloka1780899357",
+        "source": "Internshala"
+    },
+    {
+        "id": 12,
+        "title": "Web Development",
+        "company": "Edukite Learning Services Private Limited",
+        "stipend": "\u20b9 8,000 - 12,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-vadodara-at-edukite-learning-services-private-limited1780666289",
+        "source": "Internshala"
+    },
+    {
+        "id": 13,
         "title": "Chemical Engineering & Biotechnology",
         "company": "Mpower Urja",
         "stipend": "\u20b9 2,500 - 3,000 /month",
@@ -40,7 +104,7 @@
         "source": "Internshala"
     },
     {
-        "id": 6,
+        "id": 14,
         "title": "Web Development",
         "company": "Ungeek",
         "stipend": "\u20b9 4,000 /month",
@@ -48,7 +112,15 @@
         "source": "Internshala"
     },
     {
-        "id": 7,
+        "id": 15,
+        "title": "GTM Engineer",
+        "company": "Adfinite Solutions LLP",
+        "stipend": "\u20b9 10,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/gtm-engineer-internship-in-surat-at-adfinite-solutions-llp1780409887",
+        "source": "Internshala"
+    },
+    {
+        "id": 16,
         "title": "Web Systems & Automation",
         "company": "VFinite",
         "stipend": "\u20b9 10,000 - 20,000 /month",
@@ -56,7 +128,7 @@
         "source": "Internshala"
     },
     {
-        "id": 8,
+        "id": 17,
         "title": "Full Stack Web Developer",
         "company": "Rohan Agarwal",
         "stipend": "\u20b9 5,000 - 10,000 /month",
@@ -64,59 +136,11 @@
         "source": "Internshala"
     },
     {
-        "id": 9,
+        "id": 18,
         "title": "Web Development",
         "company": "Lucidbox Technologies",
         "stipend": "\u20b9 6,000 /month",
         "link": "https://internshala.com/internship/detail/web-development-internship-in-guwahati-at-lucidbox-technologies1778830383",
-        "source": "Internshala"
-    },
-    {
-        "id": 10,
-        "title": "Web Development",
-        "company": "Fintech IT Solutions LLP",
-        "stipend": "\u20b9 10,000 /month",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-jodhpur-at-fintech-it-solutions-llp1778571189",
-        "source": "Internshala"
-    },
-    {
-        "id": 11,
-        "title": "Embedded Software Intern",
-        "company": "OrbitAID Aerospace",
-        "stipend": "Not provided",
-        "link": "https://internshala.com/internship/detail/embedded-software-intern-internship-in-bangalore-at-orbitaid-aerospace1780737199",
-        "source": "Internshala"
-    },
-    {
-        "id": 12,
-        "title": "Full Stack Developer (AI - Enabled)",
-        "company": "Jarurat Care                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-full-stack-developer-ai-enabled-internship-at-jarurat-care1780839501",
-        "source": "Internshala"
-    },
-    {
-        "id": 13,
-        "title": "Java Development",
-        "company": "Symonis                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 25,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-symonis1780810226",
-        "source": "Internshala"
-    },
-    {
-        "id": 14,
-        "title": "Web Development",
-        "company": "Symonis                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 25,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-symonis1780810183",
-        "source": "Internshala"
-    },
-    {
-        "id": 15,
-        "title": "Python Development",
-        "company": "Symonis                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-symonis1780810038",
         "source": "Internshala"
     }
 ]
