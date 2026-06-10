@@ -1,14 +1,6 @@
 [
     {
         "id": 1,
-        "title": "AI Web Development",
-        "company": "InAmigos Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1781000563",
-        "source": "Internshala"
-    },
-    {
-        "id": 2,
         "title": "Systems Engineering",
         "company": "Wobot Intelligence Private Limited                        \nActively hiring",
         "stipend": "\u20b9 9,999 - 10,000 /month",
@@ -16,23 +8,15 @@
         "source": "Internshala"
     },
     {
+        "id": 2,
+        "title": "Web Development",
+        "company": "UNIVERSAL TRADING COMPANY",
+        "stipend": "\u20b9 5,000 - 8,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-delhi-at-universal-trading-company1781017646",
+        "source": "Internshala"
+    },
+    {
         "id": 3,
-        "title": "Software Testing",
-        "company": "Radical Now Labs                        \nActively hiring",
-        "stipend": "\u20b9 15,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/software-testing-internship-in-bangalore-at-radical-now-labs1780922604",
-        "source": "Internshala"
-    },
-    {
-        "id": 4,
-        "title": "QT/QML/C/C++ Software Development",
-        "company": "Vyorius Drones Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 3,000 - 5,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-qt-qml-c-c-software-development-internship-at-vyorius-drones-private-limited1781003124",
-        "source": "Internshala"
-    },
-    {
-        "id": 5,
         "title": "Web Development",
         "company": "Delkon Technologies",
         "stipend": "\u20b9 6,000 - 13,000 /month",
@@ -40,7 +24,7 @@
         "source": "Internshala"
     },
     {
-        "id": 6,
+        "id": 4,
         "title": "Java Development",
         "company": "Svatantra Microfin Private Limited                        \nActively hiring",
         "stipend": "\u20b9 15,000 - 18,000 /month",
@@ -48,15 +32,15 @@
         "source": "Internshala"
     },
     {
-        "id": 7,
-        "title": "Golang Developer",
-        "company": "Vyorius Drones Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 3,000 - 5,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-golang-developer-internship-at-vyorius-drones-private-limited1780995575",
+        "id": 5,
+        "title": "Web Development",
+        "company": "LEGACY Research Solutions",
+        "stipend": "\u20b9 4,000 - 24,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-kolkata-at-legacy-research-solutions1781032628",
         "source": "Internshala"
     },
     {
-        "id": 8,
+        "id": 6,
         "title": "Network Engineering",
         "company": "Word Works AI",
         "stipend": "\u20b9 20,000 - 25,000 /month",
@@ -64,7 +48,7 @@
         "source": "Internshala"
     },
     {
-        "id": 9,
+        "id": 7,
         "title": "Software Development",
         "company": "Get Naukri",
         "stipend": "\u20b9 2,000 - 3,000 /month",
@@ -72,7 +56,7 @@
         "source": "Internshala"
     },
     {
-        "id": 10,
+        "id": 8,
         "title": "Technical Support & Website Operations",
         "company": "Vedanta Software",
         "stipend": "\u20b9 2,000 - 5,000 /month",
@@ -80,7 +64,7 @@
         "source": "Internshala"
     },
     {
-        "id": 11,
+        "id": 9,
         "title": "Web Development",
         "company": "Edukite Learning Services Private Limited",
         "stipend": "\u20b9 8,000 - 12,000 /month",
@@ -88,7 +72,7 @@
         "source": "Internshala"
     },
     {
-        "id": 12,
+        "id": 10,
         "title": "Chemical Engineering & Biotechnology",
         "company": "Mpower Urja",
         "stipend": "\u20b9 2,500 - 3,000 /month",
@@ -96,7 +80,7 @@
         "source": "Internshala"
     },
     {
-        "id": 13,
+        "id": 11,
         "title": "Web Development",
         "company": "Ungeek",
         "stipend": "\u20b9 4,000 /month",
@@ -104,7 +88,7 @@
         "source": "Internshala"
     },
     {
-        "id": 14,
+        "id": 12,
         "title": "GTM Engineer",
         "company": "Adfinite Solutions LLP",
         "stipend": "\u20b9 10,000 - 15,000 /month",
@@ -112,11 +96,43 @@
         "source": "Internshala"
     },
     {
-        "id": 15,
+        "id": 13,
         "title": "Web Systems & Automation",
         "company": "VFinite",
         "stipend": "\u20b9 10,000 - 20,000 /month",
         "link": "https://internshala.com/internship/detail/web-systems-automation-internship-in-multiple-locations-at-vfinite1780395022",
+        "source": "Internshala"
+    },
+    {
+        "id": 14,
+        "title": "Full Stack Web Developer",
+        "company": "Rohan Agarwal",
+        "stipend": "\u20b9 5,000 - 10,000 /month",
+        "link": "https://internshala.com/internship/detail/full-stack-web-developer-internship-in-meerut-at-rohan-agarwal1779685131",
+        "source": "Internshala"
+    },
+    {
+        "id": 15,
+        "title": "Web Development",
+        "company": "Lucidbox Technologies",
+        "stipend": "\u20b9 6,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-guwahati-at-lucidbox-technologies1778830383",
+        "source": "Internshala"
+    },
+    {
+        "id": 16,
+        "title": "Web Development",
+        "company": "Fintech IT Solutions LLP",
+        "stipend": "\u20b9 10,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-jodhpur-at-fintech-it-solutions-llp1778571189",
+        "source": "Internshala"
+    },
+    {
+        "id": 17,
+        "title": "Application Developer (Flutter Intern)",
+        "company": "BRT Multi Software LLP",
+        "stipend": "Not provided",
+        "link": "https://internshala.com/internship/detail/application-developer-flutter-intern-internship-in-noida-at-brt-multi-software-llp1780994227",
         "source": "Internshala"
     }
 ]
