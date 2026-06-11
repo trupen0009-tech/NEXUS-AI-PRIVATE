@@ -1,6 +1,22 @@
 [
     {
         "id": 1,
+        "title": "AI Web Development",
+        "company": "InAmigos Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1781000563",
+        "source": "Internshala"
+    },
+    {
+        "id": 2,
+        "title": "Web Development",
+        "company": "She Can Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-she-can-foundation1781171305",
+        "source": "Internshala"
+    },
+    {
+        "id": 3,
         "title": "QA & Field Support Engineer",
         "company": "NirmanIQ Private Limited                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 15,000 /month",
@@ -8,23 +24,47 @@
         "source": "Internshala"
     },
     {
-        "id": 2,
-        "title": "Infrastructure Engineer",
-        "company": "Roman Network Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 12,000 /month",
-        "link": "https://internshala.com/internship/detail/infrastructure-engineer-internship-in-navi-mumbai-at-roman-network-private-limited1781077869",
-        "source": "Internshala"
-    },
-    {
-        "id": 3,
-        "title": "Junior PHP Developer",
-        "company": "FynTune Solution Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 18,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/junior-php-developer-internship-in-multiple-locations-at-fyntune-solution-private-limited1781086723",
-        "source": "Internshala"
-    },
-    {
         "id": 4,
+        "title": "Java Development",
+        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-basti-ki-pathshala-foundation1781180243",
+        "source": "Internshala"
+    },
+    {
+        "id": 5,
+        "title": "Java Development",
+        "company": "Queens Of Change Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-queens-of-change-foundation1781179793",
+        "source": "Internshala"
+    },
+    {
+        "id": 6,
+        "title": "Python Development",
+        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-basti-ki-pathshala-foundation1781180282",
+        "source": "Internshala"
+    },
+    {
+        "id": 7,
+        "title": "Python Development",
+        "company": "Queens Of Change Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-queens-of-change-foundation1781180035",
+        "source": "Internshala"
+    },
+    {
+        "id": 8,
+        "title": "Backend Development",
+        "company": "NayePankh Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-nayepankh-foundation1781178919",
+        "source": "Internshala"
+    },
+    {
+        "id": 9,
         "title": "Web Development",
         "company": "Delkon Technologies",
         "stipend": "\u20b9 6,000 - 13,000 /month",
@@ -32,7 +72,7 @@
         "source": "Internshala"
     },
     {
-        "id": 5,
+        "id": 10,
         "title": "Java Development",
         "company": "Svatantra Microfin Private Limited                        \nActively hiring",
         "stipend": "\u20b9 15,000 - 18,000 /month",
@@ -40,47 +80,31 @@
         "source": "Internshala"
     },
     {
-        "id": 6,
-        "title": "Unity Developer",
-        "company": "Vyorius Drones Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 3,000 - 5,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-unity-developer-internship-at-vyorius-drones-private-limited1781094541",
-        "source": "Internshala"
-    },
-    {
-        "id": 7,
-        "title": "Mobile Application Developer (flutter)",
-        "company": "DevInDays Technologies",
-        "stipend": "\u20b9 15,000 - 35,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-mobile-application-developer-flutter-internship-at-devindays-technologies1781113395",
-        "source": "Internshala"
-    },
-    {
-        "id": 8,
-        "title": "Web Development",
-        "company": "Aero Events And Promotions",
-        "stipend": "\u20b9 5,000 /month",
-        "link": "https://internshala.com/internship/detail/part-time-web-development-internship-in-chennai-at-aero-events-and-promotions1781091280",
-        "source": "Internshala"
-    },
-    {
-        "id": 9,
-        "title": "Flutter Developer",
-        "company": "Flipshope",
-        "stipend": "\u20b9 10,000 /month",
-        "link": "https://internshala.com/internship/detail/flutter-developer-internship-in-jaipur-at-flipshope1781087084",
-        "source": "Internshala"
-    },
-    {
-        "id": 10,
-        "title": "Software Development",
-        "company": "Get Naukri",
-        "stipend": "\u20b9 2,000 - 3,000 /month",
-        "link": "https://internshala.com/internship/detail/software-development-internship-in-lucknow-at-get-naukri1780921927",
-        "source": "Internshala"
-    },
-    {
         "id": 11,
+        "title": "Golang Developer",
+        "company": "AppVersal                        \nActively hiring",
+        "stipend": "\u20b9 15,000 - 25,000 /month",
+        "link": "https://internshala.com/internship/detail/golang-developer-internship-in-noida-at-appversal1781174718",
+        "source": "Internshala"
+    },
+    {
+        "id": 12,
+        "title": "Infrastructure Engineer",
+        "company": "Roman Network Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 12,000 /month",
+        "link": "https://internshala.com/internship/detail/infrastructure-engineer-internship-in-navi-mumbai-at-roman-network-private-limited1781077869",
+        "source": "Internshala"
+    },
+    {
+        "id": 13,
+        "title": "Junior PHP Developer",
+        "company": "FynTune Solution Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 18,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/junior-php-developer-internship-in-multiple-locations-at-fyntune-solution-private-limited1781086723",
+        "source": "Internshala"
+    },
+    {
+        "id": 14,
         "title": "Technical Support & Website Operations",
         "company": "Vedanta Software",
         "stipend": "\u20b9 2,000 - 5,000 /month",
@@ -88,15 +112,7 @@
         "source": "Internshala"
     },
     {
-        "id": 12,
-        "title": "Web Development",
-        "company": "Edukite Learning Services Private Limited",
-        "stipend": "\u20b9 8,000 - 12,000 /month",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-vadodara-at-edukite-learning-services-private-limited1780666289",
-        "source": "Internshala"
-    },
-    {
-        "id": 13,
+        "id": 15,
         "title": "Chemical Engineering & Biotechnology",
         "company": "Mpower Urja",
         "stipend": "\u20b9 2,500 - 3,000 /month",
@@ -104,7 +120,7 @@
         "source": "Internshala"
     },
     {
-        "id": 14,
+        "id": 16,
         "title": "Web Development",
         "company": "Ungeek",
         "stipend": "\u20b9 4,000 /month",
@@ -112,19 +128,27 @@
         "source": "Internshala"
     },
     {
-        "id": 15,
-        "title": "GTM Engineer",
-        "company": "Adfinite Solutions LLP",
-        "stipend": "\u20b9 10,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/gtm-engineer-internship-in-surat-at-adfinite-solutions-llp1780409887",
-        "source": "Internshala"
-    },
-    {
-        "id": 16,
+        "id": 17,
         "title": "Web Systems & Automation",
         "company": "VFinite",
         "stipend": "\u20b9 10,000 - 20,000 /month",
         "link": "https://internshala.com/internship/detail/web-systems-automation-internship-in-multiple-locations-at-vfinite1780395022",
+        "source": "Internshala"
+    },
+    {
+        "id": 18,
+        "title": "Web Development",
+        "company": "Yotric Solutions",
+        "stipend": "\u20b9 7,000 - 8,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-yotric-solutions1781181601",
+        "source": "Internshala"
+    },
+    {
+        "id": 19,
+        "title": "Web Development",
+        "company": "Zebnux Technologies",
+        "stipend": "\u20b9 6,000 - 7,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-zebnux-technologies1781181387",
         "source": "Internshala"
     }
 ]
