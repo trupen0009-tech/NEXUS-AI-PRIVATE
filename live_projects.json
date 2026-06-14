@@ -1,10 +1,10 @@
 [
     {
         "id": 1,
-        "title": "Junior PHP Developer",
-        "company": "FynTune Solution Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 18,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/junior-php-developer-internship-in-multiple-locations-at-fyntune-solution-private-limited1781086723",
+        "title": "Software Testing",
+        "company": "Assetcues Solutions Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 5,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/software-testing-internship-in-pune-at-assetcues-solutions-private-limited1781268278",
         "source": "Internshala"
     },
     {
@@ -17,14 +17,6 @@
     },
     {
         "id": 3,
-        "title": "Software Testing",
-        "company": "Assetcues Solutions Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 5,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/software-testing-internship-in-pune-at-assetcues-solutions-private-limited1781268278",
-        "source": "Internshala"
-    },
-    {
-        "id": 4,
         "title": "Web Development",
         "company": "Delkon Technologies",
         "stipend": "\u20b9 6,000 - 13,000 /month",
@@ -32,7 +24,7 @@
         "source": "Internshala"
     },
     {
-        "id": 5,
+        "id": 4,
         "title": "Java Development",
         "company": "Svatantra Microfin Private Limited                        \nActively hiring",
         "stipend": "\u20b9 15,000 - 18,000 /month",
@@ -40,7 +32,7 @@
         "source": "Internshala"
     },
     {
-        "id": 6,
+        "id": 5,
         "title": "SAP Cloud Developer - Trainee - Fresher",
         "company": "CrossOver IT Consulting Services LLP",
         "stipend": "\u20b9 10,000 - 15,000 /month",
@@ -48,7 +40,7 @@
         "source": "Internshala"
     },
     {
-        "id": 7,
+        "id": 6,
         "title": "Technical Support & Website Operations",
         "company": "Vedanta Software",
         "stipend": "\u20b9 2,000 - 5,000 /month",
@@ -56,7 +48,7 @@
         "source": "Internshala"
     },
     {
-        "id": 8,
+        "id": 7,
         "title": "Web Development",
         "company": "Ungeek",
         "stipend": "\u20b9 4,000 /month",
@@ -64,11 +56,19 @@
         "source": "Internshala"
     },
     {
-        "id": 9,
+        "id": 8,
         "title": "Web Systems & Automation",
         "company": "VFinite",
         "stipend": "\u20b9 10,000 - 20,000 /month",
         "link": "https://internshala.com/internship/detail/web-systems-automation-internship-in-multiple-locations-at-vfinite1780395022",
+        "source": "Internshala"
+    },
+    {
+        "id": 9,
+        "title": "Web Development Intern",
+        "company": "Infrasity",
+        "stipend": "Not provided",
+        "link": "https://internshala.com/internship/detail/web-development-intern-internship-in-delhi-at-infrasity1781426109",
         "source": "Internshala"
     },
     {
@@ -105,14 +105,38 @@
     },
     {
         "id": 14,
-        "title": "Software Development",
-        "company": "Mindtech Solutions",
-        "stipend": "\u20b9 7,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-mindtech-solutions1781378847",
+        "title": "Python Development",
+        "company": "Neurasys                        \nActively hiring",
+        "stipend": "\u20b9 7,500 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-neurasys1781414096",
         "source": "Internshala"
     },
     {
         "id": 15,
+        "title": "Java Development",
+        "company": "Neurasys                        \nActively hiring",
+        "stipend": "\u20b9 7,500 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-neurasys1781413987",
+        "source": "Internshala"
+    },
+    {
+        "id": 16,
+        "title": "Web Development",
+        "company": "Neurasys                        \nActively hiring",
+        "stipend": "\u20b9 7,500 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-neurasys1781413868",
+        "source": "Internshala"
+    },
+    {
+        "id": 17,
+        "title": "Web Development",
+        "company": "TMS Foundation (bharatyuva.org)                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-part-time-web-development-internship-at-tms-foundation-bharatyuvaorg1781412315",
+        "source": "Internshala"
+    },
+    {
+        "id": 18,
         "title": "Web Development",
         "company": "Udaghosh Social Welfare Society",
         "stipend": "\u20b9 1,000 - 3,000 /month",
@@ -120,7 +144,7 @@
         "source": "Internshala"
     },
     {
-        "id": 16,
+        "id": 19,
         "title": "Web Development",
         "company": "She Can Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -128,7 +152,7 @@
         "source": "Internshala"
     },
     {
-        "id": 17,
+        "id": 20,
         "title": "Prompt Engineering",
         "company": "She Can Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -136,7 +160,7 @@
         "source": "Internshala"
     },
     {
-        "id": 18,
+        "id": 21,
         "title": "Software Development",
         "company": "SKIDEV EDUTECH PRIVATE LIMITED                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 15,000 /month",
@@ -144,27 +168,11 @@
         "source": "Internshala"
     },
     {
-        "id": 19,
+        "id": 22,
         "title": "Python Development",
         "company": "Maxgen Technologies Private Limited                        \nActively hiring",
         "stipend": "\u20b9 5,000 - 12,000 /month",
         "link": "https://internshala.com/internship/detail/python-development-internship-in-ahmedabad-at-maxgen-technologies-private-limited1781337526",
-        "source": "Internshala"
-    },
-    {
-        "id": 20,
-        "title": "Web Development",
-        "company": "Cloud Back                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 25,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-cloud-back1781329687",
-        "source": "Internshala"
-    },
-    {
-        "id": 21,
-        "title": "Python Development",
-        "company": "Cloud Back                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-cloud-back1781328417",
         "source": "Internshala"
     }
 ]
