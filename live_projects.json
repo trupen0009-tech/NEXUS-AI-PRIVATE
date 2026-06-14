@@ -1,18 +1,18 @@
 [
     {
         "id": 1,
-        "title": "QA & Field Support Engineer",
-        "company": "NirmanIQ Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/qa-field-support-engineer-internship-in-hyderabad-at-nirmaniq-private-limited1778927107",
-        "source": "Internshala"
-    },
-    {
-        "id": 2,
         "title": "Junior PHP Developer",
         "company": "FynTune Solution Private Limited                        \nActively hiring",
         "stipend": "\u20b9 18,000 - 20,000 /month",
         "link": "https://internshala.com/internship/detail/junior-php-developer-internship-in-multiple-locations-at-fyntune-solution-private-limited1781086723",
+        "source": "Internshala"
+    },
+    {
+        "id": 2,
+        "title": "Infrastructure Engineer",
+        "company": "Roman Network Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 12,000 /month",
+        "link": "https://internshala.com/internship/detail/infrastructure-engineer-internship-in-navi-mumbai-at-roman-network-private-limited1781077869",
         "source": "Internshala"
     },
     {
@@ -25,14 +25,6 @@
     },
     {
         "id": 4,
-        "title": "Infrastructure Engineer",
-        "company": "Roman Network Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 12,000 /month",
-        "link": "https://internshala.com/internship/detail/infrastructure-engineer-internship-in-navi-mumbai-at-roman-network-private-limited1781077869",
-        "source": "Internshala"
-    },
-    {
-        "id": 5,
         "title": "Web Development",
         "company": "Delkon Technologies",
         "stipend": "\u20b9 6,000 - 13,000 /month",
@@ -40,7 +32,7 @@
         "source": "Internshala"
     },
     {
-        "id": 6,
+        "id": 5,
         "title": "Java Development",
         "company": "Svatantra Microfin Private Limited                        \nActively hiring",
         "stipend": "\u20b9 15,000 - 18,000 /month",
@@ -48,15 +40,7 @@
         "source": "Internshala"
     },
     {
-        "id": 7,
-        "title": "Golang Developer",
-        "company": "AppVersal                        \nActively hiring",
-        "stipend": "\u20b9 15,000 - 25,000 /month",
-        "link": "https://internshala.com/internship/detail/golang-developer-internship-in-noida-at-appversal1781174718",
-        "source": "Internshala"
-    },
-    {
-        "id": 8,
+        "id": 6,
         "title": "SAP Cloud Developer - Trainee - Fresher",
         "company": "CrossOver IT Consulting Services LLP",
         "stipend": "\u20b9 10,000 - 15,000 /month",
@@ -64,7 +48,7 @@
         "source": "Internshala"
     },
     {
-        "id": 9,
+        "id": 7,
         "title": "Technical Support & Website Operations",
         "company": "Vedanta Software",
         "stipend": "\u20b9 2,000 - 5,000 /month",
@@ -72,15 +56,7 @@
         "source": "Internshala"
     },
     {
-        "id": 10,
-        "title": "Chemical Engineering & Biotechnology",
-        "company": "Mpower Urja",
-        "stipend": "\u20b9 2,500 - 3,000 /month",
-        "link": "https://internshala.com/internship/detail/chemical-engineering-biotechnology-internship-in-multiple-locations-at-mpower-urja1780652867",
-        "source": "Internshala"
-    },
-    {
-        "id": 11,
+        "id": 8,
         "title": "Web Development",
         "company": "Ungeek",
         "stipend": "\u20b9 4,000 /month",
@@ -88,7 +64,7 @@
         "source": "Internshala"
     },
     {
-        "id": 12,
+        "id": 9,
         "title": "Web Systems & Automation",
         "company": "VFinite",
         "stipend": "\u20b9 10,000 - 20,000 /month",
@@ -96,7 +72,7 @@
         "source": "Internshala"
     },
     {
-        "id": 13,
+        "id": 10,
         "title": "Engineer Intern",
         "company": "Taar",
         "stipend": "Not provided",
@@ -104,7 +80,7 @@
         "source": "Internshala"
     },
     {
-        "id": 14,
+        "id": 11,
         "title": "Application Developer Internship - Flutter",
         "company": "Syntellite",
         "stipend": "Not provided",
@@ -112,23 +88,7 @@
         "source": "Internshala"
     },
     {
-        "id": 15,
-        "title": "Frontend Developer Intern ( Remote)",
-        "company": "AI Startup Impact",
-        "stipend": "Not provided",
-        "link": "https://internshala.com/internship/detail/frontend-developer-intern--remote-internship-in-bangalore-at-ai-startup-impact1781342656",
-        "source": "Internshala"
-    },
-    {
-        "id": 16,
-        "title": "Frontend Developer",
-        "company": "Zetheta Algorithms Private Limited",
-        "stipend": "Not provided",
-        "link": "https://internshala.com/internship/detail/work-from-home-frontend-developer-internship-at-zetheta-algorithms-private-limited1781341640",
-        "source": "Internshala"
-    },
-    {
-        "id": 17,
+        "id": 12,
         "title": "React Native Developer",
         "company": "Unbottled Wellness",
         "stipend": "Not provided",
@@ -136,7 +96,7 @@
         "source": "Internshala"
     },
     {
-        "id": 18,
+        "id": 13,
         "title": "Phoenix- Data Scientist",
         "company": "Myntra",
         "stipend": "Not provided",
@@ -144,11 +104,67 @@
         "source": "Internshala"
     },
     {
-        "id": 19,
+        "id": 14,
+        "title": "Software Development",
+        "company": "Mindtech Solutions",
+        "stipend": "\u20b9 7,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-mindtech-solutions1781378847",
+        "source": "Internshala"
+    },
+    {
+        "id": 15,
+        "title": "Web Development",
+        "company": "Udaghosh Social Welfare Society",
+        "stipend": "\u20b9 1,000 - 3,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-udaghosh-social-welfare-society1781365096",
+        "source": "Internshala"
+    },
+    {
+        "id": 16,
         "title": "Web Development",
         "company": "She Can Foundation                        \nActively hiring",
         "stipend": "Unpaid",
         "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-she-can-foundation1781355065",
+        "source": "Internshala"
+    },
+    {
+        "id": 17,
+        "title": "Prompt Engineering",
+        "company": "She Can Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-prompt-engineering-internship-at-she-can-foundation1781354475",
+        "source": "Internshala"
+    },
+    {
+        "id": 18,
+        "title": "Software Development",
+        "company": "SKIDEV EDUTECH PRIVATE LIMITED                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-skidev-edutech-private-limited1781354126",
+        "source": "Internshala"
+    },
+    {
+        "id": 19,
+        "title": "Python Development",
+        "company": "Maxgen Technologies Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 5,000 - 12,000 /month",
+        "link": "https://internshala.com/internship/detail/python-development-internship-in-ahmedabad-at-maxgen-technologies-private-limited1781337526",
+        "source": "Internshala"
+    },
+    {
+        "id": 20,
+        "title": "Web Development",
+        "company": "Cloud Back                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 25,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-cloud-back1781329687",
+        "source": "Internshala"
+    },
+    {
+        "id": 21,
+        "title": "Python Development",
+        "company": "Cloud Back                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-cloud-back1781328417",
         "source": "Internshala"
     }
 ]
