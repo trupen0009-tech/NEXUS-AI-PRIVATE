@@ -9,10 +9,10 @@
     },
     {
         "id": 2,
-        "title": "Backend Development",
-        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-basti-ki-pathshala-foundation1781611571",
+        "title": "Web Development",
+        "company": "Hindustan Times Media Limited                        \nActively hiring",
+        "stipend": "\u20b9 27,000 - 35,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-hindustan-times-media-limited1781670727",
         "source": "Internshala"
     },
     {
@@ -41,22 +41,6 @@
     },
     {
         "id": 6,
-        "title": "MERN Stack Developer",
-        "company": "SellerGrid                        \nActively hiring",
-        "stipend": "\u20b9 10,000 /month",
-        "link": "https://internshala.com/internship/detail/mern-stack-developer-internship-in-bangalore-at-sellergrid1781503146",
-        "source": "Internshala"
-    },
-    {
-        "id": 7,
-        "title": "Software Testing",
-        "company": "Assetcues Solutions Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 5,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/software-testing-internship-in-pune-at-assetcues-solutions-private-limited1781268278",
-        "source": "Internshala"
-    },
-    {
-        "id": 8,
         "title": "Infrastructure Engineer",
         "company": "Roman Network Private Limited                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 12,000 /month",
@@ -64,7 +48,15 @@
         "source": "Internshala"
     },
     {
-        "id": 9,
+        "id": 7,
+        "title": "Web Development",
+        "company": "CLOUDILY SCRIPTS PRIVATE LIMITED",
+        "stipend": "\u20b9 2,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-patna-at-cloudily-scripts-private-limited1781690321",
+        "source": "Internshala"
+    },
+    {
+        "id": 8,
         "title": "Unreal Engine Developer",
         "company": "Sharcon Infrastructure Private Limited",
         "stipend": "\u20b9 5,000 - 8,000 /month",
@@ -72,7 +64,7 @@
         "source": "Internshala"
     },
     {
-        "id": 10,
+        "id": 9,
         "title": "Desktop Engineer",
         "company": "Infolog Solutions Private Limited",
         "stipend": "\u20b9 8,000 - 8,001 /month",
@@ -80,7 +72,7 @@
         "source": "Internshala"
     },
     {
-        "id": 11,
+        "id": 10,
         "title": "Software Development",
         "company": "Jupiter Wealth",
         "stipend": "\u20b9 2,000 - 5,000 /month",
@@ -88,7 +80,7 @@
         "source": "Internshala"
     },
     {
-        "id": 12,
+        "id": 11,
         "title": "Unity Developer",
         "company": "AR Genie Inc.",
         "stipend": "\u20b9 10,000 /month",
@@ -96,7 +88,7 @@
         "source": "Internshala"
     },
     {
-        "id": 13,
+        "id": 12,
         "title": "SAP Cloud Developer - Trainee - Fresher",
         "company": "CrossOver IT Consulting Services LLP",
         "stipend": "\u20b9 10,000 - 15,000 /month",
@@ -104,7 +96,7 @@
         "source": "Internshala"
     },
     {
-        "id": 14,
+        "id": 13,
         "title": "Technical Support & Website Operations",
         "company": "Vedanta Software",
         "stipend": "\u20b9 2,000 - 5,000 /month",
@@ -112,27 +104,11 @@
         "source": "Internshala"
     },
     {
-        "id": 15,
+        "id": 14,
         "title": "Web Development",
         "company": "Ungeek",
         "stipend": "\u20b9 4,000 /month",
         "link": "https://internshala.com/internship/detail/web-development-internship-in-nashik-at-ungeek1780642414",
-        "source": "Internshala"
-    },
-    {
-        "id": 16,
-        "title": "Web Systems & Automation",
-        "company": "VFinite",
-        "stipend": "\u20b9 10,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/web-systems-automation-internship-in-multiple-locations-at-vfinite1780395022",
-        "source": "Internshala"
-    },
-    {
-        "id": 17,
-        "title": "Cloud Support Engineer Intern",
-        "company": "Host360",
-        "stipend": "Not provided",
-        "link": "https://internshala.com/internship/detail/work-from-home-cloud-support-engineer-intern-internship-at-host3601781600711",
         "source": "Internshala"
     }
 ]
