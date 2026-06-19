@@ -1,18 +1,18 @@
 [
     {
         "id": 1,
-        "title": "Python Development",
-        "company": "NayePankh Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-nayepankh-foundation1781783666",
+        "title": "Software Engineer (Cloud & DevOps Exposure)",
+        "company": "DigiPlus IT                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/software-engineer-cloud-devops-exposure-internship-in-multiple-locations-at-digiplus-it1781870422",
         "source": "Internshala"
     },
     {
         "id": 2,
-        "title": "Web Development",
-        "company": "Conscript HR Advisors Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 1,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-conscript-hr-advisors-private-limited1781842183",
+        "title": "Software Testing",
+        "company": "Web3Task                        \nActively hiring",
+        "stipend": "\u20b9 5,000 - 12,000 /month",
+        "link": "https://internshala.com/internship/detail/software-testing-internship-in-noida-at-web3task1781851456",
         "source": "Internshala"
     },
     {
@@ -41,22 +41,38 @@
     },
     {
         "id": 6,
-        "title": "Infrastructure Engineer",
-        "company": "Roman Network Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 12,000 /month",
-        "link": "https://internshala.com/internship/detail/infrastructure-engineer-internship-in-navi-mumbai-at-roman-network-private-limited1781077869",
+        "title": "Software Testing",
+        "company": "LivNSense                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/software-testing-internship-in-bangalore-at-livnsense1781859708",
         "source": "Internshala"
     },
     {
         "id": 7,
-        "title": "Software Testing",
-        "company": "Bot Listener",
-        "stipend": "\u20b9 7,000 /month",
-        "link": "https://internshala.com/internship/detail/software-testing-internship-in-mumbai-at-bot-listener1781781952",
+        "title": "Data Annotator",
+        "company": "Netflairs Technology Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 6,000 - 10,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-data-annotator-internship-at-netflairs-technology-private-limited1781854402",
         "source": "Internshala"
     },
     {
         "id": 8,
+        "title": "Software Development",
+        "company": "SHIKOM SOLUTIONS",
+        "stipend": "\u20b9 6,000 - 12,500 /month",
+        "link": "https://internshala.com/internship/detail/software-development-internship-in-pune-at-shikom-solutions1781870586",
+        "source": "Internshala"
+    },
+    {
+        "id": 9,
+        "title": "Software Development",
+        "company": "Kamal Talwar",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/software-development-internship-in-kurukshetra-at-kamal-talwar1781865324",
+        "source": "Internshala"
+    },
+    {
+        "id": 10,
         "title": "Shopify Developer",
         "company": "Scaling Wolves",
         "stipend": "\u20b9 5,000 - 10,000 /month",
@@ -64,7 +80,7 @@
         "source": "Internshala"
     },
     {
-        "id": 9,
+        "id": 11,
         "title": "Desktop Engineer",
         "company": "Infolog Solutions Private Limited",
         "stipend": "\u20b9 8,000 - 8,001 /month",
@@ -72,7 +88,7 @@
         "source": "Internshala"
     },
     {
-        "id": 10,
+        "id": 12,
         "title": "Software Development",
         "company": "Jupiter Wealth",
         "stipend": "\u20b9 2,000 - 5,000 /month",
@@ -80,7 +96,7 @@
         "source": "Internshala"
     },
     {
-        "id": 11,
+        "id": 13,
         "title": "SAP Cloud Developer - Trainee - Fresher",
         "company": "CrossOver IT Consulting Services LLP",
         "stipend": "\u20b9 10,000 - 15,000 /month",
@@ -88,7 +104,7 @@
         "source": "Internshala"
     },
     {
-        "id": 12,
+        "id": 14,
         "title": "Technical Support & Website Operations",
         "company": "Vedanta Software",
         "stipend": "\u20b9 2,000 - 5,000 /month",
@@ -96,83 +112,11 @@
         "source": "Internshala"
     },
     {
-        "id": 13,
+        "id": 15,
         "title": "Web Systems & Automation",
         "company": "VFinite",
         "stipend": "\u20b9 10,000 - 20,000 /month",
         "link": "https://internshala.com/internship/detail/web-systems-automation-internship-in-multiple-locations-at-vfinite1780395022",
-        "source": "Internshala"
-    },
-    {
-        "id": 14,
-        "title": "Backend Development",
-        "company": "Rivyoo",
-        "stipend": "\u20b9 20,000 /month",
-        "link": "https://internshala.com/internship/detail/backend-development-internship-in-bangalore-at-rivyoo1781789116",
-        "source": "Internshala"
-    },
-    {
-        "id": 15,
-        "title": "Web Development",
-        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-basti-ki-pathshala-foundation1781786779",
-        "source": "Internshala"
-    },
-    {
-        "id": 16,
-        "title": "Backend Development",
-        "company": "Queens Of Change Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-backend-development-internship-at-queens-of-change-foundation1781785488",
-        "source": "Internshala"
-    },
-    {
-        "id": 17,
-        "title": "Frontend Engineer",
-        "company": "Potens IT Services & Consultancy                        \nActively hiring",
-        "stipend": "\u20b9 15,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/frontend-engineer-internship-in-pune-at-potens-it-services-consultancy1781784736",
-        "source": "Internshala"
-    },
-    {
-        "id": 18,
-        "title": "Autonomous AI Agents Developer",
-        "company": "Amber Flux Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 9,999 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-autonomous-ai-agents-developer-internship-at-amber-flux-private-limited1781784471",
-        "source": "Internshala"
-    },
-    {
-        "id": 19,
-        "title": "AI Web Development",
-        "company": "Queens Of Change Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-queens-of-change-foundation1781783859",
-        "source": "Internshala"
-    },
-    {
-        "id": 20,
-        "title": "Web Development",
-        "company": "NayePankh Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-nayepankh-foundation1781783556",
-        "source": "Internshala"
-    },
-    {
-        "id": 21,
-        "title": "Shopify Developer",
-        "company": "Travellerhive",
-        "stipend": "\u20b9 10,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/shopify-developer-internship-in-almora-at-travellerhive1781783247",
-        "source": "Internshala"
-    },
-    {
-        "id": 22,
-        "title": "Next.js + NestJS Development (Website + Admin Panel)",
-        "company": "HarmonyHub",
-        "stipend": "\u20b9 1,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-nextjs-nestjs-development-website-admin-panel-internship-at-harmonyhub1781781258",
         "source": "Internshala"
     }
 ]
