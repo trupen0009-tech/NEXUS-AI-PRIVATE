@@ -1,150 +1,14 @@
 [
     {
         "id": 1,
-        "title": "AI Web Development",
-        "company": "InAmigos Foundation                        \nActively hiring",
+        "title": "Python Development",
+        "company": "Queens Of Change Foundation                        \nActively hiring",
         "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1782124075",
+        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-queens-of-change-foundation1782202681",
         "source": "Internshala"
     },
     {
         "id": 2,
-        "title": "Software Testing",
-        "company": "Maxgen Technologies Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 5,000 - 12,000 /month",
-        "link": "https://internshala.com/internship/detail/software-testing-internship-in-ahmedabad-at-maxgen-technologies-private-limited1782146274",
-        "source": "Internshala"
-    },
-    {
-        "id": 3,
-        "title": "Java Development",
-        "company": "Queens Of Change Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-queens-of-change-foundation1782130583",
-        "source": "Internshala"
-    },
-    {
-        "id": 4,
-        "title": "Web Development",
-        "company": "Hindustan Times Media Limited                        \nActively hiring",
-        "stipend": "\u20b9 27,000 - 35,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-hindustan-times-media-limited1781670727",
-        "source": "Internshala"
-    },
-    {
-        "id": 5,
-        "title": "WordPress & Shopify Web Development",
-        "company": "Confluencr                        \nActively hiring",
-        "stipend": "\u20b9 12,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/wordpress-shopify-web-development-internship-in-bangalore-at-confluencr1782113329",
-        "source": "Internshala"
-    },
-    {
-        "id": 6,
-        "title": "Software Testing",
-        "company": "Instinct Innovations",
-        "stipend": "\u20b9 12,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/software-testing-internship-in-mumbai-at-instinct-innovations1782137296",
-        "source": "Internshala"
-    },
-    {
-        "id": 7,
-        "title": "Desktop Engineer",
-        "company": "Infolog Solutions Private Limited",
-        "stipend": "\u20b9 8,000 - 8,001 /month",
-        "link": "https://internshala.com/internship/detail/desktop-engineer-internship-in-bangalore-at-infolog-solutions-private-limited1781589746",
-        "source": "Internshala"
-    },
-    {
-        "id": 8,
-        "title": "SAP Cloud Developer - Trainee - Fresher",
-        "company": "CrossOver IT Consulting Services LLP",
-        "stipend": "\u20b9 10,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/sap-cloud-developer-trainee-fresher-internship-in-pondicherry-at-crossover-it-consulting-services-llp1781334552",
-        "source": "Internshala"
-    },
-    {
-        "id": 9,
-        "title": "Technical Support & Website Operations",
-        "company": "Vedanta Software",
-        "stipend": "\u20b9 2,000 - 5,000 /month",
-        "link": "https://internshala.com/internship/detail/technical-support-website-operations-internship-in-bilaspur-at-vedanta-software1780920562",
-        "source": "Internshala"
-    },
-    {
-        "id": 10,
-        "title": "Engineering & Design Internship Program (Frontend, Backend, Full Stack & UI/UX)",
-        "company": "Veloscope",
-        "stipend": "Not provided",
-        "link": "https://internshala.com/internship/detail/engineering-design-internship-program-frontend-backend-full-stack-ui-ux-internship-in-kerala-at-veloscope1782027199",
-        "source": "Internshala"
-    },
-    {
-        "id": 11,
-        "title": "Data Engineer",
-        "company": "Infojini Inc",
-        "stipend": "Not provided",
-        "link": "https://internshala.com/internship/detail/data-engineer-internship-in-nanakramguda-at-infojini-inc1781942296",
-        "source": "Internshala"
-    },
-    {
-        "id": 12,
-        "title": "Python Development",
-        "company": "QuickHyre                        \nActively hiring",
-        "stipend": "\u20b9 40,000 - 75,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-quickhyre1782150150",
-        "source": "Internshala"
-    },
-    {
-        "id": 13,
-        "title": "Software Development",
-        "company": "QuickHyre                        \nActively hiring",
-        "stipend": "\u20b9 50,000 - 70,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-quickhyre1782149881",
-        "source": "Internshala"
-    },
-    {
-        "id": 14,
-        "title": "Python/Django & React Engineering",
-        "company": "The Agency Source                        \nActively hiring",
-        "stipend": "\u20b9 10,000 /month",
-        "link": "https://internshala.com/internship/detail/python-django-react-engineering-internship-in-multiple-locations-at-the-agency-source1782133423",
-        "source": "Internshala"
-    },
-    {
-        "id": 15,
-        "title": "Backend Development",
-        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-basti-ki-pathshala-foundation1782132239",
-        "source": "Internshala"
-    },
-    {
-        "id": 16,
-        "title": "Java Development",
-        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-basti-ki-pathshala-foundation1782130739",
-        "source": "Internshala"
-    },
-    {
-        "id": 17,
-        "title": "Web Development",
-        "company": "NayePankh Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-nayepankh-foundation1782130508",
-        "source": "Internshala"
-    },
-    {
-        "id": 18,
-        "title": "Python Development",
-        "company": "NayePankh Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-nayepankh-foundation1782130444",
-        "source": "Internshala"
-    },
-    {
-        "id": 19,
         "title": "Web And App Developer",
         "company": "RRR                        \nActively hiring",
         "stipend": "\u20b9 4,000 - 6,500 /month",
@@ -152,11 +16,107 @@
         "source": "Internshala"
     },
     {
-        "id": 20,
-        "title": "Software Testing",
-        "company": "Nobrokerage.com",
-        "stipend": "\u20b9 8,000 - 12,000 /month",
-        "link": "https://internshala.com/internship/detail/software-testing-internship-in-pune-at-nobrokeragecom1782120254",
+        "id": 3,
+        "title": "AI Web Development",
+        "company": "InAmigos Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1782124075",
+        "source": "Internshala"
+    },
+    {
+        "id": 4,
+        "title": "Software Development",
+        "company": "Queens Of Change Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-part-time-software-development-internship-at-queens-of-change-foundation1782189894",
+        "source": "Internshala"
+    },
+    {
+        "id": 5,
+        "title": "Java Development",
+        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-basti-ki-pathshala-foundation1782130739",
+        "source": "Internshala"
+    },
+    {
+        "id": 6,
+        "title": "Backend Development",
+        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-basti-ki-pathshala-foundation1782132239",
+        "source": "Internshala"
+    },
+    {
+        "id": 7,
+        "title": "Web Development",
+        "company": "Hindustan Times Media Limited                        \nActively hiring",
+        "stipend": "\u20b9 27,000 - 35,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-hindustan-times-media-limited1781670727",
+        "source": "Internshala"
+    },
+    {
+        "id": 8,
+        "title": "Backend Development",
+        "company": "Agile Vortex Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 9,000 - 26,000 /month",
+        "link": "https://internshala.com/internship/detail/backend-development-internship-in-multiple-locations-at-agile-vortex-private-limited1782223784",
+        "source": "Internshala"
+    },
+    {
+        "id": 9,
+        "title": "Software Development Engineering (Web)",
+        "company": "Internshala                        \nActively hiring",
+        "stipend": "\u20b9 18,000 /month",
+        "link": "https://internshala.com/internship/detail/software-development-engineering-web-internship-in-gurgaon-at-internshala1782218513",
+        "source": "Internshala"
+    },
+    {
+        "id": 10,
+        "title": "Software QA Tester",
+        "company": "Brain Quest                        \nActively hiring",
+        "stipend": "\u20b9 5,000 - 8,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-qa-tester-internship-at-brain-quest1782218628",
+        "source": "Internshala"
+    },
+    {
+        "id": 11,
+        "title": "Application Engineer",
+        "company": "Senso Vision System                        \nActively hiring",
+        "stipend": "\u20b9 5,000 - 10,000 /month",
+        "link": "https://internshala.com/internship/detail/application-engineer-internship-in-bangalore-at-senso-vision-system1782197613",
+        "source": "Internshala"
+    },
+    {
+        "id": 12,
+        "title": "Desktop Engineer",
+        "company": "Infolog Solutions Private Limited",
+        "stipend": "\u20b9 8,000 - 8,001 /month",
+        "link": "https://internshala.com/internship/detail/desktop-engineer-internship-in-bangalore-at-infolog-solutions-private-limited1781589746",
+        "source": "Internshala"
+    },
+    {
+        "id": 13,
+        "title": "SAP Cloud Developer - Trainee - Fresher",
+        "company": "CrossOver IT Consulting Services LLP",
+        "stipend": "\u20b9 10,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/sap-cloud-developer-trainee-fresher-internship-in-pondicherry-at-crossover-it-consulting-services-llp1781334552",
+        "source": "Internshala"
+    },
+    {
+        "id": 14,
+        "title": "Technical Support & Website Operations",
+        "company": "Vedanta Software",
+        "stipend": "\u20b9 2,000 - 5,000 /month",
+        "link": "https://internshala.com/internship/detail/technical-support-website-operations-internship-in-bilaspur-at-vedanta-software1780920562",
+        "source": "Internshala"
+    },
+    {
+        "id": 15,
+        "title": "Engineering & Design Internship Program (Frontend, Backend, Full Stack & UI/UX)",
+        "company": "Veloscope",
+        "stipend": "Not provided",
+        "link": "https://internshala.com/internship/detail/engineering-design-internship-program-frontend-backend-full-stack-ui-ux-internship-in-kerala-at-veloscope1782027199",
         "source": "Internshala"
     }
 ]
