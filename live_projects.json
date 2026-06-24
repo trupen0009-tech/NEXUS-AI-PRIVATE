@@ -1,22 +1,46 @@
 [
     {
         "id": 1,
-        "title": "Software Testing",
-        "company": "APEX I SOFT TECHNOLOGIES PRIVATE LIMITED                        \nActively hiring",
-        "stipend": "\u20b9 15,000 - 25,000 /month",
-        "link": "https://internshala.com/internship/detail/software-testing-internship-in-bangalore-at-apex-i-soft-technologies-private-limited1782245978",
+        "title": "Software Development",
+        "company": "YPP MyKiranaHub                        \nActively hiring",
+        "stipend": "\u20b9 4,000 - 7,000 /month",
+        "link": "https://internshala.com/internship/detail/software-development-internship-in-multiple-locations-at-ypp-mykiranahub1782306314",
         "source": "Internshala"
     },
     {
         "id": 2,
-        "title": "Software Development",
-        "company": "APEX I SOFT TECHNOLOGIES PRIVATE LIMITED                        \nActively hiring",
-        "stipend": "\u20b9 15,000 - 25,000 /month",
-        "link": "https://internshala.com/internship/detail/software-development-internship-in-bangalore-at-apex-i-soft-technologies-private-limited1782245916",
+        "title": "Web Development",
+        "company": "Queens Of Change Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-queens-of-change-foundation1782281959",
         "source": "Internshala"
     },
     {
         "id": 3,
+        "title": "AI Web Development",
+        "company": "InAmigos Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1782124075",
+        "source": "Internshala"
+    },
+    {
+        "id": 4,
+        "title": "Java Development",
+        "company": "NayePankh Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-nayepankh-foundation1782202934",
+        "source": "Internshala"
+    },
+    {
+        "id": 5,
+        "title": "AI Logistics Automation & Tracking (Python/Backend)",
+        "company": "Allygrin Pharma Private Limited",
+        "stipend": "\u20b9 5,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-ai-logistics-automation-tracking-python-backend-internship-at-allygrin-pharma-private-limited1782283841",
+        "source": "Internshala"
+    },
+    {
+        "id": 6,
         "title": "Web Development",
         "company": "Hindustan Times Media Limited                        \nActively hiring",
         "stipend": "\u20b9 27,000 - 35,000 /month",
@@ -24,15 +48,39 @@
         "source": "Internshala"
     },
     {
-        "id": 4,
-        "title": "Software Development",
-        "company": "Signzy                        \nActively hiring",
-        "stipend": "\u20b9 30,000 - 35,000 /month",
-        "link": "https://internshala.com/internship/detail/software-development-internship-in-bangalore-at-signzy1782217576",
+        "id": 7,
+        "title": "MERN Stack Web Developer",
+        "company": "Requin Solutions Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 10,000 /month",
+        "link": "https://internshala.com/internship/detail/mern-stack-web-developer-internship-in-jaipur-at-requin-solutions-private-limited1782300487",
         "source": "Internshala"
     },
     {
-        "id": 5,
+        "id": 8,
+        "title": "Software Development",
+        "company": "OBLYTECH INDIA PRIVATE LIMITED                        \nActively hiring",
+        "stipend": "\u20b9 10,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-oblytech-india-private-limited1782308316",
+        "source": "Internshala"
+    },
+    {
+        "id": 9,
+        "title": "Rust Developer",
+        "company": "Signzy                        \nActively hiring",
+        "stipend": "\u20b9 35,000 - 40,000 /month",
+        "link": "https://internshala.com/internship/detail/rust-developer-internship-in-bangalore-at-signzy1782305724",
+        "source": "Internshala"
+    },
+    {
+        "id": 10,
+        "title": "Software Testing",
+        "company": "APEX I SOFT TECHNOLOGIES PRIVATE LIMITED                        \nActively hiring",
+        "stipend": "\u20b9 15,000 - 25,000 /month",
+        "link": "https://internshala.com/internship/detail/software-testing-internship-in-bangalore-at-apex-i-soft-technologies-private-limited1782245978",
+        "source": "Internshala"
+    },
+    {
+        "id": 11,
         "title": "Mobile SDK Developer",
         "company": "Signzy                        \nActively hiring",
         "stipend": "\u20b9 35,000 - 40,000 /month",
@@ -40,7 +88,7 @@
         "source": "Internshala"
     },
     {
-        "id": 6,
+        "id": 12,
         "title": "Application Engineer",
         "company": "Senso Vision System                        \nActively hiring",
         "stipend": "\u20b9 5,000 - 10,000 /month",
@@ -48,7 +96,15 @@
         "source": "Internshala"
     },
     {
-        "id": 7,
+        "id": 13,
+        "title": "Web Development",
+        "company": "Style Yard Co",
+        "stipend": "\u20b9 10,000 - 12,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-belgaum-at-style-yard-co1782298882",
+        "source": "Internshala"
+    },
+    {
+        "id": 14,
         "title": "Desktop Engineer",
         "company": "Infolog Solutions Private Limited",
         "stipend": "\u20b9 8,000 - 8,001 /month",
@@ -56,7 +112,7 @@
         "source": "Internshala"
     },
     {
-        "id": 8,
+        "id": 15,
         "title": "SAP Cloud Developer - Trainee - Fresher",
         "company": "CrossOver IT Consulting Services LLP",
         "stipend": "\u20b9 10,000 - 15,000 /month",
@@ -64,43 +120,11 @@
         "source": "Internshala"
     },
     {
-        "id": 9,
+        "id": 16,
         "title": "Technical Support & Website Operations",
         "company": "Vedanta Software",
         "stipend": "\u20b9 2,000 - 5,000 /month",
         "link": "https://internshala.com/internship/detail/technical-support-website-operations-internship-in-bilaspur-at-vedanta-software1780920562",
-        "source": "Internshala"
-    },
-    {
-        "id": 10,
-        "title": "Backend Development",
-        "company": "Agile Vortex Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 9,000 - 26,000 /month",
-        "link": "https://internshala.com/internship/detail/backend-development-internship-in-multiple-locations-at-agile-vortex-private-limited1782223784",
-        "source": "Internshala"
-    },
-    {
-        "id": 11,
-        "title": "Software QA Tester",
-        "company": "Brain Quest                        \nActively hiring",
-        "stipend": "\u20b9 5,000 - 8,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-qa-tester-internship-at-brain-quest1782218628",
-        "source": "Internshala"
-    },
-    {
-        "id": 12,
-        "title": "Software Development Engineering (Web)",
-        "company": "Internshala                        \nActively hiring",
-        "stipend": "\u20b9 18,000 /month",
-        "link": "https://internshala.com/internship/detail/software-development-engineering-web-internship-in-gurgaon-at-internshala1782218513",
-        "source": "Internshala"
-    },
-    {
-        "id": 13,
-        "title": "Web Development",
-        "company": "She Can Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-she-can-foundation1782204946",
         "source": "Internshala"
     }
 ]
