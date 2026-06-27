@@ -1,22 +1,6 @@
 [
     {
         "id": 1,
-        "title": "MERN Stack Web Developer",
-        "company": "Requin Solutions Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 10,000 /month",
-        "link": "https://internshala.com/internship/detail/mern-stack-web-developer-internship-in-jaipur-at-requin-solutions-private-limited1782300487",
-        "source": "Internshala"
-    },
-    {
-        "id": 2,
-        "title": "Java Development",
-        "company": "Queens Of Change Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-queens-of-change-foundation1782384419",
-        "source": "Internshala"
-    },
-    {
-        "id": 3,
         "title": "AI Web Development",
         "company": "InAmigos Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -24,79 +8,15 @@
         "source": "Internshala"
     },
     {
-        "id": 4,
-        "title": "Java Development",
-        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-basti-ki-pathshala-foundation1782475424",
+        "id": 2,
+        "title": "MERN Stack Web Developer",
+        "company": "Requin Solutions Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 10,000 /month",
+        "link": "https://internshala.com/internship/detail/mern-stack-web-developer-internship-in-jaipur-at-requin-solutions-private-limited1782300487",
         "source": "Internshala"
     },
     {
-        "id": 5,
-        "title": "Web Development",
-        "company": "Hindustan Times Media Limited                        \nActively hiring",
-        "stipend": "\u20b9 27,000 - 35,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-hindustan-times-media-limited1781670727",
-        "source": "Internshala"
-    },
-    {
-        "id": 6,
-        "title": "Rust Developer",
-        "company": "Signzy                        \nActively hiring",
-        "stipend": "\u20b9 35,000 - 40,000 /month",
-        "link": "https://internshala.com/internship/detail/rust-developer-internship-in-bangalore-at-signzy1782387000",
-        "source": "Internshala"
-    },
-    {
-        "id": 7,
-        "title": "SAP Cloud Developer - Trainee - Fresher",
-        "company": "CrossOver IT Consulting Services LLP",
-        "stipend": "\u20b9 10,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/sap-cloud-developer-trainee-fresher-internship-in-pondicherry-at-crossover-it-consulting-services-llp1781334552",
-        "source": "Internshala"
-    },
-    {
-        "id": 8,
-        "title": "Technical Support & Website Operations",
-        "company": "Vedanta Software",
-        "stipend": "\u20b9 2,000 - 5,000 /month",
-        "link": "https://internshala.com/internship/detail/technical-support-website-operations-internship-in-bilaspur-at-vedanta-software1780920562",
-        "source": "Internshala"
-    },
-    {
-        "id": 9,
-        "title": "Front-end Intern (Webflow/WordPress)",
-        "company": "Onlee - UI/UX & Webflow Agency",
-        "stipend": "Not provided",
-        "link": "https://internshala.com/internship/detail/front-end-intern-webflow-wordpress-internship-in-rajkot-at-onlee-ui-ux-webflow-agency1782373103",
-        "source": "Internshala"
-    },
-    {
-        "id": 10,
-        "title": "Web Development",
-        "company": "Guide O Buzz",
-        "stipend": "\u20b9 5,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-chetna-sharma1782476966",
-        "source": "Internshala"
-    },
-    {
-        "id": 11,
-        "title": "Python Development",
-        "company": "NayePankh Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-nayepankh-foundation1782475014",
-        "source": "Internshala"
-    },
-    {
-        "id": 12,
-        "title": "Web Development",
-        "company": "NayePankh Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-nayepankh-foundation1782474902",
-        "source": "Internshala"
-    },
-    {
-        "id": 13,
+        "id": 3,
         "title": "Software Development",
         "company": "Queens Of Change Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -104,39 +24,63 @@
         "source": "Internshala"
     },
     {
-        "id": 14,
+        "id": 4,
         "title": "Web Development",
-        "company": "GOOD DOPAMINE TECHNOLOGIES PRIVATE LIMITED",
-        "stipend": "\u20b9 3,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-good-dopamine-technologies-private-limited1782474473",
+        "company": "Hindustan Times Media Limited                        \nActively hiring",
+        "stipend": "\u20b9 27,000 - 35,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-hindustan-times-media-limited1781670727",
         "source": "Internshala"
     },
     {
-        "id": 15,
-        "title": "Frontend Engineering (React / Next.js)",
-        "company": "Ziantrix AI Technologies Private Limited",
-        "stipend": "\u20b9 3,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-frontend-engineering-react-nextjs-internship-at-ziantrix-ai-technologies-private-limited1782473829",
+        "id": 5,
+        "title": "Python Development",
+        "company": "Infoware                        \nActively hiring",
+        "stipend": "\u20b9 5,000 - 10,000 /month",
+        "link": "https://internshala.com/internship/detail/python-development-internship-in-ahmedabad-at-infoware1782487020",
         "source": "Internshala"
     },
     {
-        "id": 16,
-        "title": "AI Engineering",
-        "company": "RIOM Ventures",
-        "stipend": "\u20b9 6,500 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-ai-engineering-internship-at-riom-ventures1782473522",
+        "id": 6,
+        "title": "SAP Cloud Developer - Trainee - Fresher",
+        "company": "CrossOver IT Consulting Services LLP",
+        "stipend": "\u20b9 10,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/sap-cloud-developer-trainee-fresher-internship-in-pondicherry-at-crossover-it-consulting-services-llp1781334552",
         "source": "Internshala"
     },
     {
-        "id": 17,
-        "title": "Software Testing",
-        "company": "Arboura",
-        "stipend": "\u20b9 15,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-software-testing-internship-at-arboura1782473483",
+        "id": 7,
+        "title": "Technical Support & Website Operations",
+        "company": "Vedanta Software",
+        "stipend": "\u20b9 2,000 - 5,000 /month",
+        "link": "https://internshala.com/internship/detail/technical-support-website-operations-internship-in-bilaspur-at-vedanta-software1780920562",
         "source": "Internshala"
     },
     {
-        "id": 18,
+        "id": 8,
+        "title": "Java Development",
+        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-basti-ki-pathshala-foundation1782475424",
+        "source": "Internshala"
+    },
+    {
+        "id": 9,
+        "title": "Python Development",
+        "company": "NayePankh Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-nayepankh-foundation1782475014",
+        "source": "Internshala"
+    },
+    {
+        "id": 10,
+        "title": "Web Development",
+        "company": "NayePankh Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-nayepankh-foundation1782474902",
+        "source": "Internshala"
+    },
+    {
+        "id": 11,
         "title": "Zoho Developer",
         "company": "InsightCrew",
         "stipend": "\u20b9 5,000 - 6,000 /month",
@@ -144,7 +88,7 @@
         "source": "Internshala"
     },
     {
-        "id": 19,
+        "id": 12,
         "title": "Web Development",
         "company": "K2S2 Digistrat Solutions Private Limited",
         "stipend": "\u20b9 5,000 /month",
@@ -152,7 +96,7 @@
         "source": "Internshala"
     },
     {
-        "id": 20,
+        "id": 13,
         "title": "AI Engineer",
         "company": "The Inventar",
         "stipend": "\u20b9 7,000 - 12,000 /month",
@@ -160,7 +104,7 @@
         "source": "Internshala"
     },
     {
-        "id": 21,
+        "id": 14,
         "title": "Java Development",
         "company": "TwiLearn EduTech Private Limited                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 20,000 /month",
@@ -168,11 +112,27 @@
         "source": "Internshala"
     },
     {
-        "id": 22,
+        "id": 15,
         "title": "Python Development",
         "company": "TwiLearn EduTech Private Limited                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 20,000 /month",
         "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-twilearn-edutech-private-limited1782452440",
+        "source": "Internshala"
+    },
+    {
+        "id": 16,
+        "title": "Web Development",
+        "company": "TwiLearn EduTech Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-twilearn-edutech-private-limited1782452138",
+        "source": "Internshala"
+    },
+    {
+        "id": 17,
+        "title": "Software Developer \u2013 Dashboard, AI/LLM & Automation",
+        "company": "Metnmat Research                        \nActively hiring",
+        "stipend": "\u20b9 20,000 - 25,000 /month",
+        "link": "https://internshala.com/internship/detail/software-developer--dashboard-ai-llm-automation-internship-in-howrah-at-metnmat-research1782449160",
         "source": "Internshala"
     }
 ]
