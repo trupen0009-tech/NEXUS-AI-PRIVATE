@@ -1,10 +1,10 @@
 [
     {
         "id": 1,
-        "title": "AI Web Development",
-        "company": "InAmigos Foundation                        \nActively hiring",
+        "title": "Backend Development",
+        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
         "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1782469658",
+        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-basti-ki-pathshala-foundation1782554662",
         "source": "Internshala"
     },
     {
@@ -17,6 +17,14 @@
     },
     {
         "id": 3,
+        "title": "AI Web Development",
+        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-basti-ki-pathshala-foundation1782555383",
+        "source": "Internshala"
+    },
+    {
+        "id": 4,
         "title": "Software Development",
         "company": "Queens Of Change Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -24,7 +32,15 @@
         "source": "Internshala"
     },
     {
-        "id": 4,
+        "id": 5,
+        "title": "AI Web Development",
+        "company": "InAmigos Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1782469658",
+        "source": "Internshala"
+    },
+    {
+        "id": 6,
         "title": "Web Development",
         "company": "Hindustan Times Media Limited                        \nActively hiring",
         "stipend": "\u20b9 27,000 - 35,000 /month",
@@ -32,15 +48,15 @@
         "source": "Internshala"
     },
     {
-        "id": 5,
-        "title": "Python Development",
-        "company": "Infoware                        \nActively hiring",
-        "stipend": "\u20b9 5,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/python-development-internship-in-ahmedabad-at-infoware1782487020",
+        "id": 7,
+        "title": "Web Development",
+        "company": "Tcongs Infotech",
+        "stipend": "\u20b9 4,500 - 5,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-vijay-gupta1782566254",
         "source": "Internshala"
     },
     {
-        "id": 6,
+        "id": 8,
         "title": "SAP Cloud Developer - Trainee - Fresher",
         "company": "CrossOver IT Consulting Services LLP",
         "stipend": "\u20b9 10,000 - 15,000 /month",
@@ -48,7 +64,7 @@
         "source": "Internshala"
     },
     {
-        "id": 7,
+        "id": 9,
         "title": "Technical Support & Website Operations",
         "company": "Vedanta Software",
         "stipend": "\u20b9 2,000 - 5,000 /month",
@@ -56,7 +72,55 @@
         "source": "Internshala"
     },
     {
-        "id": 8,
+        "id": 10,
+        "title": "Flutter Engineering Intern",
+        "company": "Aitainment",
+        "stipend": "Not provided",
+        "link": "https://internshala.com/internship/detail/flutter-engineering-intern-internship-in-bangalore-at-aitainment1782551531",
+        "source": "Internshala"
+    },
+    {
+        "id": 11,
+        "title": "Software Development",
+        "company": "Innovination",
+        "stipend": "\u20b9 3,000 - 5,000 /month",
+        "link": "https://internshala.com/internship/detail/software-development-internship-in-kolkata-at-innovination1782547896",
+        "source": "Internshala"
+    },
+    {
+        "id": 12,
+        "title": "Java Development",
+        "company": "Cloud Back                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-cloud-back1782538480",
+        "source": "Internshala"
+    },
+    {
+        "id": 13,
+        "title": "Web Development",
+        "company": "Cloud Back                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 25,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-cloud-back1782538638",
+        "source": "Internshala"
+    },
+    {
+        "id": 14,
+        "title": "Python Development",
+        "company": "Cloud Back                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-cloud-back1782538004",
+        "source": "Internshala"
+    },
+    {
+        "id": 15,
+        "title": "Python Development",
+        "company": "Infoware                        \nActively hiring",
+        "stipend": "\u20b9 5,000 - 10,000 /month",
+        "link": "https://internshala.com/internship/detail/python-development-internship-in-ahmedabad-at-infoware1782487020",
+        "source": "Internshala"
+    },
+    {
+        "id": 16,
         "title": "Java Development",
         "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -64,75 +128,11 @@
         "source": "Internshala"
     },
     {
-        "id": 9,
+        "id": 17,
         "title": "Python Development",
         "company": "NayePankh Foundation                        \nActively hiring",
         "stipend": "Unpaid",
         "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-nayepankh-foundation1782475014",
-        "source": "Internshala"
-    },
-    {
-        "id": 10,
-        "title": "Web Development",
-        "company": "NayePankh Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-nayepankh-foundation1782474902",
-        "source": "Internshala"
-    },
-    {
-        "id": 11,
-        "title": "Zoho Developer",
-        "company": "InsightCrew",
-        "stipend": "\u20b9 5,000 - 6,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-zoho-developer-internship-at-insightcrew1782456860",
-        "source": "Internshala"
-    },
-    {
-        "id": 12,
-        "title": "Web Development",
-        "company": "K2S2 Digistrat Solutions Private Limited",
-        "stipend": "\u20b9 5,000 /month",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-mumbai-at-k2s2-digistrat-solutions-private-limited1782455487",
-        "source": "Internshala"
-    },
-    {
-        "id": 13,
-        "title": "AI Engineer",
-        "company": "The Inventar",
-        "stipend": "\u20b9 7,000 - 12,000 /month",
-        "link": "https://internshala.com/internship/detail/ai-engineer-internship-in-mohali-at-the-inventar1782456720",
-        "source": "Internshala"
-    },
-    {
-        "id": 14,
-        "title": "Java Development",
-        "company": "TwiLearn EduTech Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-twilearn-edutech-private-limited1782452479",
-        "source": "Internshala"
-    },
-    {
-        "id": 15,
-        "title": "Python Development",
-        "company": "TwiLearn EduTech Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-twilearn-edutech-private-limited1782452440",
-        "source": "Internshala"
-    },
-    {
-        "id": 16,
-        "title": "Web Development",
-        "company": "TwiLearn EduTech Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-twilearn-edutech-private-limited1782452138",
-        "source": "Internshala"
-    },
-    {
-        "id": 17,
-        "title": "Software Developer \u2013 Dashboard, AI/LLM & Automation",
-        "company": "Metnmat Research                        \nActively hiring",
-        "stipend": "\u20b9 20,000 - 25,000 /month",
-        "link": "https://internshala.com/internship/detail/software-developer--dashboard-ai-llm-automation-internship-in-howrah-at-metnmat-research1782449160",
         "source": "Internshala"
     }
 ]
