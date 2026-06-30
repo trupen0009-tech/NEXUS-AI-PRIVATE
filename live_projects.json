@@ -9,14 +9,6 @@
     },
     {
         "id": 2,
-        "title": "Web Development",
-        "company": "NayePankh Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-nayepankh-foundation1782474902",
-        "source": "Internshala"
-    },
-    {
-        "id": 3,
         "title": "Infrastructure Engineer",
         "company": "Roman Network Private Limited                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 12,000 /month",
@@ -24,7 +16,7 @@
         "source": "Internshala"
     },
     {
-        "id": 4,
+        "id": 3,
         "title": "AI Web Development",
         "company": "InAmigos Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -32,23 +24,7 @@
         "source": "Internshala"
     },
     {
-        "id": 5,
-        "title": "Python Development",
-        "company": "NayePankh Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-nayepankh-foundation1782475014",
-        "source": "Internshala"
-    },
-    {
-        "id": 6,
-        "title": "Web Development",
-        "company": "Hindustan Times Media Limited                        \nActively hiring",
-        "stipend": "\u20b9 27,000 - 35,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-hindustan-times-media-limited1781670727",
-        "source": "Internshala"
-    },
-    {
-        "id": 7,
+        "id": 4,
         "title": "Data Collection & Annotation",
         "company": "ConsultBae                        \nActively hiring",
         "stipend": "\u20b9 8,000 - 10,000 /month",
@@ -56,31 +32,15 @@
         "source": "Internshala"
     },
     {
-        "id": 8,
-        "title": "Software Development",
-        "company": "Signzy                        \nActively hiring",
-        "stipend": "\u20b9 30,000 - 35,000 /month",
-        "link": "https://internshala.com/internship/detail/software-development-internship-in-bangalore-at-signzy1782723989",
+        "id": 5,
+        "title": "Web Development",
+        "company": "Hindustan Times Media Limited                        \nActively hiring",
+        "stipend": "\u20b9 27,000 - 35,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-hindustan-times-media-limited1781670727",
         "source": "Internshala"
     },
     {
-        "id": 9,
-        "title": "AI/ML Inference Kernel Engineer",
-        "company": "Hubnine India Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 25,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-ai-ml-inference-kernel-engineer-internship-at-hubnine-india-private-limited1782724215",
-        "source": "Internshala"
-    },
-    {
-        "id": 10,
-        "title": "Unity Game Developer",
-        "company": "KIDLOLAND KIDS & TODDLER GAMES PRIVATE LIMITED                        \nActively hiring",
-        "stipend": "\u20b9 8,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-unity-game-developer-internship-at-kidloland-kids-toddler-games-private-limited1782712126",
-        "source": "Internshala"
-    },
-    {
-        "id": 11,
+        "id": 6,
         "title": "SAP Cloud Developer - Trainee - Fresher",
         "company": "CrossOver IT Consulting Services LLP",
         "stipend": "\u20b9 10,000 - 15,000 /month",
@@ -88,7 +48,7 @@
         "source": "Internshala"
     },
     {
-        "id": 12,
+        "id": 7,
         "title": "Technical Support & Website Operations",
         "company": "Vedanta Software",
         "stipend": "\u20b9 2,000 - 5,000 /month",
@@ -96,7 +56,15 @@
         "source": "Internshala"
     },
     {
-        "id": 13,
+        "id": 8,
+        "title": "Software Testing",
+        "company": "HyprForge",
+        "stipend": "\u20b9 10,000 - 12,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-testing-internship-at-hyprforge1782773549",
+        "source": "Internshala"
+    },
+    {
+        "id": 9,
         "title": "ReactJS / Python Developer",
         "company": "Shrimayanand Research And Innovation( Pvt. Ltd )",
         "stipend": "\u20b9 6,000 - 10,000 /month",
@@ -104,15 +72,7 @@
         "source": "Internshala"
     },
     {
-        "id": 14,
-        "title": "Software Testing",
-        "company": "BYOJ",
-        "stipend": "\u20b9 1,000 - 1,500 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-testing-internship-at-byoj1782735921",
-        "source": "Internshala"
-    },
-    {
-        "id": 15,
+        "id": 10,
         "title": "Web Development",
         "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -120,7 +80,7 @@
         "source": "Internshala"
     },
     {
-        "id": 16,
+        "id": 11,
         "title": "Software Testing",
         "company": "Enlight Lab                        \nActively hiring",
         "stipend": "\u20b9 5,000 - 7,000 /month",
@@ -128,7 +88,7 @@
         "source": "Internshala"
     },
     {
-        "id": 17,
+        "id": 12,
         "title": "Java Development",
         "company": "NayePankh Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -136,7 +96,7 @@
         "source": "Internshala"
     },
     {
-        "id": 18,
+        "id": 13,
         "title": "Software Development Engineering (Web)",
         "company": "Pixfirst",
         "stipend": "\u20b9 25,000 /month",
@@ -144,19 +104,51 @@
         "source": "Internshala"
     },
     {
-        "id": 19,
-        "title": "Web Development  (WordPress & AI Specialist)",
-        "company": "Nikharv Consultancy",
-        "stipend": "\u20b9 7,000 - 22,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-web-development-wordpress-ai-specialist-internship-at-nikharv-consultancy1782727323",
+        "id": 14,
+        "title": "AI/ML Inference Kernel Engineer",
+        "company": "Hubnine India Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 25,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-ai-ml-inference-kernel-engineer-internship-at-hubnine-india-private-limited1782724215",
         "source": "Internshala"
     },
     {
-        "id": 20,
-        "title": "Web Development",
-        "company": "Cybrexus Technology",
-        "stipend": "\u20b9 1,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-cybrexus-technology1782727011",
+        "id": 15,
+        "title": "Software Development",
+        "company": "Signzy                        \nActively hiring",
+        "stipend": "\u20b9 30,000 - 35,000 /month",
+        "link": "https://internshala.com/internship/detail/software-development-internship-in-bangalore-at-signzy1782723989",
+        "source": "Internshala"
+    },
+    {
+        "id": 16,
+        "title": "Developer",
+        "company": "Argmac                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/developer-internship-in-multiple-locations-at-argmac1782717306",
+        "source": "Internshala"
+    },
+    {
+        "id": 17,
+        "title": "Backend Development",
+        "company": "CII-Model Career Center",
+        "stipend": "\u20b9 4,000 - 5,000 /month",
+        "link": "https://internshala.com/internship/detail/backend-development-internship-in-mumbai-at-cii-model-career-center1782709519",
+        "source": "Internshala"
+    },
+    {
+        "id": 18,
+        "title": "Backend Development",
+        "company": "Reducate.ai                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-reducateai1782713839",
+        "source": "Internshala"
+    },
+    {
+        "id": 19,
+        "title": "Unity Game Developer",
+        "company": "KIDLOLAND KIDS & TODDLER GAMES PRIVATE LIMITED                        \nActively hiring",
+        "stipend": "\u20b9 8,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-unity-game-developer-internship-at-kidloland-kids-toddler-games-private-limited1782712126",
         "source": "Internshala"
     }
 ]
