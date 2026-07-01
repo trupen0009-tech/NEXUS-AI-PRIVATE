@@ -1,22 +1,6 @@
 [
     {
         "id": 1,
-        "title": "Software Testing",
-        "company": "Assetcues Solutions Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 5,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/software-testing-internship-in-pune-at-assetcues-solutions-private-limited1782630198",
-        "source": "Internshala"
-    },
-    {
-        "id": 2,
-        "title": "Developer Of Automation Tools",
-        "company": "Jaishil Sulphur And Chemical Industries                        \nActively hiring",
-        "stipend": "\u20b9 3,000 - 5,000 /month",
-        "link": "https://internshala.com/internship/detail/part-time-developer-of-automation-tools-internship-in-mumbai-at-jaishil-sulphur-and-chemical-industries1782798156",
-        "source": "Internshala"
-    },
-    {
-        "id": 3,
         "title": "Infrastructure Engineer",
         "company": "Roman Network Private Limited                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 12,000 /month",
@@ -24,7 +8,31 @@
         "source": "Internshala"
     },
     {
+        "id": 2,
+        "title": "Business Analyst (Legal & Data)",
+        "company": "Creating Minds                        \nActively hiring",
+        "stipend": "\u20b9 8,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/business-analyst-legal-data-internship-in-bangalore-at-creating-minds1782900237",
+        "source": "Internshala"
+    },
+    {
+        "id": 3,
+        "title": "Web Development",
+        "company": "NayePankh Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-part-time-web-development-internship-at-nayepankh-foundation1782902846",
+        "source": "Internshala"
+    },
+    {
         "id": 4,
+        "title": "Software Development Engineering (Web)",
+        "company": "Internshala                        \nActively hiring",
+        "stipend": "\u20b9 18,000 /month",
+        "link": "https://internshala.com/internship/detail/software-development-engineering-web-internship-in-gurgaon-at-internshala1782909807",
+        "source": "Internshala"
+    },
+    {
+        "id": 5,
         "title": "AI Engineer (Agents & Orchestration)",
         "company": "Webbybutter Technologies                        \nActively hiring",
         "stipend": "\u20b9 5,000 - 15,000 /month",
@@ -32,23 +40,7 @@
         "source": "Internshala"
     },
     {
-        "id": 5,
-        "title": "Software Development",
-        "company": "Tactical Response Automation Pvt. Ltd.                        \nActively hiring",
-        "stipend": "\u20b9 5,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/software-development-internship-in-noida-at-tactical-response-automation-pvt-ltd1782818418",
-        "source": "Internshala"
-    },
-    {
         "id": 6,
-        "title": "Video & Website Editor",
-        "company": "Tactical Response Automation Pvt. Ltd.                        \nActively hiring",
-        "stipend": "\u20b9 5,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/video-website-editor-internship-in-noida-at-tactical-response-automation-pvt-ltd1782818325",
-        "source": "Internshala"
-    },
-    {
-        "id": 7,
         "title": "Web Development",
         "company": "Hindustan Times Media Limited                        \nActively hiring",
         "stipend": "\u20b9 27,000 - 35,000 /month",
@@ -56,15 +48,63 @@
         "source": "Internshala"
     },
     {
+        "id": 7,
+        "title": "Developer Of Automation Tools",
+        "company": "Jaishil Sulphur And Chemical Industries                        \nActively hiring",
+        "stipend": "\u20b9 3,000 - 5,000 /month",
+        "link": "https://internshala.com/internship/detail/part-time-developer-of-automation-tools-internship-in-mumbai-at-jaishil-sulphur-and-chemical-industries1782798156",
+        "source": "Internshala"
+    },
+    {
         "id": 8,
-        "title": "Food Processing Engineering",
-        "company": "Calpro Food Essentials Private Limited",
-        "stipend": "\u20b9 18,000 - 21,000 /month",
-        "link": "https://internshala.com/internship/detail/food-processing-engineering-internship-in-multiple-locations-at-calpro-food-essentials-private-limited1782820334",
+        "title": "Software Testing",
+        "company": "Assetcues Solutions Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 5,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/software-testing-internship-in-pune-at-assetcues-solutions-private-limited1782630198",
         "source": "Internshala"
     },
     {
         "id": 9,
+        "title": "Video & Website Editor",
+        "company": "Tactical Response Automation Pvt. Ltd.                        \nActively hiring",
+        "stipend": "\u20b9 5,000 - 10,000 /month",
+        "link": "https://internshala.com/internship/detail/video-website-editor-internship-in-noida-at-tactical-response-automation-pvt-ltd1782818325",
+        "source": "Internshala"
+    },
+    {
+        "id": 10,
+        "title": "Software Development",
+        "company": "Tactical Response Automation Pvt. Ltd.                        \nActively hiring",
+        "stipend": "\u20b9 5,000 - 10,000 /month",
+        "link": "https://internshala.com/internship/detail/software-development-internship-in-noida-at-tactical-response-automation-pvt-ltd1782818418",
+        "source": "Internshala"
+    },
+    {
+        "id": 11,
+        "title": "Web Development",
+        "company": "Zytexa Technology Llp",
+        "stipend": "\u20b9 3,000 - 5,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-jaipur-at-zytexa-technology-llp1782905321",
+        "source": "Internshala"
+    },
+    {
+        "id": 12,
+        "title": "Software Development Engineering (Web)",
+        "company": "Numetix AI",
+        "stipend": "\u20b9 5,000 - 7,500 /month",
+        "link": "https://internshala.com/internship/detail/software-development-engineering-web-internship-in-mohali-at-numetix-ai1782904418",
+        "source": "Internshala"
+    },
+    {
+        "id": 13,
+        "title": "Shopify Developer",
+        "company": "Better Industries",
+        "stipend": "\u20b9 12,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/shopify-developer-internship-in-gurgaon-at-better-industries1782910392",
+        "source": "Internshala"
+    },
+    {
+        "id": 14,
         "title": "SAP Cloud Developer - Trainee - Fresher",
         "company": "CrossOver IT Consulting Services LLP",
         "stipend": "\u20b9 10,000 - 15,000 /month",
@@ -72,7 +112,7 @@
         "source": "Internshala"
     },
     {
-        "id": 10,
+        "id": 15,
         "title": "Technical Support & Website Operations",
         "company": "Vedanta Software",
         "stipend": "\u20b9 2,000 - 5,000 /month",
@@ -80,75 +120,11 @@
         "source": "Internshala"
     },
     {
-        "id": 11,
+        "id": 16,
         "title": "Web Development",
-        "company": "Cloud Back                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 25,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-cloud-back1782877056",
-        "source": "Internshala"
-    },
-    {
-        "id": 12,
-        "title": "Python Development",
-        "company": "Cloud Back                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-cloud-back1782876621",
-        "source": "Internshala"
-    },
-    {
-        "id": 13,
-        "title": "Software Development Engineering (Web)",
-        "company": "MYFAJIR IT SOLUTION PRIVATED LIMITED",
-        "stipend": "\u20b9 8,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-development-engineering-web-internship-at-myfajir-it-solution-privated-limited1782853750",
-        "source": "Internshala"
-    },
-    {
-        "id": 14,
-        "title": "Software Development",
         "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
         "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-basti-ki-pathshala-foundation1782821296",
-        "source": "Internshala"
-    },
-    {
-        "id": 15,
-        "title": "Web Application Tester",
-        "company": "DKJ Enterprise",
-        "stipend": "\u20b9 5,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-application-tester-internship-at-dkj-enterprise1782820488",
-        "source": "Internshala"
-    },
-    {
-        "id": 16,
-        "title": "Python Development",
-        "company": "Amrata                        \nActively hiring",
-        "stipend": "\u20b9 12,500 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-amrata1782818954",
-        "source": "Internshala"
-    },
-    {
-        "id": 17,
-        "title": "Java Development",
-        "company": "Amrata                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-amrata1782818933",
-        "source": "Internshala"
-    },
-    {
-        "id": 18,
-        "title": "AWS DevOps Engineer",
-        "company": "Myraid                        \nActively hiring",
-        "stipend": "\u20b9 2,500 /month",
-        "link": "https://internshala.com/internship/detail/aws-devops-engineer-internship-in-bangalore-at-myraid1782818053",
-        "source": "Internshala"
-    },
-    {
-        "id": 19,
-        "title": "Web Development",
-        "company": "Amrata                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-amrata1782808461",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-basti-ki-pathshala-foundation1782906315",
         "source": "Internshala"
     }
 ]
