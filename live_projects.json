@@ -9,6 +9,14 @@
     },
     {
         "id": 2,
+        "title": "AI Engineer (Agents & Orchestration)",
+        "company": "Webbybutter Technologies                        \nActively hiring",
+        "stipend": "\u20b9 5,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/ai-engineer-agents-orchestration-internship-in-vadodara-at-webbybutter-technologies1782818544",
+        "source": "Internshala"
+    },
+    {
+        "id": 3,
         "title": "Business Analyst (Legal & Data)",
         "company": "Creating Minds                        \nActively hiring",
         "stipend": "\u20b9 8,000 - 15,000 /month",
@@ -16,27 +24,19 @@
         "source": "Internshala"
     },
     {
-        "id": 3,
-        "title": "Web Development",
-        "company": "NayePankh Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-web-development-internship-at-nayepankh-foundation1782902846",
-        "source": "Internshala"
-    },
-    {
         "id": 4,
-        "title": "Software Development Engineering (Web)",
-        "company": "Internshala                        \nActively hiring",
-        "stipend": "\u20b9 18,000 /month",
-        "link": "https://internshala.com/internship/detail/software-development-engineering-web-internship-in-gurgaon-at-internshala1782909807",
+        "title": "Software Testing",
+        "company": "Assetcues Solutions Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 5,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/software-testing-internship-in-pune-at-assetcues-solutions-private-limited1782630198",
         "source": "Internshala"
     },
     {
         "id": 5,
-        "title": "AI Engineer (Agents & Orchestration)",
-        "company": "Webbybutter Technologies                        \nActively hiring",
-        "stipend": "\u20b9 5,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/ai-engineer-agents-orchestration-internship-in-vadodara-at-webbybutter-technologies1782818544",
+        "title": "Developer Of Automation Tools",
+        "company": "Jaishil Sulphur And Chemical Industries                        \nActively hiring",
+        "stipend": "\u20b9 3,000 - 5,000 /month",
+        "link": "https://internshala.com/internship/detail/part-time-developer-of-automation-tools-internship-in-mumbai-at-jaishil-sulphur-and-chemical-industries1782798156",
         "source": "Internshala"
     },
     {
@@ -49,38 +49,6 @@
     },
     {
         "id": 7,
-        "title": "Developer Of Automation Tools",
-        "company": "Jaishil Sulphur And Chemical Industries                        \nActively hiring",
-        "stipend": "\u20b9 3,000 - 5,000 /month",
-        "link": "https://internshala.com/internship/detail/part-time-developer-of-automation-tools-internship-in-mumbai-at-jaishil-sulphur-and-chemical-industries1782798156",
-        "source": "Internshala"
-    },
-    {
-        "id": 8,
-        "title": "Software Testing",
-        "company": "Assetcues Solutions Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 5,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/software-testing-internship-in-pune-at-assetcues-solutions-private-limited1782630198",
-        "source": "Internshala"
-    },
-    {
-        "id": 9,
-        "title": "Video & Website Editor",
-        "company": "Tactical Response Automation Pvt. Ltd.                        \nActively hiring",
-        "stipend": "\u20b9 5,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/video-website-editor-internship-in-noida-at-tactical-response-automation-pvt-ltd1782818325",
-        "source": "Internshala"
-    },
-    {
-        "id": 10,
-        "title": "Software Development",
-        "company": "Tactical Response Automation Pvt. Ltd.                        \nActively hiring",
-        "stipend": "\u20b9 5,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/software-development-internship-in-noida-at-tactical-response-automation-pvt-ltd1782818418",
-        "source": "Internshala"
-    },
-    {
-        "id": 11,
         "title": "Web Development",
         "company": "Zytexa Technology Llp",
         "stipend": "\u20b9 3,000 - 5,000 /month",
@@ -88,23 +56,7 @@
         "source": "Internshala"
     },
     {
-        "id": 12,
-        "title": "Software Development Engineering (Web)",
-        "company": "Numetix AI",
-        "stipend": "\u20b9 5,000 - 7,500 /month",
-        "link": "https://internshala.com/internship/detail/software-development-engineering-web-internship-in-mohali-at-numetix-ai1782904418",
-        "source": "Internshala"
-    },
-    {
-        "id": 13,
-        "title": "Shopify Developer",
-        "company": "Better Industries",
-        "stipend": "\u20b9 12,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/shopify-developer-internship-in-gurgaon-at-better-industries1782910392",
-        "source": "Internshala"
-    },
-    {
-        "id": 14,
+        "id": 8,
         "title": "SAP Cloud Developer - Trainee - Fresher",
         "company": "CrossOver IT Consulting Services LLP",
         "stipend": "\u20b9 10,000 - 15,000 /month",
@@ -112,7 +64,7 @@
         "source": "Internshala"
     },
     {
-        "id": 15,
+        "id": 9,
         "title": "Technical Support & Website Operations",
         "company": "Vedanta Software",
         "stipend": "\u20b9 2,000 - 5,000 /month",
@@ -120,11 +72,67 @@
         "source": "Internshala"
     },
     {
-        "id": 16,
+        "id": 10,
+        "title": "Automation Developer with AI Agents",
+        "company": "Solera Life Science Private Limited",
+        "stipend": "\u20b9 5,000 - 6,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-part-time-automation-developer-with-ai-agents-internship-at-solera-life-science-private-limited1782931277",
+        "source": "Internshala"
+    },
+    {
+        "id": 11,
+        "title": "Software Development Engineering (Web)",
+        "company": "Numetix AI",
+        "stipend": "\u20b9 5,000 - 7,500 /month",
+        "link": "https://internshala.com/internship/detail/software-development-engineering-web-internship-in-mohali-at-numetix-ai1782904418",
+        "source": "Internshala"
+    },
+    {
+        "id": 12,
+        "title": "Shopify Developer",
+        "company": "Better Industries",
+        "stipend": "\u20b9 12,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/shopify-developer-internship-in-gurgaon-at-better-industries1782910392",
+        "source": "Internshala"
+    },
+    {
+        "id": 13,
+        "title": "Software Development Engineering (Web)",
+        "company": "Internshala                        \nActively hiring",
+        "stipend": "\u20b9 18,000 /month",
+        "link": "https://internshala.com/internship/detail/software-development-engineering-web-internship-in-gurgaon-at-internshala1782909807",
+        "source": "Internshala"
+    },
+    {
+        "id": 14,
         "title": "Web Development",
         "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
         "stipend": "Unpaid",
         "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-basti-ki-pathshala-foundation1782906315",
+        "source": "Internshala"
+    },
+    {
+        "id": 15,
+        "title": "Web Development",
+        "company": "NayePankh Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-part-time-web-development-internship-at-nayepankh-foundation1782902846",
+        "source": "Internshala"
+    },
+    {
+        "id": 16,
+        "title": "Software Development",
+        "company": "Wexa AI",
+        "stipend": "\u20b9 10,000 - 10,001 /month",
+        "link": "https://internshala.com/internship/detail/software-development-internship-in-hyderabad-at-wexa-ai1782902841",
+        "source": "Internshala"
+    },
+    {
+        "id": 17,
+        "title": "Website And App Development",
+        "company": "Kiran Foundation Trust                        \nActively hiring",
+        "stipend": "\u20b9 7,000 - 35,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-website-and-app-development-internship-at-kiran-foundation-trust1782899268",
         "source": "Internshala"
     }
 ]
