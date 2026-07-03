@@ -1,54 +1,6 @@
 [
     {
         "id": 1,
-        "title": "Infrastructure Engineer",
-        "company": "Roman Network Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 12,000 /month",
-        "link": "https://internshala.com/internship/detail/infrastructure-engineer-internship-in-navi-mumbai-at-roman-network-private-limited1781077869",
-        "source": "Internshala"
-    },
-    {
-        "id": 2,
-        "title": "software development",
-        "company": "Rajlaxmi Solutions Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 5,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/software-development-internship-in-multiple-locations-at-rajlaxmi-solutions-private-limited1782976671",
-        "source": "Internshala"
-    },
-    {
-        "id": 3,
-        "title": "Backend Development",
-        "company": "Queens Of Change Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-queens-of-change-foundation1782969172",
-        "source": "Internshala"
-    },
-    {
-        "id": 4,
-        "title": "software development",
-        "company": "Queens Of Change Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-queens-of-change-foundation1782969280",
-        "source": "Internshala"
-    },
-    {
-        "id": 5,
-        "title": "AI Web Development",
-        "company": "InAmigos Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1782727620",
-        "source": "Internshala"
-    },
-    {
-        "id": 6,
-        "title": "Web Development",
-        "company": "Hindustan Times Media Limited                        \nActively hiring",
-        "stipend": "\u20b9 27,000 - 35,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-hindustan-times-media-limited1781670727",
-        "source": "Internshala"
-    },
-    {
-        "id": 7,
         "title": "AI Engineer (Agents & Orchestration)",
         "company": "Webbybutter Technologies                        \nActively hiring",
         "stipend": "\u20b9 5,000 - 15,000 /month",
@@ -56,23 +8,39 @@
         "source": "Internshala"
     },
     {
-        "id": 8,
-        "title": "Business Analyst (Legal & Data)",
-        "company": "Creating Minds                        \nActively hiring",
-        "stipend": "\u20b9 8,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/business-analyst-legal-data-internship-in-bangalore-at-creating-minds1782900237",
+        "id": 2,
+        "title": "Python Development",
+        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-basti-ki-pathshala-foundation1782969507",
         "source": "Internshala"
     },
     {
-        "id": 9,
-        "title": "Software Testing",
-        "company": "Assetcues Solutions Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 5,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/software-testing-internship-in-pune-at-assetcues-solutions-private-limited1782630198",
+        "id": 3,
+        "title": "software development",
+        "company": "Rajlaxmi Solutions Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 5,000 - 10,000 /month",
+        "link": "https://internshala.com/internship/detail/software-development-internship-in-multiple-locations-at-rajlaxmi-solutions-private-limited1782976671",
         "source": "Internshala"
     },
     {
-        "id": 10,
+        "id": 4,
+        "title": "Web Development",
+        "company": "Hindustan Times Media Limited                        \nActively hiring",
+        "stipend": "\u20b9 27,000 - 35,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-hindustan-times-media-limited1781670727",
+        "source": "Internshala"
+    },
+    {
+        "id": 5,
+        "title": "Digital Marketing & Web Development",
+        "company": "KUB9 Workspace",
+        "stipend": "\u20b9 7,000 - 12,000 /month",
+        "link": "https://internshala.com/internship/detail/part-time-digital-marketing-web-development-internship-in-bangalore-at-kub9-workspace1783015334",
+        "source": "Internshala"
+    },
+    {
+        "id": 6,
         "title": "Backend Development",
         "company": "EmpowerU (Promorph Solutions Private Limited)",
         "stipend": "\u20b9 3,000 - 5,000 /month",
@@ -80,7 +48,7 @@
         "source": "Internshala"
     },
     {
-        "id": 11,
+        "id": 7,
         "title": "SAP Cloud Developer - Trainee - Fresher",
         "company": "CrossOver IT Consulting Services LLP",
         "stipend": "\u20b9 10,000 - 15,000 /month",
@@ -88,7 +56,7 @@
         "source": "Internshala"
     },
     {
-        "id": 12,
+        "id": 8,
         "title": "Technical Support & Website Operations",
         "company": "Vedanta Software",
         "stipend": "\u20b9 2,000 - 5,000 /month",
@@ -96,19 +64,27 @@
         "source": "Internshala"
     },
     {
-        "id": 13,
+        "id": 9,
+        "title": "Software Development Engineering (Web)",
+        "company": "QuickHyre                        \nActively hiring",
+        "stipend": "\u20b9 50,000 - 70,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-development-engineering-web-internship-at-quickhyre1783011626",
+        "source": "Internshala"
+    },
+    {
+        "id": 10,
+        "title": "Software Testing",
+        "company": "Twenty4X Private Limited",
+        "stipend": "\u20b9 8,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/software-testing-internship-in-gurgaon-at-twenty4x-private-limited1783001059",
+        "source": "Internshala"
+    },
+    {
+        "id": 11,
         "title": "software development",
         "company": "Unessa Foundation                        \nActively hiring",
         "stipend": "Unpaid",
         "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-unessa-foundation1782995245",
-        "source": "Internshala"
-    },
-    {
-        "id": 14,
-        "title": "Web Development",
-        "company": "Cybrexus Technology",
-        "stipend": "\u20b9 1,000 - 1,001 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-cybrexus-technology1782993106",
         "source": "Internshala"
     }
 ]
