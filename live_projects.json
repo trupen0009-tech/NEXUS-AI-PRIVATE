@@ -9,6 +9,30 @@
     },
     {
         "id": 2,
+        "title": "Java Development",
+        "company": "NayePankh Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-nayepankh-foundation1783336957",
+        "source": "Internshala"
+    },
+    {
+        "id": 3,
+        "title": "Backend Development",
+        "company": "Queens Of Change Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-queens-of-change-foundation1783336940",
+        "source": "Internshala"
+    },
+    {
+        "id": 4,
+        "title": "AI Web Development",
+        "company": "InAmigos Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1783336289",
+        "source": "Internshala"
+    },
+    {
+        "id": 5,
         "title": "Web Development",
         "company": "Hindustan Times Media Limited                        \nActively hiring",
         "stipend": "\u20b9 27,000 - 35,000 /month",
@@ -16,15 +40,31 @@
         "source": "Internshala"
     },
     {
-        "id": 3,
-        "title": "Web Development",
-        "company": "Worldotech",
-        "stipend": "\u20b9 5,000 - 8,000 /month",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-mohali-at-worldotech1783149886",
+        "id": 6,
+        "title": "Unreal Engine Developer",
+        "company": "Safalta Setu                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-part-time-unreal-engine-developer-internship-at-safalta-setu1783313997",
         "source": "Internshala"
     },
     {
-        "id": 4,
+        "id": 7,
+        "title": "Chemical Engineering & Biotechnology",
+        "company": "Mpower Urja",
+        "stipend": "\u20b9 2,500 - 3,000 /month",
+        "link": "https://internshala.com/internship/detail/chemical-engineering-biotechnology-internship-in-multiple-locations-at-mpower-urja1783334865",
+        "source": "Internshala"
+    },
+    {
+        "id": 8,
+        "title": "Mobile App & Web Development",
+        "company": "Pioneer Sam Energia",
+        "stipend": "\u20b9 2,500 - 3,000 /month",
+        "link": "https://internshala.com/internship/detail/mobile-app-web-development-internship-in-multiple-locations-at-pioneer-sam-energia1783334063",
+        "source": "Internshala"
+    },
+    {
+        "id": 9,
         "title": "Backend Development",
         "company": "EmpowerU (Promorph Solutions Private Limited)",
         "stipend": "\u20b9 3,000 - 5,000 /month",
@@ -32,7 +72,7 @@
         "source": "Internshala"
     },
     {
-        "id": 5,
+        "id": 10,
         "title": "SAP Cloud Developer - Trainee - Fresher",
         "company": "CrossOver IT Consulting Services LLP",
         "stipend": "\u20b9 10,000 - 15,000 /month",
@@ -40,7 +80,7 @@
         "source": "Internshala"
     },
     {
-        "id": 6,
+        "id": 11,
         "title": "Technical Support & Website Operations",
         "company": "Vedanta Software",
         "stipend": "\u20b9 2,000 - 5,000 /month",
@@ -48,7 +88,7 @@
         "source": "Internshala"
     },
     {
-        "id": 7,
+        "id": 12,
         "title": "Paid Salesforce Internship Program  Admin | Developer | Marketing Cloud | Data Cloud",
         "company": "Elearningit",
         "stipend": "Not provided",
@@ -56,123 +96,59 @@
         "source": "Internshala"
     },
     {
-        "id": 8,
-        "title": "Software Development",
-        "company": "Ramyoz                        \nActively hiring",
-        "stipend": "\u20b9 6,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/software-development-internship-in-noida-at-ramyoz1783231878",
-        "source": "Internshala"
-    },
-    {
-        "id": 9,
-        "title": "Web Development",
-        "company": "Ramyoz                        \nActively hiring",
-        "stipend": "\u20b9 6,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-noida-at-ramyoz1783231751",
-        "source": "Internshala"
-    },
-    {
-        "id": 10,
-        "title": "Coding Instructor | Mentor | Data Structures & Algorithms",
-        "company": "CipherSchools                        \nActively hiring",
-        "stipend": "\u20b9 60,000 - 80,000 /month",
-        "link": "https://internshala.com/internship/detail/coding-instructor--mentor--data-structures-algorithms-internship-in-multiple-locations-at-cipherschools1783170855",
-        "source": "Internshala"
-    },
-    {
-        "id": 11,
-        "title": "Software Development Engineering (Web)",
-        "company": "Hunt Digital Media                        \nActively hiring",
-        "stipend": "\u20b9 20,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-development-engineering-web-internship-at-hunt-digital-media1783168672",
-        "source": "Internshala"
-    },
-    {
-        "id": 12,
-        "title": "Web Development",
-        "company": "Dekhega India                        \nActively hiring",
-        "stipend": "\u20b9 5,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-dekhega-india1783168163",
-        "source": "Internshala"
-    },
-    {
         "id": 13,
-        "title": "Web Development",
-        "company": "Tech-Tailor Solutions Private Limited",
-        "stipend": "\u20b9 7,500 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-bangalore-at-tech-tailor-solutions-private-limited1783155587",
+        "title": "Python With AI Mentor",
+        "company": "GeekashramJr",
+        "stipend": "\u20b9 5,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-part-time-python-with-ai-mentor-internship-at-geekashramjr1783341421",
         "source": "Internshala"
     },
     {
         "id": 14,
-        "title": "Software Testing",
-        "company": "Beeyond Tech                        \nActively hiring",
-        "stipend": "\u20b9 8,000 - 12,000 /month",
-        "link": "https://internshala.com/internship/detail/software-testing-internship-in-mumbai-at-beeyond-tech1783145560",
+        "title": "Software Development",
+        "company": "She Can Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-part-time-software-development-internship-at-she-can-foundation1783339295",
         "source": "Internshala"
     },
     {
         "id": 15,
-        "title": "Python Development",
-        "company": "Amrata                        \nActively hiring",
-        "stipend": "\u20b9 12,500 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-amrata1783141777",
+        "title": "Web Development",
+        "company": "Aarit Fashions Private Limited",
+        "stipend": "\u20b9 8,000 - 10,500 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-gurgaon-at-aarit-fashions-private-limited1783338654",
         "source": "Internshala"
     },
     {
         "id": 16,
-        "title": "Java Development",
-        "company": "Amrata                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-amrata1783141218",
+        "title": "Web Development",
+        "company": "Aerokart India",
+        "stipend": "\u20b9 2,000 - 3,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-aerokart-india1783330859",
         "source": "Internshala"
     },
     {
         "id": 17,
-        "title": "Web Development",
-        "company": "Amrata                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-amrata1783141097",
+        "title": "Python Development",
+        "company": "Queens Of Change Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-queens-of-change-foundation1783335784",
         "source": "Internshala"
     },
     {
         "id": 18,
-        "title": "Backend Development",
-        "company": "AbhyaasIIT Educational Institute                        \nActively hiring",
-        "stipend": "\u20b9 9,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-abhyaasiit-educational-institute1783081006",
+        "title": "Web Development",
+        "company": "Queens Of Change Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-queens-of-change-foundation1783335721",
         "source": "Internshala"
     },
     {
         "id": 19,
-        "title": "Web Development",
+        "title": "Java Development",
         "company": "She Can Foundation                        \nActively hiring",
         "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-she-can-foundation1783072099",
-        "source": "Internshala"
-    },
-    {
-        "id": 20,
-        "title": "AI Web Development",
-        "company": "InAmigos Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1783071903",
-        "source": "Internshala"
-    },
-    {
-        "id": 21,
-        "title": "Java Development",
-        "company": "Queens Of Change Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-queens-of-change-foundation1783071427",
-        "source": "Internshala"
-    },
-    {
-        "id": 22,
-        "title": "Software Development",
-        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-basti-ki-pathshala-foundation1783070338",
+        "link": "https://internshala.com/internship/detail/work-from-home-part-time-java-development-internship-at-she-can-foundation1783316720",
         "source": "Internshala"
     }
 ]
