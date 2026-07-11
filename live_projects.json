@@ -1,54 +1,6 @@
 [
     {
         "id": 1,
-        "title": "Video & Website Editor",
-        "company": "Tactical Response Automation Pvt. Ltd.                        \nActively hiring",
-        "stipend": "\u20b9 5,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/video-website-editor-internship-in-noida-at-tactical-response-automation-pvt-ltd1782818325",
-        "source": "Internshala"
-    },
-    {
-        "id": 2,
-        "title": "Web Development",
-        "company": "GIAN                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-ahmedabad-at-gian1783683674",
-        "source": "Internshala"
-    },
-    {
-        "id": 3,
-        "title": "Java Development",
-        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-java-development-internship-at-basti-ki-pathshala-foundation1783681676",
-        "source": "Internshala"
-    },
-    {
-        "id": 4,
-        "title": "Software Operations",
-        "company": "Faclon                        \nActively hiring",
-        "stipend": "\u20b9 8,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/software-operations-internship-in-mumbai-at-faclon1783679493",
-        "source": "Internshala"
-    },
-    {
-        "id": 5,
-        "title": "Web Development",
-        "company": "Hindustan Times Media Limited                        \nActively hiring",
-        "stipend": "\u20b9 27,000 - 35,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-hindustan-times-media-limited1781670727",
-        "source": "Internshala"
-    },
-    {
-        "id": 6,
-        "title": "Golang Developer",
-        "company": "AppVersal                        \nActively hiring",
-        "stipend": "\u20b9 15,000 - 25,000 /month",
-        "link": "https://internshala.com/internship/detail/golang-developer-internship-in-multiple-locations-at-appversal1783578962",
-        "source": "Internshala"
-    },
-    {
-        "id": 7,
         "title": "AI Engineer (Agents & Orchestration)",
         "company": "Webbybutter Technologies                        \nActively hiring",
         "stipend": "\u20b9 5,000 - 15,000 /month",
@@ -56,7 +8,47 @@
         "source": "Internshala"
     },
     {
-        "id": 8,
+        "id": 2,
+        "title": "Web Development",
+        "company": "Break The Code                        \nActively hiring",
+        "stipend": "\u20b9 5,000 - 7,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-multiple-locations-at-break-the-code1783749540",
+        "source": "Internshala"
+    },
+    {
+        "id": 3,
+        "title": "Video & Website Editor",
+        "company": "Tactical Response Automation Pvt. Ltd.                        \nActively hiring",
+        "stipend": "\u20b9 5,000 - 10,000 /month",
+        "link": "https://internshala.com/internship/detail/video-website-editor-internship-in-noida-at-tactical-response-automation-pvt-ltd1782818325",
+        "source": "Internshala"
+    },
+    {
+        "id": 4,
+        "title": "Java Development",
+        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-part-time-java-development-internship-at-basti-ki-pathshala-foundation1783681676",
+        "source": "Internshala"
+    },
+    {
+        "id": 5,
+        "title": "Web Development",
+        "company": "GIAN                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-ahmedabad-at-gian1783683674",
+        "source": "Internshala"
+    },
+    {
+        "id": 6,
+        "title": "Web Development",
+        "company": "Hindustan Times Media Limited                        \nActively hiring",
+        "stipend": "\u20b9 27,000 - 35,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-hindustan-times-media-limited1781670727",
+        "source": "Internshala"
+    },
+    {
+        "id": 7,
         "title": "Software Development Engineering (Web)",
         "company": "Sallet IT Soft Private Limited",
         "stipend": "Unpaid",
@@ -64,7 +56,7 @@
         "source": "Internshala"
     },
     {
-        "id": 9,
+        "id": 8,
         "title": "Chemical Engineering & Biotechnology",
         "company": "Mpower Urja",
         "stipend": "\u20b9 2,500 - 3,000 /month",
@@ -72,7 +64,7 @@
         "source": "Internshala"
     },
     {
-        "id": 10,
+        "id": 9,
         "title": "Backend Development",
         "company": "EmpowerU (Promorph Solutions Private Limited)",
         "stipend": "\u20b9 3,000 - 5,000 /month",
@@ -80,7 +72,7 @@
         "source": "Internshala"
     },
     {
-        "id": 11,
+        "id": 10,
         "title": "SAP Cloud Developer - Trainee - Fresher",
         "company": "CrossOver IT Consulting Services LLP",
         "stipend": "\u20b9 10,000 - 15,000 /month",
@@ -88,7 +80,39 @@
         "source": "Internshala"
     },
     {
+        "id": 11,
+        "title": "Software Testing",
+        "company": "Lumor Tech",
+        "stipend": "\u20b9 6,000 - 11,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-testing-internship-at-lumor-tech1783760835",
+        "source": "Internshala"
+    },
+    {
         "id": 12,
+        "title": "Python Development",
+        "company": "Qubixo                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-qubixo1783748057",
+        "source": "Internshala"
+    },
+    {
+        "id": 13,
+        "title": "Java Development",
+        "company": "Qubixo                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-qubixo1783747757",
+        "source": "Internshala"
+    },
+    {
+        "id": 14,
+        "title": "Web Development",
+        "company": "Qubixo                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-qubixo1783747680",
+        "source": "Internshala"
+    },
+    {
+        "id": 15,
         "title": "Backend Development",
         "company": "NayePankh Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -96,7 +120,7 @@
         "source": "Internshala"
     },
     {
-        "id": 13,
+        "id": 16,
         "title": "Java Development",
         "company": "Queens Of Change Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -104,7 +128,7 @@
         "source": "Internshala"
     },
     {
-        "id": 14,
+        "id": 17,
         "title": "Software Development",
         "company": "Queens Of Change Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -112,19 +136,11 @@
         "source": "Internshala"
     },
     {
-        "id": 15,
+        "id": 18,
         "title": "Python Development",
         "company": "NayePankh Foundation                        \nActively hiring",
         "stipend": "Unpaid",
         "link": "https://internshala.com/internship/detail/work-from-home-part-time-python-development-internship-at-nayepankh-foundation1783681488",
-        "source": "Internshala"
-    },
-    {
-        "id": 16,
-        "title": "Web Development",
-        "company": "NayePankh Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-web-development-internship-at-nayepankh-foundation1783681470",
         "source": "Internshala"
     }
 ]
