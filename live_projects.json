@@ -1,42 +1,42 @@
 [
     {
         "id": 1,
-        "title": "Junior PHP Developer",
-        "company": "FynTune Solution Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 18,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/junior-php-developer-internship-in-multiple-locations-at-fyntune-solution-private-limited1783841181",
+        "title": "Web Development",
+        "company": "NayePankh Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-nayepankh-foundation1784027641",
         "source": "Internshala"
     },
     {
         "id": 2,
-        "title": "Firmware Developer (ESP32/Embedded Systems)",
-        "company": "Piesoft Technologies Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 20,000 - 25,000 /month",
-        "link": "https://internshala.com/internship/detail/firmware-developer-esp32-embedded-systems-internship-in-gurgaon-at-piesoft-technologies-private-limited1783928814",
+        "title": "Python Development",
+        "company": "Queens Of Change Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-queens-of-change-foundation1784025790",
         "source": "Internshala"
     },
     {
         "id": 3,
-        "title": "Data Annotator And Model Validator",
-        "company": "Senso Vision System                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/data-annotator-and-model-validator-internship-in-bangalore-at-senso-vision-system1783921466",
+        "title": "Software Development Engineering (Web)",
+        "company": "RCS Projects Pvt Ltd                        \nActively hiring",
+        "stipend": "\u20b9 9,000 /month",
+        "link": "https://internshala.com/internship/detail/software-development-engineering-web-internship-in-multiple-locations-at-rcs-projects-pvt-ltd1784033673",
         "source": "Internshala"
     },
     {
         "id": 4,
-        "title": "Product Quality & Reliability Engineering (Mechanical / Production / Mechatronics)",
-        "company": "Gray Mobility                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/product-quality-reliability-engineering-mechanical-production-mechatronics-internship-in-bangalore-at-gray-mobility1783927821",
-        "source": "Internshala"
-    },
-    {
-        "id": 5,
         "title": "AI Web Development",
         "company": "InAmigos Foundation                        \nActively hiring",
         "stipend": "Unpaid",
         "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1783938923",
+        "source": "Internshala"
+    },
+    {
+        "id": 5,
+        "title": "Java Development",
+        "company": "NayePankh Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-nayepankh-foundation1784027575",
         "source": "Internshala"
     },
     {
@@ -49,22 +49,46 @@
     },
     {
         "id": 7,
-        "title": "Unreal Developer",
-        "company": "KIDLOLAND KIDS & TODDLER GAMES PRIVATE LIMITED                        \nActively hiring",
-        "stipend": "\u20b9 8,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-unreal-developer-internship-at-kidloland-kids-toddler-games-private-limited1783938586",
-        "source": "Internshala"
-    },
-    {
-        "id": 8,
         "title": "AI Assisted Web Application Development",
-        "company": "Parivartana Foundation",
+        "company": "Parivartana Foundation                        \nActively hiring",
         "stipend": "Unpaid",
         "link": "https://internshala.com/internship/detail/ai-assisted-web-application-development-internship-in-bangalore-at-parivartana-foundation1783923325",
         "source": "Internshala"
     },
     {
+        "id": 8,
+        "title": "Web Development",
+        "company": "Career-Domain                        \nActively hiring",
+        "stipend": "\u20b9 4,000 - 10,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-nagpur-at-career-domain1784029859",
+        "source": "Internshala"
+    },
+    {
         "id": 9,
+        "title": "Software Testing",
+        "company": "Emoolar Technology Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 6,000 - 6,500 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-testing-internship-at-emoolar-technology-private-limited1784026790",
+        "source": "Internshala"
+    },
+    {
+        "id": 10,
+        "title": "Product Quality & Reliability Engineering (Mechanical / Production / Mechatronics)",
+        "company": "Gray Mobility                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/product-quality-reliability-engineering-mechanical-production-mechatronics-internship-in-bangalore-at-gray-mobility1783927821",
+        "source": "Internshala"
+    },
+    {
+        "id": 11,
+        "title": "Firmware Developer (ESP32/Embedded Systems)",
+        "company": "Piesoft Technologies Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 20,000 - 25,000 /month",
+        "link": "https://internshala.com/internship/detail/firmware-developer-esp32-embedded-systems-internship-in-gurgaon-at-piesoft-technologies-private-limited1783928814",
+        "source": "Internshala"
+    },
+    {
+        "id": 12,
         "title": "Chemical Engineering & Biotechnology",
         "company": "Mpower Urja",
         "stipend": "\u20b9 2,500 - 3,000 /month",
@@ -72,75 +96,19 @@
         "source": "Internshala"
     },
     {
-        "id": 10,
-        "title": "Web Development",
-        "company": "Digital Heroes                        \nActively hiring",
-        "stipend": "\u20b9 20,000 - 25,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-digital-heroes1783965038",
-        "source": "Internshala"
-    },
-    {
-        "id": 11,
-        "title": "Software Development",
-        "company": "Digital Heroes                        \nActively hiring",
-        "stipend": "\u20b9 20,000 - 25,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-digital-heroes1783964957",
-        "source": "Internshala"
-    },
-    {
-        "id": 12,
-        "title": "Software Development Engineering",
-        "company": "Digital Heroes                        \nActively hiring",
-        "stipend": "\u20b9 20,000 - 25,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-development-engineering-internship-at-digital-heroes1783964875",
-        "source": "Internshala"
-    },
-    {
         "id": 13,
-        "title": "Software Development Engineering",
-        "company": "Digital Heroes                        \nActively hiring",
-        "stipend": "\u20b9 20,000 - 25,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-development-engineering-internship-at-digital-heroes1783964529",
+        "title": "Web Development",
+        "company": "Queens Of Change Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-part-time-web-development-internship-at-queens-of-change-foundation1784032938",
         "source": "Internshala"
     },
     {
         "id": 14,
-        "title": "Web Development",
-        "company": "Sheikh Media                        \nActively hiring",
-        "stipend": "\u20b9 22,000 - 50,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-sheikh-media1783959672",
-        "source": "Internshala"
-    },
-    {
-        "id": 15,
-        "title": "Backend Development",
-        "company": "Emoolar Technology Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 5,000 - 5,500 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-backend-development-internship-at-emoolar-technology-private-limited1783952283",
-        "source": "Internshala"
-    },
-    {
-        "id": 16,
-        "title": "Backend Development",
-        "company": "She Can Foundation                        \nActively hiring",
+        "title": "Python Development",
+        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
         "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-she-can-foundation1783944274",
-        "source": "Internshala"
-    },
-    {
-        "id": 17,
-        "title": "Web Development",
-        "company": "She Can Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-she-can-foundation1783944181",
-        "source": "Internshala"
-    },
-    {
-        "id": 18,
-        "title": "Software Development",
-        "company": "She Can Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-she-can-foundation1783944098",
+        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-basti-ki-pathshala-foundation1784026055",
         "source": "Internshala"
     }
 ]
