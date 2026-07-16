@@ -1,10 +1,10 @@
 [
     {
         "id": 1,
-        "title": "Backend Development",
-        "company": "Next Step Talents Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 13,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/backend-development-internship-in-multiple-locations-at-next-step-talents-private-limited1784112197",
+        "title": "Java Development",
+        "company": "Queens Of Change Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-queens-of-change-foundation1784117564",
         "source": "Internshala"
     },
     {
@@ -17,14 +17,62 @@
     },
     {
         "id": 3,
-        "title": "AI Assisted Web Application Development",
-        "company": "Parivartana Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/ai-assisted-web-application-development-internship-in-bangalore-at-parivartana-foundation1783923325",
+        "title": "AI Tool Developer",
+        "company": "SMARRTIF AI                        \nActively hiring",
+        "stipend": "\u20b9 5,000 - 7,000 /month",
+        "link": "https://internshala.com/internship/detail/ai-tool-developer-internship-in-delhi-at-smarrtif-ai1784193322",
         "source": "Internshala"
     },
     {
         "id": 4,
+        "title": "Web Development",
+        "company": "Queens Of Change Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-part-time-web-development-internship-at-queens-of-change-foundation1784185770",
+        "source": "Internshala"
+    },
+    {
+        "id": 5,
+        "title": "AI Web Development",
+        "company": "InAmigos Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1784196188",
+        "source": "Internshala"
+    },
+    {
+        "id": 6,
+        "title": "Backend Development",
+        "company": "NayePankh Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-part-time-backend-development-internship-at-nayepankh-foundation1784188423",
+        "source": "Internshala"
+    },
+    {
+        "id": 7,
+        "title": "Software Development",
+        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-basti-ki-pathshala-foundation1784117773",
+        "source": "Internshala"
+    },
+    {
+        "id": 8,
+        "title": "Java Development",
+        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-basti-ki-pathshala-foundation1784185475",
+        "source": "Internshala"
+    },
+    {
+        "id": 9,
+        "title": "Software Development",
+        "company": "Queens Of Change Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-queens-of-change-foundation1784117523",
+        "source": "Internshala"
+    },
+    {
+        "id": 10,
         "title": "Web Development",
         "company": "Hindustan Times Media Limited                        \nActively hiring",
         "stipend": "\u20b9 27,000 - 35,000 /month",
@@ -32,31 +80,47 @@
         "source": "Internshala"
     },
     {
-        "id": 5,
-        "title": "Python Teacher",
-        "company": "Aadi Foundation                        \nActively hiring",
-        "stipend": "\u20b9 2,100 - 12,500 /month",
-        "link": "https://internshala.com/internship/detail/python-teacher-internship-in-multiple-locations-at-aadi-foundation1784060615",
+        "id": 11,
+        "title": "Software Development (MERN Stack)",
+        "company": "Morphdhome Solpro Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 12,000 /month",
+        "link": "https://internshala.com/internship/detail/software-development-mern-stack-internship-in-mumbai-at-morphdhome-solpro-private-limited1784205542",
         "source": "Internshala"
     },
     {
-        "id": 6,
-        "title": "Product Quality & Reliability Engineering (Mechanical / Production / Mechatronics)",
-        "company": "Gray Mobility                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/product-quality-reliability-engineering-mechanical-production-mechatronics-internship-in-bangalore-at-gray-mobility1783927821",
+        "id": 12,
+        "title": "Software Testing",
+        "company": "Crazy For Success Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/software-testing-internship-in-multiple-locations-at-crazy-for-success-foundation1784182163",
         "source": "Internshala"
     },
     {
-        "id": 7,
-        "title": "Full Stack Developer (React Native/Node.js)",
-        "company": "Rustic Wisdom",
-        "stipend": "\u20b9 6,000 - 8,000 /month",
-        "link": "https://internshala.com/internship/detail/full-stack-developer-react-native-nodejs-internship-in-bangalore-at-rustic-wisdom1784117444",
+        "id": 13,
+        "title": "Software Development",
+        "company": "Crazy For Success Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-crazy-for-success-foundation1784182128",
         "source": "Internshala"
     },
     {
-        "id": 8,
+        "id": 14,
+        "title": "AI Assisted Web Application Development",
+        "company": "Parivartana Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/ai-assisted-web-application-development-internship-in-bangalore-at-parivartana-foundation1783923325",
+        "source": "Internshala"
+    },
+    {
+        "id": 15,
+        "title": "Backend Technical",
+        "company": "USTART",
+        "stipend": "\u20b9 3,000 - 9,000 /month",
+        "link": "https://internshala.com/internship/detail/backend-technical-internship-in-gurgaon-at-ustart1784195822",
+        "source": "Internshala"
+    },
+    {
+        "id": 16,
         "title": "Software Development Engineering (Web)",
         "company": "Dynnova Softwares Private Limited",
         "stipend": "\u20b9 10,000 - 12,000 /month",
@@ -64,51 +128,11 @@
         "source": "Internshala"
     },
     {
-        "id": 9,
+        "id": 17,
         "title": "Chemical Engineering & Biotechnology",
         "company": "Mpower Urja",
         "stipend": "\u20b9 2,500 - 3,000 /month",
         "link": "https://internshala.com/internship/detail/chemical-engineering-biotechnology-internship-in-multiple-locations-at-mpower-urja1783334865",
-        "source": "Internshala"
-    },
-    {
-        "id": 10,
-        "title": "Software Development Engineering (Web)",
-        "company": "Proweblook",
-        "stipend": "\u20b9 6,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-development-engineering-web-internship-at-proweblook1784143051",
-        "source": "Internshala"
-    },
-    {
-        "id": 11,
-        "title": "Web Development",
-        "company": "The Peace Lab",
-        "stipend": "\u20b9 4,000 - 5,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-the-peace-lab1784137565",
-        "source": "Internshala"
-    },
-    {
-        "id": 12,
-        "title": "Software Development Engineering (Web)",
-        "company": "Emoolar Technology Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 7,000 - 8,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-development-engineering-web-internship-at-emoolar-technology-private-limited1784143041",
-        "source": "Internshala"
-    },
-    {
-        "id": 13,
-        "title": "Web Development",
-        "company": "Emoolar Technology Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 3,000 - 4,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-emoolar-technology-private-limited1784142997",
-        "source": "Internshala"
-    },
-    {
-        "id": 14,
-        "title": "Junior AI Automation & Web",
-        "company": "Hulsti AI",
-        "stipend": "\u20b9 2,000 - 6,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-junior-ai-automation-web-internship-at-hulsti-ai1784134455",
         "source": "Internshala"
     }
 ]
