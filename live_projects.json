@@ -1,14 +1,6 @@
 [
     {
         "id": 1,
-        "title": "AI Web Development",
-        "company": "InAmigos Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1784196188",
-        "source": "Internshala"
-    },
-    {
-        "id": 2,
         "title": "Business Analyst (Legal & Data)",
         "company": "Creating Minds                        \nActively hiring",
         "stipend": "\u20b9 8,000 - 15,000 /month",
@@ -16,31 +8,47 @@
         "source": "Internshala"
     },
     {
-        "id": 3,
-        "title": "Backend Development",
+        "id": 2,
+        "title": "Web Development",
         "company": "NayePankh Foundation                        \nActively hiring",
         "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-backend-development-internship-at-nayepankh-foundation1784188423",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-nayepankh-foundation1784262985",
+        "source": "Internshala"
+    },
+    {
+        "id": 3,
+        "title": "Java Development",
+        "company": "She Can Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-she-can-foundation1784262483",
         "source": "Internshala"
     },
     {
         "id": 4,
-        "title": "Software Development",
-        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-basti-ki-pathshala-foundation1784117773",
+        "title": "AI Engineer",
+        "company": "Plutus Consulting                        \nActively hiring",
+        "stipend": "\u20b9 5,000 - 10,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-ai-engineer-internship-at-plutus-consulting1783579895",
         "source": "Internshala"
     },
     {
         "id": 5,
-        "title": "Java Development",
-        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
+        "title": "Backend Development",
+        "company": "Queens Of Change Foundation                        \nActively hiring",
         "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-basti-ki-pathshala-foundation1784185475",
+        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-queens-of-change-foundation1784263230",
         "source": "Internshala"
     },
     {
         "id": 6,
+        "title": "AI Web Development",
+        "company": "InAmigos Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1784196188",
+        "source": "Internshala"
+    },
+    {
+        "id": 7,
         "title": "Web Development",
         "company": "Hindustan Times Media Limited                        \nActively hiring",
         "stipend": "\u20b9 27,000 - 35,000 /month",
@@ -48,7 +56,31 @@
         "source": "Internshala"
     },
     {
-        "id": 7,
+        "id": 8,
+        "title": "Web Development",
+        "company": "Optimasys                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-optimasys1784292984",
+        "source": "Internshala"
+    },
+    {
+        "id": 9,
+        "title": "Java Development",
+        "company": "Optimasys                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-optimasys1784293008",
+        "source": "Internshala"
+    },
+    {
+        "id": 10,
+        "title": "Instructional Designer - Technical Courses (Curriculum Design - Python, SQL)",
+        "company": "Kalvium                        \nActively hiring",
+        "stipend": "\u20b9 20,000 /month",
+        "link": "https://internshala.com/internship/detail/instructional-designer-technical-courses-curriculum-design-python-sql-internship-in-bangalore-at-kalvium1784279991",
+        "source": "Internshala"
+    },
+    {
+        "id": 11,
         "title": "Software Development (MERN Stack)",
         "company": "Morphdhome Solpro Private Limited                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 12,000 /month",
@@ -56,15 +88,7 @@
         "source": "Internshala"
     },
     {
-        "id": 8,
-        "title": "Python Development",
-        "company": "Maxgen Technologies Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 5,000 - 12,000 /month",
-        "link": "https://internshala.com/internship/detail/python-development-internship-in-ahmedabad-at-maxgen-technologies-private-limited1784220834",
-        "source": "Internshala"
-    },
-    {
-        "id": 9,
+        "id": 12,
         "title": "Software Testing",
         "company": "Crazy For Success Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -72,7 +96,7 @@
         "source": "Internshala"
     },
     {
-        "id": 10,
+        "id": 13,
         "title": "AI Assisted Web Application Development",
         "company": "Parivartana Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -80,23 +104,15 @@
         "source": "Internshala"
     },
     {
-        "id": 11,
-        "title": "Software Development",
-        "company": "Crazy For Success Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-crazy-for-success-foundation1784182128",
+        "id": 14,
+        "title": "Web Development",
+        "company": "SaaS Village LLP",
+        "stipend": "\u20b9 7,000 - 10,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-patna-at-saas-village-llp1784280469",
         "source": "Internshala"
     },
     {
-        "id": 12,
-        "title": "Software Development Engineering (Web)",
-        "company": "Dynnova Softwares Private Limited",
-        "stipend": "\u20b9 10,000 - 12,000 /month",
-        "link": "https://internshala.com/internship/detail/software-development-engineering-web-internship-in-bhubaneswar-at-dynnova-softwares-private-limited1784029042",
-        "source": "Internshala"
-    },
-    {
-        "id": 13,
+        "id": 15,
         "title": "Chemical Engineering & Biotechnology",
         "company": "Mpower Urja",
         "stipend": "\u20b9 2,500 - 3,000 /month",
