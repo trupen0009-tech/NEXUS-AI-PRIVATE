@@ -1,18 +1,18 @@
 [
     {
         "id": 1,
-        "title": "AI Assisted Web Application Development",
-        "company": "Parivartana Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/ai-assisted-web-application-development-internship-in-bangalore-at-parivartana-foundation1783923325",
-        "source": "Internshala"
-    },
-    {
-        "id": 2,
         "title": "Business Analyst (Legal & Data)",
         "company": "Creating Minds                        \nActively hiring",
         "stipend": "\u20b9 8,000 - 15,000 /month",
         "link": "https://internshala.com/internship/detail/business-analyst-legal-data-internship-in-bangalore-at-creating-minds1782900237",
+        "source": "Internshala"
+    },
+    {
+        "id": 2,
+        "title": "AI Assisted Web Application Development",
+        "company": "Parivartana Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/ai-assisted-web-application-development-internship-in-bangalore-at-parivartana-foundation1783923325",
         "source": "Internshala"
     },
     {
@@ -33,6 +33,38 @@
     },
     {
         "id": 5,
+        "title": "Web Development",
+        "company": "CareerNest                        \nActively hiring",
+        "stipend": "\u20b9 20,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-careernest1784445703",
+        "source": "Internshala"
+    },
+    {
+        "id": 6,
+        "title": "Python Development",
+        "company": "Optimasys                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-optimasys1784439935",
+        "source": "Internshala"
+    },
+    {
+        "id": 7,
+        "title": "Web Development",
+        "company": "Optimasys                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-optimasys1784439682",
+        "source": "Internshala"
+    },
+    {
+        "id": 8,
+        "title": "Java Development",
+        "company": "Optimasys                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-optimasys1784439654",
+        "source": "Internshala"
+    },
+    {
+        "id": 9,
         "title": "Software Development",
         "company": "TheProductWorks.in                        \nActively hiring",
         "stipend": "\u20b9 3,000 /month",
@@ -40,7 +72,7 @@
         "source": "Internshala"
     },
     {
-        "id": 6,
+        "id": 10,
         "title": "Webflow Developer",
         "company": "Gleam Studio                        \nActively hiring",
         "stipend": "\u20b9 12,000 - 17,000 /month",
@@ -48,7 +80,7 @@
         "source": "Internshala"
     },
     {
-        "id": 7,
+        "id": 11,
         "title": "Full-Stack AI Developer",
         "company": "Megaminds IT Services                        \nActively hiring",
         "stipend": "\u20b9 6,000 - 10,000 /month",
@@ -56,7 +88,7 @@
         "source": "Internshala"
     },
     {
-        "id": 8,
+        "id": 12,
         "title": "Software Testing Instructor",
         "company": "SelfCode Academy                        \nActively hiring",
         "stipend": "\u20b9 30,000 - 50,000 lump sum",
@@ -64,7 +96,7 @@
         "source": "Internshala"
     },
     {
-        "id": 9,
+        "id": 13,
         "title": "Java Development",
         "company": "CloudZapier                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 20,000 /month",
@@ -72,7 +104,7 @@
         "source": "Internshala"
     },
     {
-        "id": 10,
+        "id": 14,
         "title": "Python Development",
         "company": "CloudZapier                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 25,000 /month",
@@ -80,7 +112,7 @@
         "source": "Internshala"
     },
     {
-        "id": 11,
+        "id": 15,
         "title": "Web Development",
         "company": "CloudZapier                        \nActively hiring",
         "stipend": "\u20b9 9,500 - 18,500 /month",
@@ -88,23 +120,7 @@
         "source": "Internshala"
     },
     {
-        "id": 12,
-        "title": "Java Development",
-        "company": "Optimasys                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-optimasys1784293008",
-        "source": "Internshala"
-    },
-    {
-        "id": 13,
-        "title": "Web Development",
-        "company": "Optimasys                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-optimasys1784292984",
-        "source": "Internshala"
-    },
-    {
-        "id": 14,
+        "id": 16,
         "title": "Web Development",
         "company": "SaaS Village LLP",
         "stipend": "\u20b9 7,000 - 10,000 /month",
@@ -112,19 +128,11 @@
         "source": "Internshala"
     },
     {
-        "id": 15,
+        "id": 17,
         "title": "Software Development",
         "company": "SKIDEV EDUTECH PRIVATE LIMITED                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 15,000 /month",
         "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-skidev-edutech-private-limited1784285222",
-        "source": "Internshala"
-    },
-    {
-        "id": 16,
-        "title": "Document Data Verification",
-        "company": "Codecraft IT Solutions                        \nActively hiring",
-        "stipend": "\u20b9 1,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-document-data-verification-internship-at-codecraft-it-solutions1784280586",
         "source": "Internshala"
     }
 ]
