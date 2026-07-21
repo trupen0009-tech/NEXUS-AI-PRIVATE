@@ -1,18 +1,18 @@
 [
     {
         "id": 1,
-        "title": "Business Analyst (Legal & Data)",
-        "company": "Creating Minds                        \nActively hiring",
-        "stipend": "\u20b9 8,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/business-analyst-legal-data-internship-in-bangalore-at-creating-minds1782900237",
+        "title": "Software Development Engineering (Web)",
+        "company": "Vee Tech Bytes Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 3,000 - 5,000 /month",
+        "link": "https://internshala.com/internship/detail/part-time-software-development-engineering-web-internship-in-bangalore-at-vee-tech-bytes-private-limited1784115133",
         "source": "Internshala"
     },
     {
         "id": 2,
-        "title": "Java Development",
-        "company": "NayePankh Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-nayepankh-foundation1784545230",
+        "title": "Business Analyst (Legal & Data)",
+        "company": "Creating Minds                        \nActively hiring",
+        "stipend": "\u20b9 8,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/business-analyst-legal-data-internship-in-bangalore-at-creating-minds1782900237",
         "source": "Internshala"
     },
     {
@@ -25,30 +25,6 @@
     },
     {
         "id": 4,
-        "title": "Software Development Engineering (Web)",
-        "company": "Vee Tech Bytes Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 3,000 - 5,000 /month",
-        "link": "https://internshala.com/internship/detail/part-time-software-development-engineering-web-internship-in-bangalore-at-vee-tech-bytes-private-limited1784115133",
-        "source": "Internshala"
-    },
-    {
-        "id": 5,
-        "title": "Customer Success (Tech Support - SaaS Software)",
-        "company": "PeakScale Technologies Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 12,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-customer-success-tech-support-saas-software-internship-at-peakscale-technologies-private-limited1784552346",
-        "source": "Internshala"
-    },
-    {
-        "id": 6,
-        "title": "Java Development",
-        "company": "Tax-O-Smart LLP                        \nActively hiring",
-        "stipend": "\u20b9 8,000 - 12,000 /month",
-        "link": "https://internshala.com/internship/detail/java-development-internship-in-mumbai-at-tax-o-smart-llp1784521337",
-        "source": "Internshala"
-    },
-    {
-        "id": 7,
         "title": "AI Assisted Web Application Development",
         "company": "Parivartana Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -56,7 +32,7 @@
         "source": "Internshala"
     },
     {
-        "id": 8,
+        "id": 5,
         "title": "Web Development",
         "company": "CodeBihar Technologies Pvt Ltd",
         "stipend": "\u20b9 7,000 - 10,000 /month",
@@ -64,7 +40,7 @@
         "source": "Internshala"
     },
     {
-        "id": 9,
+        "id": 6,
         "title": "Software Development Engineering (Web)",
         "company": "Human Intelligence Labs Private Limited",
         "stipend": "\u20b9 2,100 /month",
@@ -72,7 +48,7 @@
         "source": "Internshala"
     },
     {
-        "id": 10,
+        "id": 7,
         "title": "Claude Based Website Creation",
         "company": "ScienceUtsav",
         "stipend": "\u20b9 15,000 - 25,000 /month",
@@ -80,15 +56,23 @@
         "source": "Internshala"
     },
     {
-        "id": 11,
-        "title": "Software Development Engineering (Web)",
-        "company": "Merino Consulting Services",
-        "stipend": "\u20b9 14,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/software-development-engineering-web-internship-in-delhi-at-merino-consulting-services1784553413",
+        "id": 8,
+        "title": "Software Testing",
+        "company": "UniApply                        \nActively hiring",
+        "stipend": "\u20b9 25,000 - 33,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-testing-internship-at-uniapply1784563769",
         "source": "Internshala"
     },
     {
-        "id": 12,
+        "id": 9,
+        "title": "Customer Success (Tech Support - SaaS Software)",
+        "company": "PeakScale Technologies Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 12,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-customer-success-tech-support-saas-software-internship-at-peakscale-technologies-private-limited1784552346",
+        "source": "Internshala"
+    },
+    {
+        "id": 10,
         "title": "Software Development",
         "company": "Queens Of Change Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -96,7 +80,7 @@
         "source": "Internshala"
     },
     {
-        "id": 13,
+        "id": 11,
         "title": "Python Development",
         "company": "Queens Of Change Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -104,7 +88,7 @@
         "source": "Internshala"
     },
     {
-        "id": 14,
+        "id": 12,
         "title": "Web Development",
         "company": "Queens Of Change Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -112,7 +96,15 @@
         "source": "Internshala"
     },
     {
-        "id": 15,
+        "id": 13,
+        "title": "QE Engineer",
+        "company": "SuperAble.me",
+        "stipend": "\u20b9 2,000 - 4,000 lump sum",
+        "link": "https://internshala.com/internship/detail/work-from-home-part-time-qe-engineer-internship-at-superableme1784548653",
+        "source": "Internshala"
+    },
+    {
+        "id": 14,
         "title": "Web Development",
         "company": "Piyush Threja",
         "stipend": "\u20b9 10,000 - 20,000 /month",
@@ -120,19 +112,27 @@
         "source": "Internshala"
     },
     {
-        "id": 16,
-        "title": "Backend Development",
-        "company": "Dezai",
-        "stipend": "\u20b9 2,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-dezai1784546960",
-        "source": "Internshala"
-    },
-    {
-        "id": 17,
+        "id": 15,
         "title": "Web Development",
         "company": "BUNJY",
         "stipend": "\u20b9 5,000 - 10,000 /month",
         "link": "https://internshala.com/internship/detail/web-development-internship-in-chennai-at-bunjy1784538971",
+        "source": "Internshala"
+    },
+    {
+        "id": 16,
+        "title": "Java Development",
+        "company": "NayePankh Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-nayepankh-foundation1784545230",
+        "source": "Internshala"
+    },
+    {
+        "id": 17,
+        "title": "Website Development - WordPress, Elementor",
+        "company": "Pritikaprerna",
+        "stipend": "\u20b9 2,000 - 2,500 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-part-time-website-development-wordpress-elementor-internship-at-pritikaprerna1784533673",
         "source": "Internshala"
     }
 ]
