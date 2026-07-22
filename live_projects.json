@@ -1,22 +1,6 @@
 [
     {
         "id": 1,
-        "title": "Software Development",
-        "company": "Times Internet Limited                        \nActively hiring",
-        "stipend": "\u20b9 10,000 /month",
-        "link": "https://internshala.com/internship/detail/software-development-internship-in-noida-at-times-internet-limited1784620347",
-        "source": "Internshala"
-    },
-    {
-        "id": 2,
-        "title": "Web Development",
-        "company": "NayePankh Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-nayepankh-foundation1784612963",
-        "source": "Internshala"
-    },
-    {
-        "id": 3,
         "title": "AI Web Development",
         "company": "InAmigos Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -24,23 +8,7 @@
         "source": "Internshala"
     },
     {
-        "id": 4,
-        "title": "Business Analyst (Legal & Data)",
-        "company": "Creating Minds                        \nActively hiring",
-        "stipend": "\u20b9 8,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/business-analyst-legal-data-internship-in-bangalore-at-creating-minds1782900237",
-        "source": "Internshala"
-    },
-    {
-        "id": 5,
-        "title": "Python Development",
-        "company": "NayePankh Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-nayepankh-foundation1784612731",
-        "source": "Internshala"
-    },
-    {
-        "id": 6,
+        "id": 2,
         "title": "Software Development",
         "company": "Reflex Realty LLP                        \nActively hiring",
         "stipend": "\u20b9 4,000 - 15,000 /month",
@@ -48,7 +16,15 @@
         "source": "Internshala"
     },
     {
-        "id": 7,
+        "id": 3,
+        "title": "Business Analyst (Legal & Data)",
+        "company": "Creating Minds                        \nActively hiring",
+        "stipend": "\u20b9 8,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/business-analyst-legal-data-internship-in-bangalore-at-creating-minds1782900237",
+        "source": "Internshala"
+    },
+    {
+        "id": 4,
         "title": "Web Development",
         "company": "Gateway Software Solutions                        \nActively hiring",
         "stipend": "\u20b9 3,000 - 12,500 /month",
@@ -56,7 +32,7 @@
         "source": "Internshala"
     },
     {
-        "id": 8,
+        "id": 5,
         "title": "Software Development Engineering (Web)",
         "company": "Openleaf",
         "stipend": "\u20b9 12,000 - 15,000 /month",
@@ -64,7 +40,7 @@
         "source": "Internshala"
     },
     {
-        "id": 9,
+        "id": 6,
         "title": "Web Development",
         "company": "CodeBihar Technologies Pvt Ltd",
         "stipend": "\u20b9 7,000 - 10,000 /month",
@@ -72,15 +48,7 @@
         "source": "Internshala"
     },
     {
-        "id": 10,
-        "title": "Software Development Engineering (Web)",
-        "company": "Human Intelligence Labs Private Limited",
-        "stipend": "\u20b9 2,100 /month",
-        "link": "https://internshala.com/internship/detail/software-development-engineering-web-internship-in-lucknow-at-human-intelligence-labs-private-limited1784538631",
-        "source": "Internshala"
-    },
-    {
-        "id": 11,
+        "id": 7,
         "title": "Claude Based Website Creation",
         "company": "ScienceUtsav",
         "stipend": "\u20b9 15,000 - 25,000 /month",
@@ -88,15 +56,23 @@
         "source": "Internshala"
     },
     {
-        "id": 12,
-        "title": "Python Development",
-        "company": "AutoCuro Technologies Pvt Ltd",
-        "stipend": "\u20b9 15,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-autocuro-technologies-pvt-ltd1784612253",
+        "id": 8,
+        "title": "Software Development",
+        "company": "Clevertech PAS Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 15,000 - 15,500 /month",
+        "link": "https://internshala.com/internship/detail/software-development-internship-in-pune-at-clevertech-pas-private-limited1784620594",
         "source": "Internshala"
     },
     {
-        "id": 13,
+        "id": 9,
+        "title": "Software Development",
+        "company": "Times Internet Limited                        \nActively hiring",
+        "stipend": "\u20b9 10,000 /month",
+        "link": "https://internshala.com/internship/detail/software-development-internship-in-noida-at-times-internet-limited1784620347",
+        "source": "Internshala"
+    },
+    {
+        "id": 10,
         "title": "Web Development",
         "company": "Infinity Classes                        \nActively hiring",
         "stipend": "\u20b9 5,000 /month",
@@ -104,7 +80,7 @@
         "source": "Internshala"
     },
     {
-        "id": 14,
+        "id": 11,
         "title": "Java Development",
         "company": "Queens Of Change Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -112,7 +88,23 @@
         "source": "Internshala"
     },
     {
-        "id": 15,
+        "id": 12,
+        "title": "Web Development",
+        "company": "NayePankh Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-nayepankh-foundation1784612963",
+        "source": "Internshala"
+    },
+    {
+        "id": 13,
+        "title": "Python Development",
+        "company": "NayePankh Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-nayepankh-foundation1784612731",
+        "source": "Internshala"
+    },
+    {
+        "id": 14,
         "title": "Java Development",
         "company": "Optimasys                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 20,000 /month",
@@ -120,7 +112,7 @@
         "source": "Internshala"
     },
     {
-        "id": 16,
+        "id": 15,
         "title": "Web Development",
         "company": "Optimasys                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 20,000 /month",
@@ -128,11 +120,27 @@
         "source": "Internshala"
     },
     {
-        "id": 17,
+        "id": 16,
         "title": "Python Development",
         "company": "Optimasys                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 20,000 /month",
         "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-optimasys1784610942",
+        "source": "Internshala"
+    },
+    {
+        "id": 17,
+        "title": "Shopify Developer",
+        "company": "Skygoal",
+        "stipend": "\u20b9 8,000 - 12,000 /month",
+        "link": "https://internshala.com/internship/detail/shopify-developer-internship-in-multiple-locations-at-skygoal1784609471",
+        "source": "Internshala"
+    },
+    {
+        "id": 18,
+        "title": "Software Development",
+        "company": "UniApply                        \nActively hiring",
+        "stipend": "\u20b9 30,000 - 40,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-uniapply1784609125",
         "source": "Internshala"
     }
 ]
