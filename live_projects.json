@@ -1,18 +1,18 @@
 [
     {
         "id": 1,
-        "title": "Software Testing",
-        "company": "Globussoft Technologies                        \nActively hiring",
-        "stipend": "\u20b9 12,000 - 13,000 /month",
-        "link": "https://internshala.com/internship/detail/software-testing-internship-in-bhilai-at-globussoft-technologies1784704858",
+        "title": "Python Development",
+        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-basti-ki-pathshala-foundation1784717481",
         "source": "Internshala"
     },
     {
         "id": 2,
-        "title": "Business Analyst (Legal & Data)",
-        "company": "Creating Minds                        \nActively hiring",
-        "stipend": "\u20b9 8,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/business-analyst-legal-data-internship-in-bangalore-at-creating-minds1782900237",
+        "title": "Python Development",
+        "company": "Gateway Software Solutions                        \nActively hiring",
+        "stipend": "\u20b9 3,000 - 12,500 /month",
+        "link": "https://internshala.com/internship/detail/python-development-internship-in-multiple-locations-at-gateway-software-solutions1784781233",
         "source": "Internshala"
     },
     {
@@ -33,22 +33,38 @@
     },
     {
         "id": 5,
-        "title": "Python Development",
-        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-basti-ki-pathshala-foundation1784717481",
+        "title": "Software Development",
+        "company": "Planys Technologies Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 12,500 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/software-development-internship-in-chennai-at-planys-technologies-private-limited1784804614",
         "source": "Internshala"
     },
     {
         "id": 6,
-        "title": "Backend Development",
-        "company": "Queens Of Change Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-queens-of-change-foundation1784717170",
+        "title": "Business Analyst (Legal & Data)",
+        "company": "Creating Minds                        \nActively hiring",
+        "stipend": "\u20b9 8,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/business-analyst-legal-data-internship-in-bangalore-at-creating-minds1782900237",
         "source": "Internshala"
     },
     {
         "id": 7,
+        "title": "AWS DevOps Engineer",
+        "company": "Metnmat Research                        \nActively hiring",
+        "stipend": "\u20b9 10,000 /month",
+        "link": "https://internshala.com/internship/detail/aws-devops-engineer-internship-in-mumbai-at-metnmat-research1784808332",
+        "source": "Internshala"
+    },
+    {
+        "id": 8,
+        "title": "Solutions Engineering",
+        "company": "Clappia                        \nActively hiring",
+        "stipend": "\u20b9 25,000 /month",
+        "link": "https://internshala.com/internship/detail/solutions-engineering-internship-in-bangalore-at-clappia1784773746",
+        "source": "Internshala"
+    },
+    {
+        "id": 9,
         "title": "Technical Content Developer",
         "company": "CyberFrat                        \nActively hiring",
         "stipend": "\u20b9 4,000 - 5,000 /month",
@@ -56,31 +72,23 @@
         "source": "Internshala"
     },
     {
-        "id": 8,
-        "title": "Web Development",
-        "company": "Gateway Software Solutions                        \nActively hiring",
-        "stipend": "\u20b9 3,000 - 12,500 /month",
-        "link": "https://internshala.com/internship/detail/part-time-web-development-internship-in-multiple-locations-at-gateway-software-solutions1784607959",
-        "source": "Internshala"
-    },
-    {
-        "id": 9,
-        "title": "Solutions Engineering",
-        "company": "Clappia",
-        "stipend": "\u20b9 25,000 /month",
-        "link": "https://internshala.com/internship/detail/solutions-engineering-internship-in-bangalore-at-clappia1784773746",
-        "source": "Internshala"
-    },
-    {
         "id": 10,
-        "title": "Android Developer",
-        "company": "My Future Code IT Solutions",
-        "stipend": "\u20b9 8,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/android-developer-internship-in-noida-at-my-future-code-it-solutions1784726801",
+        "title": "Web Development",
+        "company": "Foodko Products",
+        "stipend": "\u20b9 5,001 - 15,002 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-mumbai-at-foodko-products1784809607",
         "source": "Internshala"
     },
     {
         "id": 11,
+        "title": "Unreal Engine Developer",
+        "company": "Sharcon Infrastructure Private Limited",
+        "stipend": "\u20b9 5,000 - 8,000 /month",
+        "link": "https://internshala.com/internship/detail/unreal-engine-developer-internship-in-mumbai-at-sharcon-infrastructure-private-limited1784801025",
+        "source": "Internshala"
+    },
+    {
+        "id": 12,
         "title": "Web Development",
         "company": "CodeBihar Technologies Pvt Ltd",
         "stipend": "\u20b9 7,000 - 10,000 /month",
@@ -88,7 +96,7 @@
         "source": "Internshala"
     },
     {
-        "id": 12,
+        "id": 13,
         "title": "Claude Based Website Creation",
         "company": "ScienceUtsav",
         "stipend": "\u20b9 15,000 - 25,000 /month",
@@ -96,27 +104,43 @@
         "source": "Internshala"
     },
     {
-        "id": 13,
-        "title": "Software Development Engineering (Web)",
-        "company": "McKinley & Rice Creativity Private Limited",
-        "stipend": "\u20b9 15,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-development-engineering-web-internship-at-mckinley-rice-creativity-private-limited1784740331",
-        "source": "Internshala"
-    },
-    {
         "id": 14,
-        "title": "Backend Development",
-        "company": "Jobixo",
-        "stipend": "\u20b9 8,000 - 12,000 /month",
-        "link": "https://internshala.com/internship/detail/backend-development-internship-in-gurgaon-at-jobixo1784722184",
+        "title": "Data Collection & Annotation",
+        "company": "ConsultBae                        \nActively hiring",
+        "stipend": "\u20b9 5,000 - 8,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-data-collection-annotation-internship-at-consultbae1784809660",
         "source": "Internshala"
     },
     {
         "id": 15,
         "title": "Java Development",
+        "company": "Queens Of Change Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-part-time-java-development-internship-at-queens-of-change-foundation1784808629",
+        "source": "Internshala"
+    },
+    {
+        "id": 16,
+        "title": "Web Development",
+        "company": "Queens Of Change Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-part-time-web-development-internship-at-queens-of-change-foundation1784808514",
+        "source": "Internshala"
+    },
+    {
+        "id": 17,
+        "title": "Software Development",
+        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-part-time-software-development-internship-at-basti-ki-pathshala-foundation1784808362",
+        "source": "Internshala"
+    },
+    {
+        "id": 18,
+        "title": "Python Development",
         "company": "NayePankh Foundation                        \nActively hiring",
         "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-nayepankh-foundation1784717307",
+        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-nayepankh-foundation1784807650",
         "source": "Internshala"
     }
 ]
