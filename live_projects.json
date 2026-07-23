@@ -1,6 +1,22 @@
 [
     {
         "id": 1,
+        "title": "Software Testing",
+        "company": "Globussoft Technologies                        \nActively hiring",
+        "stipend": "\u20b9 12,000 - 13,000 /month",
+        "link": "https://internshala.com/internship/detail/software-testing-internship-in-bhilai-at-globussoft-technologies1784704858",
+        "source": "Internshala"
+    },
+    {
+        "id": 2,
+        "title": "Business Analyst (Legal & Data)",
+        "company": "Creating Minds                        \nActively hiring",
+        "stipend": "\u20b9 8,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/business-analyst-legal-data-internship-in-bangalore-at-creating-minds1782900237",
+        "source": "Internshala"
+    },
+    {
+        "id": 3,
         "title": "Web Development",
         "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -8,27 +24,11 @@
         "source": "Internshala"
     },
     {
-        "id": 2,
+        "id": 4,
         "title": "AI Web Development",
         "company": "InAmigos Foundation                        \nActively hiring",
         "stipend": "Unpaid",
         "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1784716434",
-        "source": "Internshala"
-    },
-    {
-        "id": 3,
-        "title": "Java Development",
-        "company": "NayePankh Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-nayepankh-foundation1784717307",
-        "source": "Internshala"
-    },
-    {
-        "id": 4,
-        "title": "Business Analyst (Legal & Data)",
-        "company": "Creating Minds                        \nActively hiring",
-        "stipend": "\u20b9 8,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/business-analyst-legal-data-internship-in-bangalore-at-creating-minds1782900237",
         "source": "Internshala"
     },
     {
@@ -41,10 +41,10 @@
     },
     {
         "id": 6,
-        "title": "Software Testing",
-        "company": "Globussoft Technologies                        \nActively hiring",
-        "stipend": "\u20b9 12,000 - 13,000 /month",
-        "link": "https://internshala.com/internship/detail/software-testing-internship-in-bhilai-at-globussoft-technologies1784704858",
+        "title": "Backend Development",
+        "company": "Queens Of Change Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-queens-of-change-foundation1784717170",
         "source": "Internshala"
     },
     {
@@ -57,18 +57,18 @@
     },
     {
         "id": 8,
-        "title": "Software Development",
-        "company": "Reflex Realty LLP                        \nActively hiring",
-        "stipend": "\u20b9 4,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/software-development-internship-in-mumbai-at-reflex-realty-llp1784612622",
-        "source": "Internshala"
-    },
-    {
-        "id": 9,
         "title": "Web Development",
         "company": "Gateway Software Solutions                        \nActively hiring",
         "stipend": "\u20b9 3,000 - 12,500 /month",
         "link": "https://internshala.com/internship/detail/part-time-web-development-internship-in-multiple-locations-at-gateway-software-solutions1784607959",
+        "source": "Internshala"
+    },
+    {
+        "id": 9,
+        "title": "Solutions Engineering",
+        "company": "Clappia",
+        "stipend": "\u20b9 25,000 /month",
+        "link": "https://internshala.com/internship/detail/solutions-engineering-internship-in-bangalore-at-clappia1784773746",
         "source": "Internshala"
     },
     {
@@ -81,14 +81,6 @@
     },
     {
         "id": 11,
-        "title": "Mechanical Engineering",
-        "company": "Karnataka Engineering Enterprises",
-        "stipend": "\u20b9 14,500 - 16,500 /month",
-        "link": "https://internshala.com/internship/detail/mechanical-engineering-internship-in-bangalore-at-karnataka-engineering-enterprises1784711488",
-        "source": "Internshala"
-    },
-    {
-        "id": 12,
         "title": "Web Development",
         "company": "CodeBihar Technologies Pvt Ltd",
         "stipend": "\u20b9 7,000 - 10,000 /month",
@@ -96,7 +88,7 @@
         "source": "Internshala"
     },
     {
-        "id": 13,
+        "id": 12,
         "title": "Claude Based Website Creation",
         "company": "ScienceUtsav",
         "stipend": "\u20b9 15,000 - 25,000 /month",
@@ -104,43 +96,27 @@
         "source": "Internshala"
     },
     {
+        "id": 13,
+        "title": "Software Development Engineering (Web)",
+        "company": "McKinley & Rice Creativity Private Limited",
+        "stipend": "\u20b9 15,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-development-engineering-web-internship-at-mckinley-rice-creativity-private-limited1784740331",
+        "source": "Internshala"
+    },
+    {
         "id": 14,
-        "title": "Software Development",
-        "company": "OpsKore Technologies Private Limited",
-        "stipend": "\u20b9 8,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-opskore-technologies-private-limited1784721869",
+        "title": "Backend Development",
+        "company": "Jobixo",
+        "stipend": "\u20b9 8,000 - 12,000 /month",
+        "link": "https://internshala.com/internship/detail/backend-development-internship-in-gurgaon-at-jobixo1784722184",
         "source": "Internshala"
     },
     {
         "id": 15,
-        "title": "Python Development",
-        "company": "Cantilever",
-        "stipend": "\u20b9 5,000 - 8,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-cantilever1784712635",
-        "source": "Internshala"
-    },
-    {
-        "id": 16,
-        "title": "Backend Development",
-        "company": "Queens Of Change Foundation                        \nActively hiring",
+        "title": "Java Development",
+        "company": "NayePankh Foundation                        \nActively hiring",
         "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-queens-of-change-foundation1784717170",
-        "source": "Internshala"
-    },
-    {
-        "id": 17,
-        "title": "AWS DevOps Engineer",
-        "company": "TeamLease Regtech",
-        "stipend": "\u20b9 7,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/aws-devops-engineer-internship-in-multiple-locations-at-teamlease-regtech1784713904",
-        "source": "Internshala"
-    },
-    {
-        "id": 18,
-        "title": "Framer Website Developer",
-        "company": "Madhyam - Change Foundation",
-        "stipend": "\u20b9 5,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-framer-website-developer-internship-at-madhyam-change-foundation1784713686",
+        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-nayepankh-foundation1784717307",
         "source": "Internshala"
     }
 ]
