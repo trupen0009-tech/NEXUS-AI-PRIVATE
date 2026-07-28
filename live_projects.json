@@ -9,30 +9,22 @@
     },
     {
         "id": 2,
-        "title": "Backend Development",
-        "company": "Gateway Software Solutions                        \nActively hiring",
-        "stipend": "\u20b9 6,500 - 12,500 /month",
-        "link": "https://internshala.com/internship/detail/backend-development-internship-in-multiple-locations-at-gateway-software-solutions1785146329",
+        "title": "Python Development",
+        "company": "NayePankh Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-nayepankh-foundation1785236589",
         "source": "Internshala"
     },
     {
         "id": 3,
-        "title": "Java Development",
-        "company": "NayePankh Foundation                        \nActively hiring",
+        "title": "Backend Development",
+        "company": "Queens Of Change Foundation                        \nActively hiring",
         "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-nayepankh-foundation1785150690",
+        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-queens-of-change-foundation1785236188",
         "source": "Internshala"
     },
     {
         "id": 4,
-        "title": "Backend Development",
-        "company": "Pledge India Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-pledge-india-foundation1785154038",
-        "source": "Internshala"
-    },
-    {
-        "id": 5,
         "title": "AI Web Development",
         "company": "InAmigos Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -40,7 +32,31 @@
         "source": "Internshala"
     },
     {
+        "id": 5,
+        "title": "Java Development",
+        "company": "Queens Of Change Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-queens-of-change-foundation1785236091",
+        "source": "Internshala"
+    },
+    {
         "id": 6,
+        "title": "AI Web Development",
+        "company": "Pledge India Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-part-time-ai-web-development-internship-at-pledge-india-foundation1785242363",
+        "source": "Internshala"
+    },
+    {
+        "id": 7,
+        "title": "Software Development",
+        "company": "Queens Of Change Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-queens-of-change-foundation1785236801",
+        "source": "Internshala"
+    },
+    {
+        "id": 8,
         "title": "Software Development",
         "company": "TEN                        \nActively hiring",
         "stipend": "\u20b9 2,000 /month",
@@ -48,7 +64,31 @@
         "source": "Internshala"
     },
     {
-        "id": 7,
+        "id": 9,
+        "title": "Web Development",
+        "company": "Hope Behind Tails Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-hope-behind-tails-foundation1785239211",
+        "source": "Internshala"
+    },
+    {
+        "id": 10,
+        "title": "Web Development",
+        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-basti-ki-pathshala-foundation1785236929",
+        "source": "Internshala"
+    },
+    {
+        "id": 11,
+        "title": "Backend Development",
+        "company": "Gateway Software Solutions                        \nActively hiring",
+        "stipend": "\u20b9 6,500 - 12,500 /month",
+        "link": "https://internshala.com/internship/detail/backend-development-internship-in-multiple-locations-at-gateway-software-solutions1785146329",
+        "source": "Internshala"
+    },
+    {
+        "id": 12,
         "title": "MERN Stack Web Developer",
         "company": "Requin Solutions Private Limited                        \nActively hiring",
         "stipend": "\u20b9 10,000 /month",
@@ -56,7 +96,7 @@
         "source": "Internshala"
     },
     {
-        "id": 8,
+        "id": 13,
         "title": "Java Development",
         "company": "Gateway Software Solutions                        \nActively hiring",
         "stipend": "\u20b9 7,500 - 12,500 /month",
@@ -64,75 +104,43 @@
         "source": "Internshala"
     },
     {
-        "id": 9,
-        "title": "Python Development",
-        "company": "Gateway Software Solutions                        \nActively hiring",
-        "stipend": "\u20b9 3,000 - 12,500 /month",
-        "link": "https://internshala.com/internship/detail/python-development-internship-in-multiple-locations-at-gateway-software-solutions1784781233",
-        "source": "Internshala"
-    },
-    {
-        "id": 10,
-        "title": "Unity Game Developer",
-        "company": "Heilmwater Studios",
-        "stipend": "\u20b9 2,000 - 3,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-unity-game-developer-internship-at-heilmwater-studios1785164370",
-        "source": "Internshala"
-    },
-    {
-        "id": 11,
-        "title": "Java Development",
-        "company": "GTA & CO LLP",
-        "stipend": "\u20b9 2,000 - 5,000 /month",
-        "link": "https://internshala.com/internship/detail/java-development-internship-in-nagpur-at-gta-co-llp1785155956",
-        "source": "Internshala"
-    },
-    {
-        "id": 12,
-        "title": "Backend Development",
-        "company": "SAHOTA INFO PRIVATE LIMITED",
-        "stipend": "\u20b9 5,000 /month",
-        "link": "https://internshala.com/internship/detail/backend-development-internship-in-delhi-at-sahota-info-private-limited1785153043",
-        "source": "Internshala"
-    },
-    {
-        "id": 13,
-        "title": "Unreal Engine Developer",
-        "company": "Sharcon Infrastructure Private Limited",
-        "stipend": "\u20b9 5,000 - 8,000 /month",
-        "link": "https://internshala.com/internship/detail/unreal-engine-developer-internship-in-mumbai-at-sharcon-infrastructure-private-limited1784801025",
-        "source": "Internshala"
-    },
-    {
         "id": 14,
-        "title": "Software Development",
-        "company": "SubSpace                        \nActively hiring",
-        "stipend": "\u20b9 30,000 - 40,001 /month",
-        "link": "https://internshala.com/internship/detail/software-development-internship-in-bangalore-at-subspace1785173483",
+        "title": "Web Development",
+        "company": "Yashar Haque",
+        "stipend": "\u20b9 6,100 - 10,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-ranchi-at-yashar-haque1785236696",
         "source": "Internshala"
     },
     {
         "id": 15,
-        "title": "Web Development",
-        "company": "Brighter Global Admissions LLP",
-        "stipend": "\u20b9 5,000 - 50,100 /month",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-mumbai-at-brighter-global-admissions-llp1785156444",
+        "title": "Flutter Developer",
+        "company": "VAYUZ Technologies",
+        "stipend": "\u20b9 8,000 - 12,000 /month",
+        "link": "https://internshala.com/internship/detail/flutter-developer-internship-in-noida-at-vayuz-technologies1785221339",
         "source": "Internshala"
     },
     {
         "id": 16,
-        "title": "Founders Office (Technology & Engineering)",
-        "company": "Newwton PLC",
-        "stipend": "\u20b9 7,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/founders-office-technology-engineering-internship-in-chennai-at-newwton-plc1785154385",
+        "title": "Web Development",
+        "company": "S2S Web Technology",
+        "stipend": "\u20b9 3,000 - 4,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-tiruchirappalli-at-s2s-web-technology1785222717",
         "source": "Internshala"
     },
     {
         "id": 17,
-        "title": "AI Engineering",
-        "company": "RadialBrain",
-        "stipend": "\u20b9 1,000 - 3,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-ai-engineering-internship-at-radialbrain1785152247",
+        "title": "Software Testing & Flutter Developer",
+        "company": "Softel Technologies Incorporation",
+        "stipend": "\u20b9 10,000 - 12,000 /month",
+        "link": "https://internshala.com/internship/detail/software-testing-flutter-developer-internship-in-mumbai-at-softel-technologies-incorporation1785223170",
+        "source": "Internshala"
+    },
+    {
+        "id": 18,
+        "title": "Unity Game Developer",
+        "company": "Heilmwater Studios",
+        "stipend": "\u20b9 2,000 - 3,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-unity-game-developer-internship-at-heilmwater-studios1785164370",
         "source": "Internshala"
     }
 ]
