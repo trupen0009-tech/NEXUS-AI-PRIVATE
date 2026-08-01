@@ -1,10 +1,10 @@
 [
     {
         "id": 1,
-        "title": "Web Development",
-        "company": "She Can Foundation                        \nActively hiring",
+        "title": "Software Development",
+        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
         "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-she-can-foundation1785414830",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-basti-ki-pathshala-foundation1785407494",
         "source": "Internshala"
     },
     {
@@ -25,10 +25,10 @@
     },
     {
         "id": 4,
-        "title": "Software Development",
-        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-basti-ki-pathshala-foundation1785407494",
+        "title": "Software Development Intern \u2013 Full-Stack, Data Engineering & Applied AI",
+        "company": "Prop Pie - Fractional Ownership For Real Estate                        \nActively hiring",
+        "stipend": "\u20b9 6,000 - 30,000 /month",
+        "link": "https://internshala.com/internship/detail/software-development-intern--full-stack-data-engineering-applied-ai-internship-in-multiple-locations-at-prop-pie-fractional-ownership-for-real-estate1785494457",
         "source": "Internshala"
     },
     {
@@ -41,18 +41,18 @@
     },
     {
         "id": 6,
-        "title": "Backend Development",
-        "company": "Humanity Founders                        \nActively hiring",
-        "stipend": "\u20b9 3,000 - 5,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-humanity-founders1785495573",
+        "title": "MERN Stack Web Developer",
+        "company": "Requin Solutions Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 10,000 /month",
+        "link": "https://internshala.com/internship/detail/mern-stack-web-developer-internship-in-jaipur-at-requin-solutions-private-limited1784887773",
         "source": "Internshala"
     },
     {
         "id": 7,
-        "title": "Python Django Development",
-        "company": "Tradexa Technologies Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 15,000 - 17,100 /month",
-        "link": "https://internshala.com/internship/detail/python-django-development-internship-in-pune-at-tradexa-technologies-private-limited1785479057",
+        "title": "Backend Development",
+        "company": "Gateway Software Solutions                        \nActively hiring",
+        "stipend": "\u20b9 6,500 - 12,500 /month",
+        "link": "https://internshala.com/internship/detail/backend-development-internship-in-multiple-locations-at-gateway-software-solutions1785146329",
         "source": "Internshala"
     },
     {
@@ -66,37 +66,13 @@
     {
         "id": 9,
         "title": "Software Development",
-        "company": "Queens Of Change Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-queens-of-change-foundation1785487525",
+        "company": "KhiladiPro",
+        "stipend": "\u20b9 23,000 - 25,000 /month",
+        "link": "https://internshala.com/internship/detail/software-development-internship-in-bangalore-at-khiladipro1785523073",
         "source": "Internshala"
     },
     {
         "id": 10,
-        "title": "MERN Stack Web Developer",
-        "company": "Requin Solutions Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 10,000 /month",
-        "link": "https://internshala.com/internship/detail/mern-stack-web-developer-internship-in-jaipur-at-requin-solutions-private-limited1784887773",
-        "source": "Internshala"
-    },
-    {
-        "id": 11,
-        "title": "Backend Development",
-        "company": "Gateway Software Solutions                        \nActively hiring",
-        "stipend": "\u20b9 6,500 - 12,500 /month",
-        "link": "https://internshala.com/internship/detail/backend-development-internship-in-multiple-locations-at-gateway-software-solutions1785146329",
-        "source": "Internshala"
-    },
-    {
-        "id": 12,
-        "title": "Flutter/Flutter Flow Developer",
-        "company": "Omninext Technologies Private Limited",
-        "stipend": "\u20b9 5,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-flutter-flutter-flow-developer-internship-at-omninext-technologies-private-limited1785495727",
-        "source": "Internshala"
-    },
-    {
-        "id": 13,
         "title": "Software Development",
         "company": "Nsse Fab",
         "stipend": "\u20b9 5,000 - 10,000 /month",
@@ -104,11 +80,59 @@
         "source": "Internshala"
     },
     {
-        "id": 14,
+        "id": 11,
         "title": "Web Development",
         "company": "S2S Web Technology",
         "stipend": "\u20b9 3,000 - 4,000 /month",
         "link": "https://internshala.com/internship/detail/web-development-internship-in-tiruchirappalli-at-s2s-web-technology1785222717",
+        "source": "Internshala"
+    },
+    {
+        "id": 12,
+        "title": "Web Development",
+        "company": "Yotric Solutions",
+        "stipend": "\u20b9 5,000 - 8,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-yotric-solutions1785523932",
+        "source": "Internshala"
+    },
+    {
+        "id": 13,
+        "title": "Web Development",
+        "company": "Zebnux Technologies",
+        "stipend": "\u20b9 6,000 - 8,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-zebnux-technologies1785523737",
+        "source": "Internshala"
+    },
+    {
+        "id": 14,
+        "title": "Software Development",
+        "company": "TalentBrainy",
+        "stipend": "\u20b9 7,000 - 10,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-talentbrainy1785515060",
+        "source": "Internshala"
+    },
+    {
+        "id": 15,
+        "title": "Software Development",
+        "company": "Swift Robotics Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 20,000 - 30,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-swift-robotics-private-limited1785516699",
+        "source": "Internshala"
+    },
+    {
+        "id": 16,
+        "title": "Python Development",
+        "company": "Embedsense Solutions",
+        "stipend": "\u20b9 6,000 - 10,000 /month",
+        "link": "https://internshala.com/internship/detail/python-development-internship-in-bangalore-at-embedsense-solutions1785500765",
+        "source": "Internshala"
+    },
+    {
+        "id": 17,
+        "title": "Web Development",
+        "company": "Hope Behind Tails Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-hope-behind-tails-foundation1785502377",
         "source": "Internshala"
     }
 ]
