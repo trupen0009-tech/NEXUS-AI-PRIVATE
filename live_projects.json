@@ -1,14 +1,6 @@
 [
     {
         "id": 1,
-        "title": "Software Development",
-        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-basti-ki-pathshala-foundation1785407494",
-        "source": "Internshala"
-    },
-    {
-        "id": 2,
         "title": "Software Testing",
         "company": "Meru Technosoft Private Limited                        \nActively hiring",
         "stipend": "\u20b9 3,500 - 5,000 /month",
@@ -16,7 +8,7 @@
         "source": "Internshala"
     },
     {
-        "id": 3,
+        "id": 2,
         "title": "Java Development",
         "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -24,7 +16,7 @@
         "source": "Internshala"
     },
     {
-        "id": 4,
+        "id": 3,
         "title": "Software Development Intern \u2013 Full-Stack, Data Engineering & Applied AI",
         "company": "Prop Pie - Fractional Ownership For Real Estate                        \nActively hiring",
         "stipend": "\u20b9 6,000 - 30,000 /month",
@@ -32,7 +24,31 @@
         "source": "Internshala"
     },
     {
+        "id": 4,
+        "title": "Software Development",
+        "company": "The ProEducator                        \nActively hiring",
+        "stipend": "\u20b9 6,000 - 51,000 lump sum",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-the-proeducator1785588695",
+        "source": "Internshala"
+    },
+    {
         "id": 5,
+        "title": "Software Development",
+        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-basti-ki-pathshala-foundation1785407494",
+        "source": "Internshala"
+    },
+    {
+        "id": 6,
+        "title": "Data Scraping & Management",
+        "company": "The ProEducator                        \nActively hiring",
+        "stipend": "\u20b9 6,000 - 1,17,000 lump sum",
+        "link": "https://internshala.com/internship/detail/work-from-home-data-scraping-management-internship-at-the-proeducator1785588405",
+        "source": "Internshala"
+    },
+    {
+        "id": 7,
         "title": "Software Development",
         "company": "TEN                        \nActively hiring",
         "stipend": "\u20b9 2,000 /month",
@@ -40,7 +56,23 @@
         "source": "Internshala"
     },
     {
-        "id": 6,
+        "id": 8,
+        "title": "Java Development",
+        "company": "NayePankh Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-nayepankh-foundation1785576211",
+        "source": "Internshala"
+    },
+    {
+        "id": 9,
+        "title": "Web Development",
+        "company": "NayePankh Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-nayepankh-foundation1785576160",
+        "source": "Internshala"
+    },
+    {
+        "id": 10,
         "title": "MERN Stack Web Developer",
         "company": "Requin Solutions Private Limited                        \nActively hiring",
         "stipend": "\u20b9 10,000 /month",
@@ -48,31 +80,15 @@
         "source": "Internshala"
     },
     {
-        "id": 7,
-        "title": "Backend Development",
-        "company": "Gateway Software Solutions                        \nActively hiring",
-        "stipend": "\u20b9 6,500 - 12,500 /month",
-        "link": "https://internshala.com/internship/detail/backend-development-internship-in-multiple-locations-at-gateway-software-solutions1785146329",
+        "id": 11,
+        "title": "Software Testing",
+        "company": "JSM Technologies Private Limited",
+        "stipend": "\u20b9 4,000 - 5,000 /month",
+        "link": "https://internshala.com/internship/detail/software-testing-internship-in-bangalore-at-jsm-technologies-private-limited1785572716",
         "source": "Internshala"
     },
     {
-        "id": 8,
-        "title": "Power Platform Developer",
-        "company": "Betatest Solutions Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 9,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-power-platform-developer-internship-at-betatest-solutions-private-limited1785483769",
-        "source": "Internshala"
-    },
-    {
-        "id": 9,
-        "title": "Software Development",
-        "company": "KhiladiPro",
-        "stipend": "\u20b9 23,000 - 25,000 /month",
-        "link": "https://internshala.com/internship/detail/software-development-internship-in-bangalore-at-khiladipro1785523073",
-        "source": "Internshala"
-    },
-    {
-        "id": 10,
+        "id": 12,
         "title": "Software Development",
         "company": "Nsse Fab",
         "stipend": "\u20b9 5,000 - 10,000 /month",
@@ -80,7 +96,7 @@
         "source": "Internshala"
     },
     {
-        "id": 11,
+        "id": 13,
         "title": "Web Development",
         "company": "S2S Web Technology",
         "stipend": "\u20b9 3,000 - 4,000 /month",
@@ -88,51 +104,19 @@
         "source": "Internshala"
     },
     {
-        "id": 12,
-        "title": "Web Development",
-        "company": "Yotric Solutions",
-        "stipend": "\u20b9 5,000 - 8,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-yotric-solutions1785523932",
-        "source": "Internshala"
-    },
-    {
-        "id": 13,
-        "title": "Web Development",
-        "company": "Zebnux Technologies",
-        "stipend": "\u20b9 6,000 - 8,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-zebnux-technologies1785523737",
-        "source": "Internshala"
-    },
-    {
         "id": 14,
-        "title": "Software Development",
-        "company": "TalentBrainy",
-        "stipend": "\u20b9 7,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-talentbrainy1785515060",
+        "title": "Backend Development",
+        "company": "She Can Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-she-can-foundation1785586018",
         "source": "Internshala"
     },
     {
         "id": 15,
         "title": "Software Development",
-        "company": "Swift Robotics Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 20,000 - 30,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-swift-robotics-private-limited1785516699",
-        "source": "Internshala"
-    },
-    {
-        "id": 16,
-        "title": "Python Development",
-        "company": "Embedsense Solutions",
-        "stipend": "\u20b9 6,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/python-development-internship-in-bangalore-at-embedsense-solutions1785500765",
-        "source": "Internshala"
-    },
-    {
-        "id": 17,
-        "title": "Web Development",
-        "company": "Hope Behind Tails Foundation                        \nActively hiring",
+        "company": "She Can Foundation                        \nActively hiring",
         "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-hope-behind-tails-foundation1785502377",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-she-can-foundation1785585968",
         "source": "Internshala"
     }
 ]
