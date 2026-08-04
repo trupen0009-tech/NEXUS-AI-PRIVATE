@@ -1,38 +1,22 @@
 [
     {
         "id": 1,
-        "title": "Azure & ASP.NET Core Support Engineer",
-        "company": "Nsse Fab                        \nActively hiring",
-        "stipend": "\u20b9 6,000 - 8,000 /month",
-        "link": "https://internshala.com/internship/detail/azure-aspnet-core-support-engineer-internship-in-kolkata-at-nsse-fab1785740794",
+        "title": "Python Development",
+        "company": "Bytesview Analytics Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 9,000 - 10,000 /month",
+        "link": "https://internshala.com/internship/detail/python-development-internship-in-multiple-locations-at-bytesview-analytics-private-limited1785845700",
         "source": "Internshala"
     },
     {
         "id": 2,
-        "title": "Software Testing",
-        "company": "Meru Technosoft Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 3,500 - 5,000 /month",
-        "link": "https://internshala.com/internship/detail/software-testing-internship-in-ahmedabad-at-meru-technosoft-private-limited1785389946",
+        "title": "Software Development",
+        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-basti-ki-pathshala-foundation1785840504",
         "source": "Internshala"
     },
     {
         "id": 3,
-        "title": "Software Engineering Fellowship",
-        "company": "Utpatti                        \nActively hiring",
-        "stipend": "\u20b9 4,000 - 5,000 /month",
-        "link": "https://internshala.com/internship/detail/software-engineering-fellowship-internship-in-hyderabad-at-utpatti1785760732",
-        "source": "Internshala"
-    },
-    {
-        "id": 4,
-        "title": "Web Development",
-        "company": "Ethical Den                        \nActively hiring",
-        "stipend": "\u20b9 2,500 - 5,000 /month",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-kolkata-at-ethical-den1785749608",
-        "source": "Internshala"
-    },
-    {
-        "id": 5,
         "title": "AI Web Development",
         "company": "InAmigos Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -40,7 +24,7 @@
         "source": "Internshala"
     },
     {
-        "id": 6,
+        "id": 4,
         "title": "Python Development",
         "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -48,7 +32,7 @@
         "source": "Internshala"
     },
     {
-        "id": 7,
+        "id": 5,
         "title": "Software Development",
         "company": "TEN                        \nActively hiring",
         "stipend": "\u20b9 2,000 /month",
@@ -56,47 +40,103 @@
         "source": "Internshala"
     },
     {
+        "id": 6,
+        "title": "Web Development",
+        "company": "Ethical Den                        \nActively hiring",
+        "stipend": "\u20b9 2,500 - 5,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-kolkata-at-ethical-den1785749608",
+        "source": "Internshala"
+    },
+    {
+        "id": 7,
+        "title": "Azure & ASP.NET Core Support Engineer",
+        "company": "Nsse Fab                        \nActively hiring",
+        "stipend": "\u20b9 6,000 - 8,000 /month",
+        "link": "https://internshala.com/internship/detail/azure-aspnet-core-support-engineer-internship-in-kolkata-at-nsse-fab1785740794",
+        "source": "Internshala"
+    },
+    {
         "id": 8,
-        "title": "DevOps Engineer",
-        "company": "Brain Quest                        \nActively hiring",
-        "stipend": "\u20b9 8,000 - 12,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-devops-engineer-internship-at-brain-quest1785758547",
+        "title": "Web Development",
+        "company": "Pentableu                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 12,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-mumbai-at-pentableu1785829316",
         "source": "Internshala"
     },
     {
         "id": 9,
-        "title": "Backend Development",
-        "company": "Queens Of Change Foundation                        \nActively hiring",
+        "title": "Web Development",
+        "company": "NayePankh Foundation                        \nActively hiring",
         "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-queens-of-change-foundation1785754992",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-nayepankh-foundation1785840248",
         "source": "Internshala"
     },
     {
         "id": 10,
-        "title": "Software Development",
-        "company": "Zutawa Studios Private Limited",
-        "stipend": "\u20b9 10,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/software-development-internship-in-bangalore-at-zutawa-studios-private-limited1785783555",
+        "title": "Python Development",
+        "company": "Queens Of Change Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-queens-of-change-foundation1785840335",
         "source": "Internshala"
     },
     {
         "id": 11,
-        "title": "Web Development",
-        "company": "Bombay Ad Cartel",
-        "stipend": "\u20b9 5,000 - 8,000 /month",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-mumbai-at-bombay-ad-cartel1785761424",
+        "title": "Backend Development",
+        "company": "NayePankh Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-nayepankh-foundation1785840209",
         "source": "Internshala"
     },
     {
         "id": 12,
-        "title": "Robotics Engineering",
-        "company": "ROBOBID LAB PRIVATE LIMITED",
-        "stipend": "\u20b9 5,000 /month",
-        "link": "https://internshala.com/internship/detail/robotics-engineering-internship-in-jaipur-at-robobid-lab-private-limited1785747360",
+        "title": "Software Development",
+        "company": "GenElek Technologies Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/software-development-internship-in-delhi-at-genelek-technologies-private-limited1785825815",
         "source": "Internshala"
     },
     {
         "id": 13,
+        "title": "Software Testing",
+        "company": "Meru Technosoft Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 3,500 - 5,000 /month",
+        "link": "https://internshala.com/internship/detail/software-testing-internship-in-ahmedabad-at-meru-technosoft-private-limited1785389946",
+        "source": "Internshala"
+    },
+    {
+        "id": 14,
+        "title": "Data Collection & Annotation",
+        "company": "ConsultBae                        \nActively hiring",
+        "stipend": "\u20b9 5,000 - 8,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-data-collection-annotation-internship-at-consultbae1785851483",
+        "source": "Internshala"
+    },
+    {
+        "id": 15,
+        "title": "AI Full Stack Developer",
+        "company": "NextGen Forge Technologies",
+        "stipend": "\u20b9 5,000 - 8,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-ai-full-stack-developer-internship-at-nextgen-forge-technologies1785849864",
+        "source": "Internshala"
+    },
+    {
+        "id": 16,
+        "title": "Web Development",
+        "company": "Equa.Law",
+        "stipend": "\u20b9 5,000 - 10,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-jaipur-at-equalaw1785844095",
+        "source": "Internshala"
+    },
+    {
+        "id": 17,
+        "title": "Software Testing",
+        "company": "Hospital Associated Network Development Corporated Private Limited",
+        "stipend": "\u20b9 10,000 - 27,000 /month",
+        "link": "https://internshala.com/internship/detail/software-testing-internship-in-varanasi-at-hospital-associated-network-development-corporated-private-limited1785825773",
+        "source": "Internshala"
+    },
+    {
+        "id": 18,
         "title": "Desktop Support Engineer",
         "company": "Red Earth Education & Migration Private Limited",
         "stipend": "\u20b9 5,000 /month",
@@ -104,7 +144,7 @@
         "source": "Internshala"
     },
     {
-        "id": 14,
+        "id": 19,
         "title": "Backend Development",
         "company": "EmpowerU (Promorph Solutions Private Limited)",
         "stipend": "\u20b9 3,000 - 5,000 /month",
@@ -112,7 +152,7 @@
         "source": "Internshala"
     },
     {
-        "id": 15,
+        "id": 20,
         "title": "Web Development",
         "company": "S2S Web Technology",
         "stipend": "\u20b9 3,000 - 4,000 /month",
@@ -120,43 +160,19 @@
         "source": "Internshala"
     },
     {
-        "id": 16,
-        "title": "Web Development",
-        "company": "Emoolar Technology Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 3,000 - 4,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-emoolar-technology-private-limited1785788520",
+        "id": 21,
+        "title": "Software Development",
+        "company": "Binary Infoways",
+        "stipend": "\u20b9 2,000 - 3,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-binary-infoways1785844881",
         "source": "Internshala"
     },
     {
-        "id": 17,
-        "title": "Software Testing",
-        "company": "WEBSAGE SOFTWARE PVT. LTD.",
-        "stipend": "\u20b9 5,000 - 7,000 /month",
-        "link": "https://internshala.com/internship/detail/software-testing-internship-in-noida-at-websage-software-pvt-ltd1785765496",
-        "source": "Internshala"
-    },
-    {
-        "id": 18,
-        "title": "Web Development",
-        "company": "Silverhash Digital",
-        "stipend": "\u20b9 5,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-virar-at-silverhash-digital1785759123",
-        "source": "Internshala"
-    },
-    {
-        "id": 19,
-        "title": "Web Development",
-        "company": "Eduminatti                        \nActively hiring",
-        "stipend": "\u20b9 8,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-eduminatti1785763995",
-        "source": "Internshala"
-    },
-    {
-        "id": 20,
-        "title": "Website Development",
-        "company": "COSMOS DIGITAL HUB",
-        "stipend": "\u20b9 1,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-website-development-internship-at-cosmos-digital-hub1785761199",
+        "id": 22,
+        "title": "Backend Development",
+        "company": "HarmonyHub",
+        "stipend": "\u20b9 1,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-harmonyhub1785836085",
         "source": "Internshala"
     }
 ]
