@@ -1,6 +1,14 @@
 [
     {
         "id": 1,
+        "title": "Web Development",
+        "company": "Ethical Den                        \nActively hiring",
+        "stipend": "\u20b9 2,500 - 5,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-kolkata-at-ethical-den1785749608",
+        "source": "Internshala"
+    },
+    {
+        "id": 2,
         "title": "Software Testing",
         "company": "Meru Technosoft Private Limited                        \nActively hiring",
         "stipend": "\u20b9 3,500 - 5,000 /month",
@@ -8,27 +16,19 @@
         "source": "Internshala"
     },
     {
-        "id": 2,
-        "title": "Software Development Engineering (Web)",
-        "company": "Wrexa Technologies LLC                        \nActively hiring",
-        "stipend": "\u20b9 15,000 - 18,000 /month",
-        "link": "https://internshala.com/internship/detail/software-development-engineering-web-internship-in-chennai-at-wrexa-technologies-llc1786225835",
-        "source": "Internshala"
-    },
-    {
         "id": 3,
-        "title": "Azure & ASP.NET Core Support Engineer",
-        "company": "Nsse Fab                        \nActively hiring",
-        "stipend": "\u20b9 6,000 - 8,000 /month",
-        "link": "https://internshala.com/internship/detail/azure-aspnet-core-support-engineer-internship-in-kolkata-at-nsse-fab1785740794",
+        "title": "Software Development",
+        "company": "She Can Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-she-can-foundation1786277309",
         "source": "Internshala"
     },
     {
         "id": 4,
-        "title": "Web Development",
-        "company": "Ethical Den                        \nActively hiring",
-        "stipend": "\u20b9 2,500 - 5,000 /month",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-kolkata-at-ethical-den1785749608",
+        "title": "Software Development Engineering (Web)",
+        "company": "Wrexa Technologies LLC                        \nActively hiring",
+        "stipend": "\u20b9 15,000 - 18,000 /month",
+        "link": "https://internshala.com/internship/detail/software-development-engineering-web-internship-in-chennai-at-wrexa-technologies-llc1786225835",
         "source": "Internshala"
     },
     {
@@ -41,18 +41,18 @@
     },
     {
         "id": 6,
-        "title": "Chemical Engineering & Biotechnology",
-        "company": "Mpower Urja",
-        "stipend": "\u20b9 2,500 - 3,000 /month",
-        "link": "https://internshala.com/internship/detail/chemical-engineering-biotechnology-internship-in-multiple-locations-at-mpower-urja1786178085",
+        "title": "Azure & ASP.NET Core Support Engineer",
+        "company": "Nsse Fab                        \nActively hiring",
+        "stipend": "\u20b9 6,000 - 8,000 /month",
+        "link": "https://internshala.com/internship/detail/azure-aspnet-core-support-engineer-internship-in-kolkata-at-nsse-fab1785740794",
         "source": "Internshala"
     },
     {
         "id": 7,
-        "title": "Mobile App & Web Development",
-        "company": "Pioneer Sam Energia",
+        "title": "Chemical Engineering & Biotechnology",
+        "company": "Mpower Urja",
         "stipend": "\u20b9 2,500 - 3,000 /month",
-        "link": "https://internshala.com/internship/detail/mobile-app-web-development-internship-in-multiple-locations-at-pioneer-sam-energia1786177488",
+        "link": "https://internshala.com/internship/detail/chemical-engineering-biotechnology-internship-in-multiple-locations-at-mpower-urja1786178085",
         "source": "Internshala"
     },
     {
@@ -73,6 +73,38 @@
     },
     {
         "id": 10,
+        "title": "Java Development",
+        "company": "Qubixo                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-qubixo1786256237",
+        "source": "Internshala"
+    },
+    {
+        "id": 11,
+        "title": "Full Stack Web Development",
+        "company": "Emoolar Technology Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 5,500 - 7,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-full-stack-web-development-internship-at-emoolar-technology-private-limited1786252787",
+        "source": "Internshala"
+    },
+    {
+        "id": 12,
+        "title": "Python Development",
+        "company": "Cloud Back                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-cloud-back1786252058",
+        "source": "Internshala"
+    },
+    {
+        "id": 13,
+        "title": "Web Development",
+        "company": "Cloud Back                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 25,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-cloud-back1786252031",
+        "source": "Internshala"
+    },
+    {
+        "id": 14,
         "title": "Software Development Engineering (Web)",
         "company": "Emoolar Technology Private Limited                        \nActively hiring",
         "stipend": "\u20b9 7,000 - 8,000 /month",
@@ -80,7 +112,7 @@
         "source": "Internshala"
     },
     {
-        "id": 11,
+        "id": 15,
         "title": "Backend Development",
         "company": "She Can Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -88,7 +120,7 @@
         "source": "Internshala"
     },
     {
-        "id": 12,
+        "id": 16,
         "title": "Web Development",
         "company": "CareerNest                        \nActively hiring",
         "stipend": "\u20b9 20,000 /month",
@@ -96,7 +128,15 @@
         "source": "Internshala"
     },
     {
-        "id": 13,
+        "id": 17,
+        "title": "Mobile App & Web Development",
+        "company": "Pioneer Sam Energia",
+        "stipend": "\u20b9 2,500 - 3,000 /month",
+        "link": "https://internshala.com/internship/detail/mobile-app-web-development-internship-in-multiple-locations-at-pioneer-sam-energia1786177488",
+        "source": "Internshala"
+    },
+    {
+        "id": 18,
         "title": "Web Development",
         "company": "Cornixe                        \nActively hiring",
         "stipend": "\u20b9 7,000 - 26,000 /month",
@@ -104,7 +144,7 @@
         "source": "Internshala"
     },
     {
-        "id": 14,
+        "id": 19,
         "title": "Web Development",
         "company": "Tripple One Solutions                        \nActively hiring",
         "stipend": "\u20b9 5,000 - 10,000 /month",
@@ -112,7 +152,7 @@
         "source": "Internshala"
     },
     {
-        "id": 15,
+        "id": 20,
         "title": "Java Development",
         "company": "Amrata                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 20,000 /month",
@@ -120,7 +160,7 @@
         "source": "Internshala"
     },
     {
-        "id": 16,
+        "id": 21,
         "title": "Python Development",
         "company": "Amrata                        \nActively hiring",
         "stipend": "\u20b9 12,500 - 20,000 /month",
@@ -128,19 +168,11 @@
         "source": "Internshala"
     },
     {
-        "id": 17,
+        "id": 22,
         "title": "Web Development",
         "company": "Amrata                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 20,000 /month",
         "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-amrata1786165336",
-        "source": "Internshala"
-    },
-    {
-        "id": 18,
-        "title": "Full Stack Builder (Developer)",
-        "company": "Supanova Labs (San Diego, United States)                        \nActively hiring",
-        "stipend": "\u20b9 16,500 - 23,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-full-stack-builder-developer-internship-at-supanova-labs1786158939",
         "source": "Internshala"
     }
 ]
