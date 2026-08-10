@@ -1,10 +1,10 @@
 [
     {
         "id": 1,
-        "title": "Web Development",
-        "company": "Ethical Den                        \nActively hiring",
-        "stipend": "\u20b9 2,500 - 5,000 /month",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-kolkata-at-ethical-den1785749608",
+        "title": "Azure & ASP.NET Core Support Engineer",
+        "company": "Nsse Fab                        \nActively hiring",
+        "stipend": "\u20b9 6,000 - 8,000 /month",
+        "link": "https://internshala.com/internship/detail/azure-aspnet-core-support-engineer-internship-in-kolkata-at-nsse-fab1785740794",
         "source": "Internshala"
     },
     {
@@ -17,14 +17,22 @@
     },
     {
         "id": 3,
-        "title": "Software Development",
-        "company": "She Can Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-she-can-foundation1786277309",
+        "title": "Web Development",
+        "company": "Ethical Den                        \nActively hiring",
+        "stipend": "\u20b9 2,500 - 5,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-kolkata-at-ethical-den1785749608",
         "source": "Internshala"
     },
     {
         "id": 4,
+        "title": "Data Research",
+        "company": "Prop Pie - Fractional Ownership For Real Estate                        \nActively hiring",
+        "stipend": "\u20b9 4,000 - 40,000 /month",
+        "link": "https://internshala.com/internship/detail/data-research-internship-in-pune-at-prop-pie-fractional-ownership-for-real-estate1785906027",
+        "source": "Internshala"
+    },
+    {
+        "id": 5,
         "title": "Software Development Engineering (Web)",
         "company": "Wrexa Technologies LLC                        \nActively hiring",
         "stipend": "\u20b9 15,000 - 18,000 /month",
@@ -32,7 +40,7 @@
         "source": "Internshala"
     },
     {
-        "id": 5,
+        "id": 6,
         "title": "Software Development",
         "company": "TEN                        \nActively hiring",
         "stipend": "\u20b9 2,000 /month",
@@ -40,15 +48,15 @@
         "source": "Internshala"
     },
     {
-        "id": 6,
-        "title": "Azure & ASP.NET Core Support Engineer",
-        "company": "Nsse Fab                        \nActively hiring",
-        "stipend": "\u20b9 6,000 - 8,000 /month",
-        "link": "https://internshala.com/internship/detail/azure-aspnet-core-support-engineer-internship-in-kolkata-at-nsse-fab1785740794",
+        "id": 7,
+        "title": "Python Development",
+        "company": "Varsity Pro",
+        "stipend": "\u20b9 5,000 - 10,000 /month",
+        "link": "https://internshala.com/internship/detail/python-development-internship-in-delhi-at-varsity-pro1786300861",
         "source": "Internshala"
     },
     {
-        "id": 7,
+        "id": 8,
         "title": "Chemical Engineering & Biotechnology",
         "company": "Mpower Urja",
         "stipend": "\u20b9 2,500 - 3,000 /month",
@@ -56,7 +64,7 @@
         "source": "Internshala"
     },
     {
-        "id": 8,
+        "id": 9,
         "title": "Backend Development",
         "company": "EmpowerU (Promorph Solutions Private Limited)",
         "stipend": "\u20b9 3,000 - 5,000 /month",
@@ -64,7 +72,7 @@
         "source": "Internshala"
     },
     {
-        "id": 9,
+        "id": 10,
         "title": "Web Development",
         "company": "S2S Web Technology",
         "stipend": "\u20b9 3,000 - 4,000 /month",
@@ -72,7 +80,15 @@
         "source": "Internshala"
     },
     {
-        "id": 10,
+        "id": 11,
+        "title": "Software Development",
+        "company": "She Can Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-she-can-foundation1786277309",
+        "source": "Internshala"
+    },
+    {
+        "id": 12,
         "title": "Java Development",
         "company": "Qubixo                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 20,000 /month",
@@ -80,7 +96,7 @@
         "source": "Internshala"
     },
     {
-        "id": 11,
+        "id": 13,
         "title": "Full Stack Web Development",
         "company": "Emoolar Technology Private Limited                        \nActively hiring",
         "stipend": "\u20b9 5,500 - 7,000 /month",
@@ -88,7 +104,7 @@
         "source": "Internshala"
     },
     {
-        "id": 12,
+        "id": 14,
         "title": "Python Development",
         "company": "Cloud Back                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 20,000 /month",
@@ -96,7 +112,7 @@
         "source": "Internshala"
     },
     {
-        "id": 13,
+        "id": 15,
         "title": "Web Development",
         "company": "Cloud Back                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 25,000 /month",
@@ -104,7 +120,7 @@
         "source": "Internshala"
     },
     {
-        "id": 14,
+        "id": 16,
         "title": "Software Development Engineering (Web)",
         "company": "Emoolar Technology Private Limited                        \nActively hiring",
         "stipend": "\u20b9 7,000 - 8,000 /month",
@@ -112,7 +128,7 @@
         "source": "Internshala"
     },
     {
-        "id": 15,
+        "id": 17,
         "title": "Backend Development",
         "company": "She Can Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -120,7 +136,7 @@
         "source": "Internshala"
     },
     {
-        "id": 16,
+        "id": 18,
         "title": "Web Development",
         "company": "CareerNest                        \nActively hiring",
         "stipend": "\u20b9 20,000 /month",
@@ -128,7 +144,7 @@
         "source": "Internshala"
     },
     {
-        "id": 17,
+        "id": 19,
         "title": "Mobile App & Web Development",
         "company": "Pioneer Sam Energia",
         "stipend": "\u20b9 2,500 - 3,000 /month",
@@ -136,7 +152,7 @@
         "source": "Internshala"
     },
     {
-        "id": 18,
+        "id": 20,
         "title": "Web Development",
         "company": "Cornixe                        \nActively hiring",
         "stipend": "\u20b9 7,000 - 26,000 /month",
@@ -144,7 +160,7 @@
         "source": "Internshala"
     },
     {
-        "id": 19,
+        "id": 21,
         "title": "Web Development",
         "company": "Tripple One Solutions                        \nActively hiring",
         "stipend": "\u20b9 5,000 - 10,000 /month",
@@ -152,7 +168,7 @@
         "source": "Internshala"
     },
     {
-        "id": 20,
+        "id": 22,
         "title": "Java Development",
         "company": "Amrata                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 20,000 /month",
@@ -160,19 +176,11 @@
         "source": "Internshala"
     },
     {
-        "id": 21,
+        "id": 23,
         "title": "Python Development",
         "company": "Amrata                        \nActively hiring",
         "stipend": "\u20b9 12,500 - 20,000 /month",
         "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-amrata1786165497",
-        "source": "Internshala"
-    },
-    {
-        "id": 22,
-        "title": "Web Development",
-        "company": "Amrata                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-amrata1786165336",
         "source": "Internshala"
     }
 ]
