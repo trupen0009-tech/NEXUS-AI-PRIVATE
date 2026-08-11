@@ -1,54 +1,6 @@
 [
     {
         "id": 1,
-        "title": "Data Research",
-        "company": "Prop Pie - Fractional Ownership For Real Estate                        \nActively hiring",
-        "stipend": "\u20b9 4,000 - 40,000 /month",
-        "link": "https://internshala.com/internship/detail/data-research-internship-in-pune-at-prop-pie-fractional-ownership-for-real-estate1785906027",
-        "source": "Internshala"
-    },
-    {
-        "id": 2,
-        "title": "Software Development",
-        "company": "APEX I SOFT TECHNOLOGIES PRIVATE LIMITED                        \nActively hiring",
-        "stipend": "\u20b9 15,000 - 25,000 /month",
-        "link": "https://internshala.com/internship/detail/software-development-internship-in-pune-at-apex-i-soft-technologies-private-limited1786344154",
-        "source": "Internshala"
-    },
-    {
-        "id": 3,
-        "title": "Web Development",
-        "company": "She Can Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-she-can-foundation1786365407",
-        "source": "Internshala"
-    },
-    {
-        "id": 4,
-        "title": "Software Development",
-        "company": "TEN                        \nActively hiring",
-        "stipend": "\u20b9 2,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-ten1785048851",
-        "source": "Internshala"
-    },
-    {
-        "id": 5,
-        "title": "Software Development Engineering (Web)",
-        "company": "Wrexa Technologies LLC                        \nActively hiring",
-        "stipend": "\u20b9 15,000 - 18,000 /month",
-        "link": "https://internshala.com/internship/detail/software-development-engineering-web-internship-in-chennai-at-wrexa-technologies-llc1786225835",
-        "source": "Internshala"
-    },
-    {
-        "id": 6,
-        "title": "Mobile App Developer - React Native/IOS/Android",
-        "company": "DAEL SOLAR INTERNATIONAL (Madrid, Spain)                        \nActively hiring",
-        "stipend": "$ 325 - 500 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-mobile-app-developer-react-native-ios-android-internship-at-dael-solar-international1786336240",
-        "source": "Internshala"
-    },
-    {
-        "id": 7,
         "title": "Software Testing",
         "company": "Meru Technosoft Private Limited                        \nActively hiring",
         "stipend": "\u20b9 3,500 - 5,000 /month",
@@ -56,23 +8,15 @@
         "source": "Internshala"
     },
     {
-        "id": 8,
-        "title": "Unity Developer",
-        "company": "QuadB Tech                        \nActively hiring",
-        "stipend": "\u20b9 5,000 - 5,001 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-unity-developer-internship-at-quadb-tech1786335381",
+        "id": 2,
+        "title": "Data Research",
+        "company": "Prop Pie - Fractional Ownership For Real Estate                        \nActively hiring",
+        "stipend": "\u20b9 4,000 - 40,000 /month",
+        "link": "https://internshala.com/internship/detail/data-research-internship-in-pune-at-prop-pie-fractional-ownership-for-real-estate1785906027",
         "source": "Internshala"
     },
     {
-        "id": 9,
-        "title": "Web Development",
-        "company": "Ethical Den                        \nActively hiring",
-        "stipend": "\u20b9 2,500 - 5,000 /month",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-kolkata-at-ethical-den1785749608",
-        "source": "Internshala"
-    },
-    {
-        "id": 10,
+        "id": 3,
         "title": "Azure & ASP.NET Core Support Engineer",
         "company": "Nsse Fab                        \nActively hiring",
         "stipend": "\u20b9 6,000 - 8,000 /month",
@@ -80,7 +24,47 @@
         "source": "Internshala"
     },
     {
-        "id": 11,
+        "id": 4,
+        "title": "Software Development",
+        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-basti-ki-pathshala-foundation1786363185",
+        "source": "Internshala"
+    },
+    {
+        "id": 5,
+        "title": "Software Development",
+        "company": "TEN                        \nActively hiring",
+        "stipend": "\u20b9 2,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-ten1785048851",
+        "source": "Internshala"
+    },
+    {
+        "id": 6,
+        "title": "Web Development",
+        "company": "Ethical Den                        \nActively hiring",
+        "stipend": "\u20b9 2,500 - 5,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-kolkata-at-ethical-den1785749608",
+        "source": "Internshala"
+    },
+    {
+        "id": 7,
+        "title": "MERN Software Testing (AI Agentic)",
+        "company": "Tellis Technologies Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 5,000 - 8,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-mern-software-testing-ai-agentic-internship-at-tellis-technologies-private-limited1786352058",
+        "source": "Internshala"
+    },
+    {
+        "id": 8,
+        "title": "Software Testing",
+        "company": "SIRPI Products & Services Private Limited",
+        "stipend": "\u20b9 14,999 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/software-testing-internship-in-bangalore-at-sirpi-products-services-private-limited1786362516",
+        "source": "Internshala"
+    },
+    {
+        "id": 9,
         "title": "AI & Automation Developer Intern",
         "company": "Perform Digital",
         "stipend": "\u20b9 6,000 - 10,000 /month",
@@ -88,7 +72,7 @@
         "source": "Internshala"
     },
     {
-        "id": 12,
+        "id": 10,
         "title": "Chemical Engineering & Biotechnology",
         "company": "Mpower Urja",
         "stipend": "\u20b9 2,500 - 3,000 /month",
@@ -96,7 +80,7 @@
         "source": "Internshala"
     },
     {
-        "id": 13,
+        "id": 11,
         "title": "Backend Development",
         "company": "EmpowerU (Promorph Solutions Private Limited)",
         "stipend": "\u20b9 3,000 - 5,000 /month",
@@ -104,11 +88,27 @@
         "source": "Internshala"
     },
     {
-        "id": 14,
+        "id": 12,
         "title": "Web Development",
         "company": "S2S Web Technology",
         "stipend": "\u20b9 3,000 - 4,000 /month",
         "link": "https://internshala.com/internship/detail/web-development-internship-in-tiruchirappalli-at-s2s-web-technology1785222717",
+        "source": "Internshala"
+    },
+    {
+        "id": 13,
+        "title": "Java Development",
+        "company": "Unessa Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-unessa-foundation1786371886",
+        "source": "Internshala"
+    },
+    {
+        "id": 14,
+        "title": "Web Development",
+        "company": "She Can Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-she-can-foundation1786365407",
         "source": "Internshala"
     },
     {
@@ -121,14 +121,6 @@
     },
     {
         "id": 16,
-        "title": "Software Development",
-        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-basti-ki-pathshala-foundation1786363185",
-        "source": "Internshala"
-    },
-    {
-        "id": 17,
         "title": "Web Development",
         "company": "Hope Behind Tails Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -136,7 +128,7 @@
         "source": "Internshala"
     },
     {
-        "id": 18,
+        "id": 17,
         "title": "Backend Development",
         "company": "Hope Behind Tails Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -144,7 +136,7 @@
         "source": "Internshala"
     },
     {
-        "id": 19,
+        "id": 18,
         "title": "Java Development",
         "company": "Pledge India Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -152,7 +144,7 @@
         "source": "Internshala"
     },
     {
-        "id": 20,
+        "id": 19,
         "title": "AI Web Development",
         "company": "Women First India Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -160,7 +152,7 @@
         "source": "Internshala"
     },
     {
-        "id": 21,
+        "id": 20,
         "title": "Software Development",
         "company": "Queens Of Change Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -168,11 +160,19 @@
         "source": "Internshala"
     },
     {
-        "id": 22,
+        "id": 21,
         "title": "Java Development",
         "company": "NayePankh Foundation                        \nActively hiring",
         "stipend": "Unpaid",
         "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-nayepankh-foundation1786361961",
+        "source": "Internshala"
+    },
+    {
+        "id": 22,
+        "title": "Software Development",
+        "company": "Innoxor Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 6,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-part-time-software-development-internship-at-innoxor-private-limited1786360478",
         "source": "Internshala"
     }
 ]
