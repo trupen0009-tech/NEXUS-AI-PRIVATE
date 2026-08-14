@@ -1,18 +1,18 @@
 [
     {
         "id": 1,
-        "title": "Full-Stack/AI Engineer",
-        "company": "Gnani.ai                        \nActively hiring",
-        "stipend": "\u20b9 30,000 - 75,000 /month",
-        "link": "https://internshala.com/internship/detail/full-stack-ai-engineer-internship-in-bangalore-at-gnaniai1786619588",
+        "title": "Software Development",
+        "company": "Reflex Realty LLP                        \nActively hiring",
+        "stipend": "\u20b9 4,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/software-development-internship-in-mumbai-at-reflex-realty-llp1786624289",
         "source": "Internshala"
     },
     {
         "id": 2,
         "title": "Software Development",
-        "company": "Reflex Realty LLP                        \nActively hiring",
-        "stipend": "\u20b9 4,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/software-development-internship-in-mumbai-at-reflex-realty-llp1786624289",
+        "company": "Michmer Technologies                        \nActively hiring",
+        "stipend": "\u20b9 6,000 - 8,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-michmer-technologies1786654307",
         "source": "Internshala"
     },
     {
@@ -41,10 +41,10 @@
     },
     {
         "id": 6,
-        "title": "Full-Stack Platform Engineer (Python + React + DevOps)",
-        "company": "SAS Group                        \nActively hiring",
-        "stipend": "\u20b9 12,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-full-stack-platform-engineer-python-react-devops-internship-at-sas-group1786608611",
+        "title": "Data Research",
+        "company": "Prop Pie - Fractional Ownership For Real Estate                        \nActively hiring",
+        "stipend": "\u20b9 4,000 - 40,000 /month",
+        "link": "https://internshala.com/internship/detail/data-research-internship-in-pune-at-prop-pie-fractional-ownership-for-real-estate1785906027",
         "source": "Internshala"
     },
     {
@@ -57,14 +57,6 @@
     },
     {
         "id": 8,
-        "title": "Data Research",
-        "company": "Prop Pie - Fractional Ownership For Real Estate                        \nActively hiring",
-        "stipend": "\u20b9 4,000 - 40,000 /month",
-        "link": "https://internshala.com/internship/detail/data-research-internship-in-pune-at-prop-pie-fractional-ownership-for-real-estate1785906027",
-        "source": "Internshala"
-    },
-    {
-        "id": 9,
         "title": "Software Testing",
         "company": "Meru Technosoft Private Limited                        \nActively hiring",
         "stipend": "\u20b9 3,500 - 5,000 /month",
@@ -72,15 +64,7 @@
         "source": "Internshala"
     },
     {
-        "id": 10,
-        "title": "Junior PHP Developer",
-        "company": "FynTune Solution Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 18,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/junior-php-developer-internship-in-multiple-locations-at-fyntune-solution-private-limited1786511927",
-        "source": "Internshala"
-    },
-    {
-        "id": 11,
+        "id": 9,
         "title": "Azure & ASP.NET Core Support Engineer",
         "company": "Nsse Fab                        \nActively hiring",
         "stipend": "\u20b9 6,000 - 8,000 /month",
@@ -88,7 +72,7 @@
         "source": "Internshala"
     },
     {
-        "id": 12,
+        "id": 10,
         "title": "Web Development",
         "company": "Ethical Den                        \nActively hiring",
         "stipend": "\u20b9 2,500 - 5,000 /month",
@@ -96,7 +80,7 @@
         "source": "Internshala"
     },
     {
-        "id": 13,
+        "id": 11,
         "title": "Software Development Engineering (Web)",
         "company": "Aivirinchi Private Limited",
         "stipend": "\u20b9 4,001 - 4,003 /month",
@@ -104,7 +88,7 @@
         "source": "Internshala"
     },
     {
-        "id": 14,
+        "id": 12,
         "title": "AI & Automation Developer Intern",
         "company": "Perform Digital",
         "stipend": "\u20b9 6,000 - 10,000 /month",
@@ -112,7 +96,7 @@
         "source": "Internshala"
     },
     {
-        "id": 15,
+        "id": 13,
         "title": "Chemical Engineering & Biotechnology",
         "company": "Mpower Urja",
         "stipend": "\u20b9 2,500 - 3,000 /month",
@@ -120,7 +104,7 @@
         "source": "Internshala"
     },
     {
-        "id": 16,
+        "id": 14,
         "title": "Backend Development",
         "company": "EmpowerU (Promorph Solutions Private Limited)",
         "stipend": "\u20b9 3,000 - 5,000 /month",
@@ -128,7 +112,7 @@
         "source": "Internshala"
     },
     {
-        "id": 17,
+        "id": 15,
         "title": "Web Development",
         "company": "S2S Web Technology",
         "stipend": "\u20b9 3,000 - 4,000 /month",
@@ -136,11 +120,19 @@
         "source": "Internshala"
     },
     {
-        "id": 18,
-        "title": "Product Engineering (Mobile & Web)",
-        "company": "Roast & Rest",
-        "stipend": "\u20b9 5,000 - 5,001 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-product-engineering-mobile-web-internship-at-roast-rest1786619569",
+        "id": 16,
+        "title": "Web Development",
+        "company": "Bizigo Horizons LLP",
+        "stipend": "\u20b9 4,999 - 5,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-bizigo-horizons-llp1786644278",
+        "source": "Internshala"
+    },
+    {
+        "id": 17,
+        "title": "Python Development",
+        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-basti-ki-pathshala-foundation1786628224",
         "source": "Internshala"
     }
 ]
