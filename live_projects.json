@@ -9,14 +9,30 @@
     },
     {
         "id": 2,
-        "title": "Software Development",
-        "company": "Michmer Technologies                        \nActively hiring",
-        "stipend": "\u20b9 6,000 - 8,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-michmer-technologies1786654307",
+        "title": "AI Web Development",
+        "company": "InAmigos Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1786700604",
         "source": "Internshala"
     },
     {
         "id": 3,
+        "title": "Python Development",
+        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-basti-ki-pathshala-foundation1786628224",
+        "source": "Internshala"
+    },
+    {
+        "id": 4,
+        "title": "Web Development",
+        "company": "NayePankh Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-nayepankh-foundation1786698540",
+        "source": "Internshala"
+    },
+    {
+        "id": 5,
         "title": "Web Scraping",
         "company": "Smollan India                        \nActively hiring",
         "stipend": "\u20b9 13,000 - 15,000 /month",
@@ -24,7 +40,7 @@
         "source": "Internshala"
     },
     {
-        "id": 4,
+        "id": 6,
         "title": "Software Development",
         "company": "TEN                        \nActively hiring",
         "stipend": "\u20b9 2,000 /month",
@@ -32,7 +48,7 @@
         "source": "Internshala"
     },
     {
-        "id": 5,
+        "id": 7,
         "title": "Software Testing",
         "company": "SIRPI Products & Services Private Limited                        \nActively hiring",
         "stipend": "\u20b9 14,999 - 15,000 /month",
@@ -40,7 +56,7 @@
         "source": "Internshala"
     },
     {
-        "id": 6,
+        "id": 8,
         "title": "Data Research",
         "company": "Prop Pie - Fractional Ownership For Real Estate                        \nActively hiring",
         "stipend": "\u20b9 4,000 - 40,000 /month",
@@ -48,7 +64,7 @@
         "source": "Internshala"
     },
     {
-        "id": 7,
+        "id": 9,
         "title": "Graduate Engineer Trainee (GET)",
         "company": "Uboard India Limited                        \nActively hiring",
         "stipend": "\u20b9 5,000 - 12,000 /month",
@@ -56,7 +72,7 @@
         "source": "Internshala"
     },
     {
-        "id": 8,
+        "id": 10,
         "title": "Software Testing",
         "company": "Meru Technosoft Private Limited                        \nActively hiring",
         "stipend": "\u20b9 3,500 - 5,000 /month",
@@ -64,15 +80,7 @@
         "source": "Internshala"
     },
     {
-        "id": 9,
-        "title": "Azure & ASP.NET Core Support Engineer",
-        "company": "Nsse Fab                        \nActively hiring",
-        "stipend": "\u20b9 6,000 - 8,000 /month",
-        "link": "https://internshala.com/internship/detail/azure-aspnet-core-support-engineer-internship-in-kolkata-at-nsse-fab1785740794",
-        "source": "Internshala"
-    },
-    {
-        "id": 10,
+        "id": 11,
         "title": "Web Development",
         "company": "Ethical Den                        \nActively hiring",
         "stipend": "\u20b9 2,500 - 5,000 /month",
@@ -80,7 +88,23 @@
         "source": "Internshala"
     },
     {
-        "id": 11,
+        "id": 12,
+        "title": "Azure & ASP.NET Core Support Engineer",
+        "company": "Nsse Fab                        \nActively hiring",
+        "stipend": "\u20b9 6,000 - 8,000 /month",
+        "link": "https://internshala.com/internship/detail/azure-aspnet-core-support-engineer-internship-in-kolkata-at-nsse-fab1785740794",
+        "source": "Internshala"
+    },
+    {
+        "id": 13,
+        "title": "Shopify Developer",
+        "company": "TrafficHQ Digital Media LLP",
+        "stipend": "\u20b9 6,000 - 10,000 /month",
+        "link": "https://internshala.com/internship/detail/shopify-developer-internship-in-multiple-locations-at-traffichq-digital-media-llp1786700987",
+        "source": "Internshala"
+    },
+    {
+        "id": 14,
         "title": "Software Development Engineering (Web)",
         "company": "Aivirinchi Private Limited",
         "stipend": "\u20b9 4,001 - 4,003 /month",
@@ -88,7 +112,7 @@
         "source": "Internshala"
     },
     {
-        "id": 12,
+        "id": 15,
         "title": "AI & Automation Developer Intern",
         "company": "Perform Digital",
         "stipend": "\u20b9 6,000 - 10,000 /month",
@@ -96,7 +120,7 @@
         "source": "Internshala"
     },
     {
-        "id": 13,
+        "id": 16,
         "title": "Chemical Engineering & Biotechnology",
         "company": "Mpower Urja",
         "stipend": "\u20b9 2,500 - 3,000 /month",
@@ -104,7 +128,7 @@
         "source": "Internshala"
     },
     {
-        "id": 14,
+        "id": 17,
         "title": "Backend Development",
         "company": "EmpowerU (Promorph Solutions Private Limited)",
         "stipend": "\u20b9 3,000 - 5,000 /month",
@@ -112,7 +136,7 @@
         "source": "Internshala"
     },
     {
-        "id": 15,
+        "id": 18,
         "title": "Web Development",
         "company": "S2S Web Technology",
         "stipend": "\u20b9 3,000 - 4,000 /month",
@@ -120,19 +144,19 @@
         "source": "Internshala"
     },
     {
-        "id": 16,
-        "title": "Web Development",
-        "company": "Bizigo Horizons LLP",
-        "stipend": "\u20b9 4,999 - 5,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-bizigo-horizons-llp1786644278",
+        "id": 19,
+        "title": "Software Development",
+        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-basti-ki-pathshala-foundation1786707629",
         "source": "Internshala"
     },
     {
-        "id": 17,
-        "title": "Python Development",
+        "id": 20,
+        "title": "Java Development",
         "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
         "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-basti-ki-pathshala-foundation1786628224",
+        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-basti-ki-pathshala-foundation1786707610",
         "source": "Internshala"
     }
 ]
