@@ -1,26 +1,26 @@
 [
     {
         "id": 1,
-        "title": "Software Development",
-        "company": "Reflex Realty LLP                        \nActively hiring",
-        "stipend": "\u20b9 4,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/software-development-internship-in-mumbai-at-reflex-realty-llp1786624289",
+        "title": "Software Testing",
+        "company": "Meru Technosoft Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 3,500 - 5,000 /month",
+        "link": "https://internshala.com/internship/detail/software-testing-internship-in-ahmedabad-at-meru-technosoft-private-limited1785389946",
         "source": "Internshala"
     },
     {
         "id": 2,
-        "title": "Python Development",
-        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-basti-ki-pathshala-foundation1786628224",
+        "title": "Data Research",
+        "company": "Prop Pie - Fractional Ownership For Real Estate                        \nActively hiring",
+        "stipend": "\u20b9 4,000 - 40,000 /month",
+        "link": "https://internshala.com/internship/detail/data-research-internship-in-pune-at-prop-pie-fractional-ownership-for-real-estate1785906027",
         "source": "Internshala"
     },
     {
         "id": 3,
-        "title": "AI Web Development",
-        "company": "InAmigos Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1786700604",
+        "title": "Software Development",
+        "company": "Reflex Realty LLP                        \nActively hiring",
+        "stipend": "\u20b9 4,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/software-development-internship-in-mumbai-at-reflex-realty-llp1786624289",
         "source": "Internshala"
     },
     {
@@ -41,22 +41,6 @@
     },
     {
         "id": 6,
-        "title": "Data Research",
-        "company": "Prop Pie - Fractional Ownership For Real Estate                        \nActively hiring",
-        "stipend": "\u20b9 4,000 - 40,000 /month",
-        "link": "https://internshala.com/internship/detail/data-research-internship-in-pune-at-prop-pie-fractional-ownership-for-real-estate1785906027",
-        "source": "Internshala"
-    },
-    {
-        "id": 7,
-        "title": "Software Testing",
-        "company": "Meru Technosoft Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 3,500 - 5,000 /month",
-        "link": "https://internshala.com/internship/detail/software-testing-internship-in-ahmedabad-at-meru-technosoft-private-limited1785389946",
-        "source": "Internshala"
-    },
-    {
-        "id": 8,
         "title": "Graduate Engineer Trainee (GET)",
         "company": "Uboard India Limited                        \nActively hiring",
         "stipend": "\u20b9 5,000 - 12,000 /month",
@@ -64,7 +48,7 @@
         "source": "Internshala"
     },
     {
-        "id": 9,
+        "id": 7,
         "title": "Web Development",
         "company": "Ethical Den                        \nActively hiring",
         "stipend": "\u20b9 2,500 - 5,000 /month",
@@ -72,15 +56,7 @@
         "source": "Internshala"
     },
     {
-        "id": 10,
-        "title": "Azure & ASP.NET Core Support Engineer",
-        "company": "Nsse Fab                        \nActively hiring",
-        "stipend": "\u20b9 6,000 - 8,000 /month",
-        "link": "https://internshala.com/internship/detail/azure-aspnet-core-support-engineer-internship-in-kolkata-at-nsse-fab1785740794",
-        "source": "Internshala"
-    },
-    {
-        "id": 11,
+        "id": 8,
         "title": "Shopify Developer",
         "company": "TrafficHQ Digital Media LLP",
         "stipend": "\u20b9 6,000 - 10,000 /month",
@@ -88,15 +64,7 @@
         "source": "Internshala"
     },
     {
-        "id": 12,
-        "title": "Software Development Engineering (Web)",
-        "company": "Aivirinchi Private Limited",
-        "stipend": "\u20b9 4,001 - 4,003 /month",
-        "link": "https://internshala.com/internship/detail/software-development-engineering-web-internship-in-lucknow-at-aivirinchi-private-limited1786623355",
-        "source": "Internshala"
-    },
-    {
-        "id": 13,
+        "id": 9,
         "title": "AI & Automation Developer Intern",
         "company": "Perform Digital",
         "stipend": "\u20b9 6,000 - 10,000 /month",
@@ -104,7 +72,7 @@
         "source": "Internshala"
     },
     {
-        "id": 14,
+        "id": 10,
         "title": "Chemical Engineering & Biotechnology",
         "company": "Mpower Urja",
         "stipend": "\u20b9 2,500 - 3,000 /month",
@@ -112,7 +80,7 @@
         "source": "Internshala"
     },
     {
-        "id": 15,
+        "id": 11,
         "title": "Backend Development",
         "company": "EmpowerU (Promorph Solutions Private Limited)",
         "stipend": "\u20b9 3,000 - 5,000 /month",
@@ -120,7 +88,7 @@
         "source": "Internshala"
     },
     {
-        "id": 16,
+        "id": 12,
         "title": "Web Development",
         "company": "S2S Web Technology",
         "stipend": "\u20b9 3,000 - 4,000 /month",
@@ -128,7 +96,7 @@
         "source": "Internshala"
     },
     {
-        "id": 17,
+        "id": 13,
         "title": "Web Development",
         "company": "JP IT STAFFING LLC                        \nActively hiring",
         "stipend": "\u20b9 2,000 - 6,000 /month",
@@ -136,7 +104,7 @@
         "source": "Internshala"
     },
     {
-        "id": 18,
+        "id": 14,
         "title": "WordPress Developer (Experienced)",
         "company": "Lawtech                        \nActively hiring",
         "stipend": "\u20b9 6,500 - 9,000 /month",
@@ -144,7 +112,7 @@
         "source": "Internshala"
     },
     {
-        "id": 19,
+        "id": 15,
         "title": "Web Development",
         "company": "Qubixo                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 20,000 /month",
@@ -152,7 +120,7 @@
         "source": "Internshala"
     },
     {
-        "id": 20,
+        "id": 16,
         "title": "Python Development",
         "company": "Qubixo                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 20,000 /month",
@@ -160,7 +128,7 @@
         "source": "Internshala"
     },
     {
-        "id": 21,
+        "id": 17,
         "title": "Java Development",
         "company": "Qubixo                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 20,000 /month",
@@ -168,11 +136,51 @@
         "source": "Internshala"
     },
     {
-        "id": 22,
+        "id": 18,
         "title": "Software Development",
         "company": "Unessa Foundation                        \nActively hiring",
         "stipend": "Unpaid",
         "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-unessa-foundation1786717987",
+        "source": "Internshala"
+    },
+    {
+        "id": 19,
+        "title": "Software Development",
+        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-basti-ki-pathshala-foundation1786707629",
+        "source": "Internshala"
+    },
+    {
+        "id": 20,
+        "title": "Java Development",
+        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-basti-ki-pathshala-foundation1786707610",
+        "source": "Internshala"
+    },
+    {
+        "id": 21,
+        "title": "Python Development",
+        "company": "Queens Of Change Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-queens-of-change-foundation1786707446",
+        "source": "Internshala"
+    },
+    {
+        "id": 22,
+        "title": "Python Development",
+        "company": "Pledge India Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-pledge-india-foundation1786707249",
+        "source": "Internshala"
+    },
+    {
+        "id": 23,
+        "title": "Software Development",
+        "company": "Pledge India Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-pledge-india-foundation1786707194",
         "source": "Internshala"
     }
 ]
