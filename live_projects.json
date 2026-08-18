@@ -1,22 +1,14 @@
 [
     {
         "id": 1,
-        "title": "Java Development",
+        "title": "Web Development",
         "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
         "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-basti-ki-pathshala-foundation1786707610",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-basti-ki-pathshala-foundation1786965422",
         "source": "Internshala"
     },
     {
         "id": 2,
-        "title": "Software Development",
-        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-basti-ki-pathshala-foundation1786707629",
-        "source": "Internshala"
-    },
-    {
-        "id": 3,
         "title": "Active CCNP Engineer",
         "company": "NTT DATA",
         "stipend": "\u20b9 10,000 /month",
@@ -24,7 +16,7 @@
         "source": "Internshala"
     },
     {
-        "id": 4,
+        "id": 3,
         "title": "Web Scraping",
         "company": "Smollan India                        \nActively hiring",
         "stipend": "\u20b9 13,000 - 15,000 /month",
@@ -32,7 +24,7 @@
         "source": "Internshala"
     },
     {
-        "id": 5,
+        "id": 4,
         "title": "Software Development",
         "company": "TEN                        \nActively hiring",
         "stipend": "\u20b9 2,000 /month",
@@ -40,7 +32,7 @@
         "source": "Internshala"
     },
     {
-        "id": 6,
+        "id": 5,
         "title": "Software Testing",
         "company": "Meru Technosoft Private Limited                        \nActively hiring",
         "stipend": "\u20b9 3,500 - 5,000 /month",
@@ -48,11 +40,19 @@
         "source": "Internshala"
     },
     {
-        "id": 7,
+        "id": 6,
         "title": "Data Research",
         "company": "Prop Pie - Fractional Ownership For Real Estate                        \nActively hiring",
         "stipend": "\u20b9 4,000 - 40,000 /month",
         "link": "https://internshala.com/internship/detail/data-research-internship-in-pune-at-prop-pie-fractional-ownership-for-real-estate1785906027",
+        "source": "Internshala"
+    },
+    {
+        "id": 7,
+        "title": "Java Development",
+        "company": "24Coordinates Pvt Ltd",
+        "stipend": "\u20b9 7,000 /month",
+        "link": "https://internshala.com/internship/detail/java-development-internship-in-bangalore-at-24coordinates-pvt-ltd1786965752",
         "source": "Internshala"
     },
     {
@@ -89,6 +89,14 @@
     },
     {
         "id": 12,
+        "title": "AI Full Stack Developer",
+        "company": "Moguls Online Private Limited",
+        "stipend": "\u20b9 10,000 - 12,000 /month",
+        "link": "https://internshala.com/internship/detail/ai-full-stack-developer-internship-in-delhi-at-moguls-online-private-limited1786967841",
+        "source": "Internshala"
+    },
+    {
+        "id": 13,
         "title": "Web Development",
         "company": "Pledge India Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -96,7 +104,7 @@
         "source": "Internshala"
     },
     {
-        "id": 13,
+        "id": 14,
         "title": "Web Development",
         "company": "Hope Behind Tails Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -104,19 +112,11 @@
         "source": "Internshala"
     },
     {
-        "id": 14,
+        "id": 15,
         "title": "Backend Development",
         "company": "Hope Behind Tails Foundation                        \nActively hiring",
         "stipend": "Unpaid",
         "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-hope-behind-tails-foundation1786965729",
-        "source": "Internshala"
-    },
-    {
-        "id": 15,
-        "title": "Web Development",
-        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-basti-ki-pathshala-foundation1786965422",
         "source": "Internshala"
     },
     {
