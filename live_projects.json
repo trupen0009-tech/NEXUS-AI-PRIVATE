@@ -1,6 +1,22 @@
 [
     {
         "id": 1,
+        "title": "Java Development",
+        "company": "Gateway Software Solutions                        \nActively hiring",
+        "stipend": "\u20b9 3,500 - 12,500 /month",
+        "link": "https://internshala.com/internship/detail/java-development-internship-in-multiple-locations-at-gateway-software-solutions1787115152",
+        "source": "Internshala"
+    },
+    {
+        "id": 2,
+        "title": "Python Development",
+        "company": "Women First India Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-women-first-india-foundation1787125364",
+        "source": "Internshala"
+    },
+    {
+        "id": 3,
         "title": "Software Development",
         "company": "Women First India Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -8,23 +24,15 @@
         "source": "Internshala"
     },
     {
-        "id": 2,
-        "title": "Engineering - AI (Crossword)",
-        "company": "CometChat                        \nActively hiring",
-        "stipend": "\u20b9 12,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/engineering-ai-crossword-internship-in-mumbai-at-cometchat1787041450",
-        "source": "Internshala"
-    },
-    {
-        "id": 3,
-        "title": "Software Development Engineering (Web)",
-        "company": "Chai Point",
-        "stipend": "\u20b9 20,000 /month",
-        "link": "https://internshala.com/internship/detail/software-development-engineering-web-internship-in-bangalore-at-chai-point1787038525",
-        "source": "Internshala"
-    },
-    {
         "id": 4,
+        "title": "Golang Developer",
+        "company": "AppVersal                        \nActively hiring",
+        "stipend": "\u20b9 15,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/golang-developer-internship-in-noida-at-appversal1787140615",
+        "source": "Internshala"
+    },
+    {
+        "id": 5,
         "title": "Active CCNP Engineer",
         "company": "NTT DATA",
         "stipend": "\u20b9 10,000 /month",
@@ -32,7 +40,7 @@
         "source": "Internshala"
     },
     {
-        "id": 5,
+        "id": 6,
         "title": "Web Scraping",
         "company": "Smollan India                        \nActively hiring",
         "stipend": "\u20b9 13,000 - 15,000 /month",
@@ -40,7 +48,7 @@
         "source": "Internshala"
     },
     {
-        "id": 6,
+        "id": 7,
         "title": "Software Development",
         "company": "TEN                        \nActively hiring",
         "stipend": "\u20b9 2,000 /month",
@@ -48,7 +56,23 @@
         "source": "Internshala"
     },
     {
-        "id": 7,
+        "id": 8,
+        "title": "DevOps Engineer",
+        "company": "FynTune Solution Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 18,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/devops-engineer-internship-in-delhi-at-fyntune-solution-private-limited1787127784",
+        "source": "Internshala"
+    },
+    {
+        "id": 9,
+        "title": "Website Management",
+        "company": "CyberFrat                        \nActively hiring",
+        "stipend": "\u20b9 4,000 - 5,000 /month",
+        "link": "https://internshala.com/internship/detail/website-management-internship-in-multiple-locations-at-cyberfrat1787116507",
+        "source": "Internshala"
+    },
+    {
+        "id": 10,
         "title": "Software Testing",
         "company": "Meru Technosoft Private Limited                        \nActively hiring",
         "stipend": "\u20b9 3,500 - 5,000 /month",
@@ -56,15 +80,31 @@
         "source": "Internshala"
     },
     {
-        "id": 8,
-        "title": "Web Development",
-        "company": "Laccadive Aqua Supply",
-        "stipend": "\u20b9 3,000 - 5,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-laccadive-aqua-supply1787091853",
+        "id": 11,
+        "title": "Cloud & DevOps Engineering",
+        "company": "HJ Infotech",
+        "stipend": "\u20b9 5,000 - 10,000 /month",
+        "link": "https://internshala.com/internship/detail/cloud-devops-engineering-internship-in-jaipur-at-hj-infotech1787141077",
         "source": "Internshala"
     },
     {
-        "id": 9,
+        "id": 12,
+        "title": "Web Development",
+        "company": "Imperial Healthcare Systems Private Limited",
+        "stipend": "\u20b9 12,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-gurgaon-at-imperial-healthcare-systems-private-limited1787136274",
+        "source": "Internshala"
+    },
+    {
+        "id": 13,
+        "title": "Unity Game Developer",
+        "company": "ImmersiWorks Games",
+        "stipend": "\u20b9 10,000 - 12,000 /month",
+        "link": "https://internshala.com/internship/detail/unity-game-developer-internship-in-bangalore-at-immersiworks-games1787126361",
+        "source": "Internshala"
+    },
+    {
+        "id": 14,
         "title": "AI & Automation Developer Intern",
         "company": "Perform Digital",
         "stipend": "\u20b9 6,000 - 10,000 /month",
@@ -72,7 +112,7 @@
         "source": "Internshala"
     },
     {
-        "id": 10,
+        "id": 15,
         "title": "Chemical Engineering & Biotechnology",
         "company": "Mpower Urja",
         "stipend": "\u20b9 2,500 - 3,000 /month",
@@ -80,7 +120,7 @@
         "source": "Internshala"
     },
     {
-        "id": 11,
+        "id": 16,
         "title": "Backend Development",
         "company": "EmpowerU (Promorph Solutions Private Limited)",
         "stipend": "\u20b9 3,000 - 5,000 /month",
@@ -88,7 +128,7 @@
         "source": "Internshala"
     },
     {
-        "id": 12,
+        "id": 17,
         "title": "Web Development",
         "company": "S2S Web Technology",
         "stipend": "\u20b9 3,000 - 4,000 /month",
@@ -96,75 +136,11 @@
         "source": "Internshala"
     },
     {
-        "id": 13,
-        "title": "Web Development",
-        "company": "Ashish Kirodiwal",
-        "stipend": "\u20b9 4,000 - 6,000 /month",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-jaipur-at-ashish-kirodiwal1787051944",
-        "source": "Internshala"
-    },
-    {
-        "id": 14,
-        "title": "Software Testing",
-        "company": "Meru Technosoft Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 2,000 - 2,500 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-testing-internship-at-meru-technosoft-private-limited1787056463",
-        "source": "Internshala"
-    },
-    {
-        "id": 15,
-        "title": "Software Engineering - FrontEnd",
-        "company": "7CODEARENA PRIVATE LIMITED",
-        "stipend": "\u20b9 5,500 - 8,000 /month",
-        "link": "https://internshala.com/internship/detail/software-engineering-frontend-internship-in-patna-at-7codearena-private-limited1787054114",
-        "source": "Internshala"
-    },
-    {
-        "id": 16,
-        "title": "Web Development",
-        "company": "NayePankh Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-nayepankh-foundation1787053646",
-        "source": "Internshala"
-    },
-    {
-        "id": 17,
-        "title": "Python Developer",
-        "company": "Career Weaver",
-        "stipend": "\u20b9 15,000 /month",
-        "link": "https://internshala.com/internship/detail/python-developer-internship-in-multiple-locations-at-career-weaver1787053803",
-        "source": "Internshala"
-    },
-    {
         "id": 18,
-        "title": "Software Testing",
-        "company": "Sapaad Software Private Limited                        \nActively hiring",
+        "title": "Software Development",
+        "company": "SKIDEV EDUTECH PRIVATE LIMITED                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-testing-internship-at-sapaad-software-private-limited1787050712",
-        "source": "Internshala"
-    },
-    {
-        "id": 19,
-        "title": "Software Engineer (Full Stack AI/ML) - Global AI-Native Tech Talent Venture",
-        "company": "SkillsCapital                        \nActively hiring",
-        "stipend": "\u20b9 20,000 - 30,001 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-engineer-full-stack-ai-ml-global-ai-native-tech-talent-venture-internship-at-skillscapital1787050567",
-        "source": "Internshala"
-    },
-    {
-        "id": 20,
-        "title": "Java Development",
-        "company": "Pledge India Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-pledge-india-foundation1787049978",
-        "source": "Internshala"
-    },
-    {
-        "id": 21,
-        "title": "Backend Development",
-        "company": "Queens Of Change Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-queens-of-change-foundation1787049346",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-skidev-edutech-private-limited1787134696",
         "source": "Internshala"
     }
 ]
