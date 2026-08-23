@@ -1,6 +1,22 @@
 [
     {
         "id": 1,
+        "title": "Software Testing",
+        "company": "Finexo                        \nActively hiring",
+        "stipend": "\u20b9 8,000 /month",
+        "link": "https://internshala.com/internship/detail/software-testing-internship-in-jaipur-at-finexo1787463944",
+        "source": "Internshala"
+    },
+    {
+        "id": 2,
+        "title": "Website Management",
+        "company": "CyberFrat                        \nActively hiring",
+        "stipend": "\u20b9 4,000 - 5,000 /month",
+        "link": "https://internshala.com/internship/detail/website-management-internship-in-multiple-locations-at-cyberfrat1787116507",
+        "source": "Internshala"
+    },
+    {
+        "id": 3,
         "title": "Java Development",
         "company": "Gateway Software Solutions                        \nActively hiring",
         "stipend": "\u20b9 3,500 - 12,500 /month",
@@ -8,7 +24,7 @@
         "source": "Internshala"
     },
     {
-        "id": 2,
+        "id": 4,
         "title": "Application Engineer",
         "company": "Senso Vision System                        \nActively hiring",
         "stipend": "\u20b9 5,000 - 10,000 /month",
@@ -16,15 +32,7 @@
         "source": "Internshala"
     },
     {
-        "id": 3,
-        "title": "Java Development",
-        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-basti-ki-pathshala-foundation1787308425",
-        "source": "Internshala"
-    },
-    {
-        "id": 4,
+        "id": 5,
         "title": "Web Scraping",
         "company": "Smollan India                        \nActively hiring",
         "stipend": "\u20b9 13,000 - 15,000 /month",
@@ -32,19 +40,11 @@
         "source": "Internshala"
     },
     {
-        "id": 5,
+        "id": 6,
         "title": "Software Development",
         "company": "TEN                        \nActively hiring",
         "stipend": "\u20b9 2,000 /month",
         "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-ten1785048851",
-        "source": "Internshala"
-    },
-    {
-        "id": 6,
-        "title": "Website Management",
-        "company": "CyberFrat                        \nActively hiring",
-        "stipend": "\u20b9 4,000 - 5,000 /month",
-        "link": "https://internshala.com/internship/detail/website-management-internship-in-multiple-locations-at-cyberfrat1787116507",
         "source": "Internshala"
     },
     {
@@ -57,6 +57,14 @@
     },
     {
         "id": 8,
+        "title": "Web Development",
+        "company": "Watrana Traction Private Limited",
+        "stipend": "\u20b9 8,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-delhi-at-watrana-traction-private-limited1787463495",
+        "source": "Internshala"
+    },
+    {
+        "id": 9,
         "title": "AI & Automation Developer Intern",
         "company": "Perform Digital",
         "stipend": "\u20b9 6,000 - 10,000 /month",
@@ -64,7 +72,7 @@
         "source": "Internshala"
     },
     {
-        "id": 9,
+        "id": 10,
         "title": "Chemical Engineering & Biotechnology",
         "company": "Mpower Urja",
         "stipend": "\u20b9 2,500 - 3,000 /month",
@@ -72,7 +80,7 @@
         "source": "Internshala"
     },
     {
-        "id": 10,
+        "id": 11,
         "title": "Web Development",
         "company": "S2S Web Technology",
         "stipend": "\u20b9 3,000 - 4,000 /month",
@@ -80,15 +88,55 @@
         "source": "Internshala"
     },
     {
-        "id": 11,
-        "title": "Software Development Engineering (Web)",
-        "company": "Tupl",
-        "stipend": "\u20b9 5,000 - 13,000 /month",
-        "link": "https://internshala.com/internship/detail/software-development-engineering-web-internship-in-multiple-locations-at-tupl1787410153",
+        "id": 12,
+        "title": "Web Development",
+        "company": "Emoolar Technology Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 5,000 - 5,500 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-emoolar-technology-private-limited1787462724",
         "source": "Internshala"
     },
     {
-        "id": 12,
+        "id": 13,
+        "title": "Software Development Engineering (Web)",
+        "company": "Emoolar Technology Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 7,000 - 8,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-development-engineering-web-internship-at-emoolar-technology-private-limited1787462663",
+        "source": "Internshala"
+    },
+    {
+        "id": 14,
+        "title": "Java Development",
+        "company": "Cloud Back                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-cloud-back1787460378",
+        "source": "Internshala"
+    },
+    {
+        "id": 15,
+        "title": "Python Development",
+        "company": "Cloud Back                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-cloud-back1787460310",
+        "source": "Internshala"
+    },
+    {
+        "id": 16,
+        "title": "Web Development",
+        "company": "Cloud Back                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 25,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-cloud-back1787460275",
+        "source": "Internshala"
+    },
+    {
+        "id": 17,
+        "title": "Software Development",
+        "company": "TringFlow",
+        "stipend": "\u20b9 1,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-tringflow1787450938",
+        "source": "Internshala"
+    },
+    {
+        "id": 18,
         "title": "AI/ML - Software Test Engineer",
         "company": "Rotordyn.ai (Tampa, United States)                        \nActively hiring",
         "stipend": "\u20b9 20,000 - 25,000 /month",
@@ -96,7 +144,7 @@
         "source": "Internshala"
     },
     {
-        "id": 13,
+        "id": 19,
         "title": "Java Development",
         "company": "Optimasys                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 20,000 /month",
@@ -104,7 +152,7 @@
         "source": "Internshala"
     },
     {
-        "id": 14,
+        "id": 20,
         "title": "Web Development",
         "company": "Optimasys                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 20,000 /month",
@@ -112,35 +160,11 @@
         "source": "Internshala"
     },
     {
-        "id": 15,
+        "id": 21,
         "title": "Python Development",
         "company": "Optimasys                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 20,000 /month",
         "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-optimasys1787375737",
-        "source": "Internshala"
-    },
-    {
-        "id": 16,
-        "title": "Web Development",
-        "company": "JNA Consultants                        \nActively hiring",
-        "stipend": "\u20b9 5,000 - 5,001 /month",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-gurgaon-at-jna-consultants1787329922",
-        "source": "Internshala"
-    },
-    {
-        "id": 17,
-        "title": "Web Development",
-        "company": "My Academy",
-        "stipend": "\u20b9 3,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-multiple-locations-at-my-academy1787308473",
-        "source": "Internshala"
-    },
-    {
-        "id": 18,
-        "title": "AI Web Development",
-        "company": "InAmigos Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1787315431",
         "source": "Internshala"
     }
 ]
