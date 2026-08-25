@@ -1,30 +1,14 @@
 [
     {
         "id": 1,
-        "title": "AI Prompt Engineering",
-        "company": "InAmigos Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-ai-prompt-engineering-internship-at-inamigos-foundation1787308317",
+        "title": "Full Stack Developer \u2013 Enterprise Software & System Integration",
+        "company": "UnifyXperts                        \nActively hiring",
+        "stipend": "\u20b9 15,000 /month",
+        "link": "https://internshala.com/internship/detail/full-stack-developer--enterprise-software-system-integration-internship-in-mumbai-at-unifyxperts1787631908",
         "source": "Internshala"
     },
     {
         "id": 2,
-        "title": "Python Development",
-        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-basti-ki-pathshala-foundation1787566759",
-        "source": "Internshala"
-    },
-    {
-        "id": 3,
-        "title": "AI Web Development",
-        "company": "InAmigos Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1787566080",
-        "source": "Internshala"
-    },
-    {
-        "id": 4,
         "title": "Application Engineer",
         "company": "Senso Vision System                        \nActively hiring",
         "stipend": "\u20b9 5,000 - 10,000 /month",
@@ -32,19 +16,35 @@
         "source": "Internshala"
     },
     {
+        "id": 3,
+        "title": "Python Development",
+        "company": "Women First India Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-women-first-india-foundation1787651895",
+        "source": "Internshala"
+    },
+    {
+        "id": 4,
+        "title": "AI Web Development",
+        "company": "InAmigos Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1787566080",
+        "source": "Internshala"
+    },
+    {
         "id": 5,
         "title": "Web Development",
-        "company": "Cloudbeats Technologies                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 14,000 /month",
-        "link": "https://internshala.com/internship/detail/part-time-web-development-internship-in-multiple-locations-at-cloudbeats-technologies1787598278",
+        "company": "Nynex Realty Venture Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 3,000 - 5,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-mumbai-at-nynex-realty-venture-private-limited1787641863",
         "source": "Internshala"
     },
     {
         "id": 6,
-        "title": "Software Testing",
-        "company": "Sankar Group                        \nActively hiring",
-        "stipend": "\u20b9 3,000 - 5,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-testing-internship-at-sankar-group1787598915",
+        "title": "Python Development",
+        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-basti-ki-pathshala-foundation1787566759",
         "source": "Internshala"
     },
     {
@@ -65,6 +65,46 @@
     },
     {
         "id": 9,
+        "title": "Web Development",
+        "company": "Pledge India Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-pledge-india-foundation1787653943",
+        "source": "Internshala"
+    },
+    {
+        "id": 10,
+        "title": "Backend Development",
+        "company": "Pledge India Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-pledge-india-foundation1787653883",
+        "source": "Internshala"
+    },
+    {
+        "id": 11,
+        "title": "Web Development",
+        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-basti-ki-pathshala-foundation1787653260",
+        "source": "Internshala"
+    },
+    {
+        "id": 12,
+        "title": "Java Development",
+        "company": "Women First India Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-women-first-india-foundation1787653768",
+        "source": "Internshala"
+    },
+    {
+        "id": 13,
+        "title": "Web Development",
+        "company": "Women First India Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-women-first-india-foundation1787651867",
+        "source": "Internshala"
+    },
+    {
+        "id": 14,
         "title": "Software Testing",
         "company": "Finexo                        \nActively hiring",
         "stipend": "\u20b9 8,000 /month",
@@ -72,15 +112,23 @@
         "source": "Internshala"
     },
     {
-        "id": 10,
-        "title": "Backend Development",
-        "company": "Hope Behind Tails Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-hope-behind-tails-foundation1787573757",
+        "id": 15,
+        "title": "Software Testing",
+        "company": "ESSI Integrated Technologies                        \nActively hiring",
+        "stipend": "\u20b9 25,000 /month",
+        "link": "https://internshala.com/internship/detail/software-testing-internship-in-delhi-at-essi-integrated-technologies1787631416",
         "source": "Internshala"
     },
     {
-        "id": 11,
+        "id": 16,
+        "title": "Web Development",
+        "company": "Cloudbeats Technologies                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 14,000 /month",
+        "link": "https://internshala.com/internship/detail/part-time-web-development-internship-in-multiple-locations-at-cloudbeats-technologies1787598278",
+        "source": "Internshala"
+    },
+    {
+        "id": 17,
         "title": "Website Management",
         "company": "CyberFrat                        \nActively hiring",
         "stipend": "\u20b9 4,000 - 5,000 /month",
@@ -88,15 +136,7 @@
         "source": "Internshala"
     },
     {
-        "id": 12,
-        "title": "Software Development",
-        "company": "Pledge India Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-pledge-india-foundation1787574210",
-        "source": "Internshala"
-    },
-    {
-        "id": 13,
+        "id": 18,
         "title": "Java Development",
         "company": "Gateway Software Solutions                        \nActively hiring",
         "stipend": "\u20b9 3,500 - 12,500 /month",
@@ -104,51 +144,35 @@
         "source": "Internshala"
     },
     {
-        "id": 14,
-        "title": "AI Infrastructure Engineer",
-        "company": "Dirmacs",
-        "stipend": "\u20b9 1,000 - 2,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-ai-infrastructure-engineer-internship-at-dirmacs1787595571",
-        "source": "Internshala"
-    },
-    {
-        "id": 15,
-        "title": "Software Development Engineering (Web)",
-        "company": "Ishtva Technologies",
-        "stipend": "\u20b9 4,000 - 17,000 /month",
-        "link": "https://internshala.com/internship/detail/software-development-engineering-web-internship-in-vadodara-at-ishtva-technologies1787581191",
-        "source": "Internshala"
-    },
-    {
-        "id": 16,
-        "title": "Website Development & AI Coding",
-        "company": "Pixela",
-        "stipend": "\u20b9 5,000 - 8,000 /month",
-        "link": "https://internshala.com/internship/detail/website-development-ai-coding-internship-in-multiple-locations-at-pixela1787569267",
-        "source": "Internshala"
-    },
-    {
-        "id": 17,
-        "title": "Software Testing & Flutter",
-        "company": "Softel Technologies Incorporation",
-        "stipend": "\u20b9 10,000 - 12,000 /month",
-        "link": "https://internshala.com/internship/detail/software-testing-flutter-internship-in-mumbai-at-softel-technologies-incorporation1787552737",
-        "source": "Internshala"
-    },
-    {
-        "id": 18,
-        "title": "AI & Automation Developer Intern",
-        "company": "Perform Digital",
-        "stipend": "\u20b9 6,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/ai-automation-developer-intern-internship-in-allahabad-at-perform-digital1786353300",
-        "source": "Internshala"
-    },
-    {
         "id": 19,
+        "title": "Java Development",
+        "company": "AICines INC                        \nActively hiring",
+        "stipend": "\u20b9 35,000 - 1,00,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-aicines-inc1787661109",
+        "source": "Internshala"
+    },
+    {
+        "id": 20,
+        "title": "Python Development",
+        "company": "AICines INC                        \nActively hiring",
+        "stipend": "\u20b9 35,000 - 1,00,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-aicines-inc1787661092",
+        "source": "Internshala"
+    },
+    {
+        "id": 21,
         "title": "Web Development",
-        "company": "S2S Web Technology",
-        "stipend": "\u20b9 3,000 - 4,000 /month",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-tiruchirappalli-at-s2s-web-technology1785222717",
+        "company": "AICines INC                        \nActively hiring",
+        "stipend": "\u20b9 35,000 - 1,00,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-aicines-inc1787660360",
+        "source": "Internshala"
+    },
+    {
+        "id": 22,
+        "title": "Founders Office (Presales & Solution Engineer)",
+        "company": "PrivacyLedger",
+        "stipend": "\u20b9 5,000 - 8,000 /month",
+        "link": "https://internshala.com/internship/detail/founders-office-presales-solution-engineer-internship-in-bangalore-at-privacyledger1787647562",
         "source": "Internshala"
     }
 ]
