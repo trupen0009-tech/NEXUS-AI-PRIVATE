@@ -1,14 +1,6 @@
 [
     {
         "id": 1,
-        "title": "IoT Field Application Engineer",
-        "company": "UNIO Labs                        \nActively hiring",
-        "stipend": "\u20b9 5,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/iot-field-application-engineer-internship-in-multiple-locations-at-unio-labs1787745835",
-        "source": "Internshala"
-    },
-    {
-        "id": 2,
         "title": "Application Engineer",
         "company": "Senso Vision System                        \nActively hiring",
         "stipend": "\u20b9 5,000 - 10,000 /month",
@@ -16,47 +8,15 @@
         "source": "Internshala"
     },
     {
+        "id": 2,
+        "title": "Network Engineering",
+        "company": "Meru Technosoft Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 4,999 - 5,000 /month",
+        "link": "https://internshala.com/internship/detail/network-engineering-internship-in-ahmedabad-at-meru-technosoft-private-limited1787837761",
+        "source": "Internshala"
+    },
+    {
         "id": 3,
-        "title": "AI Prompt Engineering",
-        "company": "InAmigos Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-ai-prompt-engineering-internship-at-inamigos-foundation1787657060",
-        "source": "Internshala"
-    },
-    {
-        "id": 4,
-        "title": "Software Development",
-        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-basti-ki-pathshala-foundation1787746628",
-        "source": "Internshala"
-    },
-    {
-        "id": 5,
-        "title": "Web Scraping",
-        "company": "Smollan India                        \nActively hiring",
-        "stipend": "\u20b9 13,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-scraping-internship-at-smollan-india1786527587",
-        "source": "Internshala"
-    },
-    {
-        "id": 6,
-        "title": "Software Development",
-        "company": "TEN                        \nActively hiring",
-        "stipend": "\u20b9 2,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-ten1785048851",
-        "source": "Internshala"
-    },
-    {
-        "id": 7,
-        "title": "Python Development",
-        "company": "Gateway Software Solutions                        \nActively hiring",
-        "stipend": "\u20b9 7,500 - 12,500 /month",
-        "link": "https://internshala.com/internship/detail/python-development-internship-in-multiple-locations-at-gateway-software-solutions1787736259",
-        "source": "Internshala"
-    },
-    {
-        "id": 8,
         "title": "Software Testing",
         "company": "Finexo                        \nActively hiring",
         "stipend": "\u20b9 8,000 /month",
@@ -64,31 +24,87 @@
         "source": "Internshala"
     },
     {
+        "id": 4,
+        "title": "Python Development",
+        "company": "Gateway Software Solutions                        \nActively hiring",
+        "stipend": "\u20b9 7,500 - 12,500 /month",
+        "link": "https://internshala.com/internship/detail/python-development-internship-in-multiple-locations-at-gateway-software-solutions1787736259",
+        "source": "Internshala"
+    },
+    {
+        "id": 5,
+        "title": "IoT Field Application Engineer",
+        "company": "UNIO Labs                        \nActively hiring",
+        "stipend": "\u20b9 5,000 - 10,000 /month",
+        "link": "https://internshala.com/internship/detail/iot-field-application-engineer-internship-in-multiple-locations-at-unio-labs1787745835",
+        "source": "Internshala"
+    },
+    {
+        "id": 6,
+        "title": "Shopify Developer And Maintenance",
+        "company": "Growify Digital                        \nActively hiring",
+        "stipend": "\u20b9 15,000 /month",
+        "link": "https://internshala.com/internship/detail/shopify-developer-and-maintenance-internship-in-delhi-at-growify-digital1787824784",
+        "source": "Internshala"
+    },
+    {
+        "id": 7,
+        "title": "AI Web Development",
+        "company": "InAmigos Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1787824800",
+        "source": "Internshala"
+    },
+    {
+        "id": 8,
+        "title": "Web Scraping",
+        "company": "Smollan India                        \nActively hiring",
+        "stipend": "\u20b9 13,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-scraping-internship-at-smollan-india1786527587",
+        "source": "Internshala"
+    },
+    {
         "id": 9,
-        "title": "Coding Instructor | Mentor | Data Structures & Algorithms",
-        "company": "CipherSchools                        \nActively hiring",
-        "stipend": "\u20b9 60,000 - 80,000 /month",
-        "link": "https://internshala.com/internship/detail/coding-instructor--mentor--data-structures-algorithms-internship-in-multiple-locations-at-cipherschools1787741037",
+        "title": "Software Development",
+        "company": "TEN                        \nActively hiring",
+        "stipend": "\u20b9 2,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-ten1785048851",
         "source": "Internshala"
     },
     {
         "id": 10,
-        "title": "AI Robotics/ML Research Engineer",
-        "company": "Hubnine India Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 7,000 - 12,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-ai-robotics-ml-research-engineer-internship-at-hubnine-india-private-limited1787737270",
+        "title": "Backend Development",
+        "company": "Hope Behind Tails Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-hope-behind-tails-foundation1787831566",
         "source": "Internshala"
     },
     {
         "id": 11,
-        "title": "Full Stack Developer",
-        "company": "Jarurat Care                        \nActively hiring",
+        "title": "Backend Development",
+        "company": "Pledge India Foundation                        \nActively hiring",
         "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-jarurat-care1787756992",
+        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-pledge-india-foundation1787830118",
         "source": "Internshala"
     },
     {
         "id": 12,
+        "title": "Java Development",
+        "company": "Hope Behind Tails Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-hope-behind-tails-foundation1787831496",
+        "source": "Internshala"
+    },
+    {
+        "id": 13,
+        "title": "Java Development",
+        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-basti-ki-pathshala-foundation1787830661",
+        "source": "Internshala"
+    },
+    {
+        "id": 14,
         "title": "Website Management",
         "company": "CyberFrat                        \nActively hiring",
         "stipend": "\u20b9 4,000 - 5,000 /month",
@@ -96,35 +112,19 @@
         "source": "Internshala"
     },
     {
-        "id": 13,
-        "title": "AI Web Development",
-        "company": "Hope Behind Tails Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-hope-behind-tails-foundation1787744669",
-        "source": "Internshala"
-    },
-    {
-        "id": 14,
-        "title": "Web Development",
-        "company": "Pratik Doshi",
-        "stipend": "\u20b9 15,000 - 24,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-web-development-internship-at-pratik-doshi1787814785",
-        "source": "Internshala"
-    },
-    {
         "id": 15,
-        "title": "Software Testing",
-        "company": "Stringcode Technologies LLP",
-        "stipend": "\u20b9 11,000 - 17,000 /month",
-        "link": "https://internshala.com/internship/detail/software-testing-internship-in-pune-at-stringcode-technologies-llp1787807519",
+        "title": "Coding Instructor | Mentor | Data Structures & Algorithms",
+        "company": "CipherSchools                        \nActively hiring",
+        "stipend": "\u20b9 60,000 - 80,000 /month",
+        "link": "https://internshala.com/internship/detail/coding-instructor--mentor--data-structures-algorithms-internship-in-multiple-locations-at-cipherschools1787741037",
         "source": "Internshala"
     },
     {
         "id": 16,
-        "title": "Software Development Using Unreal Engine",
-        "company": "Halbit Avionics Private Limited",
-        "stipend": "\u20b9 8,000 - 9,000 /month",
-        "link": "https://internshala.com/internship/detail/software-development-using-unreal-engine-internship-in-bangalore-at-halbit-avionics-private-limited1787739668",
+        "title": "Backend Development",
+        "company": "Kreative Knot Media",
+        "stipend": "\u20b9 5,000 - 7,500 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-kreative-knot-media1787855314",
         "source": "Internshala"
     }
 ]
