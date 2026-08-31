@@ -1,22 +1,6 @@
 [
     {
         "id": 1,
-        "title": "Shopify Developer And Maintenance",
-        "company": "Growify Digital                        \nActively hiring",
-        "stipend": "\u20b9 15,000 /month",
-        "link": "https://internshala.com/internship/detail/shopify-developer-and-maintenance-internship-in-delhi-at-growify-digital1787824784",
-        "source": "Internshala"
-    },
-    {
-        "id": 2,
-        "title": "IoT Field Application Engineer",
-        "company": "UNIO Labs                        \nActively hiring",
-        "stipend": "\u20b9 5,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/iot-field-application-engineer-internship-in-multiple-locations-at-unio-labs1787745835",
-        "source": "Internshala"
-    },
-    {
-        "id": 3,
         "title": "Software Testing",
         "company": "Finexo                        \nActively hiring",
         "stipend": "\u20b9 8,000 /month",
@@ -24,11 +8,27 @@
         "source": "Internshala"
     },
     {
-        "id": 4,
+        "id": 2,
         "title": "Network Engineering",
         "company": "Meru Technosoft Private Limited                        \nActively hiring",
         "stipend": "\u20b9 4,999 - 5,000 /month",
         "link": "https://internshala.com/internship/detail/network-engineering-internship-in-ahmedabad-at-meru-technosoft-private-limited1787837761",
+        "source": "Internshala"
+    },
+    {
+        "id": 3,
+        "title": "Shopify Developer And Maintenance",
+        "company": "Growify Digital                        \nActively hiring",
+        "stipend": "\u20b9 15,000 /month",
+        "link": "https://internshala.com/internship/detail/shopify-developer-and-maintenance-internship-in-delhi-at-growify-digital1787824784",
+        "source": "Internshala"
+    },
+    {
+        "id": 4,
+        "title": "IoT Field Application Engineer",
+        "company": "UNIO Labs                        \nActively hiring",
+        "stipend": "\u20b9 5,000 - 10,000 /month",
+        "link": "https://internshala.com/internship/detail/iot-field-application-engineer-internship-in-multiple-locations-at-unio-labs1787745835",
         "source": "Internshala"
     },
     {
@@ -65,6 +65,14 @@
     },
     {
         "id": 9,
+        "title": "Backend Development",
+        "company": "Emoolar Technology Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 4,000 - 5,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-emoolar-technology-private-limited1788114761",
+        "source": "Internshala"
+    },
+    {
+        "id": 10,
         "title": "Python Development",
         "company": "Aeonaxy Technologies Private Limited                        \nActively hiring",
         "stipend": "\u20b9 14,000 /month",
@@ -72,7 +80,7 @@
         "source": "Internshala"
     },
     {
-        "id": 10,
+        "id": 11,
         "title": "Web Development",
         "company": "DeepThought CultureTech Ventures Private Limited                        \nActively hiring",
         "stipend": "\u20b9 15,000 /month",
@@ -80,7 +88,7 @@
         "source": "Internshala"
     },
     {
-        "id": 11,
+        "id": 12,
         "title": "Java Development",
         "company": "Amrata                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 20,000 /month",
@@ -88,7 +96,7 @@
         "source": "Internshala"
     },
     {
-        "id": 12,
+        "id": 13,
         "title": "Python Development",
         "company": "Amrata                        \nActively hiring",
         "stipend": "\u20b9 12,500 - 20,000 /month",
@@ -96,43 +104,11 @@
         "source": "Internshala"
     },
     {
-        "id": 13,
+        "id": 14,
         "title": "Web Development",
         "company": "Amrata                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 20,000 /month",
         "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-amrata1788068037",
-        "source": "Internshala"
-    },
-    {
-        "id": 14,
-        "title": "Web Development",
-        "company": "Cornixe                        \nActively hiring",
-        "stipend": "\u20b9 7,000 - 26,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-cornixe1788012291",
-        "source": "Internshala"
-    },
-    {
-        "id": 15,
-        "title": "Java Development",
-        "company": "Taxspert",
-        "stipend": "\u20b9 5,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/java-development-internship-in-ahmedabad-at-taxspert1788009356",
-        "source": "Internshala"
-    },
-    {
-        "id": 16,
-        "title": "Java Development",
-        "company": "Ikaansh Edutech Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 1,000 - 1,001 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-ikaansh-edutech-private-limited1788003046",
-        "source": "Internshala"
-    },
-    {
-        "id": 17,
-        "title": "Backend Development",
-        "company": "Isourse                        \nActively hiring",
-        "stipend": "\u20b9 25,000 - 25,001 /month",
-        "link": "https://internshala.com/internship/detail/backend-development-internship-in-delhi-at-isourse1787991287",
         "source": "Internshala"
     }
 ]
