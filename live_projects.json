@@ -1,42 +1,42 @@
 [
     {
         "id": 1,
-        "title": "Software Testing",
-        "company": "Finexo                        \nActively hiring",
-        "stipend": "\u20b9 8,000 /month",
-        "link": "https://internshala.com/internship/detail/software-testing-internship-in-jaipur-at-finexo1787463944",
+        "title": "MERN Stack Web Developer",
+        "company": "Requin Solutions Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 10,000 /month",
+        "link": "https://internshala.com/internship/detail/mern-stack-web-developer-internship-in-jaipur-at-requin-solutions-private-limited1788155490",
         "source": "Internshala"
     },
     {
         "id": 2,
-        "title": "Network Engineering",
-        "company": "Meru Technosoft Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 4,999 - 5,000 /month",
-        "link": "https://internshala.com/internship/detail/network-engineering-internship-in-ahmedabad-at-meru-technosoft-private-limited1787837761",
+        "title": "Software Development",
+        "company": "Planys Technologies Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 12,500 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/software-development-internship-in-chennai-at-planys-technologies-private-limited1788168886",
         "source": "Internshala"
     },
     {
         "id": 3,
-        "title": "Shopify Developer And Maintenance",
-        "company": "Growify Digital                        \nActively hiring",
-        "stipend": "\u20b9 15,000 /month",
-        "link": "https://internshala.com/internship/detail/shopify-developer-and-maintenance-internship-in-delhi-at-growify-digital1787824784",
-        "source": "Internshala"
-    },
-    {
-        "id": 4,
-        "title": "IoT Field Application Engineer",
-        "company": "UNIO Labs                        \nActively hiring",
-        "stipend": "\u20b9 5,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/iot-field-application-engineer-internship-in-multiple-locations-at-unio-labs1787745835",
-        "source": "Internshala"
-    },
-    {
-        "id": 5,
         "title": "Application Engineer",
         "company": "Senso Vision System                        \nActively hiring",
         "stipend": "\u20b9 5,000 - 10,000 /month",
         "link": "https://internshala.com/internship/detail/application-engineer-internship-in-bangalore-at-senso-vision-system1787043698",
+        "source": "Internshala"
+    },
+    {
+        "id": 4,
+        "title": "Graduate Engineer Trainee (GET)",
+        "company": "Uboard India Limited                        \nActively hiring",
+        "stipend": "\u20b9 5,000 - 8,000 /month",
+        "link": "https://internshala.com/internship/detail/graduate-engineer-trainee-get-internship-in-delhi-at-uboard-india-limited1788152425",
+        "source": "Internshala"
+    },
+    {
+        "id": 5,
+        "title": "AI Web Development",
+        "company": "InAmigos Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1788170915",
         "source": "Internshala"
     },
     {
@@ -57,6 +57,38 @@
     },
     {
         "id": 8,
+        "title": "Software Testing",
+        "company": "Finexo                        \nActively hiring",
+        "stipend": "\u20b9 8,000 /month",
+        "link": "https://internshala.com/internship/detail/software-testing-internship-in-jaipur-at-finexo1787463944",
+        "source": "Internshala"
+    },
+    {
+        "id": 9,
+        "title": "IoT Field Application Engineer",
+        "company": "UNIO Labs                        \nActively hiring",
+        "stipend": "\u20b9 5,000 - 10,000 /month",
+        "link": "https://internshala.com/internship/detail/iot-field-application-engineer-internship-in-multiple-locations-at-unio-labs1787745835",
+        "source": "Internshala"
+    },
+    {
+        "id": 10,
+        "title": "Network Engineering",
+        "company": "Meru Technosoft Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 4,999 - 5,000 /month",
+        "link": "https://internshala.com/internship/detail/network-engineering-internship-in-ahmedabad-at-meru-technosoft-private-limited1787837761",
+        "source": "Internshala"
+    },
+    {
+        "id": 11,
+        "title": "Web Development",
+        "company": "Kcpc Bandhani",
+        "stipend": "\u20b9 3,000 - 5,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-sikar-at-kcpc-bandhani1788178382",
+        "source": "Internshala"
+    },
+    {
+        "id": 12,
         "title": "AI & Automation Developer Intern",
         "company": "Perform Digital",
         "stipend": "\u20b9 6,000 - 10,000 /month",
@@ -64,51 +96,11 @@
         "source": "Internshala"
     },
     {
-        "id": 9,
-        "title": "Backend Development",
-        "company": "Emoolar Technology Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 4,000 - 5,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-emoolar-technology-private-limited1788114761",
-        "source": "Internshala"
-    },
-    {
-        "id": 10,
-        "title": "Python Development",
-        "company": "Aeonaxy Technologies Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 14,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-aeonaxy-technologies-private-limited1788071168",
-        "source": "Internshala"
-    },
-    {
-        "id": 11,
-        "title": "Web Development",
-        "company": "DeepThought CultureTech Ventures Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 15,000 /month",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-multiple-locations-at-deepthought-culturetech-ventures-private-limited1788068893",
-        "source": "Internshala"
-    },
-    {
-        "id": 12,
-        "title": "Java Development",
-        "company": "Amrata                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-amrata1788068189",
-        "source": "Internshala"
-    },
-    {
         "id": 13,
-        "title": "Python Development",
-        "company": "Amrata                        \nActively hiring",
-        "stipend": "\u20b9 12,500 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-amrata1788068102",
-        "source": "Internshala"
-    },
-    {
-        "id": 14,
-        "title": "Web Development",
-        "company": "Amrata                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-amrata1788068037",
+        "title": "Content Creator For Java, Python, MySql, Cyber Security Using Canva",
+        "company": "GreyLearn",
+        "stipend": "\u20b9 6,000 - 8,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-content-creator-for-java-python-mysql-cyber-security-using-canva-internship-at-greylearn1788176250",
         "source": "Internshala"
     }
 ]
