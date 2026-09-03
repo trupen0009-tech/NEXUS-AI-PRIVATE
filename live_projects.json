@@ -1,54 +1,6 @@
 [
     {
         "id": 1,
-        "title": "Software Testing",
-        "company": "Finexo                        \nActively hiring",
-        "stipend": "\u20b9 8,000 /month",
-        "link": "https://internshala.com/internship/detail/software-testing-internship-in-jaipur-at-finexo1787463944",
-        "source": "Internshala"
-    },
-    {
-        "id": 2,
-        "title": "Python Development",
-        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-basti-ki-pathshala-foundation1788176492",
-        "source": "Internshala"
-    },
-    {
-        "id": 3,
-        "title": "AI Prompt Engineering",
-        "company": "InAmigos Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-ai-prompt-engineering-internship-at-inamigos-foundation1788263889",
-        "source": "Internshala"
-    },
-    {
-        "id": 4,
-        "title": "Web Scraping",
-        "company": "Smollan India                        \nActively hiring",
-        "stipend": "\u20b9 13,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-scraping-internship-at-smollan-india1786527587",
-        "source": "Internshala"
-    },
-    {
-        "id": 5,
-        "title": "Software Development",
-        "company": "TEN                        \nActively hiring",
-        "stipend": "\u20b9 2,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-ten1785048851",
-        "source": "Internshala"
-    },
-    {
-        "id": 6,
-        "title": "Data Engineer",
-        "company": "TSTEPS PRIVATE LIMITED                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/data-engineer-internship-in-multiple-locations-at-tsteps-private-limited1788350193",
-        "source": "Internshala"
-    },
-    {
-        "id": 7,
         "title": "MERN Stack Web Developer",
         "company": "Requin Solutions Private Limited                        \nActively hiring",
         "stipend": "\u20b9 10,000 /month",
@@ -56,55 +8,55 @@
         "source": "Internshala"
     },
     {
-        "id": 8,
-        "title": "Java Development",
-        "company": "NayePankh Foundation                        \nActively hiring",
+        "id": 2,
+        "title": "AI Prompt Engineering",
+        "company": "InAmigos Foundation                        \nActively hiring",
         "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-nayepankh-foundation1788350829",
+        "link": "https://internshala.com/internship/detail/work-from-home-ai-prompt-engineering-internship-at-inamigos-foundation1788263889",
         "source": "Internshala"
     },
     {
-        "id": 9,
+        "id": 3,
+        "title": "Software Testing",
+        "company": "Finexo                        \nActively hiring",
+        "stipend": "\u20b9 8,000 /month",
+        "link": "https://internshala.com/internship/detail/software-testing-internship-in-jaipur-at-finexo1787463944",
+        "source": "Internshala"
+    },
+    {
+        "id": 4,
         "title": "Python Development",
-        "company": "Queens Of Change Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-queens-of-change-foundation1788350985",
-        "source": "Internshala"
-    },
-    {
-        "id": 10,
-        "title": "Software Development",
-        "company": "NayePankh Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-nayepankh-foundation1788350773",
-        "source": "Internshala"
-    },
-    {
-        "id": 11,
-        "title": "Software Development",
         "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
         "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-basti-ki-pathshala-foundation1788352048",
+        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-basti-ki-pathshala-foundation1788176492",
         "source": "Internshala"
     },
     {
-        "id": 12,
-        "title": "Backend Development",
-        "company": "NayePankh Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-nayepankh-foundation1788350799",
+        "id": 5,
+        "title": "Web Scraping",
+        "company": "Smollan India                        \nActively hiring",
+        "stipend": "\u20b9 13,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-scraping-internship-at-smollan-india1786527587",
         "source": "Internshala"
     },
     {
-        "id": 13,
-        "title": "Java Development",
-        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-basti-ki-pathshala-foundation1788352223",
+        "id": 6,
+        "title": "Software Development",
+        "company": "TEN                        \nActively hiring",
+        "stipend": "\u20b9 2,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-ten1785048851",
         "source": "Internshala"
     },
     {
-        "id": 14,
+        "id": 7,
+        "title": "Data Engineer",
+        "company": "TSTEPS PRIVATE LIMITED                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/data-engineer-internship-in-multiple-locations-at-tsteps-private-limited1788350193",
+        "source": "Internshala"
+    },
+    {
+        "id": 8,
         "title": "Web Development",
         "company": "Gateway Software Solutions                        \nActively hiring",
         "stipend": "\u20b9 3,000 - 12,500 /month",
@@ -112,7 +64,7 @@
         "source": "Internshala"
     },
     {
-        "id": 15,
+        "id": 9,
         "title": "Python Development",
         "company": "Gateway Software Solutions                        \nActively hiring",
         "stipend": "\u20b9 3,000 - 12,500 /month",
@@ -120,7 +72,47 @@
         "source": "Internshala"
     },
     {
-        "id": 16,
+        "id": 10,
+        "title": "Java Development",
+        "company": "NayePankh Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-nayepankh-foundation1788350829",
+        "source": "Internshala"
+    },
+    {
+        "id": 11,
+        "title": "Java Development",
+        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-basti-ki-pathshala-foundation1788352223",
+        "source": "Internshala"
+    },
+    {
+        "id": 12,
+        "title": "Software Development",
+        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-basti-ki-pathshala-foundation1788352048",
+        "source": "Internshala"
+    },
+    {
+        "id": 13,
+        "title": "Backend Development",
+        "company": "NayePankh Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-nayepankh-foundation1788350799",
+        "source": "Internshala"
+    },
+    {
+        "id": 14,
+        "title": "Software Development",
+        "company": "NayePankh Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-nayepankh-foundation1788350773",
+        "source": "Internshala"
+    },
+    {
+        "id": 15,
         "title": "Web Developer \u2013 Design Focused",
         "company": "GIAN                        \nActively hiring",
         "stipend": "Unpaid",
@@ -128,7 +120,7 @@
         "source": "Internshala"
     },
     {
-        "id": 17,
+        "id": 16,
         "title": "Graduate Engineer Trainee (GET)",
         "company": "Uboard India Limited                        \nActively hiring",
         "stipend": "\u20b9 5,000 - 8,000 /month",
@@ -136,7 +128,7 @@
         "source": "Internshala"
     },
     {
-        "id": 18,
+        "id": 17,
         "title": "XR Developer (Unity/Unreal Engine)",
         "company": "Vanilla Tree Solutions",
         "stipend": "\u20b9 10,000 /month",
@@ -144,27 +136,11 @@
         "source": "Internshala"
     },
     {
-        "id": 19,
-        "title": "Generative AI Developer",
-        "company": "Ashish  Ranjan",
-        "stipend": "\u20b9 10,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/part-time-generative-ai-developer-internship-in-mumbai-at-ashish-ranjan1788343028",
-        "source": "Internshala"
-    },
-    {
-        "id": 20,
-        "title": "Python Development",
-        "company": "Global Bidding Info Private Limited",
-        "stipend": "\u20b9 7,000 - 12,000 /month",
-        "link": "https://internshala.com/internship/detail/python-development-internship-in-multiple-locations-at-global-bidding-info-private-limited1788342851",
-        "source": "Internshala"
-    },
-    {
-        "id": 21,
-        "title": "App Developer",
-        "company": "App Successor",
-        "stipend": "\u20b9 15,000 /month",
-        "link": "https://internshala.com/internship/detail/app-developer-internship-in-multiple-locations-at-app-successor1788332136",
+        "id": 18,
+        "title": "Flutter & Software Testing",
+        "company": "Softel Technologies Incorporation",
+        "stipend": "\u20b9 10,000 - 12,000 /month",
+        "link": "https://internshala.com/internship/detail/flutter-software-testing-internship-in-mumbai-at-softel-technologies-incorporation1788265202",
         "source": "Internshala"
     }
 ]
