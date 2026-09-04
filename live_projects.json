@@ -9,6 +9,14 @@
     },
     {
         "id": 2,
+        "title": "Python API Backend Development (Graduates/Postgraduates Only)",
+        "company": "SIRPI Products & Services Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 14,999 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/python-api-backend-development-graduates-postgraduates-only-internship-in-bangalore-at-sirpi-products-services-private-limited1788496967",
+        "source": "Internshala"
+    },
+    {
+        "id": 3,
         "title": "Software Development",
         "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -16,7 +24,7 @@
         "source": "Internshala"
     },
     {
-        "id": 3,
+        "id": 4,
         "title": "AI Web Development",
         "company": "InAmigos Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -24,15 +32,15 @@
         "source": "Internshala"
     },
     {
-        "id": 4,
-        "title": "MERN Stack Developer",
-        "company": "TG Levels Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 5,000 /month",
-        "link": "https://internshala.com/internship/detail/mern-stack-developer-internship-in-navi-mumbai-at-tg-levels-private-limited1788439504",
+        "id": 5,
+        "title": "WordPress & Website Management",
+        "company": "CyberFrat                        \nActively hiring",
+        "stipend": "\u20b9 4,000 - 5,000 /month",
+        "link": "https://internshala.com/internship/detail/wordpress-website-management-internship-in-multiple-locations-at-cyberfrat1788504060",
         "source": "Internshala"
     },
     {
-        "id": 5,
+        "id": 6,
         "title": "Web Scraping",
         "company": "Smollan India                        \nActively hiring",
         "stipend": "\u20b9 13,000 - 15,000 /month",
@@ -40,7 +48,7 @@
         "source": "Internshala"
     },
     {
-        "id": 6,
+        "id": 7,
         "title": "Software Development",
         "company": "TEN                        \nActively hiring",
         "stipend": "\u20b9 2,000 /month",
@@ -48,15 +56,31 @@
         "source": "Internshala"
     },
     {
-        "id": 7,
-        "title": "MERN Stack Web Developer",
-        "company": "Requin Solutions Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 10,000 /month",
-        "link": "https://internshala.com/internship/detail/mern-stack-web-developer-internship-in-jaipur-at-requin-solutions-private-limited1788155490",
+        "id": 8,
+        "title": "Java Development",
+        "company": "Gateway Software Solutions                        \nActively hiring",
+        "stipend": "\u20b9 7,500 - 12,500 /month",
+        "link": "https://internshala.com/internship/detail/java-development-internship-in-multiple-locations-at-gateway-software-solutions1788496733",
         "source": "Internshala"
     },
     {
-        "id": 8,
+        "id": 9,
+        "title": "Web Development",
+        "company": "Solvitude                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-pune-at-solvitude1788525150",
+        "source": "Internshala"
+    },
+    {
+        "id": 10,
+        "title": "AI Web Development",
+        "company": "InAmigos Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1788519520",
+        "source": "Internshala"
+    },
+    {
+        "id": 11,
         "title": "Web Development",
         "company": "Gateway Software Solutions                        \nActively hiring",
         "stipend": "\u20b9 3,000 - 12,500 /month",
@@ -64,7 +88,7 @@
         "source": "Internshala"
     },
     {
-        "id": 9,
+        "id": 12,
         "title": "Unreal Engine Developer",
         "company": "KIDLOLAND KIDS & TODDLER GAMES PRIVATE LIMITED                        \nActively hiring",
         "stipend": "\u20b9 8,000 /month",
@@ -72,7 +96,7 @@
         "source": "Internshala"
     },
     {
-        "id": 10,
+        "id": 13,
         "title": "Web Developer \u2013 Design Focused",
         "company": "GIAN                        \nActively hiring",
         "stipend": "Unpaid",
@@ -80,7 +104,7 @@
         "source": "Internshala"
     },
     {
-        "id": 11,
+        "id": 14,
         "title": "Graduate Engineer Trainee (GET)",
         "company": "Uboard India Limited                        \nActively hiring",
         "stipend": "\u20b9 5,000 - 8,000 /month",
@@ -88,27 +112,11 @@
         "source": "Internshala"
     },
     {
-        "id": 12,
-        "title": "Backend Development",
-        "company": "EmpowerU (Promorph Solutions Private Limited)",
-        "stipend": "\u20b9 3,000 - 5,000 /month",
-        "link": "https://internshala.com/internship/detail/backend-development-internship-in-multiple-locations-at-empoweru-promorph-solutions-private-limited1788454404",
-        "source": "Internshala"
-    },
-    {
-        "id": 13,
-        "title": "Software Testing",
-        "company": "Brained.app",
-        "stipend": "\u20b9 8,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/software-testing-internship-in-mumbai-at-brainedapp1788444015",
-        "source": "Internshala"
-    },
-    {
-        "id": 14,
-        "title": "XR Developer (Unity/Unreal Engine)",
-        "company": "Vanilla Tree Solutions",
-        "stipend": "\u20b9 10,000 /month",
-        "link": "https://internshala.com/internship/detail/xr-developer-unity-unreal-engine-internship-in-jabalpur-at-vanilla-tree-solutions1788349966",
+        "id": 15,
+        "title": "AI/ML Inference Kernel Engineer",
+        "company": "Hubnine India Private Limited",
+        "stipend": "\u20b9 7,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-ai-ml-inference-kernel-engineer-internship-at-hubnine-india-private-limited1788513194",
         "source": "Internshala"
     }
 ]
