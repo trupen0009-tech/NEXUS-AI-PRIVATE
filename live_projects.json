@@ -1,10 +1,10 @@
 [
     {
         "id": 1,
-        "title": "WordPress & Website Management",
-        "company": "CyberFrat                        \nActively hiring",
-        "stipend": "\u20b9 4,000 - 5,000 /month",
-        "link": "https://internshala.com/internship/detail/wordpress-website-management-internship-in-multiple-locations-at-cyberfrat1788504060",
+        "title": "Front End & Mobile App Developer",
+        "company": "Stayin Bangalore                        \nActively hiring",
+        "stipend": "\u20b9 20,000 - 30,000 /month",
+        "link": "https://internshala.com/internship/detail/front-end-mobile-app-developer-internship-in-bangalore-at-stayin-bangalore1788770427",
         "source": "Internshala"
     },
     {
@@ -17,22 +17,30 @@
     },
     {
         "id": 3,
-        "title": "Python API Backend Development (Graduates/Postgraduates Only)",
-        "company": "SIRPI Products & Services Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 14,999 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/python-api-backend-development-graduates-postgraduates-only-internship-in-bangalore-at-sirpi-products-services-private-limited1788496967",
+        "title": "WordPress & Website Management",
+        "company": "CyberFrat                        \nActively hiring",
+        "stipend": "\u20b9 4,000 - 5,000 /month",
+        "link": "https://internshala.com/internship/detail/wordpress-website-management-internship-in-multiple-locations-at-cyberfrat1788504060",
         "source": "Internshala"
     },
     {
         "id": 4,
-        "title": "Java Development",
-        "company": "Gateway Software Solutions                        \nActively hiring",
-        "stipend": "\u20b9 7,500 - 12,500 /month",
-        "link": "https://internshala.com/internship/detail/java-development-internship-in-multiple-locations-at-gateway-software-solutions1788496733",
+        "title": "Web Development",
+        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-part-time-web-development-internship-at-basti-ki-pathshala-foundation1788524658",
         "source": "Internshala"
     },
     {
         "id": 5,
+        "title": "AI Web Development",
+        "company": "InAmigos Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1788776461",
+        "source": "Internshala"
+    },
+    {
+        "id": 6,
         "title": "Web Scraping",
         "company": "Smollan India                        \nActively hiring",
         "stipend": "\u20b9 13,000 - 15,000 /month",
@@ -40,7 +48,7 @@
         "source": "Internshala"
     },
     {
-        "id": 6,
+        "id": 7,
         "title": "Software Development",
         "company": "TEN                        \nActively hiring",
         "stipend": "\u20b9 2,000 /month",
@@ -48,15 +56,47 @@
         "source": "Internshala"
     },
     {
-        "id": 7,
-        "title": "Software Testing",
-        "company": "Finexo                        \nActively hiring",
-        "stipend": "\u20b9 8,000 /month",
-        "link": "https://internshala.com/internship/detail/software-testing-internship-in-jaipur-at-finexo1787463944",
+        "id": 8,
+        "title": "Java Development",
+        "company": "Gateway Software Solutions                        \nActively hiring",
+        "stipend": "\u20b9 7,500 - 12,500 /month",
+        "link": "https://internshala.com/internship/detail/java-development-internship-in-multiple-locations-at-gateway-software-solutions1788496733",
         "source": "Internshala"
     },
     {
-        "id": 8,
+        "id": 9,
+        "title": "Python API Backend Development (Graduates/Postgraduates Only)",
+        "company": "SIRPI Products & Services Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 14,999 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/python-api-backend-development-graduates-postgraduates-only-internship-in-bangalore-at-sirpi-products-services-private-limited1788496967",
+        "source": "Internshala"
+    },
+    {
+        "id": 10,
+        "title": "Unity Game Developer",
+        "company": "KIDLOLAND KIDS & TODDLER GAMES PRIVATE LIMITED                        \nActively hiring",
+        "stipend": "\u20b9 8,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-unity-game-developer-internship-at-kidloland-kids-toddler-games-private-limited1788753828",
+        "source": "Internshala"
+    },
+    {
+        "id": 11,
+        "title": "Flutter & Software Testing",
+        "company": "Softel Technologies Incorporation",
+        "stipend": "\u20b9 10,000 - 12,000 /month",
+        "link": "https://internshala.com/internship/detail/flutter-software-testing-internship-in-mumbai-at-softel-technologies-incorporation1788786471",
+        "source": "Internshala"
+    },
+    {
+        "id": 12,
+        "title": "Software Testing",
+        "company": "Orufy Technologies Private Limited",
+        "stipend": "\u20b9 8,000 - 10,000 /month",
+        "link": "https://internshala.com/internship/detail/software-testing-internship-in-jaipur-at-orufy-technologies-private-limited1788771124",
+        "source": "Internshala"
+    },
+    {
+        "id": 13,
         "title": "Backend Development",
         "company": "EmpowerU (Promorph Solutions Private Limited)",
         "stipend": "\u20b9 3,000 - 5,000 /month",
@@ -64,27 +104,11 @@
         "source": "Internshala"
     },
     {
-        "id": 9,
+        "id": 14,
         "title": "XR Developer (Unity/Unreal Engine)",
         "company": "Vanilla Tree Solutions",
         "stipend": "\u20b9 10,000 /month",
         "link": "https://internshala.com/internship/detail/xr-developer-unity-unreal-engine-internship-in-jabalpur-at-vanilla-tree-solutions1788349966",
-        "source": "Internshala"
-    },
-    {
-        "id": 10,
-        "title": "SQL Developer",
-        "company": "Caresoft Consultancy Private Limited",
-        "stipend": "\u20b9 6,000 - 9,000 /month",
-        "link": "https://internshala.com/internship/detail/sql-developer-internship-in-mira-bhayandar-at-caresoft-consultancy-private-limited1788702533",
-        "source": "Internshala"
-    },
-    {
-        "id": 11,
-        "title": "Python Development",
-        "company": "Qubixo                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-qubixo1788666924",
         "source": "Internshala"
     }
 ]
