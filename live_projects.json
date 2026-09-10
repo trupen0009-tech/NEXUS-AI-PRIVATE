@@ -9,18 +9,18 @@
     },
     {
         "id": 2,
-        "title": "AI Prompt Engineering",
+        "title": "AI Web Development",
         "company": "InAmigos Foundation                        \nActively hiring",
         "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-ai-prompt-engineering-internship-at-inamigos-foundation1788863485",
+        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1788949881",
         "source": "Internshala"
     },
     {
         "id": 3,
-        "title": "Web Development",
-        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
+        "title": "AI Prompt Engineering",
+        "company": "InAmigos Foundation                        \nActively hiring",
         "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-basti-ki-pathshala-foundation1788869730",
+        "link": "https://internshala.com/internship/detail/work-from-home-ai-prompt-engineering-internship-at-inamigos-foundation1788863485",
         "source": "Internshala"
     },
     {
@@ -49,14 +49,6 @@
     },
     {
         "id": 7,
-        "title": "AI Web Development",
-        "company": "InAmigos Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1788949881",
-        "source": "Internshala"
-    },
-    {
-        "id": 8,
         "title": "Golang Developer",
         "company": "AppVersal                        \nActively hiring",
         "stipend": "\u20b9 15,000 - 25,000 /month",
@@ -64,7 +56,7 @@
         "source": "Internshala"
     },
     {
-        "id": 9,
+        "id": 8,
         "title": "WordPress & Website Management",
         "company": "CyberFrat                        \nActively hiring",
         "stipend": "\u20b9 4,000 - 5,000 /month",
@@ -72,15 +64,7 @@
         "source": "Internshala"
     },
     {
-        "id": 10,
-        "title": "Python API Backend Development (Graduates/Postgraduates Only)",
-        "company": "SIRPI Products & Services Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 14,999 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/python-api-backend-development-graduates-postgraduates-only-internship-in-bangalore-at-sirpi-products-services-private-limited1788496967",
-        "source": "Internshala"
-    },
-    {
-        "id": 11,
+        "id": 9,
         "title": "Java Development",
         "company": "Gateway Software Solutions                        \nActively hiring",
         "stipend": "\u20b9 7,500 - 12,500 /month",
@@ -88,7 +72,7 @@
         "source": "Internshala"
     },
     {
-        "id": 12,
+        "id": 10,
         "title": "Electronics Engineering",
         "company": "INVORIT INNOVATION PRIVATE LIMITED",
         "stipend": "\u20b9 2,000 /month",
@@ -96,7 +80,7 @@
         "source": "Internshala"
     },
     {
-        "id": 13,
+        "id": 11,
         "title": "C# Backend Development (Male Candidates)",
         "company": "SAHOTA INFO PRIVATE LIMITED",
         "stipend": "\u20b9 5,000 /month",
@@ -104,7 +88,7 @@
         "source": "Internshala"
     },
     {
-        "id": 14,
+        "id": 12,
         "title": "Mobile App & Web Development",
         "company": "Pioneer Sam Energia",
         "stipend": "\u20b9 2,500 - 3,000 /month",
@@ -112,7 +96,7 @@
         "source": "Internshala"
     },
     {
-        "id": 15,
+        "id": 13,
         "title": "Software Product Support Engineer",
         "company": "TRRev Technology (OPC) Private Limited",
         "stipend": "\u20b9 8,000 - 10,000 /month",
@@ -120,11 +104,27 @@
         "source": "Internshala"
     },
     {
-        "id": 16,
+        "id": 14,
         "title": "Software Testing",
         "company": "Orufy Technologies Private Limited",
         "stipend": "\u20b9 8,000 - 10,000 /month",
         "link": "https://internshala.com/internship/detail/software-testing-internship-in-jaipur-at-orufy-technologies-private-limited1788771124",
+        "source": "Internshala"
+    },
+    {
+        "id": 15,
+        "title": "Backend Development",
+        "company": "EmpowerU (Promorph Solutions Private Limited)",
+        "stipend": "\u20b9 3,000 - 5,000 /month",
+        "link": "https://internshala.com/internship/detail/backend-development-internship-in-multiple-locations-at-empoweru-promorph-solutions-private-limited1788454404",
+        "source": "Internshala"
+    },
+    {
+        "id": 16,
+        "title": "XR Developer (Unity/Unreal Engine)",
+        "company": "Vanilla Tree Solutions",
+        "stipend": "\u20b9 10,000 /month",
+        "link": "https://internshala.com/internship/detail/xr-developer-unity-unreal-engine-internship-in-jabalpur-at-vanilla-tree-solutions1788349966",
         "source": "Internshala"
     }
 ]
