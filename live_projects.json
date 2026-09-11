@@ -1,22 +1,6 @@
 [
     {
         "id": 1,
-        "title": "AI Web Development",
-        "company": "InAmigos Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1788949881",
-        "source": "Internshala"
-    },
-    {
-        "id": 2,
-        "title": "Java Development",
-        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-java-development-internship-at-basti-ki-pathshala-foundation1788957399",
-        "source": "Internshala"
-    },
-    {
-        "id": 3,
         "title": "Software Testing",
         "company": "Crazy For Success Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -24,7 +8,31 @@
         "source": "Internshala"
     },
     {
+        "id": 2,
+        "title": "AI Automation & Growth Engineer",
+        "company": "Suthar Technologies                        \nActively hiring",
+        "stipend": "\u20b9 7,000 - 13,000 /month",
+        "link": "https://internshala.com/internship/detail/ai-automation-growth-engineer-internship-in-multiple-locations-at-suthar-technologies1789102405",
+        "source": "Internshala"
+    },
+    {
+        "id": 3,
+        "title": "Java Development",
+        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-part-time-java-development-internship-at-basti-ki-pathshala-foundation1788957399",
+        "source": "Internshala"
+    },
+    {
         "id": 4,
+        "title": "Software Development",
+        "company": "Salesforce                        \nActively hiring",
+        "stipend": "\u20b9 1,00,000 - 1,50,000 /month",
+        "link": "https://internshala.com/internship/detail/part-time-software-development-internship-in-bangalore-at-salesforce1789133363",
+        "source": "Internshala"
+    },
+    {
+        "id": 5,
         "title": "Web Scraping",
         "company": "Smollan India                        \nActively hiring",
         "stipend": "\u20b9 13,000 - 15,000 /month",
@@ -32,7 +40,7 @@
         "source": "Internshala"
     },
     {
-        "id": 5,
+        "id": 6,
         "title": "Software Development",
         "company": "TEN                        \nActively hiring",
         "stipend": "\u20b9 2,000 /month",
@@ -40,7 +48,23 @@
         "source": "Internshala"
     },
     {
-        "id": 6,
+        "id": 7,
+        "title": "AI Engineer",
+        "company": "AAAMT Verticals Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 12,000 /month",
+        "link": "https://internshala.com/internship/detail/ai-engineer-internship-in-hyderabad-at-aaamt-verticals-private-limited1789115061",
+        "source": "Internshala"
+    },
+    {
+        "id": 8,
+        "title": "Java Development",
+        "company": "Tax-O-Smart LLP                        \nActively hiring",
+        "stipend": "\u20b9 8,000 - 12,000 /month",
+        "link": "https://internshala.com/internship/detail/java-development-internship-in-mumbai-at-tax-o-smart-llp1789107961",
+        "source": "Internshala"
+    },
+    {
+        "id": 9,
         "title": "Python Development",
         "company": "Gateway Software Solutions                        \nActively hiring",
         "stipend": "\u20b9 6,500 - 10,000 /month",
@@ -48,7 +72,7 @@
         "source": "Internshala"
     },
     {
-        "id": 7,
+        "id": 10,
         "title": "Problem Setter \u2013 Data Structures & Algorithms",
         "company": "CipherSchools                        \nActively hiring",
         "stipend": "\u20b9 15,000 - 20,000 /month",
@@ -56,15 +80,7 @@
         "source": "Internshala"
     },
     {
-        "id": 8,
-        "title": "AI Prompt Engineering",
-        "company": "InAmigos Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-ai-prompt-engineering-internship-at-inamigos-foundation1789035006",
-        "source": "Internshala"
-    },
-    {
-        "id": 9,
+        "id": 11,
         "title": "WordPress & Website Management",
         "company": "CyberFrat                        \nActively hiring",
         "stipend": "\u20b9 4,000 - 5,000 /month",
@@ -72,15 +88,15 @@
         "source": "Internshala"
     },
     {
-        "id": 10,
-        "title": "Java Development",
-        "company": "Gateway Software Solutions                        \nActively hiring",
-        "stipend": "\u20b9 7,500 - 12,500 /month",
-        "link": "https://internshala.com/internship/detail/java-development-internship-in-multiple-locations-at-gateway-software-solutions1788496733",
+        "id": 12,
+        "title": "Software Testing",
+        "company": "Grexa AI Private Limited",
+        "stipend": "\u20b9 8,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/software-testing-internship-in-multiple-locations-at-grexa-ai-private-limited1789108540",
         "source": "Internshala"
     },
     {
-        "id": 11,
+        "id": 13,
         "title": "Python Development",
         "company": "UV Farms Private Limited",
         "stipend": "\u20b9 5,000 - 8,000 /month",
@@ -88,7 +104,7 @@
         "source": "Internshala"
     },
     {
-        "id": 12,
+        "id": 14,
         "title": "Developer",
         "company": "Langoor Marketing Transformation Private Limited",
         "stipend": "\u20b9 9,000 - 10,000 /month",
@@ -96,7 +112,7 @@
         "source": "Internshala"
     },
     {
-        "id": 13,
+        "id": 15,
         "title": "C# Backend Development (Male Candidates)",
         "company": "SAHOTA INFO PRIVATE LIMITED",
         "stipend": "\u20b9 5,000 /month",
@@ -104,15 +120,7 @@
         "source": "Internshala"
     },
     {
-        "id": 14,
-        "title": "Mobile App & Web Development",
-        "company": "Pioneer Sam Energia",
-        "stipend": "\u20b9 2,500 - 3,000 /month",
-        "link": "https://internshala.com/internship/detail/mobile-app-web-development-internship-in-multiple-locations-at-pioneer-sam-energia1788856816",
-        "source": "Internshala"
-    },
-    {
-        "id": 15,
+        "id": 16,
         "title": "Software Testing",
         "company": "Orufy Technologies Private Limited",
         "stipend": "\u20b9 8,000 - 10,000 /month",
@@ -120,7 +128,7 @@
         "source": "Internshala"
     },
     {
-        "id": 16,
+        "id": 17,
         "title": "Backend Development",
         "company": "EmpowerU (Promorph Solutions Private Limited)",
         "stipend": "\u20b9 3,000 - 5,000 /month",
