@@ -17,10 +17,10 @@
     },
     {
         "id": 3,
-        "title": "Java Development",
-        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-java-development-internship-at-basti-ki-pathshala-foundation1788957399",
+        "title": "Python Development",
+        "company": "Gateway Software Solutions                        \nActively hiring",
+        "stipend": "\u20b9 6,500 - 10,000 /month",
+        "link": "https://internshala.com/internship/detail/python-development-internship-in-multiple-locations-at-gateway-software-solutions1788846890",
         "source": "Internshala"
     },
     {
@@ -41,14 +41,6 @@
     },
     {
         "id": 6,
-        "title": "Python Development",
-        "company": "Gateway Software Solutions                        \nActively hiring",
-        "stipend": "\u20b9 6,500 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/python-development-internship-in-multiple-locations-at-gateway-software-solutions1788846890",
-        "source": "Internshala"
-    },
-    {
-        "id": 7,
         "title": "WordPress & Website Management",
         "company": "CyberFrat                        \nActively hiring",
         "stipend": "\u20b9 4,000 - 5,000 /month",
@@ -56,7 +48,7 @@
         "source": "Internshala"
     },
     {
-        "id": 8,
+        "id": 7,
         "title": "Problem Setter \u2013 Data Structures & Algorithms",
         "company": "CipherSchools                        \nActively hiring",
         "stipend": "\u20b9 15,000 - 20,000 /month",
@@ -64,15 +56,7 @@
         "source": "Internshala"
     },
     {
-        "id": 9,
-        "title": "Software Testing",
-        "company": "Grexa AI Private Limited",
-        "stipend": "\u20b9 8,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/software-testing-internship-in-multiple-locations-at-grexa-ai-private-limited1789108540",
-        "source": "Internshala"
-    },
-    {
-        "id": 10,
+        "id": 8,
         "title": "Python Development",
         "company": "UV Farms Private Limited",
         "stipend": "\u20b9 5,000 - 8,000 /month",
@@ -80,15 +64,7 @@
         "source": "Internshala"
     },
     {
-        "id": 11,
-        "title": "C# Backend Development (Male Candidates)",
-        "company": "SAHOTA INFO PRIVATE LIMITED",
-        "stipend": "\u20b9 5,000 /month",
-        "link": "https://internshala.com/internship/detail/c-backend-development-male-candidates-internship-in-delhi-at-sahota-info-private-limited1788902839",
-        "source": "Internshala"
-    },
-    {
-        "id": 12,
+        "id": 9,
         "title": "Software Testing",
         "company": "Orufy Technologies Private Limited",
         "stipend": "\u20b9 8,000 - 10,000 /month",
@@ -96,11 +72,19 @@
         "source": "Internshala"
     },
     {
-        "id": 13,
+        "id": 10,
         "title": "Backend Development",
         "company": "EmpowerU (Promorph Solutions Private Limited)",
         "stipend": "\u20b9 3,000 - 5,000 /month",
         "link": "https://internshala.com/internship/detail/backend-development-internship-in-multiple-locations-at-empoweru-promorph-solutions-private-limited1788454404",
+        "source": "Internshala"
+    },
+    {
+        "id": 11,
+        "title": "Web Development",
+        "company": "Celebrare",
+        "stipend": "\u20b9 8,000 - 14,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-celebrare1789207928",
         "source": "Internshala"
     }
 ]
