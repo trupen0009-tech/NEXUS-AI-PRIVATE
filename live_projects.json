@@ -1,6 +1,14 @@
 [
     {
         "id": 1,
+        "title": "Python Development",
+        "company": "Gateway Software Solutions                        \nActively hiring",
+        "stipend": "\u20b9 6,500 - 10,000 /month",
+        "link": "https://internshala.com/internship/detail/python-development-internship-in-multiple-locations-at-gateway-software-solutions1788846890",
+        "source": "Internshala"
+    },
+    {
+        "id": 2,
         "title": "AI Automation & Growth Engineer",
         "company": "Suthar Technologies                        \nActively hiring",
         "stipend": "\u20b9 7,000 - 13,000 /month",
@@ -8,23 +16,7 @@
         "source": "Internshala"
     },
     {
-        "id": 2,
-        "title": "Software Testing",
-        "company": "LAVORO GROUP OF TECHNOLOGIES                        \nActively hiring",
-        "stipend": "\u20b9 15,000 - 25,000 /month",
-        "link": "https://internshala.com/internship/detail/software-testing-internship-in-bangalore-at-lavoro-group-of-technologies1789243234",
-        "source": "Internshala"
-    },
-    {
         "id": 3,
-        "title": "Software Testing",
-        "company": "Crazy For Success Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/software-testing-internship-in-pune-at-crazy-for-success-foundation1789054512",
-        "source": "Internshala"
-    },
-    {
-        "id": 4,
         "title": "Software Development",
         "company": "LAVORO GROUP OF TECHNOLOGIES                        \nActively hiring",
         "stipend": "\u20b9 15,000 - 25,000 /month",
@@ -32,7 +24,7 @@
         "source": "Internshala"
     },
     {
-        "id": 5,
+        "id": 4,
         "title": "Software Development",
         "company": "LAVORO GROUP OF TECHNOLOGIES                        \nActively hiring",
         "stipend": "\u20b9 15,000 - 25,000 /month",
@@ -40,7 +32,23 @@
         "source": "Internshala"
     },
     {
+        "id": 5,
+        "title": "Software Testing",
+        "company": "LAVORO GROUP OF TECHNOLOGIES                        \nActively hiring",
+        "stipend": "\u20b9 15,000 - 25,000 /month",
+        "link": "https://internshala.com/internship/detail/software-testing-internship-in-bangalore-at-lavoro-group-of-technologies1789243234",
+        "source": "Internshala"
+    },
+    {
         "id": 6,
+        "title": "Software Testing",
+        "company": "Crazy For Success Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/software-testing-internship-in-pune-at-crazy-for-success-foundation1789054512",
+        "source": "Internshala"
+    },
+    {
+        "id": 7,
         "title": "Software Development",
         "company": "Salesforce                        \nActively hiring",
         "stipend": "\u20b9 1,00,000 - 1,50,000 /month",
@@ -48,19 +56,11 @@
         "source": "Internshala"
     },
     {
-        "id": 7,
+        "id": 8,
         "title": "Software Development",
         "company": "TEN                        \nActively hiring",
         "stipend": "\u20b9 2,000 /month",
         "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-ten1785048851",
-        "source": "Internshala"
-    },
-    {
-        "id": 8,
-        "title": "Python Development",
-        "company": "Gateway Software Solutions                        \nActively hiring",
-        "stipend": "\u20b9 6,500 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/python-development-internship-in-multiple-locations-at-gateway-software-solutions1788846890",
         "source": "Internshala"
     },
     {
@@ -73,14 +73,6 @@
     },
     {
         "id": 10,
-        "title": "Problem Setter \u2013 Data Structures & Algorithms",
-        "company": "CipherSchools                        \nActively hiring",
-        "stipend": "\u20b9 15,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/problem-setter--data-structures-algorithms-internship-in-chandigarh-at-cipherschools1789015071",
-        "source": "Internshala"
-    },
-    {
-        "id": 11,
         "title": "Python Development",
         "company": "UV Farms Private Limited",
         "stipend": "\u20b9 5,000 - 8,000 /month",
@@ -88,7 +80,7 @@
         "source": "Internshala"
     },
     {
-        "id": 12,
+        "id": 11,
         "title": "Software Testing",
         "company": "Orufy Technologies Private Limited",
         "stipend": "\u20b9 8,000 - 10,000 /month",
@@ -96,7 +88,7 @@
         "source": "Internshala"
     },
     {
-        "id": 13,
+        "id": 12,
         "title": "Backend Development",
         "company": "EmpowerU (Promorph Solutions Private Limited)",
         "stipend": "\u20b9 3,000 - 5,000 /month",
@@ -104,19 +96,51 @@
         "source": "Internshala"
     },
     {
-        "id": 14,
+        "id": 13,
         "title": "Software Development",
-        "company": "Swaggy Infolabs",
-        "stipend": "\u20b9 10,000 - 12,000 /month",
-        "link": "https://internshala.com/internship/detail/software-development-internship-in-faridabad-at-swaggy-infolabs1789191161",
+        "company": "WML Biotechnology Private Limited",
+        "stipend": "\u20b9 6,500 /month",
+        "link": "https://internshala.com/internship/detail/software-development-internship-in-bangalore-at-wml-biotechnology-private-limited1789277415",
+        "source": "Internshala"
+    },
+    {
+        "id": 14,
+        "title": "Web Development",
+        "company": "CloudZapier                        \nActively hiring",
+        "stipend": "\u20b9 9,500 - 18,500 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-cloudzapier1789273691",
         "source": "Internshala"
     },
     {
         "id": 15,
+        "title": "Java Development",
+        "company": "CloudZapier                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-cloudzapier1789273530",
+        "source": "Internshala"
+    },
+    {
+        "id": 16,
+        "title": "Python Development",
+        "company": "CloudZapier                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 25,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-cloudzapier1789273488",
+        "source": "Internshala"
+    },
+    {
+        "id": 17,
         "title": "Software Development Engineering (Web)",
         "company": "Emoolar Technology Private Limited                        \nActively hiring",
         "stipend": "\u20b9 5,500 - 7,000 /month",
         "link": "https://internshala.com/internship/detail/work-from-home-software-development-engineering-web-internship-at-emoolar-technology-private-limited1789193066",
+        "source": "Internshala"
+    },
+    {
+        "id": 18,
+        "title": "Web Development",
+        "company": "Qubixo                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-qubixo1789192953",
         "source": "Internshala"
     }
 ]
