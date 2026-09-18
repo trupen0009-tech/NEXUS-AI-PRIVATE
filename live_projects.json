@@ -9,14 +9,6 @@
     },
     {
         "id": 2,
-        "title": "Software Development",
-        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-software-development-internship-at-basti-ki-pathshala-foundation1789562143",
-        "source": "Internshala"
-    },
-    {
-        "id": 3,
         "title": "Java Development",
         "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -24,15 +16,7 @@
         "source": "Internshala"
     },
     {
-        "id": 4,
-        "title": "AI Prompt Engineering",
-        "company": "InAmigos Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-ai-prompt-engineering-internship-at-inamigos-foundation1789553510",
-        "source": "Internshala"
-    },
-    {
-        "id": 5,
+        "id": 3,
         "title": "AI Web Development",
         "company": "InAmigos Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -40,7 +24,31 @@
         "source": "Internshala"
     },
     {
+        "id": 4,
+        "title": "Java Development",
+        "company": "Optimasys                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-optimasys1789698753",
+        "source": "Internshala"
+    },
+    {
+        "id": 5,
+        "title": "Software Development",
+        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-part-time-software-development-internship-at-basti-ki-pathshala-foundation1789562143",
+        "source": "Internshala"
+    },
+    {
         "id": 6,
+        "title": "AI Prompt Engineering",
+        "company": "InAmigos Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-ai-prompt-engineering-internship-at-inamigos-foundation1789553510",
+        "source": "Internshala"
+    },
+    {
+        "id": 7,
         "title": "Software Development",
         "company": "Salesforce                        \nActively hiring",
         "stipend": "\u20b9 1,00,000 - 1,50,000 /month",
@@ -48,7 +56,15 @@
         "source": "Internshala"
     },
     {
-        "id": 7,
+        "id": 8,
+        "title": "Python Development",
+        "company": "Optimasys                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-optimasys1789670945",
+        "source": "Internshala"
+    },
+    {
+        "id": 9,
         "title": "Java Development",
         "company": "Onelap Telematics Private Limited                        \nActively hiring",
         "stipend": "\u20b9 20,000 - 25,000 /month",
@@ -56,15 +72,7 @@
         "source": "Internshala"
     },
     {
-        "id": 8,
-        "title": "Search Engine Optimization (SEO) & Website Development",
-        "company": "Trendy Promo (Chicago, United States)                        \nActively hiring",
-        "stipend": "\u20b9 2,500 - 6,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-search-engine-optimization-seo-website-development-internship-at-trendy-promo1789649627",
-        "source": "Internshala"
-    },
-    {
-        "id": 9,
+        "id": 10,
         "title": "AI Automation & Growth Engineer",
         "company": "Suthar Technologies                        \nActively hiring",
         "stipend": "\u20b9 7,000 - 13,000 /month",
@@ -72,7 +80,15 @@
         "source": "Internshala"
     },
     {
-        "id": 10,
+        "id": 11,
+        "title": "Search Engine Optimization (SEO) & Website Development",
+        "company": "Trendy Promo (Chicago, United States)                        \nActively hiring",
+        "stipend": "\u20b9 2,500 - 6,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-part-time-search-engine-optimization-seo-website-development-internship-at-trendy-promo1789649627",
+        "source": "Internshala"
+    },
+    {
+        "id": 12,
         "title": "Game Developer \u2013 Phaser & React.js",
         "company": "Eklavya.me                        \nActively hiring",
         "stipend": "\u20b9 5,000 - 6,000 /month",
@@ -80,7 +96,7 @@
         "source": "Internshala"
     },
     {
-        "id": 11,
+        "id": 13,
         "title": "Problem Setter \u2013 Data Structures & Algorithms",
         "company": "CipherSchools                        \nActively hiring",
         "stipend": "\u20b9 15,000 - 20,000 /month",
@@ -88,15 +104,15 @@
         "source": "Internshala"
     },
     {
-        "id": 12,
-        "title": "Flutter Developer",
-        "company": "Bugsmirror Research Private Limited",
-        "stipend": "\u20b9 11,998 - 12,000 /month",
-        "link": "https://internshala.com/internship/detail/flutter-developer-internship-in-indore-at-bugsmirror-research-private-limited1789632950",
+        "id": 14,
+        "title": "Web Development",
+        "company": "Novatra International",
+        "stipend": "\u20b9 7,000 - 10,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-malappuram-at-novatra-international1789699084",
         "source": "Internshala"
     },
     {
-        "id": 13,
+        "id": 15,
         "title": "Unreal Engine (Game) Developer",
         "company": "Enord Private Limited",
         "stipend": "\u20b9 5,000 - 10,000 /month",
@@ -104,19 +120,11 @@
         "source": "Internshala"
     },
     {
-        "id": 14,
+        "id": 16,
         "title": "Python Development",
         "company": "UV Farms Private Limited",
         "stipend": "\u20b9 5,000 - 8,000 /month",
         "link": "https://internshala.com/internship/detail/part-time-python-development-internship-in-nagercoil-at-uv-farms-private-limited1789022476",
-        "source": "Internshala"
-    },
-    {
-        "id": 15,
-        "title": "Backend Development",
-        "company": "EmpowerU (Promorph Solutions Private Limited)",
-        "stipend": "\u20b9 3,000 - 5,000 /month",
-        "link": "https://internshala.com/internship/detail/backend-development-internship-in-multiple-locations-at-empoweru-promorph-solutions-private-limited1788454404",
         "source": "Internshala"
     }
 ]
