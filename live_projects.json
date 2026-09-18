@@ -1,22 +1,14 @@
 [
     {
         "id": 1,
-        "title": "Software Testing",
-        "company": "Assetcues Solutions Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/software-testing-internship-in-pune-at-assetcues-solutions-private-limited1789642003",
+        "title": "Software Development Engineering (Web)",
+        "company": "LAVORO GROUP OF TECHNOLOGIES                        \nActively hiring",
+        "stipend": "\u20b9 15,000 - 25,000 /month",
+        "link": "https://internshala.com/internship/detail/software-development-engineering-web-internship-in-pune-at-lavoro-group-of-technologies1789729244",
         "source": "Internshala"
     },
     {
         "id": 2,
-        "title": "Java Development",
-        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-basti-ki-pathshala-foundation1789648326",
-        "source": "Internshala"
-    },
-    {
-        "id": 3,
         "title": "AI Web Development",
         "company": "InAmigos Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -24,23 +16,15 @@
         "source": "Internshala"
     },
     {
-        "id": 4,
+        "id": 3,
         "title": "Java Development",
-        "company": "Optimasys                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-optimasys1789698753",
-        "source": "Internshala"
-    },
-    {
-        "id": 5,
-        "title": "Software Development",
         "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
         "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-software-development-internship-at-basti-ki-pathshala-foundation1789562143",
+        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-basti-ki-pathshala-foundation1789648326",
         "source": "Internshala"
     },
     {
-        "id": 6,
+        "id": 4,
         "title": "AI Prompt Engineering",
         "company": "InAmigos Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -48,7 +32,15 @@
         "source": "Internshala"
     },
     {
-        "id": 7,
+        "id": 5,
+        "title": "Web Development",
+        "company": "Codeatrix                        \nActively hiring",
+        "stipend": "\u20b9 8,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-codeatrix1789742826",
+        "source": "Internshala"
+    },
+    {
+        "id": 6,
         "title": "Software Development",
         "company": "Salesforce                        \nActively hiring",
         "stipend": "\u20b9 1,00,000 - 1,50,000 /month",
@@ -56,19 +48,27 @@
         "source": "Internshala"
     },
     {
-        "id": 8,
-        "title": "Python Development",
-        "company": "Optimasys                        \nActively hiring",
+        "id": 7,
+        "title": "Software Testing",
+        "company": "Assetcues Solutions Private Limited                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-optimasys1789670945",
+        "link": "https://internshala.com/internship/detail/software-testing-internship-in-pune-at-assetcues-solutions-private-limited1789642003",
+        "source": "Internshala"
+    },
+    {
+        "id": 8,
+        "title": "Web Development",
+        "company": "Dr Joshi Holistic Multispecialty Research & Healthcare                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 12,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-mumbai-at-dr-joshi-holistic-multispecialty-research-healthcare1789713199",
         "source": "Internshala"
     },
     {
         "id": 9,
-        "title": "Java Development",
-        "company": "Onelap Telematics Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 20,000 - 25,000 /month",
-        "link": "https://internshala.com/internship/detail/java-development-internship-in-noida-at-onelap-telematics-private-limited1789619931",
+        "title": "Quant Engineer",
+        "company": "SUAS Enterprises                        \nActively hiring",
+        "stipend": "\u20b9 12,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-quant-engineer-internship-at-suas-enterprises1789717207",
         "source": "Internshala"
     },
     {
@@ -81,10 +81,10 @@
     },
     {
         "id": 11,
-        "title": "Search Engine Optimization (SEO) & Website Development",
-        "company": "Trendy Promo (Chicago, United States)                        \nActively hiring",
-        "stipend": "\u20b9 2,500 - 6,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-search-engine-optimization-seo-website-development-internship-at-trendy-promo1789649627",
+        "title": "Problem Setter \u2013 Data Structures & Algorithms",
+        "company": "CipherSchools                        \nActively hiring",
+        "stipend": "\u20b9 15,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/problem-setter--data-structures-algorithms-internship-in-chandigarh-at-cipherschools1789559670",
         "source": "Internshala"
     },
     {
@@ -97,18 +97,18 @@
     },
     {
         "id": 13,
-        "title": "Problem Setter \u2013 Data Structures & Algorithms",
-        "company": "CipherSchools                        \nActively hiring",
-        "stipend": "\u20b9 15,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/problem-setter--data-structures-algorithms-internship-in-chandigarh-at-cipherschools1789559670",
+        "title": "Software Intern",
+        "company": "Pioneer Infotech Private Limited",
+        "stipend": "\u20b9 10,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/software-intern-internship-in-mumbai-at-pioneer-infotech-private-limited1789734538",
         "source": "Internshala"
     },
     {
         "id": 14,
-        "title": "Web Development",
-        "company": "Novatra International",
-        "stipend": "\u20b9 7,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-malappuram-at-novatra-international1789699084",
+        "title": "Software Testing",
+        "company": "Ayushakti Ayurved Private Limited",
+        "stipend": "\u20b9 7,000 - 7,500 /month",
+        "link": "https://internshala.com/internship/detail/software-testing-internship-in-mumbai-at-ayushakti-ayurved-private-limited1789714482",
         "source": "Internshala"
     },
     {
@@ -117,14 +117,6 @@
         "company": "Enord Private Limited",
         "stipend": "\u20b9 5,000 - 10,000 /month",
         "link": "https://internshala.com/internship/detail/unreal-engine-game-developer-internship-in-delhi-at-enord-private-limited1789477179",
-        "source": "Internshala"
-    },
-    {
-        "id": 16,
-        "title": "Python Development",
-        "company": "UV Farms Private Limited",
-        "stipend": "\u20b9 5,000 - 8,000 /month",
-        "link": "https://internshala.com/internship/detail/part-time-python-development-internship-in-nagercoil-at-uv-farms-private-limited1789022476",
         "source": "Internshala"
     }
 ]
