@@ -1,22 +1,46 @@
 [
     {
         "id": 1,
-        "title": "Web Development",
-        "company": "TUNGSTEN FITNESS CLUB PRIVATE LIMITED                        \nActively hiring",
-        "stipend": "\u20b9 5,000 - 6,000 /month",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-multiple-locations-at-tungsten-fitness-club-private-limited1789901583",
+        "title": "Backend Development",
+        "company": "OpalCode                        \nActively hiring",
+        "stipend": "\u20b9 7,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-opalcode1790005886",
         "source": "Internshala"
     },
     {
         "id": 2,
-        "title": "WordPress Developer",
-        "company": "Zytexa Technology Llp                        \nActively hiring",
-        "stipend": "\u20b9 3,000 - 5,000 /month",
-        "link": "https://internshala.com/internship/detail/wordpress-developer-internship-in-jaipur-at-zytexa-technology-llp1789821931",
+        "title": "Software Development",
+        "company": "Crazy For Success Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/software-development-internship-in-pune-at-crazy-for-success-foundation1789985661",
         "source": "Internshala"
     },
     {
         "id": 3,
+        "title": "Python Development",
+        "company": "Gateway Software Solutions                        \nActively hiring",
+        "stipend": "\u20b9 3,000 - 12,500 /month",
+        "link": "https://internshala.com/internship/detail/part-time-python-development-internship-in-multiple-locations-at-gateway-software-solutions1789970693",
+        "source": "Internshala"
+    },
+    {
+        "id": 4,
+        "title": "Software Development",
+        "company": "Crazy For Success Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/software-development-internship-in-hathras-at-crazy-for-success-foundation1789985313",
+        "source": "Internshala"
+    },
+    {
+        "id": 5,
+        "title": "Software Testing (Graduates/Postgraduates Only)",
+        "company": "SIRPI Products & Services Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 14,999 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/software-testing-graduates-postgraduates-only-internship-in-bangalore-at-sirpi-products-services-private-limited1789969626",
+        "source": "Internshala"
+    },
+    {
+        "id": 6,
         "title": "AI Prompt Engineering",
         "company": "InAmigos Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -24,15 +48,7 @@
         "source": "Internshala"
     },
     {
-        "id": 4,
-        "title": "Software Testing",
-        "company": "Assetcues Solutions Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/software-testing-internship-in-pune-at-assetcues-solutions-private-limited1789642003",
-        "source": "Internshala"
-    },
-    {
-        "id": 5,
+        "id": 7,
         "title": "AI Web Development",
         "company": "InAmigos Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -40,7 +56,7 @@
         "source": "Internshala"
     },
     {
-        "id": 6,
+        "id": 8,
         "title": "Software Development",
         "company": "Salesforce                        \nActively hiring",
         "stipend": "\u20b9 1,00,000 - 1,50,000 /month",
@@ -48,7 +64,31 @@
         "source": "Internshala"
     },
     {
-        "id": 7,
+        "id": 9,
+        "title": "Web Development",
+        "company": "TUNGSTEN FITNESS CLUB PRIVATE LIMITED                        \nActively hiring",
+        "stipend": "\u20b9 5,000 - 6,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-multiple-locations-at-tungsten-fitness-club-private-limited1789901583",
+        "source": "Internshala"
+    },
+    {
+        "id": 10,
+        "title": "WordPress Developer",
+        "company": "Zytexa Technology Llp                        \nActively hiring",
+        "stipend": "\u20b9 3,000 - 5,000 /month",
+        "link": "https://internshala.com/internship/detail/wordpress-developer-internship-in-jaipur-at-zytexa-technology-llp1789821931",
+        "source": "Internshala"
+    },
+    {
+        "id": 11,
+        "title": "Software Testing",
+        "company": "Assetcues Solutions Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/software-testing-internship-in-pune-at-assetcues-solutions-private-limited1789642003",
+        "source": "Internshala"
+    },
+    {
+        "id": 12,
         "title": "AI Automation & Growth Engineer",
         "company": "Suthar Technologies                        \nActively hiring",
         "stipend": "\u20b9 7,000 - 13,000 /month",
@@ -56,31 +96,7 @@
         "source": "Internshala"
     },
     {
-        "id": 8,
-        "title": "Full Stack Development & Data Science",
-        "company": "GURU GOBIND SINGH PUBLIC SCHOOL",
-        "stipend": "\u20b9 15,000 - 18,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-full-stack-development-data-science-internship-at-guru-gobind-singh-public-school1789957208",
-        "source": "Internshala"
-    },
-    {
-        "id": 9,
-        "title": "Network Engineering",
-        "company": "H.S.Electronics",
-        "stipend": "\u20b9 7,500 - 9,000 /month",
-        "link": "https://internshala.com/internship/detail/network-engineering-internship-in-multiple-locations-at-hselectronics1789917287",
-        "source": "Internshala"
-    },
-    {
-        "id": 10,
-        "title": "Software Testing",
-        "company": "Ayushakti Ayurved Private Limited",
-        "stipend": "\u20b9 7,000 - 7,500 /month",
-        "link": "https://internshala.com/internship/detail/software-testing-internship-in-mumbai-at-ayushakti-ayurved-private-limited1789714482",
-        "source": "Internshala"
-    },
-    {
-        "id": 11,
+        "id": 13,
         "title": "Python Development",
         "company": "UV Farms Private Limited",
         "stipend": "\u20b9 5,000 - 8,000 /month",
@@ -88,19 +104,11 @@
         "source": "Internshala"
     },
     {
-        "id": 12,
+        "id": 14,
         "title": "Backend Development",
         "company": "EmpowerU (Promorph Solutions Private Limited)",
         "stipend": "\u20b9 3,000 - 5,000 /month",
         "link": "https://internshala.com/internship/detail/backend-development-internship-in-multiple-locations-at-empoweru-promorph-solutions-private-limited1788454404",
-        "source": "Internshala"
-    },
-    {
-        "id": 13,
-        "title": "AI Automation Engineer",
-        "company": "NSP ITES",
-        "stipend": "\u20b9 4,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-ai-automation-engineer-internship-at-nsp-ites1789908658",
         "source": "Internshala"
     }
 ]
