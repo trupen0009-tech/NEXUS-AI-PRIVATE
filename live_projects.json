@@ -49,6 +49,102 @@
     },
     {
         "id": 7,
+        "title": "Java Developer",
+        "company": "GRADTWIN SERVICES (OPC) PRIVATE LIMITED                        \nActively hiring",
+        "stipend": "\u20b9 3,001 - 7,002 /month",
+        "link": "https://internshala.com/internship/detail/part-time-java-developer-internship-in-chennai-at-gradtwin-services-opc-private-limited1790331141",
+        "source": "Internshala"
+    },
+    {
+        "id": 8,
+        "title": "Data Science With Python",
+        "company": "GRADTWIN SERVICES (OPC) PRIVATE LIMITED                        \nActively hiring",
+        "stipend": "\u20b9 3,001 - 7,002 /month",
+        "link": "https://internshala.com/internship/detail/part-time-data-science-with-python-internship-in-multiple-locations-at-gradtwin-services-opc-private-limited1790331645",
+        "source": "Internshala"
+    },
+    {
+        "id": 9,
+        "title": "Python Developer",
+        "company": "GRADTWIN SERVICES (OPC) PRIVATE LIMITED                        \nActively hiring",
+        "stipend": "\u20b9 3,001 - 7,002 /month",
+        "link": "https://internshala.com/internship/detail/part-time-python-developer-internship-in-chennai-at-gradtwin-services-opc-private-limited1790331216",
+        "source": "Internshala"
+    },
+    {
+        "id": 10,
+        "title": "Web Development",
+        "company": "Scope For Change                        \nActively hiring",
+        "stipend": "\u20b9 8,000 - 10,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-delhi-at-scope-for-change1790334224",
+        "source": "Internshala"
+    },
+    {
+        "id": 11,
+        "title": "Python Development",
+        "company": "Women First India Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-part-time-python-development-internship-at-women-first-india-foundation1790338414",
+        "source": "Internshala"
+    },
+    {
+        "id": 12,
+        "title": "Problem Setter \u2013 Data Structures & Algorithms",
+        "company": "CipherSchools                        \nActively hiring",
+        "stipend": "\u20b9 15,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/problem-setter--data-structures-algorithms-internship-in-chandigarh-at-cipherschools1790325393",
+        "source": "Internshala"
+    },
+    {
+        "id": 13,
+        "title": "Software Development",
+        "company": "Women First India Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-women-first-india-foundation1790337320",
+        "source": "Internshala"
+    },
+    {
+        "id": 14,
+        "title": "Web Development",
+        "company": "Hope Behind Tails Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-hope-behind-tails-foundation1790337421",
+        "source": "Internshala"
+    },
+    {
+        "id": 15,
+        "title": "Web Development",
+        "company": "She Can Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-she-can-foundation1790337059",
+        "source": "Internshala"
+    },
+    {
+        "id": 16,
+        "title": "Java Development",
+        "company": "Hope Behind Tails Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-hope-behind-tails-foundation1790337520",
+        "source": "Internshala"
+    },
+    {
+        "id": 17,
+        "title": "SQL Developer",
+        "company": "Pledge India Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-part-time-sql-developer-internship-at-pledge-india-foundation1790338349",
+        "source": "Internshala"
+    },
+    {
+        "id": 18,
+        "title": "AI Web Development",
+        "company": "Hope Behind Tails Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-hope-behind-tails-foundation1790337576",
+        "source": "Internshala"
+    },
+    {
+        "id": 19,
         "title": "Software Development",
         "company": "Crazy For Success Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -56,7 +152,15 @@
         "source": "Internshala"
     },
     {
-        "id": 8,
+        "id": 20,
+        "title": "Coding Instructor | Mentor | Data Structures & Algorithms",
+        "company": "CipherSchools                        \nActively hiring",
+        "stipend": "\u20b9 60,000 - 80,000 /month",
+        "link": "https://internshala.com/internship/detail/coding-instructor--mentor--data-structures-algorithms-internship-in-multiple-locations-at-cipherschools1790324624",
+        "source": "Internshala"
+    },
+    {
+        "id": 21,
         "title": "WordPress Developer",
         "company": "Zytexa Technology Llp                        \nActively hiring",
         "stipend": "\u20b9 3,000 - 5,000 /month",
@@ -64,7 +168,7 @@
         "source": "Internshala"
     },
     {
-        "id": 9,
+        "id": 22,
         "title": "Software Testing (Graduates/Postgraduates Only)",
         "company": "SIRPI Products & Services Private Limited                        \nActively hiring",
         "stipend": "\u20b9 14,999 - 15,000 /month",
@@ -72,7 +176,7 @@
         "source": "Internshala"
     },
     {
-        "id": 10,
+        "id": 23,
         "title": "Python Development",
         "company": "Gateway Software Solutions                        \nActively hiring",
         "stipend": "\u20b9 3,000 - 12,500 /month",
@@ -80,59 +184,11 @@
         "source": "Internshala"
     },
     {
-        "id": 11,
+        "id": 24,
         "title": "IoT Software Development",
         "company": "ToXSL Technologies Private Limited                        \nActively hiring",
         "stipend": "\u20b9 15,000 - 20,000 /month",
         "link": "https://internshala.com/internship/detail/iot-software-development-internship-in-multiple-locations-at-toxsl-technologies-private-limited1790161330",
-        "source": "Internshala"
-    },
-    {
-        "id": 12,
-        "title": "Backend Development",
-        "company": "Pledge India Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-backend-development-internship-at-pledge-india-foundation1790252907",
-        "source": "Internshala"
-    },
-    {
-        "id": 13,
-        "title": "Java Development",
-        "company": "Pledge India Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-java-development-internship-at-pledge-india-foundation1790252931",
-        "source": "Internshala"
-    },
-    {
-        "id": 14,
-        "title": "Software Development",
-        "company": "Pledge India Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-software-development-internship-at-pledge-india-foundation1790252912",
-        "source": "Internshala"
-    },
-    {
-        "id": 15,
-        "title": "Web & Graphic Designing",
-        "company": "ToXSL Technologies Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 11,000 - 15,500 /month",
-        "link": "https://internshala.com/internship/detail/web-graphic-designing-internship-in-multiple-locations-at-toxsl-technologies-private-limited1790076855",
-        "source": "Internshala"
-    },
-    {
-        "id": 16,
-        "title": "AI Automation & Growth Engineer",
-        "company": "Suthar Technologies                        \nActively hiring",
-        "stipend": "\u20b9 7,000 - 13,000 /month",
-        "link": "https://internshala.com/internship/detail/ai-automation-growth-engineer-internship-in-multiple-locations-at-suthar-technologies1789102405",
-        "source": "Internshala"
-    },
-    {
-        "id": 17,
-        "title": "Automation Developer",
-        "company": "UD Studios                        \nActively hiring",
-        "stipend": "\u20b9 5,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-automation-developer-internship-at-ud-studios1790223987",
         "source": "Internshala"
     }
 ]
