@@ -1,6 +1,14 @@
 [
     {
         "id": 1,
+        "title": "AWS DevOps Engineer",
+        "company": "Jungleworks                        \nActively hiring",
+        "stipend": "\u20b9 13,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/devops-internship-in-multiple-locations-at-jungleworks1790253332",
+        "source": "Internshala"
+    },
+    {
+        "id": 2,
         "title": "Python Development",
         "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -8,27 +16,19 @@
         "source": "Internshala"
     },
     {
-        "id": 2,
-        "title": "Web Development",
-        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-web-development-internship-at-basti-ki-pathshala-foundation1790249570",
-        "source": "Internshala"
-    },
-    {
         "id": 3,
-        "title": "Software Development Engineer",
-        "company": "ZYPIT                        \nActively hiring",
-        "stipend": "\u20b9 8,000 - 12,000 /month",
-        "link": "https://internshala.com/internship/detail/software-development-engineer-internship-in-bangalore-at-zypit1790078039",
-        "source": "Internshala"
-    },
-    {
-        "id": 4,
         "title": "Java Development",
         "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
         "stipend": "Unpaid",
         "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-basti-ki-pathshala-foundation1790159866",
+        "source": "Internshala"
+    },
+    {
+        "id": 4,
+        "title": "Web Development",
+        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-part-time-web-development-internship-at-basti-ki-pathshala-foundation1790249570",
         "source": "Internshala"
     },
     {
@@ -57,30 +57,6 @@
     },
     {
         "id": 8,
-        "title": "Backend Development",
-        "company": "Pledge India Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-backend-development-internship-at-pledge-india-foundation1790252907",
-        "source": "Internshala"
-    },
-    {
-        "id": 9,
-        "title": "Java Development",
-        "company": "Pledge India Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-java-development-internship-at-pledge-india-foundation1790252931",
-        "source": "Internshala"
-    },
-    {
-        "id": 10,
-        "title": "Software Development",
-        "company": "Pledge India Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-software-development-internship-at-pledge-india-foundation1790252912",
-        "source": "Internshala"
-    },
-    {
-        "id": 11,
         "title": "WordPress Developer",
         "company": "Zytexa Technology Llp                        \nActively hiring",
         "stipend": "\u20b9 3,000 - 5,000 /month",
@@ -88,7 +64,7 @@
         "source": "Internshala"
     },
     {
-        "id": 12,
+        "id": 9,
         "title": "Software Testing (Graduates/Postgraduates Only)",
         "company": "SIRPI Products & Services Private Limited                        \nActively hiring",
         "stipend": "\u20b9 14,999 - 15,000 /month",
@@ -96,23 +72,7 @@
         "source": "Internshala"
     },
     {
-        "id": 13,
-        "title": "Software Testing",
-        "company": "ToXSL Technologies Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/software-testing-internship-in-multiple-locations-at-toxsl-technologies-private-limited1790144287",
-        "source": "Internshala"
-    },
-    {
-        "id": 14,
-        "title": "IoT Software Development",
-        "company": "ToXSL Technologies Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 15,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/iot-software-development-internship-in-multiple-locations-at-toxsl-technologies-private-limited1790161330",
-        "source": "Internshala"
-    },
-    {
-        "id": 15,
+        "id": 10,
         "title": "Python Development",
         "company": "Gateway Software Solutions                        \nActively hiring",
         "stipend": "\u20b9 3,000 - 12,500 /month",
@@ -120,11 +80,51 @@
         "source": "Internshala"
     },
     {
+        "id": 11,
+        "title": "IoT Software Development",
+        "company": "ToXSL Technologies Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 15,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/iot-software-development-internship-in-multiple-locations-at-toxsl-technologies-private-limited1790161330",
+        "source": "Internshala"
+    },
+    {
+        "id": 12,
+        "title": "Backend Development",
+        "company": "Pledge India Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-part-time-backend-development-internship-at-pledge-india-foundation1790252907",
+        "source": "Internshala"
+    },
+    {
+        "id": 13,
+        "title": "Java Development",
+        "company": "Pledge India Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-part-time-java-development-internship-at-pledge-india-foundation1790252931",
+        "source": "Internshala"
+    },
+    {
+        "id": 14,
+        "title": "Software Development",
+        "company": "Pledge India Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-part-time-software-development-internship-at-pledge-india-foundation1790252912",
+        "source": "Internshala"
+    },
+    {
+        "id": 15,
+        "title": "Web & Graphic Designing",
+        "company": "ToXSL Technologies Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 11,000 - 15,500 /month",
+        "link": "https://internshala.com/internship/detail/web-graphic-designing-internship-in-multiple-locations-at-toxsl-technologies-private-limited1790076855",
+        "source": "Internshala"
+    },
+    {
         "id": 16,
-        "title": "Software Testing",
-        "company": "Assetcues Solutions Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/software-testing-internship-in-pune-at-assetcues-solutions-private-limited1789642003",
+        "title": "AI Automation & Growth Engineer",
+        "company": "Suthar Technologies                        \nActively hiring",
+        "stipend": "\u20b9 7,000 - 13,000 /month",
+        "link": "https://internshala.com/internship/detail/ai-automation-growth-engineer-internship-in-multiple-locations-at-suthar-technologies1789102405",
         "source": "Internshala"
     },
     {
@@ -133,22 +133,6 @@
         "company": "UD Studios                        \nActively hiring",
         "stipend": "\u20b9 5,000 /month",
         "link": "https://internshala.com/internship/detail/work-from-home-automation-developer-internship-at-ud-studios1790223987",
-        "source": "Internshala"
-    },
-    {
-        "id": 18,
-        "title": "Golang Developer",
-        "company": "Webknot Technologies Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 15,000 - 25,000 /month",
-        "link": "https://internshala.com/internship/detail/golang-developer-internship-in-bangalore-at-webknot-technologies-private-limited1790148548",
-        "source": "Internshala"
-    },
-    {
-        "id": 19,
-        "title": "Web & Graphic Designing",
-        "company": "ToXSL Technologies Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 11,000 - 15,500 /month",
-        "link": "https://internshala.com/internship/detail/web-graphic-designing-internship-in-multiple-locations-at-toxsl-technologies-private-limited1790076855",
         "source": "Internshala"
     }
 ]
