@@ -9,14 +9,6 @@
     },
     {
         "id": 2,
-        "title": "Web Development",
-        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-web-development-internship-at-basti-ki-pathshala-foundation1790249570",
-        "source": "Internshala"
-    },
-    {
-        "id": 3,
         "title": "Java Development",
         "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -24,7 +16,23 @@
         "source": "Internshala"
     },
     {
+        "id": 3,
+        "title": "Web Development",
+        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-part-time-web-development-internship-at-basti-ki-pathshala-foundation1790249570",
+        "source": "Internshala"
+    },
+    {
         "id": 4,
+        "title": "Software Development",
+        "company": "TEN                        \nActively hiring",
+        "stipend": "\u20b9 2,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-ten1790309126",
+        "source": "Internshala"
+    },
+    {
+        "id": 5,
         "title": "Software Development",
         "company": "Salesforce                        \nActively hiring",
         "stipend": "\u20b9 1,00,000 - 1,50,000 /month",
@@ -32,19 +40,11 @@
         "source": "Internshala"
     },
     {
-        "id": 5,
+        "id": 6,
         "title": "AWS DevOps Engineer",
         "company": "Jungleworks                        \nActively hiring",
         "stipend": "\u20b9 13,000 - 15,000 /month",
         "link": "https://internshala.com/internship/detail/devops-internship-in-multiple-locations-at-jungleworks1790253332",
-        "source": "Internshala"
-    },
-    {
-        "id": 6,
-        "title": "Software Development Engineering (Web)",
-        "company": "Cookiesensei Labs Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 15,000 - 33,000 /month",
-        "link": "https://internshala.com/internship/detail/software-development-engineering-web-internship-in-multiple-locations-at-cookiesensei-labs-private-limited1790356348",
         "source": "Internshala"
     },
     {
@@ -65,46 +65,6 @@
     },
     {
         "id": 9,
-        "title": "Java Developer",
-        "company": "GRADTWIN SERVICES (OPC) PRIVATE LIMITED                        \nActively hiring",
-        "stipend": "\u20b9 3,001 - 7,002 /month",
-        "link": "https://internshala.com/internship/detail/part-time-java-developer-internship-in-chennai-at-gradtwin-services-opc-private-limited1790331141",
-        "source": "Internshala"
-    },
-    {
-        "id": 10,
-        "title": "Python Developer",
-        "company": "GRADTWIN SERVICES (OPC) PRIVATE LIMITED                        \nActively hiring",
-        "stipend": "\u20b9 3,001 - 7,002 /month",
-        "link": "https://internshala.com/internship/detail/part-time-python-developer-internship-in-chennai-at-gradtwin-services-opc-private-limited1790331216",
-        "source": "Internshala"
-    },
-    {
-        "id": 11,
-        "title": "Data Science With Python",
-        "company": "GRADTWIN SERVICES (OPC) PRIVATE LIMITED                        \nActively hiring",
-        "stipend": "\u20b9 3,001 - 7,002 /month",
-        "link": "https://internshala.com/internship/detail/part-time-data-science-with-python-internship-in-multiple-locations-at-gradtwin-services-opc-private-limited1790331645",
-        "source": "Internshala"
-    },
-    {
-        "id": 12,
-        "title": "Problem Setter \u2013 Data Structures & Algorithms",
-        "company": "CipherSchools                        \nActively hiring",
-        "stipend": "\u20b9 15,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/problem-setter--data-structures-algorithms-internship-in-chandigarh-at-cipherschools1790325393",
-        "source": "Internshala"
-    },
-    {
-        "id": 13,
-        "title": "Coding Instructor | Mentor | Data Structures & Algorithms",
-        "company": "CipherSchools                        \nActively hiring",
-        "stipend": "\u20b9 60,000 - 80,000 /month",
-        "link": "https://internshala.com/internship/detail/coding-instructor--mentor--data-structures-algorithms-internship-in-multiple-locations-at-cipherschools1790324624",
-        "source": "Internshala"
-    },
-    {
-        "id": 14,
         "title": "WordPress Developer",
         "company": "Zytexa Technology Llp                        \nActively hiring",
         "stipend": "\u20b9 3,000 - 5,000 /month",
@@ -112,15 +72,63 @@
         "source": "Internshala"
     },
     {
-        "id": 15,
+        "id": 10,
+        "title": "Software Testing (Graduates/Postgraduates Only)",
+        "company": "SIRPI Products & Services Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 14,999 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/software-testing-graduates-postgraduates-only-internship-in-bangalore-at-sirpi-products-services-private-limited1789969626",
+        "source": "Internshala"
+    },
+    {
+        "id": 11,
+        "title": "Problem Setter \u2013 Data Structures & Algorithms",
+        "company": "CipherSchools                        \nActively hiring",
+        "stipend": "\u20b9 15,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/problem-setter--data-structures-algorithms-internship-in-chandigarh-at-cipherschools1790325393",
+        "source": "Internshala"
+    },
+    {
+        "id": 12,
+        "title": "Python Developer",
+        "company": "GRADTWIN SERVICES (OPC) PRIVATE LIMITED                        \nActively hiring",
+        "stipend": "\u20b9 3,001 - 7,002 /month",
+        "link": "https://internshala.com/internship/detail/part-time-python-developer-internship-in-chennai-at-gradtwin-services-opc-private-limited1790331216",
+        "source": "Internshala"
+    },
+    {
+        "id": 13,
+        "title": "Data Science With Python",
+        "company": "GRADTWIN SERVICES (OPC) PRIVATE LIMITED                        \nActively hiring",
+        "stipend": "\u20b9 3,001 - 7,002 /month",
+        "link": "https://internshala.com/internship/detail/part-time-data-science-with-python-internship-in-multiple-locations-at-gradtwin-services-opc-private-limited1790331645",
+        "source": "Internshala"
+    },
+    {
+        "id": 14,
         "title": "Python Development",
-        "company": "Women First India Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-python-development-internship-at-women-first-india-foundation1790338414",
+        "company": "Gateway Software Solutions                        \nActively hiring",
+        "stipend": "\u20b9 3,000 - 12,500 /month",
+        "link": "https://internshala.com/internship/detail/part-time-python-development-internship-in-multiple-locations-at-gateway-software-solutions1789970693",
+        "source": "Internshala"
+    },
+    {
+        "id": 15,
+        "title": "Coding Instructor | Mentor | Data Structures & Algorithms",
+        "company": "CipherSchools                        \nActively hiring",
+        "stipend": "\u20b9 60,000 - 80,000 /month",
+        "link": "https://internshala.com/internship/detail/coding-instructor--mentor--data-structures-algorithms-internship-in-multiple-locations-at-cipherschools1790324624",
         "source": "Internshala"
     },
     {
         "id": 16,
+        "title": "AI Automation & Growth Engineer",
+        "company": "Suthar Technologies                        \nActively hiring",
+        "stipend": "\u20b9 7,000 - 13,000 /month",
+        "link": "https://internshala.com/internship/detail/ai-automation-growth-engineer-internship-in-multiple-locations-at-suthar-technologies1789102405",
+        "source": "Internshala"
+    },
+    {
+        "id": 17,
         "title": "Software Development",
         "company": "Women First India Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -128,19 +136,11 @@
         "source": "Internshala"
     },
     {
-        "id": 17,
-        "title": "Web Development",
-        "company": "Hope Behind Tails Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-hope-behind-tails-foundation1790337421",
-        "source": "Internshala"
-    },
-    {
         "id": 18,
-        "title": "Java Development",
-        "company": "Hope Behind Tails Foundation                        \nActively hiring",
+        "title": "SQL Developer",
+        "company": "Pledge India Foundation                        \nActively hiring",
         "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-hope-behind-tails-foundation1790337520",
+        "link": "https://internshala.com/internship/detail/work-from-home-part-time-sql-developer-internship-at-pledge-india-foundation1790338349",
         "source": "Internshala"
     },
     {
@@ -149,38 +149,6 @@
         "company": "Hope Behind Tails Foundation                        \nActively hiring",
         "stipend": "Unpaid",
         "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-hope-behind-tails-foundation1790337576",
-        "source": "Internshala"
-    },
-    {
-        "id": 20,
-        "title": "SQL Developer",
-        "company": "Pledge India Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-sql-developer-internship-at-pledge-india-foundation1790338349",
-        "source": "Internshala"
-    },
-    {
-        "id": 21,
-        "title": "Software Testing (Graduates/Postgraduates Only)",
-        "company": "SIRPI Products & Services Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 14,999 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/software-testing-graduates-postgraduates-only-internship-in-bangalore-at-sirpi-products-services-private-limited1789969626",
-        "source": "Internshala"
-    },
-    {
-        "id": 22,
-        "title": "Python Development",
-        "company": "Gateway Software Solutions                        \nActively hiring",
-        "stipend": "\u20b9 3,000 - 12,500 /month",
-        "link": "https://internshala.com/internship/detail/part-time-python-development-internship-in-multiple-locations-at-gateway-software-solutions1789970693",
-        "source": "Internshala"
-    },
-    {
-        "id": 23,
-        "title": "IoT Software Development",
-        "company": "ToXSL Technologies Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 15,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/iot-software-development-internship-in-multiple-locations-at-toxsl-technologies-private-limited1790161330",
         "source": "Internshala"
     }
 ]
