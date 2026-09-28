@@ -1,62 +1,14 @@
 [
     {
         "id": 1,
-        "title": "Software Development",
-        "company": "Crazy For Success Foundation                        \nActively hiring",
+        "title": "AI Web Development",
+        "company": "InAmigos Foundation                        \nActively hiring",
         "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/software-development-internship-in-hathras-at-crazy-for-success-foundation1789985313",
+        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1790590932",
         "source": "Internshala"
     },
     {
         "id": 2,
-        "title": "Web Development",
-        "company": "Dough One Sources Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 5,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-delhi-at-dough-one-sources-private-limited1790520536",
-        "source": "Internshala"
-    },
-    {
-        "id": 3,
-        "title": "Backend Development",
-        "company": "Gateway Software Solutions                        \nActively hiring",
-        "stipend": "\u20b9 6,500 - 12,500 /month",
-        "link": "https://internshala.com/internship/detail/backend-development-internship-in-multiple-locations-at-gateway-software-solutions1790567913",
-        "source": "Internshala"
-    },
-    {
-        "id": 4,
-        "title": "Python Development",
-        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-basti-ki-pathshala-foundation1790248802",
-        "source": "Internshala"
-    },
-    {
-        "id": 5,
-        "title": "WordPress & Website Management",
-        "company": "CyberFrat                        \nActively hiring",
-        "stipend": "\u20b9 4,000 - 5,000 /month",
-        "link": "https://internshala.com/internship/detail/wordpress-website-management-internship-in-multiple-locations-at-cyberfrat1790228677",
-        "source": "Internshala"
-    },
-    {
-        "id": 6,
-        "title": "AWS DevOps Engineer",
-        "company": "Jungleworks                        \nActively hiring",
-        "stipend": "\u20b9 13,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/devops-internship-in-multiple-locations-at-jungleworks1790253332",
-        "source": "Internshala"
-    },
-    {
-        "id": 7,
-        "title": "Web Development",
-        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-web-development-internship-at-basti-ki-pathshala-foundation1790249570",
-        "source": "Internshala"
-    },
-    {
-        "id": 8,
         "title": "Software Development",
         "company": "TEN                        \nActively hiring",
         "stipend": "\u20b9 2,000 /month",
@@ -64,7 +16,7 @@
         "source": "Internshala"
     },
     {
-        "id": 9,
+        "id": 3,
         "title": "Software Development",
         "company": "Salesforce                        \nActively hiring",
         "stipend": "\u20b9 1,00,000 - 1,50,000 /month",
@@ -72,7 +24,103 @@
         "source": "Internshala"
     },
     {
+        "id": 4,
+        "title": "Backend Development",
+        "company": "Gateway Software Solutions                        \nActively hiring",
+        "stipend": "\u20b9 6,500 - 12,500 /month",
+        "link": "https://internshala.com/internship/detail/backend-development-internship-in-multiple-locations-at-gateway-software-solutions1790567913",
+        "source": "Internshala"
+    },
+    {
+        "id": 5,
+        "title": "Java Full Stack Developer",
+        "company": "GRADTWIN SERVICES (OPC) PRIVATE LIMITED                        \nActively hiring",
+        "stipend": "\u20b9 3,001 - 7,002 /month",
+        "link": "https://internshala.com/internship/detail/part-time-java-full-stack-developer-internship-in-multiple-locations-at-gradtwin-services-opc-private-limited1790589363",
+        "source": "Internshala"
+    },
+    {
+        "id": 6,
+        "title": "Python Full Stack Developer",
+        "company": "GRADTWIN SERVICES (OPC) PRIVATE LIMITED                        \nActively hiring",
+        "stipend": "\u20b9 3,001 - 7,002 /month",
+        "link": "https://internshala.com/internship/detail/part-time-python-full-stack-developer-internship-in-multiple-locations-at-gradtwin-services-opc-private-limited1790589428",
+        "source": "Internshala"
+    },
+    {
+        "id": 7,
+        "title": "Machine Learning With Python",
+        "company": "GRADTWIN SERVICES (OPC) PRIVATE LIMITED                        \nActively hiring",
+        "stipend": "\u20b9 3,001 - 7,002 /month",
+        "link": "https://internshala.com/internship/detail/part-time-machine-learning-with-python-internship-in-multiple-locations-at-gradtwin-services-opc-private-limited1790589717",
+        "source": "Internshala"
+    },
+    {
+        "id": 8,
+        "title": "AWS DevOps Engineer",
+        "company": "Jungleworks                        \nActively hiring",
+        "stipend": "\u20b9 13,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/devops-internship-in-multiple-locations-at-jungleworks1790253332",
+        "source": "Internshala"
+    },
+    {
+        "id": 9,
+        "title": "Software Development",
+        "company": "Crazy For Success Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/software-development-internship-in-hathras-at-crazy-for-success-foundation1789985313",
+        "source": "Internshala"
+    },
+    {
         "id": 10,
+        "title": "Backend Development",
+        "company": "Hope Behind Tails Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-hope-behind-tails-foundation1790594234",
+        "source": "Internshala"
+    },
+    {
+        "id": 11,
+        "title": "Java Development",
+        "company": "Pledge India Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-pledge-india-foundation1790594360",
+        "source": "Internshala"
+    },
+    {
+        "id": 12,
+        "title": "Python Development",
+        "company": "Hope Behind Tails Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-hope-behind-tails-foundation1790594202",
+        "source": "Internshala"
+    },
+    {
+        "id": 13,
+        "title": "Software Development",
+        "company": "Pledge India Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-part-time-software-development-internship-at-pledge-india-foundation1790596415",
+        "source": "Internshala"
+    },
+    {
+        "id": 14,
+        "title": "Software Development",
+        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-basti-ki-pathshala-foundation1790593968",
+        "source": "Internshala"
+    },
+    {
+        "id": 15,
+        "title": "WordPress & Website Management",
+        "company": "CyberFrat                        \nActively hiring",
+        "stipend": "\u20b9 4,000 - 5,000 /month",
+        "link": "https://internshala.com/internship/detail/wordpress-website-management-internship-in-multiple-locations-at-cyberfrat1790228677",
+        "source": "Internshala"
+    },
+    {
+        "id": 16,
         "title": "WordPress Developer",
         "company": "Zytexa Technology Llp                        \nActively hiring",
         "stipend": "\u20b9 3,000 - 5,000 /month",
@@ -80,15 +128,7 @@
         "source": "Internshala"
     },
     {
-        "id": 11,
-        "title": "Software Testing (Graduates/Postgraduates Only)",
-        "company": "SIRPI Products & Services Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 14,999 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/software-testing-graduates-postgraduates-only-internship-in-bangalore-at-sirpi-products-services-private-limited1789969626",
-        "source": "Internshala"
-    },
-    {
-        "id": 12,
+        "id": 17,
         "title": "AI Automation & Growth Engineer",
         "company": "Suthar Technologies                        \nActively hiring",
         "stipend": "\u20b9 7,000 - 13,000 /month",
@@ -96,27 +136,11 @@
         "source": "Internshala"
     },
     {
-        "id": 13,
+        "id": 18,
         "title": "Problem Setter \u2013 Data Structures & Algorithms",
         "company": "CipherSchools                        \nActively hiring",
         "stipend": "\u20b9 15,000 - 20,000 /month",
         "link": "https://internshala.com/internship/detail/problem-setter--data-structures-algorithms-internship-in-chandigarh-at-cipherschools1790325393",
-        "source": "Internshala"
-    },
-    {
-        "id": 14,
-        "title": "Web Development",
-        "company": "Blaknblu Digital",
-        "stipend": "\u20b9 6,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-nagpur-at-blaknblu-digital1790567195",
-        "source": "Internshala"
-    },
-    {
-        "id": 15,
-        "title": "Network Engineering",
-        "company": "Treya Wireless Private Limited",
-        "stipend": "\u20b9 5,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/network-engineering-internship-in-mumbai-at-treya-wireless-private-limited1790322409",
         "source": "Internshala"
     }
 ]
