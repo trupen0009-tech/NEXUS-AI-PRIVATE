@@ -33,30 +33,6 @@
     },
     {
         "id": 5,
-        "title": "Java Full Stack Developer",
-        "company": "GRADTWIN SERVICES (OPC) PRIVATE LIMITED                        \nActively hiring",
-        "stipend": "\u20b9 3,001 - 7,002 /month",
-        "link": "https://internshala.com/internship/detail/part-time-java-full-stack-developer-internship-in-multiple-locations-at-gradtwin-services-opc-private-limited1790589363",
-        "source": "Internshala"
-    },
-    {
-        "id": 6,
-        "title": "Python Full Stack Developer",
-        "company": "GRADTWIN SERVICES (OPC) PRIVATE LIMITED                        \nActively hiring",
-        "stipend": "\u20b9 3,001 - 7,002 /month",
-        "link": "https://internshala.com/internship/detail/part-time-python-full-stack-developer-internship-in-multiple-locations-at-gradtwin-services-opc-private-limited1790589428",
-        "source": "Internshala"
-    },
-    {
-        "id": 7,
-        "title": "Machine Learning With Python",
-        "company": "GRADTWIN SERVICES (OPC) PRIVATE LIMITED                        \nActively hiring",
-        "stipend": "\u20b9 3,001 - 7,002 /month",
-        "link": "https://internshala.com/internship/detail/part-time-machine-learning-with-python-internship-in-multiple-locations-at-gradtwin-services-opc-private-limited1790589717",
-        "source": "Internshala"
-    },
-    {
-        "id": 8,
         "title": "AWS DevOps Engineer",
         "company": "Jungleworks                        \nActively hiring",
         "stipend": "\u20b9 13,000 - 15,000 /month",
@@ -64,7 +40,7 @@
         "source": "Internshala"
     },
     {
-        "id": 9,
+        "id": 6,
         "title": "Software Development",
         "company": "Crazy For Success Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -72,47 +48,31 @@
         "source": "Internshala"
     },
     {
+        "id": 7,
+        "title": "Java Full Stack Developer",
+        "company": "GRADTWIN SERVICES (OPC) PRIVATE LIMITED                        \nActively hiring",
+        "stipend": "\u20b9 3,001 - 7,002 /month",
+        "link": "https://internshala.com/internship/detail/part-time-java-full-stack-developer-internship-in-multiple-locations-at-gradtwin-services-opc-private-limited1790589363",
+        "source": "Internshala"
+    },
+    {
+        "id": 8,
+        "title": "Python Full Stack Developer",
+        "company": "GRADTWIN SERVICES (OPC) PRIVATE LIMITED                        \nActively hiring",
+        "stipend": "\u20b9 3,001 - 7,002 /month",
+        "link": "https://internshala.com/internship/detail/part-time-python-full-stack-developer-internship-in-multiple-locations-at-gradtwin-services-opc-private-limited1790589428",
+        "source": "Internshala"
+    },
+    {
+        "id": 9,
+        "title": "Machine Learning With Python",
+        "company": "GRADTWIN SERVICES (OPC) PRIVATE LIMITED                        \nActively hiring",
+        "stipend": "\u20b9 3,001 - 7,002 /month",
+        "link": "https://internshala.com/internship/detail/part-time-machine-learning-with-python-internship-in-multiple-locations-at-gradtwin-services-opc-private-limited1790589717",
+        "source": "Internshala"
+    },
+    {
         "id": 10,
-        "title": "Backend Development",
-        "company": "Hope Behind Tails Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-hope-behind-tails-foundation1790594234",
-        "source": "Internshala"
-    },
-    {
-        "id": 11,
-        "title": "Java Development",
-        "company": "Pledge India Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-pledge-india-foundation1790594360",
-        "source": "Internshala"
-    },
-    {
-        "id": 12,
-        "title": "Python Development",
-        "company": "Hope Behind Tails Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-hope-behind-tails-foundation1790594202",
-        "source": "Internshala"
-    },
-    {
-        "id": 13,
-        "title": "Software Development",
-        "company": "Pledge India Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-software-development-internship-at-pledge-india-foundation1790596415",
-        "source": "Internshala"
-    },
-    {
-        "id": 14,
-        "title": "Software Development",
-        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-basti-ki-pathshala-foundation1790593968",
-        "source": "Internshala"
-    },
-    {
-        "id": 15,
         "title": "WordPress & Website Management",
         "company": "CyberFrat                        \nActively hiring",
         "stipend": "\u20b9 4,000 - 5,000 /month",
@@ -120,7 +80,7 @@
         "source": "Internshala"
     },
     {
-        "id": 16,
+        "id": 11,
         "title": "WordPress Developer",
         "company": "Zytexa Technology Llp                        \nActively hiring",
         "stipend": "\u20b9 3,000 - 5,000 /month",
@@ -128,19 +88,43 @@
         "source": "Internshala"
     },
     {
-        "id": 17,
+        "id": 12,
+        "title": "Java Development",
+        "company": "Pledge India Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-pledge-india-foundation1790594360",
+        "source": "Internshala"
+    },
+    {
+        "id": 13,
+        "title": "Backend Development",
+        "company": "Hope Behind Tails Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-hope-behind-tails-foundation1790594234",
+        "source": "Internshala"
+    },
+    {
+        "id": 14,
+        "title": "Python Development",
+        "company": "Hope Behind Tails Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-hope-behind-tails-foundation1790594202",
+        "source": "Internshala"
+    },
+    {
+        "id": 15,
+        "title": "Software Development",
+        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-basti-ki-pathshala-foundation1790593968",
+        "source": "Internshala"
+    },
+    {
+        "id": 16,
         "title": "AI Automation & Growth Engineer",
         "company": "Suthar Technologies                        \nActively hiring",
         "stipend": "\u20b9 7,000 - 13,000 /month",
         "link": "https://internshala.com/internship/detail/ai-automation-growth-engineer-internship-in-multiple-locations-at-suthar-technologies1789102405",
-        "source": "Internshala"
-    },
-    {
-        "id": 18,
-        "title": "Problem Setter \u2013 Data Structures & Algorithms",
-        "company": "CipherSchools                        \nActively hiring",
-        "stipend": "\u20b9 15,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/problem-setter--data-structures-algorithms-internship-in-chandigarh-at-cipherschools1790325393",
         "source": "Internshala"
     }
 ]
