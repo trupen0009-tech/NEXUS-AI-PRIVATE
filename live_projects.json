@@ -1,18 +1,18 @@
 [
     {
         "id": 1,
-        "title": "Reinforcement Learning & Data Science",
-        "company": "Arakoo                        \nActively hiring",
-        "stipend": "\u20b9 35,000 - 40,000 /month",
-        "link": "https://internshala.com/internship/detail/reinforcement-learning-data-science-internship-in-multiple-locations-at-arakoo1790829998",
+        "title": "Web Development",
+        "company": "Neotechking Global Solutions Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 2,000 - 3,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-pune-at-neotechking-global-solutions-private-limited1790677840",
         "source": "Internshala"
     },
     {
         "id": 2,
-        "title": "Python Development",
-        "company": "Nineti GmbH (Stuttgart, Germany)                        \nActively hiring",
-        "stipend": "\u20b9 12,500 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-nineti-gmbh1790880608",
+        "title": "AI Web Development",
+        "company": "InAmigos Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1790849466",
         "source": "Internshala"
     },
     {
@@ -25,14 +25,6 @@
     },
     {
         "id": 4,
-        "title": "AI Web Development",
-        "company": "InAmigos Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1790849466",
-        "source": "Internshala"
-    },
-    {
-        "id": 5,
         "title": "Software Development",
         "company": "TEN                        \nActively hiring",
         "stipend": "\u20b9 2,000 /month",
@@ -40,7 +32,7 @@
         "source": "Internshala"
     },
     {
-        "id": 6,
+        "id": 5,
         "title": "Software Development",
         "company": "Salesforce                        \nActively hiring",
         "stipend": "\u20b9 1,00,000 - 1,50,000 /month",
@@ -48,19 +40,27 @@
         "source": "Internshala"
     },
     {
-        "id": 7,
-        "title": "Web Development",
-        "company": "Neotechking Global Solutions Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 2,000 - 3,000 /month",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-pune-at-neotechking-global-solutions-private-limited1790677840",
+        "id": 6,
+        "title": "Reinforcement Learning & Data Science",
+        "company": "Arakoo                        \nActively hiring",
+        "stipend": "\u20b9 35,000 - 40,000 /month",
+        "link": "https://internshala.com/internship/detail/reinforcement-learning-data-science-internship-in-multiple-locations-at-arakoo1790829998",
         "source": "Internshala"
     },
     {
-        "id": 8,
+        "id": 7,
         "title": "Software Development",
         "company": "Crazy For Success Foundation                        \nActively hiring",
         "stipend": "Unpaid",
         "link": "https://internshala.com/internship/detail/software-development-internship-in-hathras-at-crazy-for-success-foundation1789985313",
+        "source": "Internshala"
+    },
+    {
+        "id": 8,
+        "title": "AWS DevOps Engineer",
+        "company": "Jungleworks                        \nActively hiring",
+        "stipend": "\u20b9 13,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/devops-internship-in-multiple-locations-at-jungleworks1790253332",
         "source": "Internshala"
     },
     {
@@ -73,18 +73,18 @@
     },
     {
         "id": 10,
-        "title": "AWS DevOps Engineer",
-        "company": "Jungleworks                        \nActively hiring",
-        "stipend": "\u20b9 13,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/devops-internship-in-multiple-locations-at-jungleworks1790253332",
+        "title": "WordPress Developer",
+        "company": "Zytexa Technology Llp                        \nActively hiring",
+        "stipend": "\u20b9 3,000 - 5,000 /month",
+        "link": "https://internshala.com/internship/detail/wordpress-developer-internship-in-jaipur-at-zytexa-technology-llp1789821931",
         "source": "Internshala"
     },
     {
         "id": 11,
-        "title": "Website Content & SEO",
-        "company": "Anuj Punj                        \nActively hiring",
-        "stipend": "\u20b9 3,000 - 5,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-website-content-seo-internship-at-anuj-punj1790859140",
+        "title": "WordPress & Website Management",
+        "company": "CyberFrat                        \nActively hiring",
+        "stipend": "\u20b9 4,000 - 5,000 /month",
+        "link": "https://internshala.com/internship/detail/wordpress-website-management-internship-in-multiple-locations-at-cyberfrat1790228677",
         "source": "Internshala"
     },
     {
@@ -97,38 +97,6 @@
     },
     {
         "id": 13,
-        "title": "WordPress Developer",
-        "company": "Zytexa Technology Llp                        \nActively hiring",
-        "stipend": "\u20b9 3,000 - 5,000 /month",
-        "link": "https://internshala.com/internship/detail/wordpress-developer-internship-in-jaipur-at-zytexa-technology-llp1789821931",
-        "source": "Internshala"
-    },
-    {
-        "id": 14,
-        "title": "Python Development",
-        "company": "NayePankh Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-nayepankh-foundation1790855234",
-        "source": "Internshala"
-    },
-    {
-        "id": 15,
-        "title": "Python Development",
-        "company": "Queens Of Change Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-queens-of-change-foundation1790855409",
-        "source": "Internshala"
-    },
-    {
-        "id": 16,
-        "title": "WordPress & Website Management",
-        "company": "CyberFrat                        \nActively hiring",
-        "stipend": "\u20b9 4,000 - 5,000 /month",
-        "link": "https://internshala.com/internship/detail/wordpress-website-management-internship-in-multiple-locations-at-cyberfrat1790228677",
-        "source": "Internshala"
-    },
-    {
-        "id": 17,
         "title": "AI Automation & Growth Engineer",
         "company": "Suthar Technologies                        \nActively hiring",
         "stipend": "\u20b9 7,000 - 13,000 /month",
@@ -136,11 +104,11 @@
         "source": "Internshala"
     },
     {
-        "id": 18,
-        "title": "Application Developer",
-        "company": "Wedding Affair",
-        "stipend": "\u20b9 10,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/application-developer-internship-in-multiple-locations-at-wedding-affair1790904798",
+        "id": 14,
+        "title": "Web Development",
+        "company": "META NEX SOLUTIONS",
+        "stipend": "\u20b9 2,500 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-multiple-locations-at-meta-nex-solutions1790853386",
         "source": "Internshala"
     }
 ]
