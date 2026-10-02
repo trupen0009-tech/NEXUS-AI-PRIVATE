@@ -9,10 +9,10 @@
     },
     {
         "id": 2,
-        "title": "AI Web Development",
-        "company": "InAmigos Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1790849466",
+        "title": "Python Development",
+        "company": "Nineti GmbH (Stuttgart, Germany)                        \nActively hiring",
+        "stipend": "\u20b9 12,500 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-nineti-gmbh1790880608",
         "source": "Internshala"
     },
     {
@@ -25,10 +25,10 @@
     },
     {
         "id": 4,
-        "title": "Java Development",
-        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
+        "title": "AI Web Development",
+        "company": "InAmigos Foundation                        \nActively hiring",
         "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-basti-ki-pathshala-foundation1790682829",
+        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1790849466",
         "source": "Internshala"
     },
     {
@@ -49,14 +49,6 @@
     },
     {
         "id": 7,
-        "title": "AI Developer",
-        "company": "Brandshark                        \nActively hiring",
-        "stipend": "\u20b9 10,000 /month",
-        "link": "https://internshala.com/internship/detail/ai-developer-internship-in-bangalore-at-brandshark1790856146",
-        "source": "Internshala"
-    },
-    {
-        "id": 8,
         "title": "Web Development",
         "company": "Neotechking Global Solutions Private Limited                        \nActively hiring",
         "stipend": "\u20b9 2,000 - 3,000 /month",
@@ -64,39 +56,7 @@
         "source": "Internshala"
     },
     {
-        "id": 9,
-        "title": "AI Prompt Engineering",
-        "company": "InAmigos Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-ai-prompt-engineering-internship-at-inamigos-foundation1790859844",
-        "source": "Internshala"
-    },
-    {
-        "id": 10,
-        "title": "API Developer",
-        "company": "JP IT STAFFING LLC                        \nActively hiring",
-        "stipend": "\u20b9 2,000 - 6,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-api-developer-internship-at-jp-it-staffing-llc1790856091",
-        "source": "Internshala"
-    },
-    {
-        "id": 11,
-        "title": "Python Development",
-        "company": "NayePankh Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-nayepankh-foundation1790855234",
-        "source": "Internshala"
-    },
-    {
-        "id": 12,
-        "title": "Python Development",
-        "company": "Queens Of Change Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-queens-of-change-foundation1790855409",
-        "source": "Internshala"
-    },
-    {
-        "id": 13,
+        "id": 8,
         "title": "Software Development",
         "company": "Crazy For Success Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -104,7 +64,7 @@
         "source": "Internshala"
     },
     {
-        "id": 14,
+        "id": 9,
         "title": "Backend Development",
         "company": "Gateway Software Solutions                        \nActively hiring",
         "stipend": "\u20b9 6,500 - 12,500 /month",
@@ -112,7 +72,7 @@
         "source": "Internshala"
     },
     {
-        "id": 15,
+        "id": 10,
         "title": "AWS DevOps Engineer",
         "company": "Jungleworks                        \nActively hiring",
         "stipend": "\u20b9 13,000 - 15,000 /month",
@@ -120,7 +80,23 @@
         "source": "Internshala"
     },
     {
-        "id": 16,
+        "id": 11,
+        "title": "Website Content & SEO",
+        "company": "Anuj Punj                        \nActively hiring",
+        "stipend": "\u20b9 3,000 - 5,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-part-time-website-content-seo-internship-at-anuj-punj1790859140",
+        "source": "Internshala"
+    },
+    {
+        "id": 12,
+        "title": "AI Prompt Engineering",
+        "company": "InAmigos Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-ai-prompt-engineering-internship-at-inamigos-foundation1790859844",
+        "source": "Internshala"
+    },
+    {
+        "id": 13,
         "title": "WordPress Developer",
         "company": "Zytexa Technology Llp                        \nActively hiring",
         "stipend": "\u20b9 3,000 - 5,000 /month",
@@ -128,7 +104,23 @@
         "source": "Internshala"
     },
     {
-        "id": 17,
+        "id": 14,
+        "title": "Python Development",
+        "company": "NayePankh Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-nayepankh-foundation1790855234",
+        "source": "Internshala"
+    },
+    {
+        "id": 15,
+        "title": "Python Development",
+        "company": "Queens Of Change Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-queens-of-change-foundation1790855409",
+        "source": "Internshala"
+    },
+    {
+        "id": 16,
         "title": "WordPress & Website Management",
         "company": "CyberFrat                        \nActively hiring",
         "stipend": "\u20b9 4,000 - 5,000 /month",
@@ -136,11 +128,19 @@
         "source": "Internshala"
     },
     {
-        "id": 18,
+        "id": 17,
         "title": "AI Automation & Growth Engineer",
         "company": "Suthar Technologies                        \nActively hiring",
         "stipend": "\u20b9 7,000 - 13,000 /month",
         "link": "https://internshala.com/internship/detail/ai-automation-growth-engineer-internship-in-multiple-locations-at-suthar-technologies1789102405",
+        "source": "Internshala"
+    },
+    {
+        "id": 18,
+        "title": "Application Developer",
+        "company": "Wedding Affair",
+        "stipend": "\u20b9 10,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/application-developer-internship-in-multiple-locations-at-wedding-affair1790904798",
         "source": "Internshala"
     }
 ]
