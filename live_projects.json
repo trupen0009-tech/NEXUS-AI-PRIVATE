@@ -1,22 +1,6 @@
 [
     {
         "id": 1,
-        "title": "International Business Development Manager \u2013 App & Software Services",
-        "company": "Umakula Engineers Builders And Developers Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 10,000 - 15,000 /month",
-        "link": "https://internshala.com/internship/detail/international-business-development-manager--app-software-services-internship-in-bangalore-at-umakula-engineers-builders-and-developers-private-limited1791261192",
-        "source": "Internshala"
-    },
-    {
-        "id": 2,
-        "title": "AI Web Development",
-        "company": "InAmigos Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1791196530",
-        "source": "Internshala"
-    },
-    {
-        "id": 3,
         "title": "Software Development",
         "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -24,11 +8,27 @@
         "source": "Internshala"
     },
     {
-        "id": 4,
-        "title": "Python Development",
-        "company": "She Can Foundation                        \nActively hiring",
+        "id": 2,
+        "title": "WordPress & Website Management",
+        "company": "CyberFrat                        \nActively hiring",
+        "stipend": "\u20b9 4,000 - 5,000 /month",
+        "link": "https://internshala.com/internship/detail/wordpress-website-management-internship-in-multiple-locations-at-cyberfrat1790228677",
+        "source": "Internshala"
+    },
+    {
+        "id": 3,
+        "title": "AI Prompt Engineering",
+        "company": "InAmigos Foundation                        \nActively hiring",
         "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-she-can-foundation1790859105",
+        "link": "https://internshala.com/internship/detail/work-from-home-ai-prompt-engineering-internship-at-inamigos-foundation1791281194",
+        "source": "Internshala"
+    },
+    {
+        "id": 4,
+        "title": "AI Web Development",
+        "company": "InAmigos Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1791196530",
         "source": "Internshala"
     },
     {
@@ -49,22 +49,46 @@
     },
     {
         "id": 7,
-        "title": "Full Stack AI Engineer \u2014 AI Agents",
-        "company": "The Affordable Organic Store                        \nActively hiring",
-        "stipend": "\u20b9 15,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/full-stack-ai-engineer--ai-agents-internship-in-multiple-locations-at-the-affordable-organic-store1791181703",
+        "title": "Software Testing",
+        "company": "Assetcues Solutions Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/software-testing-internship-in-pune-at-assetcues-solutions-private-limited1791280388",
         "source": "Internshala"
     },
     {
         "id": 8,
-        "title": "MERN Stack Developer",
-        "company": "SellerGrid                        \nActively hiring",
-        "stipend": "\u20b9 5,000 /month",
-        "link": "https://internshala.com/internship/detail/mern-stack-developer-internship-in-bangalore-at-sellergrid1791218486",
+        "title": "International Business Development Manager \u2013 App & Software Services",
+        "company": "Umakula Engineers Builders And Developers Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/international-business-development-manager--app-software-services-internship-in-bangalore-at-umakula-engineers-builders-and-developers-private-limited1791261192",
         "source": "Internshala"
     },
     {
         "id": 9,
+        "title": "Java Development",
+        "company": "Agile Vortex Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 4,000 - 6,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-agile-vortex-private-limited1791302158",
+        "source": "Internshala"
+    },
+    {
+        "id": 10,
+        "title": "Python Development",
+        "company": "NayePankh Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-nayepankh-foundation1791289213",
+        "source": "Internshala"
+    },
+    {
+        "id": 11,
+        "title": "Backend Development",
+        "company": "NayePankh Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-nayepankh-foundation1791289121",
+        "source": "Internshala"
+    },
+    {
+        "id": 12,
         "title": "Software Development",
         "company": "Crazy For Success Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -72,7 +96,7 @@
         "source": "Internshala"
     },
     {
-        "id": 10,
+        "id": 13,
         "title": "AWS DevOps Engineer",
         "company": "Jungleworks                        \nActively hiring",
         "stipend": "\u20b9 13,000 - 15,000 /month",
@@ -80,15 +104,7 @@
         "source": "Internshala"
     },
     {
-        "id": 11,
-        "title": "WordPress & Website Management",
-        "company": "CyberFrat                        \nActively hiring",
-        "stipend": "\u20b9 4,000 - 5,000 /month",
-        "link": "https://internshala.com/internship/detail/wordpress-website-management-internship-in-multiple-locations-at-cyberfrat1790228677",
-        "source": "Internshala"
-    },
-    {
-        "id": 12,
+        "id": 14,
         "title": "AI Automation & Growth Engineer",
         "company": "Suthar Technologies                        \nActively hiring",
         "stipend": "\u20b9 7,000 - 13,000 /month",
@@ -96,35 +112,43 @@
         "source": "Internshala"
     },
     {
-        "id": 13,
-        "title": "WordPress And Shopify Developer",
-        "company": "White Warbler Communications Private Limited",
-        "stipend": "\u20b9 5,000 - 8,000 /month",
-        "link": "https://internshala.com/internship/detail/wordpress-and-shopify-developer-internship-in-pune-at-white-warbler-communications-private-limited1791257050",
-        "source": "Internshala"
-    },
-    {
-        "id": 14,
-        "title": "Web Development",
-        "company": "Pragyan Technologies Private Limited",
-        "stipend": "\u20b9 5,000 /month",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-noida-at-pragyan-technologies-private-limited1791251767",
-        "source": "Internshala"
-    },
-    {
         "id": 15,
-        "title": "QC Engineer",
-        "company": "Spectrum Cable-Tech",
-        "stipend": "\u20b9 15,000 - 22,000 /month",
-        "link": "https://internshala.com/internship/detail/qc-engineer-internship-in-sanand-at-spectrum-cable-tech1791189815",
+        "title": "Software Testing",
+        "company": "Apni Pathshala",
+        "stipend": "\u20b9 7,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/software-testing-internship-in-vasai-virar-at-apni-pathshala1791291359",
         "source": "Internshala"
     },
     {
         "id": 16,
         "title": "Web Development",
-        "company": "META NEX SOLUTIONS",
-        "stipend": "\u20b9 2,500 /month",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-multiple-locations-at-meta-nex-solutions1790853386",
+        "company": "Koverify",
+        "stipend": "\u20b9 9,000 - 10,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-mumbai-at-koverify1791289904",
+        "source": "Internshala"
+    },
+    {
+        "id": 17,
+        "title": "Software Development",
+        "company": "CORONA CARD TECHNOLOGY PRIVATE LIMITED",
+        "stipend": "\u20b9 5,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/software-development-internship-in-mumbai-at-corona-card-technology-private-limited1791287304",
+        "source": "Internshala"
+    },
+    {
+        "id": 18,
+        "title": "Web Development",
+        "company": "Medialoop Tech Solution Private Limited",
+        "stipend": "\u20b9 5,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-surat-at-medialoop-tech-solution-private-limited1791278952",
+        "source": "Internshala"
+    },
+    {
+        "id": 19,
+        "title": "WordPress And Shopify Developer",
+        "company": "White Warbler Communications Private Limited",
+        "stipend": "\u20b9 5,000 - 8,000 /month",
+        "link": "https://internshala.com/internship/detail/wordpress-and-shopify-developer-internship-in-pune-at-white-warbler-communications-private-limited1791257050",
         "source": "Internshala"
     }
 ]
