@@ -1,22 +1,14 @@
 [
     {
         "id": 1,
-        "title": "Full Stack AI Engineer \u2014 AI Agents",
-        "company": "The Affordable Organic Store                        \nActively hiring",
-        "stipend": "\u20b9 15,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/full-stack-ai-engineer--ai-agents-internship-in-multiple-locations-at-the-affordable-organic-store1791181703",
+        "title": "International Business Development Manager \u2013 App & Software Services",
+        "company": "Umakula Engineers Builders And Developers Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/international-business-development-manager--app-software-services-internship-in-bangalore-at-umakula-engineers-builders-and-developers-private-limited1791261192",
         "source": "Internshala"
     },
     {
         "id": 2,
-        "title": "Python Development",
-        "company": "She Can Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-she-can-foundation1790859105",
-        "source": "Internshala"
-    },
-    {
-        "id": 3,
         "title": "AI Web Development",
         "company": "InAmigos Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -24,11 +16,19 @@
         "source": "Internshala"
     },
     {
-        "id": 4,
+        "id": 3,
         "title": "Software Development",
         "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
         "stipend": "Unpaid",
         "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-basti-ki-pathshala-foundation1791203265",
+        "source": "Internshala"
+    },
+    {
+        "id": 4,
+        "title": "Python Development",
+        "company": "She Can Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-she-can-foundation1790859105",
         "source": "Internshala"
     },
     {
@@ -49,18 +49,18 @@
     },
     {
         "id": 7,
-        "title": "MERN Stack Developer",
-        "company": "SellerGrid                        \nActively hiring",
-        "stipend": "\u20b9 5,000 /month",
-        "link": "https://internshala.com/internship/detail/mern-stack-developer-internship-in-bangalore-at-sellergrid1791218486",
+        "title": "Full Stack AI Engineer \u2014 AI Agents",
+        "company": "The Affordable Organic Store                        \nActively hiring",
+        "stipend": "\u20b9 15,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/full-stack-ai-engineer--ai-agents-internship-in-multiple-locations-at-the-affordable-organic-store1791181703",
         "source": "Internshala"
     },
     {
         "id": 8,
-        "title": "Software Development \u2013 Full Stack & Mobile",
-        "company": "Astrorize                        \nActively hiring",
-        "stipend": "\u20b9 18,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/software-development--full-stack-mobile-internship-in-bangalore-at-astrorize1791196156",
+        "title": "MERN Stack Developer",
+        "company": "SellerGrid                        \nActively hiring",
+        "stipend": "\u20b9 5,000 /month",
+        "link": "https://internshala.com/internship/detail/mern-stack-developer-internship-in-bangalore-at-sellergrid1791218486",
         "source": "Internshala"
     },
     {
@@ -73,14 +73,6 @@
     },
     {
         "id": 10,
-        "title": "Java Development",
-        "company": "NayePankh Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-nayepankh-foundation1791202111",
-        "source": "Internshala"
-    },
-    {
-        "id": 11,
         "title": "AWS DevOps Engineer",
         "company": "Jungleworks                        \nActively hiring",
         "stipend": "\u20b9 13,000 - 15,000 /month",
@@ -88,7 +80,7 @@
         "source": "Internshala"
     },
     {
-        "id": 12,
+        "id": 11,
         "title": "WordPress & Website Management",
         "company": "CyberFrat                        \nActively hiring",
         "stipend": "\u20b9 4,000 - 5,000 /month",
@@ -96,7 +88,7 @@
         "source": "Internshala"
     },
     {
-        "id": 13,
+        "id": 12,
         "title": "AI Automation & Growth Engineer",
         "company": "Suthar Technologies                        \nActively hiring",
         "stipend": "\u20b9 7,000 - 13,000 /month",
@@ -104,11 +96,19 @@
         "source": "Internshala"
     },
     {
+        "id": 13,
+        "title": "WordPress And Shopify Developer",
+        "company": "White Warbler Communications Private Limited",
+        "stipend": "\u20b9 5,000 - 8,000 /month",
+        "link": "https://internshala.com/internship/detail/wordpress-and-shopify-developer-internship-in-pune-at-white-warbler-communications-private-limited1791257050",
+        "source": "Internshala"
+    },
+    {
         "id": 14,
-        "title": "Reinforcement Learning & Data Science",
-        "company": "Arakoo                        \nActively hiring",
-        "stipend": "\u20b9 35,000 - 40,000 /month",
-        "link": "https://internshala.com/internship/detail/reinforcement-learning-data-science-internship-in-multiple-locations-at-arakoo1790829998",
+        "title": "Web Development",
+        "company": "Pragyan Technologies Private Limited",
+        "stipend": "\u20b9 5,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-noida-at-pragyan-technologies-private-limited1791251767",
         "source": "Internshala"
     },
     {
