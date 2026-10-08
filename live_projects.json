@@ -1,30 +1,14 @@
 [
     {
         "id": 1,
-        "title": "WordPress & Website Management",
-        "company": "CyberFrat                        \nActively hiring",
-        "stipend": "\u20b9 4,000 - 5,000 /month",
-        "link": "https://internshala.com/internship/detail/wordpress-website-management-internship-in-multiple-locations-at-cyberfrat1790228677",
+        "title": "AI Web Development",
+        "company": "InAmigos Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1791454343",
         "source": "Internshala"
     },
     {
         "id": 2,
-        "title": "AI Prompt Engineering",
-        "company": "InAmigos Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-ai-prompt-engineering-internship-at-inamigos-foundation1791281194",
-        "source": "Internshala"
-    },
-    {
-        "id": 3,
-        "title": "Web Development",
-        "company": "She Can Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-web-development-internship-at-she-can-foundation1791376868",
-        "source": "Internshala"
-    },
-    {
-        "id": 4,
         "title": "Software Development",
         "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -32,15 +16,39 @@
         "source": "Internshala"
     },
     {
-        "id": 5,
-        "title": "AI Web Development",
+        "id": 3,
+        "title": "AI Prompt Engineering",
         "company": "InAmigos Foundation                        \nActively hiring",
         "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1791196530",
+        "link": "https://internshala.com/internship/detail/work-from-home-ai-prompt-engineering-internship-at-inamigos-foundation1791281194",
+        "source": "Internshala"
+    },
+    {
+        "id": 4,
+        "title": "WordPress & Website Management",
+        "company": "CyberFrat                        \nActively hiring",
+        "stipend": "\u20b9 4,000 - 5,000 /month",
+        "link": "https://internshala.com/internship/detail/wordpress-website-management-internship-in-multiple-locations-at-cyberfrat1790228677",
+        "source": "Internshala"
+    },
+    {
+        "id": 5,
+        "title": "Web Development",
+        "company": "She Can Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-part-time-web-development-internship-at-she-can-foundation1791376868",
         "source": "Internshala"
     },
     {
         "id": 6,
+        "title": "Python Development",
+        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-part-time-python-development-internship-at-basti-ki-pathshala-foundation1791463291",
+        "source": "Internshala"
+    },
+    {
+        "id": 7,
         "title": "Software Development",
         "company": "TEN                        \nActively hiring",
         "stipend": "\u20b9 2,000 /month",
@@ -48,7 +56,7 @@
         "source": "Internshala"
     },
     {
-        "id": 7,
+        "id": 8,
         "title": "Software Development",
         "company": "Salesforce                        \nActively hiring",
         "stipend": "\u20b9 1,00,000 - 1,50,000 /month",
@@ -56,19 +64,11 @@
         "source": "Internshala"
     },
     {
-        "id": 8,
-        "title": "Web Development",
-        "company": "Big Fat Husky Media                        \nActively hiring",
-        "stipend": "\u20b9 9,000 - 16,000 /month",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-mumbai-at-big-fat-husky-media1791349576",
-        "source": "Internshala"
-    },
-    {
         "id": 9,
-        "title": "Web Development",
-        "company": "JNA Consultants                        \nActively hiring",
-        "stipend": "\u20b9 5,000 - 5,001 /month",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-gurgaon-at-jna-consultants1791356534",
+        "title": "Backend Web Development  \u2013 Night Shift (US Live Projects)",
+        "company": "Kweesha                        \nActively hiring",
+        "stipend": "\u20b9 7,500 - 18,000 /month",
+        "link": "https://internshala.com/internship/detail/backend-web-development--night-shift-us-live-projects-internship-in-lucknow-at-kweesha1791433435",
         "source": "Internshala"
     },
     {
@@ -81,6 +81,14 @@
     },
     {
         "id": 11,
+        "title": "SAP DEVELOPER",
+        "company": "Raven Infotech                        \nActively hiring",
+        "stipend": "\u20b9 1,000 - 2,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-sap-developer-internship-at-raven-infotech1791463503",
+        "source": "Internshala"
+    },
+    {
+        "id": 12,
         "title": "International Business Development Manager \u2013 App & Software Services",
         "company": "Umakula Engineers Builders And Developers Private Limited                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 15,000 /month",
@@ -88,7 +96,7 @@
         "source": "Internshala"
     },
     {
-        "id": 12,
+        "id": 13,
         "title": "Software Development",
         "company": "Crazy For Success Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -96,7 +104,7 @@
         "source": "Internshala"
     },
     {
-        "id": 13,
+        "id": 14,
         "title": "AWS DevOps Engineer",
         "company": "Jungleworks                        \nActively hiring",
         "stipend": "\u20b9 13,000 - 15,000 /month",
@@ -104,7 +112,7 @@
         "source": "Internshala"
     },
     {
-        "id": 14,
+        "id": 15,
         "title": "AI Automation & Growth Engineer",
         "company": "Suthar Technologies                        \nActively hiring",
         "stipend": "\u20b9 7,000 - 13,000 /month",
@@ -112,7 +120,15 @@
         "source": "Internshala"
     },
     {
-        "id": 15,
+        "id": 16,
+        "title": "Software Development Engineering (Web)",
+        "company": "IELTS Band 7",
+        "stipend": "\u20b9 5,000 - 10,000 /month",
+        "link": "https://internshala.com/internship/detail/software-development-engineering-web-internship-in-dehradun-at-ielts-band-71791441432",
+        "source": "Internshala"
+    },
+    {
+        "id": 17,
         "title": "Software Development & Web Operations",
         "company": "Innovination",
         "stipend": "\u20b9 3,000 - 4,000 /month",
@@ -120,7 +136,7 @@
         "source": "Internshala"
     },
     {
-        "id": 16,
+        "id": 18,
         "title": "Web Development",
         "company": "New Pizza Planet",
         "stipend": "\u20b9 4,000 - 10,000 /month",
@@ -128,7 +144,7 @@
         "source": "Internshala"
     },
     {
-        "id": 17,
+        "id": 19,
         "title": "Web Development",
         "company": "Reach Skyline",
         "stipend": "\u20b9 3,000 - 12,500 /month",
