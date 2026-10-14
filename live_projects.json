@@ -1,10 +1,10 @@
 [
     {
         "id": 1,
-        "title": "Python Algo Trading Cum Equity Research Analyst \u2013 Fresher",
-        "company": "TG Levels Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 5,000 - 8,000 /month",
-        "link": "https://internshala.com/internship/detail/python-algo-trading-cum-equity-research-analyst--fresher-internship-in-navi-mumbai-at-tg-levels-private-limited1791894718",
+        "title": "Software Development",
+        "company": "Mple AI                        \nActively hiring",
+        "stipend": "\u20b9 5,000 - 10,000 /month",
+        "link": "https://internshala.com/internship/detail/software-development-internship-in-mumbai-at-mple-ai1791977483",
         "source": "Internshala"
     },
     {
@@ -20,27 +20,11 @@
         "title": "AI Web Development",
         "company": "InAmigos Foundation                        \nActively hiring",
         "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1791799326",
+        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1791972175",
         "source": "Internshala"
     },
     {
         "id": 4,
-        "title": "AI Prompt Engineering",
-        "company": "InAmigos Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-ai-prompt-engineering-internship-at-inamigos-foundation1791878336",
-        "source": "Internshala"
-    },
-    {
-        "id": 5,
-        "title": "AI Web Development",
-        "company": "She Can Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-she-can-foundation1791633004",
-        "source": "Internshala"
-    },
-    {
-        "id": 6,
         "title": "Software Development",
         "company": "TEN                        \nActively hiring",
         "stipend": "\u20b9 2,000 /month",
@@ -48,7 +32,7 @@
         "source": "Internshala"
     },
     {
-        "id": 7,
+        "id": 5,
         "title": "Software Development",
         "company": "Salesforce                        \nActively hiring",
         "stipend": "\u20b9 1,00,000 - 1,50,000 /month",
@@ -56,7 +40,7 @@
         "source": "Internshala"
     },
     {
-        "id": 8,
+        "id": 6,
         "title": "MERN Stack Web Developer",
         "company": "Requin Solutions Private Limited                        \nActively hiring",
         "stipend": "\u20b9 10,000 /month",
@@ -64,7 +48,15 @@
         "source": "Internshala"
     },
     {
-        "id": 9,
+        "id": 7,
+        "title": "Python Algo Trading Cum Equity Research Analyst \u2013 Fresher",
+        "company": "TG Levels Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 5,000 - 8,000 /month",
+        "link": "https://internshala.com/internship/detail/python-algo-trading-cum-equity-research-analyst--fresher-internship-in-navi-mumbai-at-tg-levels-private-limited1791894718",
+        "source": "Internshala"
+    },
+    {
+        "id": 8,
         "title": "Quality Assurance Engineer",
         "company": "Apport Software Solutions Private Limited                        \nActively hiring",
         "stipend": "\u20b9 7,000 - 10,000 /month",
@@ -72,23 +64,15 @@
         "source": "Internshala"
     },
     {
+        "id": 9,
+        "title": "Web & IT Developer",
+        "company": "HUMMING HERBS PRIVATE LIMITED                        \nActively hiring",
+        "stipend": "\u20b9 8,000 - 12,000 /month",
+        "link": "https://internshala.com/internship/detail/web-it-developer-internship-in-mohali-at-humming-herbs-private-limited1791964282",
+        "source": "Internshala"
+    },
+    {
         "id": 10,
-        "title": "Pre-Sales & Proposal Engineer (IoT/Electronics)",
-        "company": "UNIO Labs                        \nActively hiring",
-        "stipend": "\u20b9 8,000 - 18,000 /month",
-        "link": "https://internshala.com/internship/detail/pre-sales-proposal-engineer-iot-electronics-internship-in-hyderabad-at-unio-labs1791894829",
-        "source": "Internshala"
-    },
-    {
-        "id": 11,
-        "title": "Coding Instructor | Mentor | Data Structures & Algorithms",
-        "company": "CipherSchools                        \nActively hiring",
-        "stipend": "\u20b9 60,000 - 80,000 /month",
-        "link": "https://internshala.com/internship/detail/coding-instructor--mentor--data-structures-algorithms-internship-in-multiple-locations-at-cipherschools1791881221",
-        "source": "Internshala"
-    },
-    {
-        "id": 12,
         "title": "Backend Web Development  \u2013 Night Shift (US Live Projects)",
         "company": "Kweesha                        \nActively hiring",
         "stipend": "\u20b9 7,500 - 18,000 /month",
@@ -96,15 +80,23 @@
         "source": "Internshala"
     },
     {
-        "id": 13,
-        "title": "Unity Game Developer",
-        "company": "KIDLOLAND KIDS & TODDLER GAMES PRIVATE LIMITED                        \nActively hiring",
-        "stipend": "\u20b9 8,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-unity-game-developer-internship-at-kidloland-kids-toddler-games-private-limited1791873598",
+        "id": 11,
+        "title": "Pre-Sales & Proposal Engineer (IoT/Electronics)",
+        "company": "UNIO Labs                        \nActively hiring",
+        "stipend": "\u20b9 8,000 - 18,000 /month",
+        "link": "https://internshala.com/internship/detail/pre-sales-proposal-engineer-iot-electronics-internship-in-hyderabad-at-unio-labs1791894829",
         "source": "Internshala"
     },
     {
-        "id": 14,
+        "id": 12,
+        "title": "Coding Instructor | Mentor | Data Structures & Algorithms",
+        "company": "CipherSchools                        \nActively hiring",
+        "stipend": "\u20b9 60,000 - 80,000 /month",
+        "link": "https://internshala.com/internship/detail/coding-instructor--mentor--data-structures-algorithms-internship-in-multiple-locations-at-cipherschools1791881221",
+        "source": "Internshala"
+    },
+    {
+        "id": 13,
         "title": "Software Development",
         "company": "Crazy For Success Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -112,11 +104,19 @@
         "source": "Internshala"
     },
     {
-        "id": 15,
+        "id": 14,
         "title": "International Business Development Manager \u2013 App & Software Services",
         "company": "Umakula Engineers Builders And Developers Private Limited                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 15,000 /month",
         "link": "https://internshala.com/internship/detail/international-business-development-manager--app-software-services-internship-in-bangalore-at-umakula-engineers-builders-and-developers-private-limited1791261192",
+        "source": "Internshala"
+    },
+    {
+        "id": 15,
+        "title": "Unity Game Developer",
+        "company": "KIDLOLAND KIDS & TODDLER GAMES PRIVATE LIMITED                        \nActively hiring",
+        "stipend": "\u20b9 8,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-unity-game-developer-internship-at-kidloland-kids-toddler-games-private-limited1791873598",
         "source": "Internshala"
     },
     {
@@ -129,42 +129,18 @@
     },
     {
         "id": 17,
-        "title": "Hardware and Network Engineer",
-        "company": "Hare Krishna Infotech",
-        "stipend": "\u20b9 7,000 - 12,000 /month",
-        "link": "https://internshala.com/internship/detail/hardware-and-network-engineer-internship-in-mumbai-at-hare-krishna-infotech1791894683",
+        "title": "Web Development",
+        "company": "Exposure Immigration Private Limited",
+        "stipend": "\u20b9 7,000 - 11,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-delhi-at-exposure-immigration-private-limited1791977811",
         "source": "Internshala"
     },
     {
         "id": 18,
-        "title": "Software Testing",
-        "company": "Resolution Bazaar",
-        "stipend": "\u20b9 3,000 - 5,000 /month",
-        "link": "https://internshala.com/internship/detail/software-testing-internship-in-chandigarh-at-resolution-bazaar1791880356",
-        "source": "Internshala"
-    },
-    {
-        "id": 19,
-        "title": "Aeronautical Data Engineer",
-        "company": "IFOA",
-        "stipend": "\u20b9 20,000 - 35,000 /month",
-        "link": "https://internshala.com/internship/detail/aeronautical-data-engineer-internship-in-delhi-at-ifoa1791877853",
-        "source": "Internshala"
-    },
-    {
-        "id": 20,
         "title": "Web Development",
-        "company": "Semiconductor For You",
-        "stipend": "\u20b9 8,000 - 20,000 /month",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-nagpur-at-semiconductor-for-you1791859965",
-        "source": "Internshala"
-    },
-    {
-        "id": 21,
-        "title": "Mobile App & Web Development",
-        "company": "Pioneer Sam Energia",
-        "stipend": "\u20b9 2,500 - 3,000 /month",
-        "link": "https://internshala.com/internship/detail/mobile-app-web-development-internship-in-multiple-locations-at-pioneer-sam-energia1791799472",
+        "company": "Savitra Creation",
+        "stipend": "\u20b9 6,000 - 10,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-vapi-at-savitra-creation1791964659",
         "source": "Internshala"
     }
 ]
