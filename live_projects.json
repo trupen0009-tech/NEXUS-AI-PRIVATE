@@ -65,6 +65,14 @@
     },
     {
         "id": 9,
+        "title": "Backend Development",
+        "company": "The ProEducator                        \nActively hiring",
+        "stipend": "\u20b9 4,000 lump sum",
+        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-the-proeducator1791996191",
+        "source": "Internshala"
+    },
+    {
+        "id": 10,
         "title": "Web & IT Developer",
         "company": "HUMMING HERBS PRIVATE LIMITED                        \nActively hiring",
         "stipend": "\u20b9 8,000 - 12,000 /month",
@@ -72,7 +80,7 @@
         "source": "Internshala"
     },
     {
-        "id": 10,
+        "id": 11,
         "title": "Backend Web Development  \u2013 Night Shift (US Live Projects)",
         "company": "Kweesha                        \nActively hiring",
         "stipend": "\u20b9 7,500 - 18,000 /month",
@@ -80,7 +88,15 @@
         "source": "Internshala"
     },
     {
-        "id": 11,
+        "id": 12,
+        "title": "Data Scraping & Management",
+        "company": "The ProEducator                        \nActively hiring",
+        "stipend": "\u20b9 6,000 - 1,17,000 lump sum",
+        "link": "https://internshala.com/internship/detail/work-from-home-data-scraping-management-internship-at-the-proeducator1791997943",
+        "source": "Internshala"
+    },
+    {
+        "id": 13,
         "title": "Pre-Sales & Proposal Engineer (IoT/Electronics)",
         "company": "UNIO Labs                        \nActively hiring",
         "stipend": "\u20b9 8,000 - 18,000 /month",
@@ -88,7 +104,7 @@
         "source": "Internshala"
     },
     {
-        "id": 12,
+        "id": 14,
         "title": "Coding Instructor | Mentor | Data Structures & Algorithms",
         "company": "CipherSchools                        \nActively hiring",
         "stipend": "\u20b9 60,000 - 80,000 /month",
@@ -96,7 +112,7 @@
         "source": "Internshala"
     },
     {
-        "id": 13,
+        "id": 15,
         "title": "Software Development",
         "company": "Crazy For Success Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -104,7 +120,7 @@
         "source": "Internshala"
     },
     {
-        "id": 14,
+        "id": 16,
         "title": "International Business Development Manager \u2013 App & Software Services",
         "company": "Umakula Engineers Builders And Developers Private Limited                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 15,000 /month",
@@ -112,15 +128,7 @@
         "source": "Internshala"
     },
     {
-        "id": 15,
-        "title": "Unity Game Developer",
-        "company": "KIDLOLAND KIDS & TODDLER GAMES PRIVATE LIMITED                        \nActively hiring",
-        "stipend": "\u20b9 8,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-unity-game-developer-internship-at-kidloland-kids-toddler-games-private-limited1791873598",
-        "source": "Internshala"
-    },
-    {
-        "id": 16,
+        "id": 17,
         "title": "AWS DevOps Engineer",
         "company": "Jungleworks                        \nActively hiring",
         "stipend": "\u20b9 13,000 - 15,000 /month",
@@ -128,15 +136,15 @@
         "source": "Internshala"
     },
     {
-        "id": 17,
-        "title": "Web Development",
-        "company": "Exposure Immigration Private Limited",
-        "stipend": "\u20b9 7,000 - 11,000 /month",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-delhi-at-exposure-immigration-private-limited1791977811",
+        "id": 18,
+        "title": "Unity Game Developer",
+        "company": "KIDLOLAND KIDS & TODDLER GAMES PRIVATE LIMITED                        \nActively hiring",
+        "stipend": "\u20b9 8,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-unity-game-developer-internship-at-kidloland-kids-toddler-games-private-limited1791873598",
         "source": "Internshala"
     },
     {
-        "id": 18,
+        "id": 19,
         "title": "Web Development",
         "company": "Savitra Creation",
         "stipend": "\u20b9 6,000 - 10,000 /month",
