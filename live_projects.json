@@ -1,22 +1,6 @@
 [
     {
         "id": 1,
-        "title": "Web Development",
-        "company": "Gateway Software Solutions                        \nActively hiring",
-        "stipend": "\u20b9 3,000 - 12,500 /month",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-multiple-locations-at-gateway-software-solutions1792584332",
-        "source": "Internshala"
-    },
-    {
-        "id": 2,
-        "title": "Web Development",
-        "company": "Savitra Creation                        \nActively hiring",
-        "stipend": "\u20b9 6,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-vapi-at-savitra-creation1791964659",
-        "source": "Internshala"
-    },
-    {
-        "id": 3,
         "title": "AI Prompt Engineering",
         "company": "InAmigos Foundation                        \nActively hiring",
         "stipend": "Unpaid",
@@ -24,15 +8,7 @@
         "source": "Internshala"
     },
     {
-        "id": 4,
-        "title": "AI Web Development",
-        "company": "InAmigos Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1792660544",
-        "source": "Internshala"
-    },
-    {
-        "id": 5,
+        "id": 2,
         "title": "Software Development",
         "company": "TEN                        \nActively hiring",
         "stipend": "\u20b9 2,000 /month",
@@ -40,7 +16,7 @@
         "source": "Internshala"
     },
     {
-        "id": 6,
+        "id": 3,
         "title": "Software Development",
         "company": "Salesforce                        \nActively hiring",
         "stipend": "\u20b9 1,00,000 - 1,50,000 /month",
@@ -48,39 +24,39 @@
         "source": "Internshala"
     },
     {
+        "id": 4,
+        "title": "Web Development",
+        "company": "Savitra Creation                        \nActively hiring",
+        "stipend": "\u20b9 6,000 - 10,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-vapi-at-savitra-creation1791964659",
+        "source": "Internshala"
+    },
+    {
+        "id": 5,
+        "title": "Web Development",
+        "company": "Gateway Software Solutions                        \nActively hiring",
+        "stipend": "\u20b9 3,000 - 12,500 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-multiple-locations-at-gateway-software-solutions1792584332",
+        "source": "Internshala"
+    },
+    {
+        "id": 6,
+        "title": "Java Development",
+        "company": "Pledge India Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-pledge-india-foundation1792748874",
+        "source": "Internshala"
+    },
+    {
         "id": 7,
-        "title": "Python Development",
-        "company": "PadosiAgent ServTech Private Limited                        \nActively hiring",
-        "stipend": "\u20b9 3,000 - 5,000 /month",
-        "link": "https://internshala.com/internship/detail/python-development-internship-in-ahmedabad-at-padosiagent-servtech-private-limited1792652925",
+        "title": "App/Software Tester",
+        "company": "JurnyOn                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 15,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-app-software-tester-internship-at-jurnyon1792736245",
         "source": "Internshala"
     },
     {
         "id": 8,
-        "title": "Python Development",
-        "company": "Women First India Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-python-development-internship-at-women-first-india-foundation1792674330",
-        "source": "Internshala"
-    },
-    {
-        "id": 9,
-        "title": "Software Development",
-        "company": "Women First India Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-women-first-india-foundation1792668416",
-        "source": "Internshala"
-    },
-    {
-        "id": 10,
-        "title": "Python Development",
-        "company": "Hope Behind Tails Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-hope-behind-tails-foundation1792668539",
-        "source": "Internshala"
-    },
-    {
-        "id": 11,
         "title": "Quality Assurance Engineer",
         "company": "Apport Software Solutions Private Limited                        \nActively hiring",
         "stipend": "\u20b9 7,000 - 10,000 /month",
@@ -88,7 +64,7 @@
         "source": "Internshala"
     },
     {
-        "id": 12,
+        "id": 9,
         "title": "Backend Web Development  \u2013 Night Shift (US Live Projects)",
         "company": "Kweesha                        \nActively hiring",
         "stipend": "\u20b9 7,500 - 18,000 /month",
@@ -96,7 +72,7 @@
         "source": "Internshala"
     },
     {
-        "id": 13,
+        "id": 10,
         "title": "Electronics Engineering",
         "company": "Prahari Technologies                        \nActively hiring",
         "stipend": "\u20b9 5,000 - 7,000 /month",
@@ -104,7 +80,7 @@
         "source": "Internshala"
     },
     {
-        "id": 14,
+        "id": 11,
         "title": "Python Algo Trading Cum Equity Research Analyst \u2013 Fresher",
         "company": "TG Levels Private Limited                        \nActively hiring",
         "stipend": "\u20b9 5,000 - 8,000 /month",
@@ -112,15 +88,23 @@
         "source": "Internshala"
     },
     {
-        "id": 15,
-        "title": "Shopify & Framer Websites Experts",
-        "company": "Advent Tech",
-        "stipend": "\u20b9 5,000 - 8,000 /month",
-        "link": "https://internshala.com/internship/detail/part-time-shopify-framer-websites-experts-internship-in-bangalore-at-advent-tech1792721761",
+        "id": 12,
+        "title": "Backend Development",
+        "company": "Nextloop Technologies",
+        "stipend": "\u20b9 3,000 - 5,000 /month",
+        "link": "https://internshala.com/internship/detail/backend-development-internship-in-indore-at-nextloop-technologies1792761143",
         "source": "Internshala"
     },
     {
-        "id": 16,
+        "id": 13,
+        "title": "Full Stack Developer",
+        "company": "Brandsea",
+        "stipend": "\u20b9 3,000 - 5,000 /month",
+        "link": "https://internshala.com/internship/detail/full-stack-developer-internship-in-bangalore-at-brandsea1792751110",
+        "source": "Internshala"
+    },
+    {
+        "id": 14,
         "title": "Flutter Developer",
         "company": "Bugsmirror Research Private Limited",
         "stipend": "\u20b9 10,000 - 14,000 /month",
@@ -128,15 +112,7 @@
         "source": "Internshala"
     },
     {
-        "id": 17,
-        "title": "Flutter Developer",
-        "company": "Softel Technologies Incorporation",
-        "stipend": "\u20b9 8,000 /month",
-        "link": "https://internshala.com/internship/detail/flutter-developer-internship-in-mumbai-at-softel-technologies-incorporation1792570190",
-        "source": "Internshala"
-    },
-    {
-        "id": 18,
+        "id": 15,
         "title": "Software Development",
         "company": "SOFTEN Technologies",
         "stipend": "\u20b9 5,000 - 5,500 /month",
@@ -144,7 +120,7 @@
         "source": "Internshala"
     },
     {
-        "id": 19,
+        "id": 16,
         "title": "Software Testing",
         "company": "Resolution Bazaar",
         "stipend": "\u20b9 3,000 - 5,000 /month",
@@ -152,27 +128,11 @@
         "source": "Internshala"
     },
     {
-        "id": 20,
+        "id": 17,
         "title": "Python Development",
         "company": "UV Farms Private Limited",
         "stipend": "\u20b9 5,000 - 8,000 /month",
         "link": "https://internshala.com/internship/detail/python-development-internship-in-nagercoil-at-uv-farms-private-limited1791701349",
-        "source": "Internshala"
-    },
-    {
-        "id": 21,
-        "title": "Software Development Engineering (Web)",
-        "company": "IELTS Band 7",
-        "stipend": "\u20b9 5,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/software-development-engineering-web-internship-in-dehradun-at-ielts-band-71791441432",
-        "source": "Internshala"
-    },
-    {
-        "id": 22,
-        "title": "Software Development",
-        "company": "NayePankh Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-software-development-internship-at-nayepankh-foundation1792674293",
         "source": "Internshala"
     }
 ]
