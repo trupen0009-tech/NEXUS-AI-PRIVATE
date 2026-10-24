@@ -41,18 +41,18 @@
     },
     {
         "id": 6,
-        "title": "Java Development",
-        "company": "Pledge India Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-pledge-india-foundation1792748874",
-        "source": "Internshala"
-    },
-    {
-        "id": 7,
         "title": "App/Software Tester",
         "company": "JurnyOn                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 15,000 /month",
         "link": "https://internshala.com/internship/detail/work-from-home-app-software-tester-internship-at-jurnyon1792736245",
+        "source": "Internshala"
+    },
+    {
+        "id": 7,
+        "title": "Java Development",
+        "company": "Pledge India Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-pledge-india-foundation1792748874",
         "source": "Internshala"
     },
     {
@@ -105,14 +105,6 @@
     },
     {
         "id": 14,
-        "title": "Flutter Developer",
-        "company": "Bugsmirror Research Private Limited",
-        "stipend": "\u20b9 10,000 - 14,000 /month",
-        "link": "https://internshala.com/internship/detail/flutter-developer-internship-in-indore-at-bugsmirror-research-private-limited1792720741",
-        "source": "Internshala"
-    },
-    {
-        "id": 15,
         "title": "Software Development",
         "company": "SOFTEN Technologies",
         "stipend": "\u20b9 5,000 - 5,500 /month",
@@ -120,7 +112,7 @@
         "source": "Internshala"
     },
     {
-        "id": 16,
+        "id": 15,
         "title": "Software Testing",
         "company": "Resolution Bazaar",
         "stipend": "\u20b9 3,000 - 5,000 /month",
@@ -128,11 +120,27 @@
         "source": "Internshala"
     },
     {
-        "id": 17,
+        "id": 16,
         "title": "Python Development",
         "company": "UV Farms Private Limited",
         "stipend": "\u20b9 5,000 - 8,000 /month",
         "link": "https://internshala.com/internship/detail/python-development-internship-in-nagercoil-at-uv-farms-private-limited1791701349",
+        "source": "Internshala"
+    },
+    {
+        "id": 17,
+        "title": "Software Development Engineering (Web)",
+        "company": "IELTS Band 7",
+        "stipend": "\u20b9 5,000 - 10,000 /month",
+        "link": "https://internshala.com/internship/detail/software-development-engineering-web-internship-in-dehradun-at-ielts-band-71791441432",
+        "source": "Internshala"
+    },
+    {
+        "id": 18,
+        "title": "Web Development",
+        "company": "BuildGuru Digital Application Private Limited",
+        "stipend": "\u20b9 8,000 - 16,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-buildguru-digital-application-private-limited1792781573",
         "source": "Internshala"
     }
 ]
