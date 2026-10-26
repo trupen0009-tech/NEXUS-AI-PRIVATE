@@ -1,6 +1,14 @@
 [
     {
         "id": 1,
+        "title": "Web Development",
+        "company": "Savitra Creation                        \nActively hiring",
+        "stipend": "\u20b9 6,000 - 10,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-vapi-at-savitra-creation1791964659",
+        "source": "Internshala"
+    },
+    {
+        "id": 2,
         "title": "Backend Web Development  \u2013 Night Shift (US Live Projects)",
         "company": "Kweesha                        \nActively hiring",
         "stipend": "\u20b9 7,500 - 18,000 /month",
@@ -8,19 +16,11 @@
         "source": "Internshala"
     },
     {
-        "id": 2,
+        "id": 3,
         "title": "AI Prompt Engineering",
         "company": "InAmigos Foundation                        \nActively hiring",
         "stipend": "Unpaid",
         "link": "https://internshala.com/internship/detail/work-from-home-ai-prompt-engineering-internship-at-inamigos-foundation1792563167",
-        "source": "Internshala"
-    },
-    {
-        "id": 3,
-        "title": "Web Development",
-        "company": "Savitra Creation                        \nActively hiring",
-        "stipend": "\u20b9 6,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-vapi-at-savitra-creation1791964659",
         "source": "Internshala"
     },
     {
@@ -49,6 +49,14 @@
     },
     {
         "id": 7,
+        "title": "Frontend Developer",
+        "company": "Nuvox Technologies",
+        "stipend": "\u20b9 2,000 - 5,000 /month",
+        "link": "https://internshala.com/internship/detail/frontend-developer-internship-in-chennai-at-nuvox-technologies1792984624",
+        "source": "Internshala"
+    },
+    {
+        "id": 8,
         "title": "Software Development",
         "company": "SOFTEN Technologies",
         "stipend": "\u20b9 5,000 - 5,500 /month",
@@ -56,7 +64,7 @@
         "source": "Internshala"
     },
     {
-        "id": 8,
+        "id": 9,
         "title": "Software Testing",
         "company": "Resolution Bazaar",
         "stipend": "\u20b9 3,000 - 5,000 /month",
@@ -64,7 +72,7 @@
         "source": "Internshala"
     },
     {
-        "id": 9,
+        "id": 10,
         "title": "Python Development",
         "company": "UV Farms Private Limited",
         "stipend": "\u20b9 5,000 - 8,000 /month",
@@ -72,15 +80,15 @@
         "source": "Internshala"
     },
     {
-        "id": 10,
-        "title": "Software Development Engineering (Web)",
-        "company": "IELTS Band 7",
-        "stipend": "\u20b9 5,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/software-development-engineering-web-internship-in-dehradun-at-ielts-band-71791441432",
+        "id": 11,
+        "title": "Web Development",
+        "company": "Etthos",
+        "stipend": "\u20b9 1,500 - 2,500 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-etthos1792946798",
         "source": "Internshala"
     },
     {
-        "id": 11,
+        "id": 12,
         "title": "Web Development",
         "company": "Diffzene                        \nActively hiring",
         "stipend": "\u20b9 12,000 - 25,000 /month",
@@ -88,7 +96,7 @@
         "source": "Internshala"
     },
     {
-        "id": 12,
+        "id": 13,
         "title": "Python Development",
         "company": "Diffzene                        \nActively hiring",
         "stipend": "\u20b9 9,000 - 19,000 /month",
@@ -96,7 +104,7 @@
         "source": "Internshala"
     },
     {
-        "id": 13,
+        "id": 14,
         "title": "Java Development",
         "company": "Diffzene                        \nActively hiring",
         "stipend": "\u20b9 12,000 - 25,000 /month",
@@ -104,7 +112,7 @@
         "source": "Internshala"
     },
     {
-        "id": 14,
+        "id": 15,
         "title": "Python Development",
         "company": "Evolvra                        \nActively hiring",
         "stipend": "\u20b9 12,000 - 25,000 /month",
@@ -112,7 +120,7 @@
         "source": "Internshala"
     },
     {
-        "id": 15,
+        "id": 16,
         "title": "Web Development",
         "company": "EvoNexis                        \nActively hiring",
         "stipend": "\u20b9 15,000 - 25,000 /month",
@@ -120,7 +128,7 @@
         "source": "Internshala"
     },
     {
-        "id": 16,
+        "id": 17,
         "title": "Java Development",
         "company": "EvoNexis                        \nActively hiring",
         "stipend": "\u20b9 10,000 - 20,000 /month",
@@ -128,7 +136,7 @@
         "source": "Internshala"
     },
     {
-        "id": 17,
+        "id": 18,
         "title": "Web Development",
         "company": "Tripple One Solutions                        \nActively hiring",
         "stipend": "\u20b9 12,000 - 15,000 /month",
@@ -136,7 +144,7 @@
         "source": "Internshala"
     },
     {
-        "id": 18,
+        "id": 19,
         "title": "Backend Development",
         "company": "Nextloop Technologies",
         "stipend": "\u20b9 3,000 - 5,000 /month",
@@ -144,7 +152,7 @@
         "source": "Internshala"
     },
     {
-        "id": 19,
+        "id": 20,
         "title": "Web Development",
         "company": "Codeatrix                        \nActively hiring",
         "stipend": "\u20b9 8,000 - 20,000 /month",
