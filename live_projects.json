@@ -1,18 +1,18 @@
 [
     {
         "id": 1,
-        "title": "Web Development",
-        "company": "Savitra Creation                        \nActively hiring",
-        "stipend": "\u20b9 6,000 - 10,000 /month",
-        "link": "https://internshala.com/internship/detail/web-development-internship-in-vapi-at-savitra-creation1791964659",
-        "source": "Internshala"
-    },
-    {
-        "id": 2,
         "title": "Software Testing",
         "company": "Crazy For Success Foundation                        \nActively hiring",
         "stipend": "Unpaid",
         "link": "https://internshala.com/internship/detail/software-testing-internship-in-pune-at-crazy-for-success-foundation1793007149",
+        "source": "Internshala"
+    },
+    {
+        "id": 2,
+        "title": "Web Development",
+        "company": "Savitra Creation                        \nActively hiring",
+        "stipend": "\u20b9 6,000 - 10,000 /month",
+        "link": "https://internshala.com/internship/detail/web-development-internship-in-vapi-at-savitra-creation1791964659",
         "source": "Internshala"
     },
     {
@@ -25,30 +25,22 @@
     },
     {
         "id": 4,
-        "title": "Web Development",
-        "company": "Basti Ki Pathshala Foundation                        \nActively hiring",
+        "title": "Java Development",
+        "company": "NayePankh Foundation                        \nActively hiring",
         "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-basti-ki-pathshala-foundation1793102627",
+        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-nayepankh-foundation1793188649",
         "source": "Internshala"
     },
     {
         "id": 5,
-        "title": "AI Web Development",
-        "company": "InAmigos Foundation                        \nActively hiring",
+        "title": "Python Development",
+        "company": "She Can Foundation                        \nActively hiring",
         "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1793012307",
+        "link": "https://internshala.com/internship/detail/work-from-home-part-time-python-development-internship-at-she-can-foundation1793194452",
         "source": "Internshala"
     },
     {
         "id": 6,
-        "title": "AI Prompt Engineering",
-        "company": "InAmigos Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-ai-prompt-engineering-internship-at-inamigos-foundation1793012326",
-        "source": "Internshala"
-    },
-    {
-        "id": 7,
         "title": "Software Development",
         "company": "TEN                        \nActively hiring",
         "stipend": "\u20b9 2,000 /month",
@@ -56,7 +48,7 @@
         "source": "Internshala"
     },
     {
-        "id": 8,
+        "id": 7,
         "title": "Software Development",
         "company": "Salesforce                        \nActively hiring",
         "stipend": "\u20b9 1,00,000 - 1,50,000 /month",
@@ -64,39 +56,7 @@
         "source": "Internshala"
     },
     {
-        "id": 9,
-        "title": "Backend Development",
-        "company": "Queens Of Change Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-queens-of-change-foundation1793102952",
-        "source": "Internshala"
-    },
-    {
-        "id": 10,
-        "title": "Java Development",
-        "company": "Pledge India Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-pledge-india-foundation1793103326",
-        "source": "Internshala"
-    },
-    {
-        "id": 11,
-        "title": "Java Development",
-        "company": "Hope Behind Tails Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-hope-behind-tails-foundation1793103151",
-        "source": "Internshala"
-    },
-    {
-        "id": 12,
-        "title": "Software Development",
-        "company": "Queens Of Change Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-software-development-internship-at-queens-of-change-foundation1793104109",
-        "source": "Internshala"
-    },
-    {
-        "id": 13,
+        "id": 8,
         "title": "Backend Web Development  \u2013 Night Shift (US Live Projects)",
         "company": "Kweesha                        \nActively hiring",
         "stipend": "\u20b9 7,500 - 18,000 /month",
@@ -104,7 +64,7 @@
         "source": "Internshala"
     },
     {
-        "id": 14,
+        "id": 9,
         "title": "Electronics Engineering",
         "company": "Prahari Technologies                        \nActively hiring",
         "stipend": "\u20b9 5,000 - 7,000 /month",
@@ -112,15 +72,15 @@
         "source": "Internshala"
     },
     {
-        "id": 15,
-        "title": "Unity Developer & VR Demo",
-        "company": "ITSikhwal",
-        "stipend": "\u20b9 7,000 /month",
-        "link": "https://internshala.com/internship/detail/part-time-unity-developer-vr-demo-internship-in-multiple-locations-at-itsikhwal1793106190",
+        "id": 10,
+        "title": "Java Development",
+        "company": "Hope Behind Tails Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-hope-behind-tails-foundation1793103151",
         "source": "Internshala"
     },
     {
-        "id": 16,
+        "id": 11,
         "title": "Software Development",
         "company": "SOFTEN Technologies",
         "stipend": "\u20b9 5,000 - 5,500 /month",
@@ -128,7 +88,7 @@
         "source": "Internshala"
     },
     {
-        "id": 17,
+        "id": 12,
         "title": "Python Development",
         "company": "UV Farms Private Limited",
         "stipend": "\u20b9 5,000 - 8,000 /month",
@@ -136,83 +96,75 @@
         "source": "Internshala"
     },
     {
-        "id": 18,
-        "title": "Python Development",
+        "id": 13,
+        "title": "Web Development",
         "company": "Women First India Foundation                        \nActively hiring",
         "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-python-development-internship-at-women-first-india-foundation1793104122",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-women-first-india-foundation1793189247",
+        "source": "Internshala"
+    },
+    {
+        "id": 14,
+        "title": "Software Development",
+        "company": "Women First India Foundation                        \nActively hiring",
+        "stipend": "Unpaid",
+        "link": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-women-first-india-foundation1793189180",
+        "source": "Internshala"
+    },
+    {
+        "id": 15,
+        "title": "Web Development",
+        "company": "Times Media Sdn Bhd                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 12,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-times-media-sdn-bhd1793176543",
+        "source": "Internshala"
+    },
+    {
+        "id": 16,
+        "title": "Backend Development",
+        "company": "Zovent Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 15,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/backend-development-internship-in-gurgaon-at-zovent-private-limited1793173277",
+        "source": "Internshala"
+    },
+    {
+        "id": 17,
+        "title": "Web Development",
+        "company": "Evolvra                        \nActively hiring",
+        "stipend": "\u20b9 10,000 - 20,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-evolvra1793166825",
+        "source": "Internshala"
+    },
+    {
+        "id": 18,
+        "title": "Python Development",
+        "company": "Evolvra                        \nActively hiring",
+        "stipend": "\u20b9 12,000 - 25,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-evolvra1793166747",
         "source": "Internshala"
     },
     {
         "id": 19,
-        "title": "Software Development",
-        "company": "NayePankh Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-part-time-software-development-internship-at-nayepankh-foundation1793104071",
+        "title": "Java Development",
+        "company": "Evolvra                        \nActively hiring",
+        "stipend": "\u20b9 8,000 - 16,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-evolvra1793166631",
         "source": "Internshala"
     },
     {
         "id": 20,
-        "title": "Backend Development",
-        "company": "Pledge India Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-pledge-india-foundation1793103384",
+        "title": "AI Full Stack Developer",
+        "company": "Finflock Systems Private Limited                        \nActively hiring",
+        "stipend": "\u20b9 14,000 - 24,000 /month",
+        "link": "https://internshala.com/internship/detail/work-from-home-ai-full-stack-developer-internship-at-finflock-systems-private-limited1793162933",
         "source": "Internshala"
     },
     {
         "id": 21,
-        "title": "Web Development",
-        "company": "Pledge India Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-pledge-india-foundation1793103288",
-        "source": "Internshala"
-    },
-    {
-        "id": 22,
-        "title": "Python Development",
-        "company": "Hope Behind Tails Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-hope-behind-tails-foundation1793103167",
-        "source": "Internshala"
-    },
-    {
-        "id": 23,
-        "title": "Web Development",
-        "company": "Queens Of Change Foundation                        \nActively hiring",
-        "stipend": "Unpaid",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-queens-of-change-foundation1793102975",
-        "source": "Internshala"
-    },
-    {
-        "id": 24,
-        "title": "Embedded Firmware Engineer",
-        "company": "MyTron Labs LLP",
-        "stipend": "\u20b9 15,000 - 25,000 /month",
-        "link": "https://internshala.com/internship/detail/embedded-firmware-engineer-internship-in-multiple-locations-at-mytron-labs-llp1793096557",
-        "source": "Internshala"
-    },
-    {
-        "id": 25,
-        "title": "Java Development",
-        "company": "Diffzene                        \nActively hiring",
-        "stipend": "\u20b9 12,000 - 25,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-diffzene1793081667",
-        "source": "Internshala"
-    },
-    {
-        "id": 26,
-        "title": "Python Development",
-        "company": "Diffzene                        \nActively hiring",
-        "stipend": "\u20b9 9,000 - 19,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-diffzene1793081643",
-        "source": "Internshala"
-    },
-    {
-        "id": 27,
-        "title": "Web Development",
-        "company": "Diffzene                        \nActively hiring",
-        "stipend": "\u20b9 12,000 - 25,000 /month",
-        "link": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-diffzene1793081601",
+        "title": "Website Developer",
+        "company": "CollabAdda                        \nActively hiring",
+        "stipend": "\u20b9 18,000 - 20,000 lump sum",
+        "link": "https://internshala.com/internship/detail/work-from-home-part-time-website-developer-internship-at-collabadda1793161451",
         "source": "Internshala"
     }
 ]
